@@ -91,7 +91,7 @@ class: 'post-template'
 
 <aside class="read-next">
 
-    <!-- [[! next_post ]] -->{{ post.url | remove: '/' }}
+    <!-- [[! next_post ]] -->{{ post.url }}
     {% if page.next %}
         <a class="read-next-story {% if page.next.cover %}" style="background-image: url({{ site.baseurl }}{{ page.next.cover }}){% else %}no-cover{% endif %}" href="{{ site.baseurl }}{{ page.next.url | remove: '/' }}">
             <section class="post">
