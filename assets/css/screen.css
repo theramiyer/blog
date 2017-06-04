@@ -942,7 +942,7 @@ body.nav-opened .nav {
 
 .post .drop-cap {
     font-family: Lora, Georgia, serif;
-    font-size: 6.08em;
+    font-size: 5.7em;
     font-weight: bold;
     float: left;
     line-height: 0.5;
@@ -1141,7 +1141,7 @@ body:not(.post-template) .post-title {
     display: block;
     margin: 0 0 1.75rem 0;
     font-family: Alegreya, 'Calisto MT', Athelas, Georgia, serif;
-    font-size: 1.3rem;
+    font-size: 1.7rem;
     line-height: 2.2rem;
     color: #9EABB3;
   }
@@ -1741,7 +1741,7 @@ body:not(.post-template) .post-title {
     }
 
     .post {
-        font-size: 1.05em
+        font-size: 0.95em
     }
 
     body:not(.post-template) .post-title {
@@ -1952,7 +1952,7 @@ body:not(.post-template) .post-title {
     }
 
     p, ul, ol, dl {
-        font-size: 1.05em;
+        font-size: 0.95em;
         margin: 0 0 2.5rem 0;
     }
 
