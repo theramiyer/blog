@@ -8,8 +8,8 @@ timezone: Asia/Kolkata
 future: false
 
 # Website info
-name: 'Typo Demo'
-description: "Everything tech from LOGO to Azure Cloud. But patience and baby steps, first. (Also, we’re still under construction.)"
+name: 'Ram’s blog'
+description: "Raw thoughts of a humanist"
 
 # Author's info
 authors:
@@ -24,31 +24,14 @@ authors:
     shorturl: ramiyer.me
     location: 'Bangalore, KA'
 
-  veena:
-    name: veena
-    displayname: Veena Choudhary
-    bio: Reader, blogger, dreamer.
-    twitter: veena___singh
-    facebook: ar.veena.5
-    image: assets/images/veena.png
-    location: 'Mumbai, MH'
-    url: https://www.merakipost.com
-    shorturl: merakipost.com
-
-author: 'Ram Iyer'
-# edit 'categories' in the front matter of every post to match this username
-nickname: ram
-bio: 'Writer, PowerShell freak, philophobe, dreamer, and a typographer.'
-image: 'assets/images/ram.png'
-
 # social links
 facebook: theramiyer
 twitter: theramiyer
 
-url: 'http://puretypo.midnightlamp.black'
-shorturl: 'puretypo.midnightlamp.black'
-google_analytics: UA-96215433-1
-disqus: username
+url: 'http://blog.ramiyer.me'
+shorturl: 'blog.ramiyer.me'
+google_analytics:
+disqus:
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /
 tagpage: /tags/
@@ -80,7 +63,7 @@ defaults:
     values:
       layout: post
       logo: 'assets/images/ghost.png'
-      cover: 'assets/images/cover2.jpg'
+      cover: 'assets/images/cover1.jpg'
       subclass: 'post tag-test tag-content'
       navigation: True
       author: ram
