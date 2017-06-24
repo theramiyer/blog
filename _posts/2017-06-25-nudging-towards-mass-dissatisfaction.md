@@ -5,7 +5,7 @@ date: "2017-06-25 02:33:33 +0530"
 tags: opinion
 ---
 
-Journalists, they say, have a very important role to play in a democracy. In the words of a journalist I met during one of my visits to Chennai, journalism is the fourth pillar of a democracy. In a way, it is the journalists that keep crime in check. It is them who ensure corporations don't become too greedy---greedy enough to step on the shoes of the masses. It is them who ensure that the politicians do their job. It is them who ensure the citizens live a good life. At least that's what all this is supposed to be.
+Journalists, they say, have a very important role to play in a democracy. The press is the fourth pillar of democracy (the Legislature, the Executive and the Judiciary being the other three). In a way, it is also the journalists that keep crime in check. It is them who ensure corporations don't become too greedy---greedy enough to step on the shoes of the masses. It is them who ensure that the politicians do their job. It is them who ensure the citizens live a good life. At least that's what all this is supposed to be.
 
 Going by that definition, the media is a pain indicator. Just like our nerve endings. They send out distress signals, and the brain detects them. It drives us towards identifying the issue and then towards finding a solution. At the lowest level, it at least ensures that we know there's a problem, and prevents us from causing further damage to the part.
 
