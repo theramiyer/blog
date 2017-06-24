@@ -2,6 +2,7 @@
 layout: post
 title: "Nudging Towards Mass Dissatisfaction"
 date: "2017-06-25 02:33:33 +0530"
+tags: opinion
 ---
 
 Journalists, they say, have a very important role to play in a democracy. In the words of a journalist I met during one of my visits to Chennai, journalism is the fourth pillar of a democracy. In a way, it is the journalists that keep crime in check. It is them who ensure corporations don't become too greedy---greedy enough to step on the shoes of the masses. It is them who ensure that the politicians do their job. It is them who ensure the citizens live a good life. At least that's what all this is supposed to be.
