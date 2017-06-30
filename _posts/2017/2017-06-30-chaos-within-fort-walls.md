@@ -22,7 +22,7 @@ Cries for order.
 
 Cries.\\
 Cries from everywhere.\\
-Cries and chaos, but,\\
+Cries and chaos, and,\\
 Cries are all that's there.
 
 It's either war, or something worse.
