@@ -1,0 +1,38 @@
+---
+layout: post
+title: The complication
+date: '2011-12-08T17:14:00.000+05:30'
+author: ram
+tags:
+- opinion
+---
+
+Certain thoughts come to you when you expect them the least, and some do when you’re the least productive, mentally. This one came in when I was travelling in the cab – and was listening to a song.
+
+It was Eminem's ‘Love the way you lie’ featuring Rihanna. She was singing ‘That’s alright, because I like the way it hurts’. It’s amazing how we people have started _loving_ the way something hurts; how we push the heart to those extremes and make it cry. Instead of avoiding hurt, we love it – hey, even getting used to it would’ve been okay, but ‘love the way it hurts’? Wow!
+
+In fact there are several ways to look at this; you can call it maturity or pity. If you call it maturity, you’re going in the same path that we humans laid for ourselves; if you pity, then you’re thinking a bit different (and inviting some controversy).
+
+For now, let me take the ‘pity’ side of it, for that’s what I thought when I was in the cab. Why did we humans have to screw up everything to such an extent that we now hate the whole system that we created? Just think of all other mammals – they’re born, they grow, they hunt, they eat, they find a partner, (yeah it might get a bit gross here, but remember, we’re talking nature) they mate, they die. They are not bound by these attachments or commitments – they just come here, live and die – they keep the cycle going without complicating it or disturbing it. If at all they fight, they fight for very basic things – their life (as in, need to live), partner, food and place to live. They have no idea about ego or any of its complications (with very few exceptions, though).
+
+Why did we humans complicate things so much? We have laid down concepts and created a setup called society which we are struggling with now. We have defined life, attachment, achievement, and property – we have made _these_ the basic necessities, rather than the actual necessities like the other beings; and still, wanna live a life as free as theirs. We are a confused, disturbing, useless bunch of beings that are uncontrollably exploding in number, and diminishing others. We call ourselves special, but should he word be _special_ or _weird_? Have we ever thought about it? We’re the ones that are disturbing the nature more than any species – we have changed the world in the last two billion years to an extent that is way more than the change that happened three billion years before the human species came into being; worse, the last five millennia saw a change that the five billion years before that didn’t see!
+
+We call ourselves developed, but are we really developed? I feel we’re going farther from nature with every second that passes – we’re destroying ourselves with every move of ours. But we wouldn’t accept it. We’re destroying ourselves with every action of ours – including the society setup. We have introduced about a billion steps between each of the steps that were mentioned for other beings on earth – and being unable to define any of them completely, we have put in sub-steps that are called 'rules' that could support each step. Now we have created so many of them that none of them makes any sense, and in a few years, we’re gonna have millions, or even billions of paradoxical statements.
+
+But there would be no end to all this – the system would not physically collapse, because the reinforcement that we have given it with these billions of sub-steps would never allow the structure to fall, but the structure would become totally useless and senseless. There would be no way of collapse; there would be no debris because this would become a solid block that cannot be used anywhere, and would have no space to live in. I’m not sure if you’re able to imagine the block, but I swear, if you could read my mind, or I could express what I see, you would totally agree with the statement about why the structure is useless and senseless.
+
+From the point we are born, there are complications – which hospital, which doctor, (and there would have been debates that happened to decide which hospital was the best for you to take birth), did the doctor charge you right, was the service offered good, does the hospital have a brand name, do the nurses look good (yes, some statements as absurd as that), does it have a branded air conditioner, and the list goes on and on…as if all this was more important than the most important fact (as per nature) – if you were alive or dead when you came out!
+
+Then there’s the growth stage, which is probably the most complicated. You have millions of stuff like… oh no, if I wrote even 0.001% of them, I would need at least 1000 A4 pages at font size 6.
+
+As per _yog shastra_, there are only six stages of life for any being – _jaayate_ (takes birth), _asti_ (is alive), _vardhate_ (grows, physically as well as in number), _parivartate_ (changes), _ksheeyate_ (tires), and _mreeyate_ (dies). Nature is as simple as that; but if we humans have to define each step* of life, we need pages that could pile up to the distance between the earth and the sun. Take for a simple example, the number of messages we send to a friend. The limit of 200 messages/day set by TRAI isn’t enough at all, where you just discuss the most important happenings of the day! There are so many parameters that define our life now! We get into stuff like school, college, relationships, work, etc.…
+
+Is there a reason why we complicated it so much? Yes, the brain given to us is different. And that was probably the worst mistake that the creator ever committed. May be he is not perfect, either. He committed a mistake of his scale; he created the element of destruction himself – us. He gave us his power – to create and destroy. And probably that is why it is not wrong when we say ‘_aham brahmaasmi_’ (I'm the Almighty).
+
+And this is how the human brain works – starts a thought somewhere, reaches somewhere we never expect (applies to the way we screwed the nature, too, in case it didn’t strike you). But in order to complete the circle, let me just go back to the point. We are the best and the worst things that this nature ever saw. The nature was a little complicated itself, but we proved it was nothing compared to what we have made of it. And this being a one-way path, we can never roll back the changes we made to the nature and the society. We have to live with it all, and thankfully, die some day.
+
+And that’s the reason it’s always necessary to keep the _parivartan_ stage going, and _mature_ rather than pity ourselves. That’s what keeps the society running – luckily (or unfortunately), there was a plug-in called hope installed on our systems, that creates positive vibes every time the mind goes to pity mode and keeps the change stage alive. He screwed up with stuff, and screwed it well. LOL
+
+With thanks and curses to the Almighty who created this Universe, and more importantly us (see, the ego popped in again - separated us from the Universe. LOL), I sign off for the day. ;)
+
+\*BTW, yeah! When I wrote the word "steps," I remembered a set of lines by Chetan Bhagat, "Love stories around the world are simple: the girl loves the guy, the guy loves the girl, they get married. In India, there are few more _steps_: The girl loves the guy, the guy loves the girl, the girl's parents have to love the guy, the guy's parents have to love the girl, the girl's parents have to love the guy's parents, the guy's parents have to love the girl's parents, the girl and the guy still love each other and they get married."
