@@ -7,7 +7,7 @@ tags:
 - opinion
 ---
 
-Call it an extension to my post about [destiny]({% post_url 2012-10-23-believe-in-destiny-you-do-if-you %}), but I really got this great thought to explain to the believers who asked me 'Oh right, so you can say what you're gonna do in your life and how you can die, because you know your destiny?'
+Call it an extension to my post about [destiny]({% post_url 2012/2012-10-23-believe-in-destiny-you-do-if-you %}), but I really got this great thought to explain to the believers who asked me 'Oh right, so you can say what you're gonna do in your life and how you can die, because you know your destiny?'
 
 Well, guys here it is. I'm sorry if this sounds a bit weird, but this is how I liked to put it. I'm an IT guy and currently a student of Software Engineering. So please bear with me for my _li'l bit computer lingo_.
 
