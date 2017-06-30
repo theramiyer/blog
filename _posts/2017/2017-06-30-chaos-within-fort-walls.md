@@ -41,7 +41,7 @@ Wipe out the questioner before anything is questioned, before anything is though
 > Thinking is the hardest work there is, which is probably the reason why so few engage in it.\\
 ---Henry Ford
 
-But then, who's the enemy when the war is within? Or perhaps it's not about who is the foe. It's about who is our friend; the friend we ignore.
+opBut then, who's the enemy when the war is within? Or perhaps it's not about who is the foe. It's about who is our friend; the friend we ignore.
 
 > The voice of the intelligence is drowned out by the roar of fear. It is ignored by the voice of desire. It is contradicted by the voice of shame. It is biased by hate and extinguished by anger. Most of all it is silenced by ignorance.\\
 ---Karl A. Menninger
