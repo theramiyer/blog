@@ -36,7 +36,7 @@ Slash to decapitate; pre-empt, rather than fight.\\
 Slash with the sword of steel, craftily wrought,\\
 Slash not, alas, with the sword of thought.
 
-Wipe out the questioner before anything is questioned, before anything is thought upon. ’coz the _enemy_ wielding a weapon we cannot defend ourselves from would spell disaster.
+Wipe out the questioner before anything is questioned, before anything is thought upon. Because the _enemy_ wielding a weapon we cannot defend ourselves from would spell disaster.
 
 But then, who's the enemy when the war is within?
 
