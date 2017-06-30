@@ -12,7 +12,7 @@ Unconquerable corps.
 
 Yet, there's terror; chaos.\\
 Yet, everything is an attack surface, everyone is an attacker.\\
-Yet, everyone is a victim.\\
+Yet, somehow, everyone is a victim.\\
 Yet, everyone cries.
 
 Cries.\\
