@@ -7,7 +7,7 @@ tags:
 - casual psychology
 ---
 
-"Ah, I'm tired of all the negatives and the argument you posted, Ram. You said a lot of things about the human psyche and the [inclination towards the negative]({% post_url 2014/2014-05-28-the-negative-magnets-contd %}), how [everyone keeps acting negative]({% post_url 2014/2014-05-27-the-negative-magnets %}) these days, and stuff like that. You said that a solution was to record the good in your life every day, or meditate. But then you also promised that you'll share some insight as to how to make things positive. Now get started with that!"
+"Ah, I'm tired of all the negatives and the argument you posted, Ram. You said a lot of things about the human psyche and the [inclination towards the negative]({% post_url 2014-05-28-the-negative-magnets-contd %}), how [everyone keeps acting negative]({% post_url 2014-05-27-the-negative-magnets %}) these days, and stuff like that. You said that a solution was to record the good in your life every day, or meditate. But then you also promised that you'll share some insight as to how to make things positive. Now get started with that!"
 
 Yes, indeed. As one of my friends would say, "focus more on your point than the scenario", I'm going to get started on the point. But then how many of us like to get to the point directly without a supporting base? If you do, please read on; if you don't, well, it won't be boring, trust me! Haha…
 

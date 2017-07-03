@@ -10,7 +10,7 @@ tags:
 
 How many of us have answered ‘Will you tell your crush about your feelings if you were told you’d die in another 30 minutes?’ with a ‘Yes, find his/her number!’ Not less than six billion of us would choose a different answer, definitely! If we had one secret to share, no matter if it affected anyone or not, no matter how big or small it is, we’d choose to share it during our last moments, but not now.
 
-Who didn’t guess this is about Inhibition? Aren’t [seven seconds]({% post_url 2011/2011-12-18-seven-seconds %}) enough for us to guess? Come on, man!
+Who didn’t guess this is about Inhibition? Aren’t [seven seconds]({% post_url 2011-12-18-seven-seconds %}) enough for us to guess? Come on, man!
 
 So yes, the dam we’re talking about here is the inhibition that all of us have built into us. We didn’t really have it when we were born – we built it and then developed it over the years to what it is today; a strong unbreakable one! Were we taught to stop ourselves? Well, yes; though not through books or classes in school (or maybe classes in school too, like my case). This was a lesson we learnt from life – to judge if a thought is good or bad, to stop processing it and to assume the listener’s reaction to it. We just bury those things into our minds and create our baggage.
 

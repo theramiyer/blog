@@ -9,7 +9,7 @@ tags:
 
 Right off the bat, if you're having a good day and aren't so much into human psychology, please skip this post. And please know that I'm happy if you skipped it because you're having a good day.
 
-While sitting in front of my computer at work and checking some logs yesterday, I found a message from a close bud of mine, with feedback for my [last post]({% post_url 2014/2014-05-27-the-negative-magnets %}). It suddenly made me realise how I completely ignored that fact that I had to emphasise on the positive side of life too! (well, not coming up in this post).
+While sitting in front of my computer at work and checking some logs yesterday, I found a message from a close bud of mine, with feedback for my [last post]({% post_url 2014-05-27-the-negative-magnets %}). It suddenly made me realise how I completely ignored that fact that I had to emphasise on the positive side of life too! (well, not coming up in this post).
 
 Her point was, "Maybe the inverse of your article is true too. When you're happy, you won't instantly get attracted to the negativity" and "It's also possible not to get absorbed by the positive/negative around you and you solely decide your frame of mind".
 
