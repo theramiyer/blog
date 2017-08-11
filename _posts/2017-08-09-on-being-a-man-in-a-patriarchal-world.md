@@ -1,18 +1,19 @@
 ---
-layout: "post"
-title: "On being a man in a patriarchal world"
-date: "2017-08-10"
+layout: post
+title: On being a man in a patriarchal world
+date: '2017-08-10'
 tags:
-- humanism
-- opinion
-- retrospection
+  - humanism
+  - opinion
+  - retrospection
+published: true
 ---
 
 I recently read a news report on how the fans of one of South India's leading actors stooped down and [trolled the editor-in-chief](https://www.buzzfeed.com/soniathomas/vijay-fans-abused-threatened-and-sexually-harassed-a?utm_term=.selp92Yr8#.klooe05Aa) of a very popular news outlet in South India, who made a remark on the actor. Tonight, I read an [article by Soumya Rajendran](http://www.thenewsminute.com/article/contrary-what-some-men-think-being-called-slut-doesnt-destroy-women-66460), about what a woman goes through in our society, since the time she hits puberty.
 
 With a picture of how hostile the world around me is towards women, I sat down to think what we all (yes, even men) go through in this patriarchal society, and how things only become worse as the years pass.
 
-I remember, when I was a boy, one day, my father, on a walk to the salon, told me that women were to be respected. He told me that we worship the Goddess, and that every woman I would come across in my life symbolise Her. He had no idea how seriously I would take that statement. And I think he'd be surprised reading this post.
+I remember, when I was a boy, one day, my father, on a walk to the salon, told me that women were to be respected. He told me that we worship the Goddess, and that every woman I would come across in my life symbolise Her. He had no idea how seriously I would take that statement. And I think he'd be surprised reading this post, especially that the idea had stuck on despite my being unreligious.
 
 Honestly, the statement didn't hit me much that day. It took me years of analysis, and tinkering of thought patterns and behaviour, to reach the point I'm at today. And no, I'm certainly not perfect or anything like that. But I'm trying, trying everyday to become a better human being. When I first started thinking about the statement, I quickly told myself that I was a feminist. But as time passed, I realised that I was only fooling myself. I wasn't a feminist---I'm not a feminist---and as of today, I think it's good. How could I be biased towards one half of mankind? To me, being a feminist felt as wrong as being a male chauvinist.
 
