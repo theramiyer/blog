@@ -33,8 +33,8 @@ shorturl: 'blog.ramiyer.me'
 google_analytics:
 disqus:
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /
-tagpage: /tags/
+baseurl: '/'
+tagpage: '/tags/'
 categorypage: '/categories/'
 
 # Permalinks
