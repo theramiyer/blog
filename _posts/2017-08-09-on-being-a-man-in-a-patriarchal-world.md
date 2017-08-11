@@ -17,10 +17,10 @@ I remember, when I was a boy, one day, my father, on a walk to the salon, told m
 
 Honestly, the statement didn't hit me much that day. It took me years of analysis, and tinkering of thought patterns and behaviour, to get here. No, I'm certainly nowhere near ideal, or anything like that, but I'm trying, trying everyday to become a better human being. When I first started thinking about the statement, I quickly told myself that I was a feminist. But as time passed, I realised that I was only fooling myself. I wasn't a feminist---I'm not a feminist---and as of today, I think it's good. How could I be biased towards one half of mankind? To me, being a feminist felt as wrong as being a male chauvinist.
 
-But why am I writing all this? Let's digress a little.
-
 > Nobody worried about what the outside world would think. Within that campus, we could be people with human desires. We didn't have to act like women. We could just be women.\\
 --- Sowmya Rajendran
+
+But why am I writing all this? Let's digress a little.
 
 Once the fire had subsided a little after an FIR was filed against the Twitter trolls who'd trolled Dhanya, the actor came forth and told everyone that everyone had the right to criticise his work. In the night, one of my friends posted a question on Facebook, on whether rightist trolls should be trolled to discourage such behaviour on the Internet.
 
