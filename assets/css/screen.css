@@ -1278,7 +1278,7 @@ body:not(.post-template) .post-title {
     font-size: 1.8rem;
     display: inline-block;
     margin: 1rem 1.6rem 1.6rem 0;
-    color: #BBC7CC;
+    color: #999090;
     text-decoration: none;
 }
 
@@ -1675,17 +1675,17 @@ body:not(.post-template) .post-title {
     font-family: "Lora", serif;
     font-size: 1rem;
     line-height: 1.75em;
-    color: #BBC7CC;
+    color: #999090;
 }
 
 .site-footer a {
-    color: #BBC7CC;
+    color: #999090;
     text-decoration: none;
     font-weight: bold;
 }
 
 .site-footer a:hover {
-    border-bottom: #bbc7cc 1px solid;
+    border-bottom: #999090 1px solid;
 }
 
 .poweredby {
