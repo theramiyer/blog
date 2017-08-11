@@ -192,7 +192,7 @@ body {
     font-size: 2.2rem;
     line-height: 1.7em;
     font-weight:400;
-    color: #606666;
+    color: #666060;
     -webkit-font-feature-settings: 'kern' 1;
     -moz-font-feature-settings: 'kern' 1;
     -o-font-feature-settings: 'kern' 1;
@@ -212,7 +212,7 @@ h4, h5, h6 {
     -webkit-font-feature-settings: 'dlig' 1, 'liga' 1, 'lnum' 1, 'kern' 1;
     -moz-font-feature-settings: 'dlig' 1, 'liga' 1, 'lnum' 1, 'kern' 1;
     -o-font-feature-settings: 'dlig' 1, 'liga' 1, 'lnum' 1, 'kern' 1;
-    color: #606666;
+    color: #666060;
     line-height: 1.15em;
     margin: 0 0 0.4em 0;
     font-family: "Lora", serif;
@@ -247,7 +247,7 @@ h6 {
 }
 
 a {
-    color: #606666;
+    color: #666060;
     transition: color 0.3s ease;
 }
 
@@ -316,7 +316,7 @@ blockquote {
     box-sizing: border-box;
     margin: 1.75em 0 1.75em -2.2em;
     padding: 0 0 0 1.75em;
-    border-left: #4A4A4A 0.4em solid;
+    border-left: #888080 0.4em solid;
     margin-left: 0;
 }
 
@@ -970,7 +970,7 @@ body:not(.post-template) .post-title {
     font-size: 5rem;
     margin-top: 1.5em;
     margin-bottom: 1em;
-    color: #606666;
+    color: #666060;
     text-align: center;
     line-height: 1.25em;
     letter-spacing: 0em;
@@ -1017,7 +1017,7 @@ body:not(.post-template) .post-title {
     font-family: Alegreya, 'Calisto MT', Athelas, Georgia, serif;
     font-size: 1.5rem;
     line-height: 2.2rem;
-    color: #9EABB3;
+    color: #999090;
     letter-spacing: 0.02em;
 }
 
@@ -1030,7 +1030,7 @@ body:not(.post-template) .post-title {
 }
 
 .post-meta a {
-    color: #9EABB3;
+    color: #999090;
     text-decoration: none;
 }
 
@@ -1044,12 +1044,12 @@ body:not(.post-template) .post-title {
     font-family: Alegreya, 'Calisto MT', Athelas, Georgia, serif;
     font-size: 1.5rem;
     line-height: 3.0rem;
-    color: #9EABB3;
+    color: #999090;
     letter-spacing: 0.02em;
 }
 
 .tag-cloud a {
-    background: #9EABB3;
+    background: #999090;
     text-decoration: none;
     border-radius: 0.25em;
     color: #fffdfd;
@@ -1060,7 +1060,7 @@ body:not(.post-template) .post-title {
 .tag-cloud a:hover {
     transition: 0.5s ease;
     background: #fffdfd;
-    color: #9EABB3;
+    color: #999090;
     padding: 0.1em 0.3em;
     border-radius: 0.25em;
     margin: 0.05em;
@@ -1128,7 +1128,7 @@ body:not(.post-template) .post-title {
     margin-bottom: 1.2em;
     letter-spacing: 0;
     font-size: 5rem;
-    color: #606666;
+    color: #666060;
     text-align: center;
 }
 
@@ -1143,7 +1143,7 @@ body:not(.post-template) .post-title {
     font-family: Alegreya, 'Calisto MT', Athelas, Georgia, serif;
     font-size: 1.5rem;
     line-height: 2.2rem;
-    color: #9EABB3;
+    color: #999090;
 }
 
 .post-template .post-date {
@@ -1235,11 +1235,11 @@ body:not(.post-template) .post-title {
     font-size: 1.4rem;
     line-height: 1;
     font-style: italic;
-    color: #9EABB3;
+    color: #999090;
 }
 
 .author-meta a {
-    color: #9EABB3;
+    color: #999090;
 }
 .author-meta a:hover {
     color: #111;
@@ -1590,12 +1590,12 @@ body:not(.post-template) .post-title {
     margin: 4rem auto;
     font-family: "Lora", serif;
     font-size: 1.3rem;
-    color: #9EABB3;
+    color: #999090;
     text-align: center;
 }
 
 .pagination a {
-    color: #9EABB3;
+    color: #999090;
     transition: all 0.2s ease;
 }
 
