@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "The Story of the Suggars and the Wotters"
+title: "The Suggars and the Wotters"
 date: "2017-09-04 22:17"
 ---
 
