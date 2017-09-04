@@ -2,7 +2,6 @@
 layout: "post"
 title: "The Story of the Suggars and the Wotters"
 date: "2017-09-04 22:17"
-published: false
 ---
 
 Certain actions make us think. Some of them even disturb us. Some disturb us so much that we start to think. Here's a little poem-like thing (I'm just beginning to write such things; bear with me for a while, please) about how our ignorance makes way for arrogance, and we fail to see the bigger picture. This is a small attempt at metaphor. Call it science, or call it philosophy; let me know if it makes sense. Tell me if you figured out what it means, in the comments on this Facebook post! Here goes:
