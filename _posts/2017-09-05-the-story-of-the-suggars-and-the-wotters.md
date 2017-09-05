@@ -32,7 +32,7 @@ Unmindful of all these differences, Auntie Neeta was focussed on getting her son
 
 Sister Meera walked in with her headphones plugged in. She looked at her mother, and nodded, 'What happened?' 'Nothing', her mother nodded. Shrugging, Meera picked up the sugar solution and tasted a drop of it. She wanted to perform a "science experiment", just like what they'd done in their chemistry lab with the Bunsen Burner and the test tube half-filled with water. She wanted to do a small variant of the "Three states of water" experiment. She wanted to experiment with evaporation now. And wanted to make sugar crystals---or a candy---whichever was possible for her.
 
-She emptied the glass into a small container, and placed it on the stove. She watched as the solution heated up and started bubbling. And make a dark circle where the top of the solution met the container.
+She emptied the glass into a small container, and placed it on the stove. She watched as the solution heated up and started bubbling. And make a dark ring where the top of the solution met the container.
 
 Wotters weren't able to bear the heat. It was beyond their capacity to withstand---they were reaching their boiling point. Soon, little Wotters started evaporating. Fleeing the scene. The Suggars laughed. 'Losers,' they yelled. 'We're unconquerable, you losers! For all the disrespectful behaviour you showed, this is what you deserve.'
 
