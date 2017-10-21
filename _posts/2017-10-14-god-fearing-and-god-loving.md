@@ -6,7 +6,7 @@ tags:
 - opinion
 ---
 
-In my English class in high school, my English teacher, while teaching us a lesson---a story by our beloved R.K.&nbsp;Narayan---talked about the qualities that our society considered good. One of those qualities that he mentioned was fear of God. As in, 'A God-fearing man'.
+In my English class in high school, my teacher, while teaching us a lesson---a story by our beloved R.K.&nbsp;Narayan---talked about the qualities that our society considered good. One of those qualities that he mentioned was fear of God. As in, 'A God-fearing man'.
 
 I've been a non-religious person at least over the last decade of my life. I go to temples and churches and all; I don't have a problem with God. I simply don't believe in the popular interpretation of God. And I most certainly have no fear of Him (or Her). And my grandmother thinks that makes me bad. Well, Grandma, I disagree.
 
