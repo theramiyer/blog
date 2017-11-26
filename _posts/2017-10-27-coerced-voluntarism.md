@@ -47,10 +47,10 @@ You slowly come back to thinking how twisted it is that we have to be _asked_ to
 3. People have to tweet about the whole concept of standing for the National Anthem, and,
 4. Someone has to write such posts, thinking aloud, whether we should stand for the National Anthem.
 
-To answer the question on whether the government has the right to enforce standing up for the National Anthem, it does not. The government is still equal to the people---the Collective Whole---if not below. Citizens should have the freedom to decide whether or not they want to stand up for the National Anthem.
+To answer the question on whether the government has the right to enforce standing up for the National Anthem, it does not. The government is still equal to the people---the Collective Whole---if not below. Citizens should have the freedom to decide where the National Anthem is played.
 
 However...
 
-It's shameful that we as citizens should be _asked_ to stand up for the National Anthem, or play the National Anthem in the first place. It gives an impression that we cannot even voluntarily remember facts that we should as citizens, that we consider ourselves bigger than the Collective Whole---that we, as individuals, cannot even set aside our individual activities for mere fifty-two&nbsp;seconds. Shame.
+It's shameful that we as citizens should be _asked_ to stand up for the National Anthem, or play the National Anthem in the first place. It gives an impression that we cannot even voluntarily remember facts that we should as citizens, that we consider ourselves bigger than the Collective Whole. Shame.
 
-That's the in-between. Question the concept of the government asking us to stand up for the National Anthem---by all means. But also introspect about the concept. Try to understand why you feel you should not stand for the National Anthem. But of course, condemn everyone who holds back your rights. Think as a citizen, not a mere person.
+That's probably the in-between. Question the concept of the government asking us to stand up for the National Anthem---by all means. But also introspect about the concept. Try to understand why you feel you should not stand for the National Anthem. But of course, condemn everyone who holds back your rights. Think as a citizen, not a mere person.
