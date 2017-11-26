@@ -34,7 +34,7 @@ Fair enough, you think. And look around, just to make sure.
 
 'But again,' you think, 'why should we play the National Anthem in the first place?' Looking at the meaning of the Anthem, you think, is a good place to start. You brush aside the rumour started by the same right-wingers a few years ago, about how our National Anthem was written for George&nbsp;IV. You decide to call Republic of India the _Bhārata bhāgya vidhātā_. You also brush aside thoughts of another bunch of right-wingers, who think _Bhārat_ has a religious base, while _Hindustān_ doesn't. Oh, the irony.
 
-Of course, the song is nothing but a praise to all the provinces/regions of the time it was written in. It is a wish for a blessing of a good life from the _Collective Whole_. It is a wish for victory from the enemy, which is primarily whatever stands against the concept of democracy.
+Of course, the song is nothing but a praise to all the provinces/regions of the time it was written in. It is a wish for a blessing of a good life from the _Collective Whole_. It is a wish for victory from the enemy, which is primarily whatever stands against the people---the _Jana Gaṇa_.
 
 Sure, you're neither arrogant nor foolish to say that that's the only interpretation, but that's the interpretation we get from our limited knowledge of Sanskrit. And the interpretation we can easily connect to.
 
