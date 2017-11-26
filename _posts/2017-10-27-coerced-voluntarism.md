@@ -2,7 +2,6 @@
 layout: "post"
 title: "The Case of Coerced Voluntarism"
 date: "2017-10-27"
-published: false
 tags:
 - opinion
 ---
