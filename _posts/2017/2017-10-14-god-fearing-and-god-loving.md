@@ -40,7 +40,7 @@ But let's move on. I am one of those who think this is how it all began:
 
 1. A set of rules were created to ensure that people lived well. No more "Jungle Rule".
 2. People laughed.
-3. The intellectuals of the time tried to enlighten people about why the rules were made and why they should be followed. ([A branch thought here.]({% post_url 2017-10-15-religion-and-science %}))
+3. The intellectuals of the time tried to enlighten people about why the rules were made and why they should be followed. ([A branch thought here.]({% post_url 2017/2017-10-15-religion-and-science %}))
 4. People laughed.
 5. Authorities tried to enforce the rules, but their attempts were met with yelling (and super-strong) activists of those times.
 6. The intellectuals looked for what could give them unquestionable leverage.

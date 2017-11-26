@@ -6,7 +6,7 @@ tags:
 - opinion
 ---
 
-In my [last post about being God-fearing]({% post_url 2017-10-14-god-fearing-and-god-loving %}), I referred to a branch thought. That was about the conflict between religion and science. There are many who believe that religion and science are interconnected, and that they're both trying to say the same thing, but in different tongues. One day, I sat down to think, how far is it true?
+In my [last post about being God-fearing]({% post_url 2017/2017-10-14-god-fearing-and-god-loving %}), I referred to a branch thought. That was about the conflict between religion and science. There are many who believe that religion and science are interconnected, and that they're both trying to say the same thing, but in different tongues. One day, I sat down to think, how far is it true?
 
 The very next instant, I got the answer, 'It's completely true!' I asked, 'How?' Certain things were obvious, such as religious metaphors trying to explain scientific phenomena. While I was not entirely convinced, I still thought it was possible that the statement be true. At the same time, I could not explain why I wasn't fully convinced. So I dropped the question for some time.
 
