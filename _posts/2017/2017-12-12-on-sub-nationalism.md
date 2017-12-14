@@ -30,7 +30,7 @@ While there was the sea and the Ghats guarding three sides of our subcontinent, 
 
 ### The Sanskrit Influence
 
-This part is probably the most disputed. And I'd like to bring back the point on "purity" here. The fundamentalists among my fellow South Indians seem to be stuck with this idea that Tamil is a pure language in itself, or that Kannada is more based on Sanskrit than Tamil. One of the hot topics of debate are how one language is better than the other!
+This part is probably the most disputed. And I'd like to bring back the point on "purity" here. The fundamentalists among my fellow South Indians seem to be stuck with this idea that Tamil is a pure language in itself, or that Kannada is more based on Sanskrit than Tamil. One of the hot topics of debate is how one language is better than the other!
 
 These languages, as already established by most Indologists, are very old, whose roots can be traced back to ancient India. Let's just hold this thought for now.
 

@@ -8,7 +8,7 @@ tags:
 - society
 ---
 
-So far, we saw how we are not the kind to be identified by "one", but are based on [some core identities]({% post_url 2017/2017-12-12-on-sub-nationalism %}). Let us proceed further to understand a little more on how things chnaged and why. It would help us go towards better understanding of the situation.
+So far, we saw how we are not the kind to be identified by "one", but are based on [some core identities]({% post_url 2017/2017-12-12-on-sub-nationalism %}). Let us proceed further to understand a little more on how things changed and why. It would help us go towards better understanding of the situation.
 
 This post is one among three in the series:
 
@@ -32,31 +32,29 @@ Hindi is _not_ the national language of India. We have no such thing as _the_ na
 
 ### The case of separatism
 
-That brings us to what's fondly referred to as Separatism, just because a state doesn't accept a certain language being imposed upon them.
+That brings us to what's fondly referred to as "Separatism", just because a state doesn't accept the imposition of a certain language upon them.
 
 As we've already established, we're not a case of absolute conformity. In fact, we're quite the contrary. And that's what's made us what we are: we thrive on that kind of diversity.
 
 While we do accept that unification was beneficial in one of the many cases of human interaction, we need to be able to distinguish it from imposition.
 
-Today, languages such as Awadhi and Kauravi are hardly heard of. I have a friend who speaks Maithili at home, but is too shy to speak the tongue in public. She just says she's a Hindi. But if we look at the past of these languages, they've had pretty rich literature. Today, we're all stuck with standardised Hindi literature, which, by comparison to these languages, is still emerging. Throw in Bollywood and the likes, and we have very less in terms of quality. That's an introduction to mediocrity.
+Today, languages such as Awadhi and Kauravi are hardly heard of. I have a friend who speaks Maithili at home, but is too shy to speak the tongue in public. She just says she's a Hindi. But if we look at the past of these languages, they've had pretty rich literature. Today, we're all stuck with standardised Hindi literature, which, by comparison to these languages, is still emerging. Compare that with works like the _Rām Charit Mānas_, and you'll know what I'm talking about. Now, throw in Bollywood and the likes, and we have very less in terms of quality. Enter: mediocrity.
 
-To the south of the Vindhyas, on the other hand, we still have thriving literature in Tamil, Kannada, Telugu, Marathi, and other languages. These are still in one or the other closely-related flavour of the older versions of these languages. Bengali is an exception in this case, to the north of the Vindhyas.
+To the south of the Vindhyas, on the other hand, we still have thriving literature in Tamil, Kannada, Telugu, Marathi, and other languages. These are still in one or the other closely-related flavour of the older versions of these languages.
 
-I've seen statements such as "Tamil is dead", with some Hindi-speakers asking the Tamils to study the (still alive) Hindi. Again, such an attitude is wrong. If only we hadn't had such an attitude, we'd still have fresh literature in Awadhi and the Magadhi.
+Also, I've seen statements such as "Tamil is dead", with some Hindi-speakers asking the Tamils to study the (still alive) Hindi. Again, such an attitude is wrong. If only we hadn't had such an attitude, we'd still have fresh literature in Awadhi and Magadhi and all.
 
 ### The case of evolution of languages
 
-That is not to say that the Tamils have a great attitude, either. Some of the political forces in Tamil Nadu are bent on clipping off several features of the modern day Tamil because they feel those features have been influenced by other languages, and primarily, Sanskrit. And if you're a non-Tamil and you frowned or laughed at that idea... let's just say the irony is amusing.
+That is not to say that the Tamils have a great attitude, either. Some of the political forces in Tamil Nadu are bent on clipping off several features of the modern day Tamil because they feel those features have been influenced by other languages, and primarily, Sanskrit. And if you're a non-Tamil frowning or laughing at that idea... let's just say the irony is amusing.
 
-The first thing we need to understand is that no language, no culture, and nothing with humanity is perfect or complete. Everything changes. And by extension, so do languages, so do cultures. I'm not saying everything changes towards the better; everything simply changes---for the better or the worse.
+The first thing we need to understand is that no language, no culture, and nothing with humanity is perfect or complete. Everything changes. I'm not saying everything changes towards the better; everything simply changes---for the better or the worse. If a change brought in something good, we call it evolution. If something changed for the worse, we call it deterioration. I hope there's no disagreement there.
 
-If a change brought in something good, obviously, the change was for the better. We call this evolution. If something changed for the worse, we call it deterioration. I hope there's no disagreement there.
+We've been a conglomeration of different cultures, each culture evolving by borrowing and contributing to the other cultures that we were in touch with, during various periods.
 
-We've been a conglomeration of different cultures, each culture evolving by borrowing and contributing to the other cultures that we were in touch with, during various periods. For instance, you may have seen the video of an Arab in his _thawb_, running on a treadmill. Fiercely sticking to ideas without room for thought is something like that---it can be dangerous.
+You may have seen the video of an Arab in his _thawb_, running on a treadmill. Fiercely sticking to ideas without room for thought is something like that---it can be dangerous.
 
-We've been an open society. Let's evolve, and not get stuck in time. That may be convenient, but isn't necessarily helpful.
-
-While unification of languages is one extreme, not letting a language evolve is another.
+We've been an open society. Let's evolve, and not get stuck in time. That may be convenient, but isn't necessarily helpful. While unification of languages is one extreme, not letting a language evolve is another.
 
 Let's just all loosen ourselves a little. Instead of taking jibes at each other, let's probably look at evolution. And instead of conforming to one language and one culture, let us see what we can learn from each other's cultures.
 
