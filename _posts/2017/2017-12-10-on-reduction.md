@@ -53,4 +53,4 @@ OK, not really. But let's look at what made India such a great subcontinent in t
 
 What we need to understand here is that the attitude of openness that we've carried through millennia is what made us survive for millennia. This automatically makes our new attitude of conformity counterintuitive.
 
-I'm almost nearing the word limit here, so let's stop here and continue in the [next post]({% post_url 2017/2017-12-12-on-sub-nationalism %})?
+I'm almost nearing the word limit here, so let's stop here and [continue in the next post]({% post_url 2017/2017-12-12-on-sub-nationalism %})?

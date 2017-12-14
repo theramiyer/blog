@@ -53,4 +53,4 @@ But, having lived in Gujarat for eighteen years, and having interacted with Indi
 
 Going by this, we understand that there are no hard borders in terms of languages in our country, like the way our political borders portray. All of these are gradients. And then, you cannot really figure out what is the "pure" form of a spoken language. It's simply useless to go on that quest, in my opinion. But we can all agree to that our cultures were free to adopt mixtures of languages and find something that they wanted to develop and use. In today's terms, this is a great case of _Adaptation_ in Creative Commons, or _Reuse_ in software!
 
-That brings us to the end of this post. Watch this space for {% if page.next %}[more]({% post_url 2017/2017-12-14-on-unification %}){% else %}more{% endif %}!
+That brings us to the end of this post. [Let's continue later]({% post_url 2017/2017-12-14-on-unification %})!
