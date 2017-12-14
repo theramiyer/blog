@@ -12,7 +12,7 @@ So far, we saw how we are not the kind to be identified by "one", but are based 
 
 This post is one among three in the series:
 
-1. [On Reduction]({% 2017/2017-12-10-on-reduction %})
+1. [On Reduction]({% post_url 2017/2017-12-10-on-reduction %})
 2. [On Sub-nationalism]({% post_url 2017/2017-12-12-on-sub-nationalism %})
 3. On Unification
 

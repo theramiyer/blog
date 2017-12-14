@@ -8,11 +8,11 @@ tags:
 - society
 ---
 
-This post is in continuation to the post, [On Reduction]({% port_url 2017/2017-12-10-on-reduction %}), which lays the ground about what's to follow in this post'; we spoke about how India was not founded on the principles of "one" anything other than a nation. Sardar Patel, back in his day, set out to unify the country on no principle other than a single point of governance. The Indian National Congress (of those days, not the present-day---pardon my honesty---Blunder-Engine Dynasty) felt that the different provinces had to unite under one umbrella of governance, to become a strong united entity.
+This post is in continuation to the post, [On Reduction]({% post_url 2017/2017-12-10-on-reduction %}), which lays the ground about what's to follow in this post'; we spoke about how India was not founded on the principles of "one" anything other than a nation. Sardar Patel, back in his day, set out to unify the country on no principle other than a single point of governance. The Indian National Congress (of those days, not the present-day---pardon my honesty---Blunder-Engine Dynasty) felt that the different provinces had to unite under one umbrella of governance, to become a strong united entity.
 
 This post is one among three in the series:
 
-1. [On Reduction]({% 2017/2017-12-10-on-reduction %})
+1. [On Reduction]({% post_url 2017/2017-12-10-on-reduction %})
 2. On Sub-nationalism
 3. [On Unification]({% post_url 2017/2017-12-14-on-unification %})
 
