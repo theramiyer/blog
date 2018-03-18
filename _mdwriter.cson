@@ -13,7 +13,7 @@
 # e.g. one of: general, html, jekyll, octopress, hexo
 siteEngine: "jekyll"
 # website URL of your blog
-siteUrl: "http://blog.ramiyer.me"
+siteUrl: "https://blog.ramiyer.me"
 
 # root directory of your blog
 # e.g. leave empty to source the current project path (recommended)
