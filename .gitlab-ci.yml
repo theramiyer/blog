@@ -1,0 +1,31 @@
+image: bchew/jekyll-build
+
+cache:
+  paths:
+    - vendor/
+
+before_script:
+  - bundle install --path vendor
+
+stages:
+  - build
+  - deploy
+
+build for production:
+  stage: build
+  script:
+    - bundle exec jekyll build -d public/
+    - find public/ -type f ! -iname 'index.html' ! -iname '404.html' -iname '*.html' -print0 | while read -d $'\0' f; do mv "$f" "${f%.html}"; done
+  artifacts:
+    paths:
+      - public
+    expire_in: 1 day
+
+deploy to production:
+  stage: deploy
+  script:
+    - bundle exec s3_website push
+  artifacts:
+    paths:
+      - public
+    expire_in: 1 day
