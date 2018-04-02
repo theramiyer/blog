@@ -24,7 +24,7 @@ Another example of peer-to-peer file transfer is SHAREit. SHAREit is a form of p
 
 Because it minimises the cost of transfer, drastically—because the storage and transfer parts are offloaded to the _peers_! Typically, when thousands of users connect to a server to download a certain file, the server gets loaded. Also, the network channel size (bandwidth) should be large enough to cater to the users.
 
-For example, if ten million users were to download 3.5&nbsp;GB worth of Windows Updates from Microsoft, the total transfer would be of about a thirty-five million&nbsp;GB! If ten thousand servers were available to serve the requests, each server would have to serve 3.5 terabytes!
+For example, if ten million users were to download 3.5&nbsp;GB worth of Windows Updates from Microsoft, the total transfer would be of about thirty-five million&nbsp;GB! If ten thousand servers were available to serve the requests, each server would have to serve 3.5 terabytes!
 
 What if each user who downloaded the updates could share the transfer load? What if I downloaded the updates and could allow my friends' computers to download the updates from my PC? Each computer added to this pool would share the load with the others! Microsoft has actually planned to use a [peer-to-peer protocol to deliver Windows&nbsp;10 updates](https://www.theverge.com/2015/3/15/8218215/microsoft-windows-10-updates-p2p)!
 
@@ -32,7 +32,7 @@ What if each user who downloaded the updates could share the transfer load? What
 
 Well, is the Internet bad?
 
-It depends on what you use torrents for. There are legitimate sites that use the BitTorrent protocol to deliver downloads to users. Ubuntu, GNU Image Manipulation Program (or GIMP), etc. use the BitTorrent protocol to deliver downloada to users, apart from the traditional server-client transfer using HTTP.
+It depends on what you use torrents for. There are legitimate sites that use the BitTorrent protocol to deliver downloads to users. Ubuntu, GNU Image Manipulation Program (or GIMP), etc. use the BitTorrent protocol to deliver download to users, apart from the traditional server-client transfer using HTTP.
 
 However, nothing is all rainbows. Yes, the BitTorrent protocol, today, is _also_ used for transferring pirated software, pirated movie files, pirated music… you name it.
 
@@ -42,7 +42,7 @@ It’s just a popular belief that torrent was "shut down". “Shut[ting] down to
 
 > But then weren’t they banned? Didn’t owners of these sites face legal challenges?
 
-Torrent ditribution sites such as Kickass Torrents, The Pirate Bay, etc. have faced legal challenges. And that’s one of the primary reasons for the misunderstanding as well.
+Torrent distribution sites such as Kickass Torrents, The Pirate Bay, etc. have faced legal challenges. And that’s one of the primary reasons for the misunderstanding as well.
 
 A torrent file, which is typically what these sites give you, are tiny _tracker files_. These files just keep track of what chunk you download from where. Torrent clients (such as BitTorrent, μTorrent, Torrex, Transmission, etc.) understand these torrent files and communicate with the tracker server and the peers who have the actual files. To oversimplify the concept, the tracker server allots a tracking number to your download, and decides what packets you should get, and from whom.
 
