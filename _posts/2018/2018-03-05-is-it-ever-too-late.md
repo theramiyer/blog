@@ -7,7 +7,7 @@ tags:
 - ramblings
 ---
 
-This post comes from Amdavad! Non-Amdavadis know it as Ahmedabad.) Yay, how exciting, right? The ideal city to live in in India and all! Anyway, let's not get into political debates. Dad would read this and then would give me a stare from over his reading glasses and say in a stern voice, 'Son, what have I told you about politics and religion?'
+This post comes from _Amdavad_! (Non-Amdavadis know it as Ahmedabad.) Yay, how exciting, right? The ideal city to live in in India and all! Anyway, let's not get into political debates. Dad would read this and then would give me a stare from over his reading glasses and say in a stern voice, 'Son, what have I told you about politics and religion?'
 
 Yesterday, I wrote a [review of The Big Switch: It is never too late on Meraki Post](https://www.merakipost.com/2018/03/the-big-switch). I also wanted to do a blog post about the whole... "IT thing" in the book.
 
