@@ -49,7 +49,7 @@ In the days when the mythology was just being formed, we can assume that there w
 
 Nails are an underrated part of our body. I understood their importance after an accident involving a fracture in my finger. Nails are supposed to protect our bones from the shocks that hit the tips of our fingers and toes. That is apart from helping with defence. The symbolism looked like hyper-vigilance to me.
 
-Apart from all these, there were other subtle symbols in the story, things like Rukhsana not being able to listen to any of the supposedly holy utterances and all. To me, they seemed to indicate "morality", which I believe most of such victims find abhorring. Anyway, the point is that the movie has a lot of subtle messages. And overall, it is about the children forgotten by "God".
+Apart from all these, there were other subtle symbols in the story, things like Rukhsana not being able to listen to any of the supposedly holy utterances and all. To me, they seemed to indicate "morality", which I believe most of such victims find abhorring. Anyway, the point is that the movie has a lot of subtle messages---some of which I understood, some are still under process. In general, it is about the children forgotten by "God".
 
 All this apart, this movie was the first one that caused an unsettling feeling of pity towards Rukhsana. Especially when she was betrayed by Arnab, whom she loved wholeheartedly. It was a sad scene. I doubt I've ever felt that way for any of the supernaturally evil elements shown in so many stories.
 
