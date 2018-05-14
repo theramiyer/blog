@@ -53,6 +53,6 @@ Apart from all these, there were other subtle symbols in the story, things like 
 
 All this apart, this movie was the first one that caused an unsettling feeling of pity towards Rukhsana. Especially when she was betrayed by Arnab, whom she loved wholeheartedly. It was a sad scene. I doubt I've ever felt that way for any of the supernaturally evil elements shown in so many stories.
 
-While I thought that the movie would end with a pragmatic note that good and evil must co-exist, it ended by saying that Rulhsana's child was born with the umbilical cord, and unlike Rukhsana who was born of the hatred of the demon, Rukhsana herself had given birth to the child with love. She says in the end, 'He's not like me. He's very much like you; a human.' Which is true because he was conceived from mutual affection, and not rape. "Spread the blood; spread the bloodline" was no more valid.
+Although I thought that the movie would end with a pragmatic note that good and evil must co-exist, it ended by saying that Rukhsana's child was born with the umbilical cord, and unlike Rukhsana who was born of the hatred of the demon, she had given birth to the child with love. She says in the end, 'He's not like me. He's very much like you; a human.' The child was conceived from mutual affection, and not rape. "Spread the blood; spread the bloodline" was no more valid.
 
 Overall, I think this truly is a movie that Bollywood (and the rest of the Indian film industry) can learn a lot from---how to pick a concept, how to build a story around it, and how to make viewers think.
