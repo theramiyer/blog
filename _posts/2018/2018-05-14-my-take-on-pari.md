@@ -51,7 +51,7 @@ Nails are an underrated part of our body. I understood their importance after an
 
 Apart from all these, there were other subtle symbols in the story, things like Rukhsana not being able to listen to any of the supposedly holy utterances and all. To me, they seemed to indicate "morality", which I believe most of such victims find abhorring. Anyway, the point is that the movie has a lot of subtle messages---some of which I understood, some are still under process. In general, it is about the children forgotten by "God".
 
-All this apart, this movie was the first one that caused an unsettling feeling of pity towards Rukhsana. Especially when she was betrayed by Arnab, whom she loved wholeheartedly. It was a sad scene. I doubt I've ever felt that way for any of the supernaturally evil elements shown in so many stories.
+All this apart, this movie was the first one that made me feel sorry for Rukhsana. Especially when she was betrayed by Arnab, whom she loved wholeheartedly. It was plain sad. I doubt I've ever felt that way for any of the "supernaturally evil" elements shown in so many stories.
 
 Although I thought that the movie would end with a pragmatic note that good and evil must co-exist, it ended by saying that Rukhsana's child was born with the umbilical cord, and unlike Rukhsana who was born of the hatred of the demon, she had given birth to the child with love. She says in the end, 'He's not like me. He's very much like you; a human.' The child was conceived from mutual affection, and not rape. "Spread the blood; spread the bloodline" was no more valid.
 
