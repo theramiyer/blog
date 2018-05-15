@@ -28,7 +28,7 @@ I was told that this movie is about, and I quote, "The making of the Devil". And
 > ...logic dictates that if you believe in the one, you have to reconcile the existence of the other.  
 > ---Dr Spencer Reid (Criminal Minds)
 
-There’s a scene in the movie that has an Islamic professor feeding his grandson, during which the grandosn asks what a _Djinn_ is. The grandfather says, ‘It’s all the bad thoughts in you; thoughts such as, “I won’t go to school.” or, “I won’t listen to my parents.” ’ This movie is based on the dark supernatural side as per Islam, so the terms are new. And one good thing about this movie is that there's no crazy exorcism or gore in places of worship.
+There’s a scene in the movie that has an Islamic professor feeding his grandson, during which the grandson asks what a _Djinn_ is. The grandfather says, ‘It’s all the bad thoughts in you; thoughts such as, “I won’t go to school.” or, “I won’t listen to my parents.” ’ This movie is based on the dark supernatural side as per Islam, so the terms are new. And one good thing about this movie is that there's no crazy exorcism or gore in places of worship.
 
 Now to the real content: this movie focusses on one of the demons called _Ifrit_. _Ifrit_ is considered to be the worst demon. Here are some of his characteristics as per the movie:
 
@@ -45,7 +45,7 @@ I think, this movie has subtle meanings hidden under the story. Let's break some
 
 In my opinion, Ifrit is nothing but a sexual predator. He walks in the shadows and cannot be detected soon enough---almost no rape victim sees it coming. Some predators hide in plain sight (like members of the family). The woman who's being raped only feels the suffering. The orgy and the binding of the victim could suggest that the society actively takes part in the emotional killing of the victims and the very act of restricting the victim while letting the predator free (remember what the politicians had to say about the rising number of rapes in our country).
 
-In the days when the mythology was just being formed, we can assume that there was no contraception or abortion. Therefore, the children that were conceived even from rapes had to be born. We humans are capable of strong and complex feelings. Add to it the symbolism of the shroud---rapes kill women on the emotional level. The absence of the umbilical cord suggests the absence of the nourishment of the soul of the children.
+In the days when the mythology was just being formed, we can assume that contraception or abortion were common or accessible. Therefore, the children that were conceived even from rapes had to be born. We humans are capable of strong and complex feelings. Add to it the symbolism of the shroud---rapes kill the victims on the emotional level. The absence of the umbilical cord suggests the absence of the nourishment of the soul of the children.
 
 Nails are an underrated part of our body. I understood their importance after an accident involving a fracture in my finger. Nails are supposed to protect our bones from the shocks that hit the tips of our fingers and toes. That is apart from helping with defence. The symbolism looked like hyper-vigilance to me.
 
