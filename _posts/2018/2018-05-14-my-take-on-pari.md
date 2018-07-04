@@ -28,7 +28,7 @@ I was told that this movie is about, and I quote, "The making of the Devil". And
 > ...logic dictates that if you believe in the one, you have to reconcile the existence of the other.  
 > ---Dr Spencer Reid (Criminal Minds)
 
-There’s a scene in the movie that has an Islamic professor feeding his grandson, during which the grandosn asks what a _Djinn_ is. The grandfather says, ‘It’s all the bad thoughts in you; thoughts such as, “I won’t go to school.” or, “I won’t listen to my parents.” ’ This movie is based on the dark supernatural side as per Islam, so the terms are new. And one good thing about this movie is that there's no crazy exorcism or gore in places of worship.
+There’s a scene in the movie that has an Islamic professor feeding his grandson, during which the grandson asks what a _Djinn_ is. The grandfather says, ‘It’s all the bad thoughts in you; thoughts such as, “I won’t go to school.” or, “I won’t listen to my parents.” ’ This movie is based on the dark supernatural side as per Islam, so the terms are new. And one good thing about this movie is that there's no crazy exorcism or gore in places of worship.
 
 Now to the real content: this movie focusses on one of the demons called _Ifrit_. _Ifrit_ is considered to be the worst demon. Here are some of his characteristics as per the movie:
 
@@ -45,13 +45,13 @@ I think, this movie has subtle meanings hidden under the story. Let's break some
 
 In my opinion, Ifrit is nothing but a sexual predator. He walks in the shadows and cannot be detected soon enough---almost no rape victim sees it coming. Some predators hide in plain sight (like members of the family). The woman who's being raped only feels the suffering. The orgy and the binding of the victim could suggest that the society actively takes part in the emotional killing of the victims and the very act of restricting the victim while letting the predator free (remember what the politicians had to say about the rising number of rapes in our country).
 
-In the days when the mythology was just being formed, we can assume that there was no contraception or abortion. Therefore, the children that were conceived even from rapes had to be born. We humans are capable of strong and complex feelings. Add to it the symbolism of the shroud---rapes kill women on the emotional level. The absence of the umbilical cord suggests the absence of the nourishment of the soul of the children.
+In the days when the mythology was just being formed, we can assume that contraception or abortion were common or accessible. Therefore, the children that were conceived even from rapes had to be born. We humans are capable of strong and complex feelings. Add to it the symbolism of the shroud---rapes kill the victims on the emotional level. The absence of the umbilical cord suggests the absence of the nourishment of the soul of the children.
 
 Nails are an underrated part of our body. I understood their importance after an accident involving a fracture in my finger. Nails are supposed to protect our bones from the shocks that hit the tips of our fingers and toes. That is apart from helping with defence. The symbolism looked like hyper-vigilance to me.
 
 Apart from all these, there were other subtle symbols in the story, things like Rukhsana not being able to listen to any of the supposedly holy utterances and all. To me, they seemed to indicate "morality", which I believe most of such victims find abhorring. Anyway, the point is that the movie has a lot of subtle messages---some of which I understood, some are still under process. In general, it is about the children forgotten by "God".
 
-All this apart, this movie was the first one that caused an unsettling feeling of pity towards Rukhsana. Especially when she was betrayed by Arnab, whom she loved wholeheartedly. It was a sad scene. I doubt I've ever felt that way for any of the supernaturally evil elements shown in so many stories.
+All this apart, this movie was the first one that made me feel sorry for Rukhsana. Especially when she was betrayed by Arnab, whom she loved wholeheartedly. It was plain sad. I doubt I've ever felt that way for any of the "supernaturally evil" elements shown in so many stories.
 
 Although I thought that the movie would end with a pragmatic note that good and evil must co-exist, it ended by saying that Rukhsana's child was born with the umbilical cord, and unlike Rukhsana who was born of the hatred of the demon, she had given birth to the child with love. She says in the end, 'He's not like me. He's very much like you; a human.' The child was conceived from mutual affection, and not rape. "Spread the blood; spread the bloodline" was no more valid.
 
