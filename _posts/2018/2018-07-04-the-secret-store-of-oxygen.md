@@ -8,7 +8,7 @@ tags:
 
 My weekends over the last month have been really great. There was this one during which we went to Mystery Rooms and played Abduction (thereby burning a hole in our pockets), the next one during which we went to Sakleshpur and had a blast. The last weekend wasn't so eventful apart from riding my bike for a long distance and chilling out. And of course, binge-watching movies with my brother.
 
-One movie I watched during this time was _Bhopal: A Prayer for Rain_. The movie, thanks to dilution with the story of Rajpal Yadav's sister's wedding, didn't manage to impress. THe next day, in search of some more reality, I turned to a documentary by BBC. (Before some jingoist calls me an anti-national because I prefer a BBC documentary over a Hollywood movie... Well... Point made!)
+One movie I watched during this time was _Bhopal: A Prayer for Rain_. The movie, thanks to dilution with the story of Rajpal Yadav's sister's wedding, didn't manage to impress. The next day, in search of some more reality, I turned to a documentary by BBC. (Before some jingoist calls me an anti-national because I prefer a BBC documentary over a Hollywood movie... Well... Point made!)
 
 During supper on Tuesday, I opened the topic for discussion among my fellows who are unfortunate to have me around all the time; let's call them my brothers and sister. After dodging political references---first tactfully, and later, 'Shall we not politicise this?'---I let the discussion run wild, when it took a turn that I did not expect. One of my brothers mentioned how a family had saved themselves from the entire tragedy.
 
