@@ -77,8 +77,8 @@ The next morning when I woke up, I felt a mild pain in the thighs; nothing more.
 Now to some special points on heat and hydration:
 
 1. Drink a few hundred millilitres of water before you start your ride. Keep refilling in swigs throughout the ride.
-2. Drinking too much water at a time makes you feel bloated and makes you visit the loo often. On the other hand, drinking less would dehydrate you very quickly in sunny weather. Your body can tell you how much it needs---don't wait until you're "thirsty"; start drinking early.
-3. Don't worry if you didn't have to relieve yourself throughout a six-hour ride. As long as you're hydrated, you're good. Sweating will ease the kidneys' work a little by throwing out _some_ of the wastes.
+2. Drinking too much water at a time makes you feel bloated and makes you visit the loo often. On the other hand, drinking less would dehydrate you very quickly in sunny weather. Your body can tell you how much it needs---listen to it and don't wait until it yells "thirsty"; start drinking early.
+3. Don't worry if you didn't have to relieve yourself throughout a six-hour ride. As long as you're hydrated, you're good. Sweating can throw out _some_ of the wastes.
 4. Start drinking water regularly a few days before the event. This will make your body learn to regulate water more efficiently and control the thickness of your blood plasma, thereby improving the stroke volume.
 5. On long rides (especially on hot days), electrolyte-rich water is better than plain water.
 6. If you know you have to ride during a warm day, start going on (shorter) rides in hot weather two weeks before the event, so your body learns to handle heat better. This way, your body starts regulating temperature well before it reaches the threshold, and also, your body knows how to handle heat even when the core body temperature is just below 40&deg;&thinsp;C.
