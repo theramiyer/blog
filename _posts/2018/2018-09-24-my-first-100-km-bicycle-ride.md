@@ -72,7 +72,7 @@ The next morning when I woke up, I felt a mild pain in the thighs; nothing more.
 10. Never forget to stretch after the workout.
 11. Bend forwards when going down a slope; it makes you more aerodynamic, and gives you a higher momentum, which you can use on the subsequent climbs.
 12. Try to avoid backpacks, no matter how small they are. On long rides, they can cause shoulder ache.
-13. Opt for simple carbohydrates if you're not obese or looking at weight loss. The energy release is easier from carbohydrates, when compared to fat.
+13. Opt for simple carbohydrates if you're not looking at weight loss. The energy release is easier from carbohydrates, when compared to fat.
 
 Now to some special points on heat and hydration:
 
