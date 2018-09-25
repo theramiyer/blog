@@ -58,7 +58,7 @@ At home, I did a few simple post-ride stretching exercises to ease the tension o
 
 ![At the Finish Line]({{ page.image }})
 
-The next morning when I woke up, I felt a minor pain in the thighs; nothing more. So, in the end, it all worked out very well. Had I been an experienced road biker like the rest, and not committed the few blunders that I did, I may have enjoyed the ride even more. Here are some of the points that I think are lessons I've learnt so far:
+The next morning when I woke up, I felt a mild pain in the thighs; nothing more. So, in the end, it all worked out very well. Had I been an experienced road biker like the rest, and not committed the few blunders that I did, I may have enjoyed the ride even more. Here are some of the points that I think are lessons I've learnt so far:
 
 1. Never forget food when going on a ride outside the city.
 2. Always wear a sunscreen or sun-protective clothing.
