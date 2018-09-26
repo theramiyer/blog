@@ -7,7 +7,7 @@ tags:
 - travel
 ---
 
-![~60 kilometres, 194 minutes][assets/images/postimages/BengaluruPerimeterRide.png]
+![~60 kilometres, 194 minutes](assets/images/postimages/BengaluruPerimeterRide.png)
 
 There are times when you start doubting yourself when people get into your head and make you believe what they say; no matter how much you tell yourself that they speak out of ignorance.
 
