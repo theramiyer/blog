@@ -13,7 +13,7 @@ Before I start, let me mention, very clearly, that I'm just a beginner cyclist. 
 
 It had been long since I'd been on a long ride. The first long ride I'd been on was of 60&nbsp;km, on the Outer Ring Road, Bangalore. On that ride, I'd taken with me a bottle full of ORS, and some packs of Appy. A few hours before the ride, I'd eaten a solid lunch. I left at about quarter past six in the evening and returned at half past nine. Overall, I'd enjoyed the ride. The gear I used for this ride was the 21-speed MTB, Hercules Ryders Contour.
 
-I think it was in July 2017 that I went on another ride, to Chikkabhanavara. We started in the morning. By the time we returned in the afternoon, I was half-dead. Apart from the company, there was nothing I enjoyed on that ride---a stark contrast. I noted down some of the points about the ride:
+I think it was in July 2017 that I went on another ride, to Chikkabanavara. We started in the morning. By the time we returned in the afternoon, I was half-dead. Apart from the company, there was nothing I enjoyed on that ride---a stark contrast. I noted down some of the points about the ride:
 
 1. I'd not carried food.
 2. I'd not carried enough water.
@@ -70,7 +70,7 @@ The next morning when I woke up, I felt a mild pain in the thighs; nothing more.
 8. Try to avoid prolonged workouts on sunny days, if you're not already acclimatised to it. The experience is very unpleasant.
 9. Do not ride in traffic if you're tired. The frustration worsens your state.
 10. Never forget to stretch after the workout.
-11. Bend forwards when going down a slope; it makes you more aerodynamic, and gives you a higher momentum, which you can use on the subsequent climbs.
+11. Bend forwards when going down a slope; it makes you more aerodynamic, and reduces loss of momentum; precious momentum that you can use on the subsequent climbs.
 12. Try to avoid backpacks, no matter how small they are. On long rides, they can cause shoulder ache.
 13. Opt for simple carbohydrates if you're not looking at weight loss. The energy release is easier from carbohydrates, when compared to fat.
 
