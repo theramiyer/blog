@@ -31,7 +31,7 @@ I couldn't agree more. But let me elaborate.
 
 The world around us millennials sucks. We're _born_ with expectations built around us. "My son will become an engineer, and one day, become a manager." I swear I've heard this several times from different people. It is so flawed and unfair... don't even get me started!
 
-This is one of the reasons there are people like Chetan Bhagat who study in IIT, and then go to IIM to later join a bank. I mean what's the f**king point? 
+This is one of the reasons there are people like Chetan Bhagat who study in IIT, and then go to IIM to later join a bank. I mean what's the f**king point?
 
 "_Arey_, my son studied in IIT, a premium Indian institution, and then in IIM, another premium Indian institution."  
 "Oh, that's so cool! What does he do now?"  
@@ -42,7 +42,7 @@ This is us.
 
 The others? "My son is an Associate Operations Manager in `<insert the name of an IT services giant here>`."
 
-When we stepped out of college and into these "IT companies", we were fascinated by the glass facades and stuff. It was all so cool! Four years later, I realised that glass buildings are among the most foolish things to construct in places like Chennai and Ahmedabad. I mean think about it: we're a tropical land, and hit temperatures of forty-seven degrees in summers. Glass lets the infrared radiation in, but not out. So glass buildings make sense in places like Canada, not in Mumbai. Our offices heat up insanely if the AC turns off for ten minutes. You superheat a room from one side and cool it from the other.
+When we stepped out of college and into these "IT giants", we were fascinated by the glass facades and stuff. It was all so cool! Four years later, I realised that glass buildings are among the most foolish things to construct in places like Chennai and Ahmedabad, and even Bangalore. I mean think about it: we're a tropical land, and hit temperatures of forty-seven degree Celsius in summers. Glass lets the infrared radiation in, but not out. So glass buildings make sense in places like Canada, not in Mumbai. Our offices heat up insanely if the AC turns off for ten minutes. You superheat a room from one side and cool it from the other.
 
 This is the product of mindless rat-race engineers, architects and decision-makers.
 
@@ -60,10 +60,10 @@ Wrong. No work is easy. And you're better off doing what you like doing, rather 
 
 IT isn't a piece of cake, just like anything else. If I were to tell you that you can be a billionaire in four years of being a politician, would you become a politician? No. Why? Because you know that there are chances that you get killed in the very first week of being a politician. Or that politics is not "your thing". Where was this reasoning when you joined IT?
 
-I'm not saying that there aren't people in IT that make your life hell. There are. But those sadists are everywhere; not just in IT. Their stories go volumes, so let's not touch them for now.
+I'm not saying that there aren't people in IT that make your life hell. There are. But those sadists are everywhere; not just in IT. Their stories span volumes, so let's not touch them for now.
 
-How do I handle this? For starters, I love what I do. I wasn't lucky enough to get here right away, but I got here a few years ago. It took time and patience.
+How do _I_ handle this? For starters, I love what I do. I wasn't lucky to get here right away, but I got here a few years ago. It took time and patience.
 
 Second, work is not just the IT I do. I love computers and programming. And I express it in different, small ways. One of them is by setting up and maintaining Meraki Post.
 
-Third, IT is not the only thing I do. I write. I edit articles. I experiment with podcasts. I read. I bike. I try out writing screenplays. I research things I want to write about.
+Third, IT is not the only thing I do. I write. I edit articles. I experiment with podcasts. I read. I bike. I try out writing screenplays, I click pictures of stuff around me. I research things I want to write about.
