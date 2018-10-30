@@ -57,7 +57,7 @@ So I came across an accusation on a woman throwing a used sanitary pad in the te
 
 Every group is as fast as its slowest member. Therefore, someone who has episodes of cramps and other difficulties that accompany, would not be able to move as fast as their healthier female or the male counterparts. This may have been a major issue in the past---say a few decades ago or so---but is it now?
 
-This is an overlapping subtopic, and therefore, would be covered in little more detail in a moment. Until then, here is a possible solution to this: let women be part of women-only groups and let them travel that way. In any case, every sensible woman knows what occurs when, and they can easily manage to plan their pilgrimage accordingly. But still, even if not, here is a solution.
+This is an overlapping subtopic, and therefore, would be covered in little more detail in a while. Until then, here is a possible solution to this: let women be part of women-only groups and let them travel that way. In any case, every sensible woman knows what occurs when, and they can easily manage to plan their pilgrimage accordingly. But still, even if not, here is a solution.
 
 And if I may mention, most menstruating women would be no slower than old women or too young girls anyway.
 
@@ -115,11 +115,20 @@ It is the guruswamy's responsibility that those whom he leads are protected. How
 
 The first point did happen when a female news reporter went to the shrine to cover the response of the public on the decision of the apex court. There are countless incidents of men threatening women, 'We'll see how you reach the _Sannidhanam_.'
 
-The second point, I felt, was unacceptable. I've not had sex over the last six weeks. I don't feel all aroused when a girl touches me. I don't even feel aroused when my crush touches me---heck, I'm attracted to this girl, and I don't feel sexually aroused when I accidentally brush against her. It's about how you see women. And besides, if your fast was really towards attaining control over yourself and single-minded devotion towards Ayyappa, you would not see the "No Sex Policy" as a restriction. You wouldn't even think about it in the first place. If you were single-mindedly devoted towards the deity, that is.
+Is the second point acceptable? I've not had sex over the last six weeks. I don't feel all aroused when a girl touches me. I don't even feel aroused when my crush touches me---heck, I'm attracted to this girl, and I don't feel sexually aroused when I accidentally brush against her. And besides, if the fast is really about attaining control over oneself and single-minded devotion towards Ayyappa, why would we see the "No Sex Policy" as a restriction?
 
 So what do we do about the physical attack on women as mentioned in the first point? Well, I say, isn't it in our control? Having eaten satvik food that hhelps you gain control over expression of your emotions, why can't you control yyour anger? Why bring your ego? Let the god decide whether He wants to see them or not.
 
-BBut granted: no guruswamy would like to accept that kind of a responsibility.  
+But granted: no guruswamy would like to accept that kind of responsibility.
+
+## The explanations
+
+Now to the final part of the issue. Many men, famous and otherwise, have tried to offer explanations as to why women are not allowed entry into the Sabarimala shrine. And this part is what raises most questions in me. And I'm going to try to rationally analyse each of the explanations. Of course, to the best of my knowledge. I'm not arrogant enough to claim that I know it all. I'm open to answers as long as they are rational.
+
+
+### You simply believe what someone has written as science
+
+### Manhandling (the overlap)
 
 ### Palanquin to carry
 
