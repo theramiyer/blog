@@ -135,12 +135,16 @@ But first, I'm not exactly "in favour of" women being admitted there. I'm simply
 
 One of the points that comes second in terms of the number of mentions is the manhandling at the _Pathinettu Padi_ (Eighteen Steps). The argument is that this place is a bottleneck, and in order to make sure the crowd is moving, men are pushed and dragged. What would happen if women start coming to the temple?
 
-In my opinion, this point is valid.
+In my opinion, this point is a valid argument against women being allowed at the temple.
 
-However: Tirupati sees a huge amount of crowd every day. On the several visits that I have made to the temple, I have never seen the place empty. Yet, it is men and women in the crowd. Manhandling is still a thing there, but men handle men, women handle women and men. The bottleneck in Tirupati is the room just outside the sanctum.
+However: Tirupati sees a huge amount of crowd every day. On the several visits that I have made to the temple, I have never seen the place empty. It is men _and_ women in the crowd. Manhandling is still a thing there, but men handle men, women handle women and men. The bottleneck in Tirupati is the room just outside the sanctum.
 
 But is this the same as Sabarimala? Probably not. In Sabarimala, it is eighteen steps. The risk of injury is higher. However, if you think about the attire, a mundu and a saree have very similar risks on stairs. One possibility here would be to split the crowd as men and women at the very beginning of the _prakaram_. Then, send the pilgrims through the stairs, in batches. If pilgrims themselves group themselves as men and women, this can easily be handled. (Refer the overlap mentioned above.)
 
+### On safety
 
+I came across a question on Quora that was along similar lines of why women should or should not be allowed into the shrine. There, I saw an answer that... well, it was something like this:
+
+Women bleed a lot during the first three days of their menstruation, and that it was out of concern for their safety that they were asked not to do any sort of work at home or attend to people. And apparently, this is the reason women are not allowed into the shrine, because not only is menstruating within the temple premises bad, the blood loss due to menstruation can be fatal.
 
 ### You simply believe what someone has written as science
