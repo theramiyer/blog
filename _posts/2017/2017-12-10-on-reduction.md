@@ -21,7 +21,7 @@ Historian and columnist Ramchandra Guha did an hour-long talk on how nationalism
 
 He went on to say how we seem to be gradually moving towards the said model of European nationalism, by looking for _one_ language, _one_ religion, and _one_ common enemy. Keeping aside the common enemy part for a whole book, I thought I'd focus on the more relatable "one language" and "one _culture_" parts.
 
-Digressing a little, I also read [a piece from The Hindu](http://www.thehindu.com/sci-tech/science/how-genetics-is-settling-the-aryan-migration-debate/article19090301.ece), which suggests with evidence about how diversity is literally in our DNA.
+Digressing a little, I also read [a piece from The Hindu](http://www.thehindu.com/sci-tech/science/how-genetics-is-settling-the-aryan-migration-debate/article19090301.ece), which suggests with evidence about how diversity is literally in our <span class="small-caps">DNA</span>.
 
 **Note**: If you're too emotional, don't read that piece. What follows is a watered-down version of it. Also remember, scientific studies are based on evidences. Unearthing of new evidences can possibly change the exact details of what was hitherto considered fact. So, relax.
 
@@ -35,7 +35,7 @@ Coming back to Quora, I saw a myriad of questions about Tamil and Tamil Nadu. At
 
 But slowly, I noticed a few other things as well. Polarity. Chauvinism. Bias. (Polarity and bias are two different things.) Prejudice. Pride.
 
-There were questions as ridiculous as "[Why did Malaysia and Singapore choose a decrepit language like Tamil as one of their official languages instead of Hindi?](https://www.quora.com/Why-did-Malaysia-and-Singapore-choose-a-decrepit-language-like-Tamil-as-one-of-their-official-languages-instead-of-Hindi?srid=pKBV)" Entitlement alert!
+There were questions as ridiculous as "[Why did Malaysia and Singapore choose a decrepit language like Tamil as one of their official languages instead of Hindi?](https://www.quora.com/Why-did-Malaysia-and-Singapore-choose-a-decrepit-language-like-Tamil-as-one-of-their-official-languages-instead-of-Hindi?srid=p<span class="small-caps">KBV</span>)" Entitlement alert!
 
 I don't know why, but there's a lot of bias towards---or rather, against---languages, in India. We somehow don't want to celebrate the fact that we're the _only_ country in the world to have this many languages in a single piece of land. We want to reduce ourselves not even to twenty-two official languages, but one!
 

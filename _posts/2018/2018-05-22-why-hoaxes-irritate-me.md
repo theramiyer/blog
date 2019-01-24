@@ -9,7 +9,7 @@ published: false
 
 Of late, there have been a boatload of hoaxes floating around the Internet. Adding to the chaos primarily is WhatsApp, quickly followed by Facebook and the various other social networks. Instagram used to be the haven for original content, which has now been contaminated by these pictures and videos as well.
 
-The Conspiracy Mill churns out these hoaxes on a daily basis and we consume them "HOT!" From political scandals, "forced conversions", blood and urine in ketchup to ISRO building rockets to bring fuel from the Moon, Einstein gets proven right every day.
+The Conspiracy Mill churns out these hoaxes on a daily basis and we consume them "<span class="small-caps">HOT</span>!" From political scandals, "forced conversions", blood and urine in ketchup to <span class="small-caps">ISRO</span> building rockets to bring fuel from the Moon, Einstein gets proven right every day.
 
 As the fat young boy leans back in his chair with oil smeared all over his face and fingers, throws his feet, pops another French Fry into his mouth and gives that mocking giggle, a wave of the shocked emoji zips past across the planet at the speed of light, dreaming that some day there would be a conspiracy theory that said emojis actually travel faster than light, and that North Korea is using these to scatter their weapons by means of teleportation---"Emojiportation: The Greatness of the Yellow Circles". Ah!
 

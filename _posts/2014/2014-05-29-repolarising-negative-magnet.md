@@ -15,7 +15,7 @@ Let's first summarise (please excuse my sick humour here and there): the human m
 
 Getting to the point, how exactly do we lift ourselves from the hole? Some of them are pretty deep!
 
-The first question you may have gotten into your head would be "if my mind is inclined towards the negative, and it is designed so, is it even possible to repolarise my mind to think positive, to be optimistic?" The answer is YES. The next question for some would still be, "Really?" and of course, the answer is again YES. The next one, (universal) would be "how are you so sure and how do you propose we handle this?"
+The first question you may have gotten into your head would be "if my mind is inclined towards the negative, and it is designed so, is it even possible to repolarise my mind to think positive, to be optimistic?" The answer is <span class="small-caps">YES</span>. The next question for some would still be, "Really?" and of course, the answer is again <span class="small-caps">YES</span>. The next one, (universal) would be "how are you so sure and how do you propose we handle this?"
 
 This post is about handling it.
 

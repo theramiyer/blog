@@ -37,4 +37,4 @@ Think about it. :)
 
 Cheers!
 
-Source: [MIT](http://persci.mit.edu/gallery/checkershadow/download)
+Source: [<span class="small-caps">MIT</span>](http://persci.mit.edu/gallery/checkershadow/download)
