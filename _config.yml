@@ -1,77 +1,41 @@
-# Jykell configuration
-#markdown: redcarpet
-#highlighter: pygments
-markdown: kramdown
-paginate: 5
-language: 'en-in'
-timezone: Asia/Kolkata
-future: false
-
 # Website info
-name: 'Ram’s blog'
+title: 'Ram’s blog'
 description: "Raw thoughts of a humanist"
+url: 'https://blog.ramiyer.me'
+
+future: false
+google_analytics:
 
 # Author's info
-authors:
-  ram:
-    name: ram
-    displayname: Ram Iyer
-    bio: Writer, PowerShell addict, typographer, self-acclaimed rationalist.
-    url: https://ramiyer.me
-    image: assets/images/ram.png
-    facebook: theramiyer
-    twitter: theramiyer
-    shorturl: ramiyer.me
-    location: 'Bangalore, KA'
+author:
+  name: Ram Iyer
+  url: https://ramiyer.me
+  google_plus: +RamIyer07
+
+# Build settings
+markdown: kramdown
+include:
+  - _pages
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
 
 # social links
 facebook: theramiyer
 twitter: theramiyer
 
-url: 'https://blog.ramiyer.me'
-shorturl: 'blog.ramiyer.me'
-google_analytics:
-disqus:
-# edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: '/'
-tagpage: '/tags/'
-categorypage: '/categories/'
-
 # Permalinks
 permalink: /:title/
-# permalink: /author/:username
-# permalink: /tag/:tag
+paginate: 5
 
+theme: typographical
 
-# gems and other configs
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-exclude: [vendor]
-
-# Turn on smart quotes
-kramdown:
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  syntax_highlighter: rouge
-  input: GFM
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: post
-      logo: 'assets/images/ramiyer.png'
-      cover: 'assets/images/cover1.jpg'
-      subclass: 'post tag-test tag-content'
-      navigation: True
-      author: ram
-
-# Additional settings available on the front-matter
-# Site logo in the index.html (as in demo.ghost.io)
-# Author's page cover in _layouts/author.html
-# The same for page.html and tag.html layouts
-# Post's page cover as a per-post basis _posts/...
-# Disqus comments as a per-post basis
-# ...
+# Tuning
+relatedpostsenabled: true
+wpm: 180
+feedlimit: 10
