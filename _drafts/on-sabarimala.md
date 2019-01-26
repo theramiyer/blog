@@ -9,10 +9,12 @@ published: false
 
 I am a Hindu. A Hindu who has been taught by Hinduism to introspect. Knowledge is of importance to me. And one tried-and-tested way to knowledge is questioning. Questioning not to disrespect, but to find answers. And to me, answers are different from wishful thinking and imagination, or unfounded ideas. To me, answers are those statements that point to facts, or to other pointers that point to facts.
 
+In a rather long post, here is what I know and feel about "the whole Sabarimala thing":
+
 - TOC
 {:toc}
 
-To me, faith in itself is not an answer. Faith is faith. It's like a string of a spider's web. It may anchor me, but only I know how it does; it's invisible to you, to others. It is just _one of the strings_ that support the structure of my understanding of myself and the world around me. To me, God has a definition different from the conventional. And that definition is personal to me; it is for no one to judge or "correct". And that is to say that I'm even open to the possibility that there is no God; it wouldn't shatter me either.
+To me, faith in itself is not an answer. Faith is faith. It's like a string of a spider's web. It may anchor me, but only I know how it does; it's invisible to you, to others. It is just _one of the strings_ that support the structure of my understanding of myself and the world around me. To me, God has a definition different from the conventional. And that definition is personal to me; it is for no one to judge or "correct". And that is to say that I'm even open to the possibility that there is no God; it wouldn't shatter me.
 
 Now to one of the points that disturbs me---me, a part of a culture that is supposed to be all-inclusive---reproductively active women are forbidden entry at the Sabarimala shrine. After a lot of hue and cry over the issue, the Supreme Court of India passed a statement that women should be allowed entry at the Sabarimala shrine. There was another round of public outcry, and I stopped following the news about this to regain sanity. I wanted to take a step back to understand what the situation was.
 
@@ -20,9 +22,9 @@ Now to one of the points that disturbs me---me, a part of a culture that is supp
 
 Oh, the forbidden word. Oh, the so-personal word. Oh, the taboo.
 
-Wrong. This is a normal bodily process. This is the time the females among mammals throw out the unused reproductive structure created over their menstrual cycle. In an adult human female, this is between three and five weeks. this is as natural as us having to sneeze, urinate or defecate.
+Wrong. This is a normal bodily process. This is the time the bodies of females among mammals throw out the unused reproductive structure created over their menstrual cycle. In an adult human female, this is between three and five weeks. And this discharge is as natural as us having to sneeze, urinate or defecate.
 
-Notice how I'm not saying that there is no question of hygiene here. All of the aforementioned bodily processes involve discharge of fluids from our body. There definitely is a hygiene factor involved here, especially because these fluids can potentially carry insane amounts of infection-causing bacteria and viruses. Right.
+Notice how I'm not saying that there is no question of hygiene here. All of the aforementioned bodily processes involve discharge of fluids from our body. There definitely is a hygiene factor involved here, especially because these fluids can potentially carry insane amounts of infection-causing bacteria and viruses.
 
 ### Why menstruation needs special attention
 
