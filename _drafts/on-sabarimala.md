@@ -38,7 +38,7 @@ Having said that, the average educated urban woman handles menstruation very wel
 
 ### On untouchability
 
-It is common knowledge that women don't let themselves being touched in many cultures in India. My mother never allowed us to go near her in those three days. She did not enter the kitchen or the puja room. People in my extended family, still use separate utensils for those menstruating. They even had an assigned corner in my grandma's house, where they would sit, consuming as little space as possible.
+It is common knowledge that women don't let themselves be touched in many cultures in India. My mother never allowed us to go near her in those three days. She did not enter the kitchen or the puja room. People in my extended family, still use separate utensils for those menstruating. They even had an assigned corner in my grandma's house, where they would sit, consuming as little space as possible.
 
 Why?
 
@@ -56,11 +56,11 @@ The local shopkeepers should be able to tell us how many tiger sightings have ha
 
 ### On the "blasphemous" incident
 
-So I came across an accusation on a woman throwing a used sanitary pad in the temple premises. If it did really happen, it was uncivilised of her to do that, apart from the action being completely uncalled for. If at all she were trying to make a point---which I don't think was anything healthy---her action only worsened the situation. And I have zero respect for this woman, whoever it was, if there was one: You wouldn't do it even in your own room, but you did it in a place of congregation. You don't deserve to be part of a civilised society.
+So I came across an accusation on a woman throwing a used sanitary pad in the temple premises. If it did really happen, it was uncivilised of her to do that, apart from the action being completely uncalled for. If at all she were trying to make a point---which I don't think was anything healthy---her action only worsened the situation. And I have zero respect for this woman, whoever it was, if there was one: She wouldn't do it even in her own room, but she did it in a place of congregation. She doesn't deserve to be part of a civilised society.
 
 ### On speed and efficiency
 
-Every group is as fast as its slowest member. Therefore, someone who has episodes of cramps and other difficulties that accompany, would not be able to move as fast as their healthier female or the male counterparts. This may have been a major issue in the past---say a few decades ago or so---but is it now?
+Every group is as fast as its slowest member. Therefore, someone who has episodes of cramps and other difficulties that accompany, would not be able to move as fast as their healthier female or the male counterparts. This may have been an issue in the past---say a few decades ago or so---but is it now?
 
 This is an overlapping subtopic, and therefore, would be covered in little more detail in a while. Until then, here is a possible solution to this: let women be part of women-only groups and let them travel that way. In any case, every sensible woman knows what occurs when, and they can easily manage to plan their pilgrimage accordingly. But still, even if not, here is a solution.
 
@@ -81,9 +81,9 @@ The convention is to fast for forty-eight days, which is called a _Mandalam_. (T
 - Meat or other non-vegetarian food is not consumed. Apart from the spiritual reason that hermits don't harm another being, this also ensures that the chances of one ingesting too much fat (from say, beef) are low.
 - The supper is light, and in general, the diet is _satvik_. This diet restriction helps in weight-reduction in overweight individuals, and in general, combined with the discipline in timelines, ensures right amount of nourishment to the body, at the same time generating smaller amounts of toxins. The health of most pilgrims improves during this duration.
 - Smoking, drinking, and in general, indulgence is abstained from. This is time for some discipline, because living in a forest was not easy.
-- No footwear is worn. This is to accustom the pilgrims to walking the terrain of the forest. Why couldn't footwear be worn in the forest? I'm not sure. It is a Hindu tradition to not wear footwear to temples; it probably just got carried on. Along with this, the pilgrims practice sleeping on a simple mat made of dry grass spread on the floor. No beds.
+- No footwear is worn. This is to accustom the pilgrims to walking the terrain of the forest. Why couldn't footwear be worn in the forest? I'm not sure. It is a Hindu tradition to not wear footwear to temples; it probably just got carried on. (Maybe, footwear "back in the day" used to be wooden, and boy, is it uncomfortable walking in them! We are better off not wearing footwear.) Along with this, the pilgrims practice sleeping on a simple mat made of dry grass spread on the floor. No beds.
 - Sexual relationships are abstained from. This way, there are no brain chemicals increasing your attachment to your spouse or partner.
-- Children of pilgrims also conventionally referred to the pilgrims as _Swamy_, and not "Father" or "Grandma". Although this is probably no more followed.
+- Children of pilgrims also conventionally referred to the pilgrims as _Swamy_, and not "Father" or "Grandma". Although this is probably no more strictly followed.
 - The pilgrims wear blue (or nowadays black or ochre) _mundu_ and _angavastram_ (nowadays shirts). _Neelam_ is the word used for the colour. It technically stands for indigo, since India has had it in abundance. Since neelam stands for any shade of blue, we get the royal blue these days. Black also picked up a couple decades ago or so, as one of the colours for attire during the fast. Ochre is a more recent trend. These colours made the pilgrims look unattractive---either to other humans or animals.
 - No grooming. Again, a spiritual and practical step towards the pilgrimage.
 
@@ -93,8 +93,8 @@ When the pilgrims left for the pilgrimage, back in my granduncles' or forefather
 
 - They break a coconut outside the house, or preferably in front of Ganesha, and never look back.
 - They carry with them an _Irumudi_:
-  - This bag contains a coconut whose one eye is pierced to let out the water in it and let in ghee. The eye is sealed when the inner chamber of the coconut id full of ghee. This ghee is offered to Ayyappa.
-  - The bag also contains rice and some cash, which those who attend the irumudi packing ceremony give to the pilgrims. These contents are also offered to Ayyappa upon reaching the shrine. A small portion of this is retained, though. That constitutes the _prasadam_. In general, this ghee, rice and money help the pilgrims sustain for a while if they, say, got lost and ran out of supplies. Dry rice and ghee do not spoil for a long time, and combined with fire and water (which is readily available given that it's a rain forest), can become some good, nutritious food. Money could work in situations where money works.
+  - This bag contains a coconut whose one eye is pierced to let out the water in it and let in ghee. The eye is sealed when the inner chamber of the coconut is full of ghee. This ghee is offered to Ayyappa.
+  - The bag also contains rice and some cash, which, those who attend the irumudi packing ceremony give to the pilgrims. These contents are also offered to Ayyappa upon reaching the shrine. A small portion of this is retained, though. That constitutes the _prasadam_. In general, this ghee, rice and money help the pilgrims sustain for a while if they, say, got lost and ran out of supplies. Dry rice and ghee do not spoil for a long time, and combined with fire and water (which is readily available given that it's a rain forest), can become some good, nutritious food. Money could work in situations where money works.
 - Nobody cries at their departure. Nobody waves a bye. Nobody nods. Once the irumudi filling is finished for the entire group, they get up, prostrate in front of their spiritual guru for the pilgrimage (known as _Guruswamy_), and begin walking without looking back. The Guruswamy leads.
 - A deepam is lit in the pilgrims' houses until they come back. If they never come back, the deepam remains lit. Nobody performs the last rites for them, no _shraaddhams_, nothing. If the pilgrim does not return from the pilgrimage, they are not considered dead.
 - If everything goes well and the pilgrim returns, the prasadam is distributed within the house and to the closest relatives/friends.
@@ -107,13 +107,13 @@ Why can't women be carried in palanquins if need be? Would it be out of question
 
 ## Back to the issue
 
-A lot of the practices are practically irrelevant today. Many of them exist merely as a tradition rather than a necessity. And the deity has also matured and become more forgiving as the years have passed.
+A lot of the practices are practically irrelevant today. Many of them exist merely as a tradition rather than a necessity. And the deity has also matured and become more forgiving as the years have passed (the human individual form).
 
 The system at Sabarimala is a beautiful one. The guruswamy has the final call on what has to be followed and what not, for one. While the traditional _varna_ system in India dictates that an uppercaste person lead, Sabarimala disregards the system (or arguably is the only one that follows the system in the right sense). Here, a Hindu Brahmin can have a Muslim guruswamy. Not just that there is no preference to a certain caste, no religion is given preferential treatment either. Just like the core of Hinduism. Going by the same philosophy, nobody asks you what religion you follow, at the shrine. It does not matter what deity you like, what religion you follow, what you do for a living... In the eyes of Sabarimala Ayyappa, you are all alike: you are all Him:
 
 > Tat tvam asi.
 
-Given that apart from the core principles, your guruswamy's word is the Book, many of the leaders of today have adopted a simpler approach to the pilgrimage. My guruswamy, for instance, allowed me to wear footwear to college because he didn't want me to break the decorum of the institution. This is a practical approach to pilgrimage. He did not forbid us from eating foods that are said to "increase desires" as per Hindu _shastras_ (I don't know which shastra says this, by the way). He simply trusted us to do what was right no matter how influential our food or environment were. And his idea was, 'If you break the fast, you would not come for the pilgrimage. You know what you do.' Discipline.
+Given that apart from the core principles, your guruswamy's word is The Book, many of the leaders of today have adopted a simpler approach to the pilgrimage. My guruswamy, for instance, allowed me to wear footwear to college because he didn't want me to break the decorum of the institution. This is a practical approach to pilgrimage. He did not forbid us from eating foods that are said to "increase desires", apparently, "as per Hindu _shastras_" (I don't know which shastra says this, by the way). He simply trusted us to do what was right no matter how influential our food or environment were. And his idea was, 'If you break the fast, you would not come for the pilgrimage. You know what you do.' Discipline.
 
 So, if it is the guruswamy's call on whether a woman can come or not, why does no guruswamy take women along? I was met with the following answer:
 
@@ -124,15 +124,15 @@ It is the guruswamy's responsibility that those whom he leads are protected. How
 
 The first point did happen when a female news reporter went to the shrine to cover the response of the public on the decision of the apex court. There are countless incidents of men threatening women, 'We'll see how you reach the _Sannidhanam_.'
 
-Is the second point acceptable? I've not had sex over the last six weeks. I don't feel all aroused when a girl touches me. I don't even feel aroused when my crush touches me---heck, I'm attracted to this girl, and I don't feel sexually aroused when I accidentally brush against her. And besides, if the fast is really about attaining control over oneself and single-minded devotion towards Ayyappa, why would we see the "No Sex Policy" as a restriction?
+Is the second point acceptable? I've not had sex over the last six weeks. I don't feel all aroused when a girl touches me. I don't even feel aroused when my crush touches me---heck, I'm attracted to this girl, and I don't feel sexually aroused when I accidentally brush against her. And besides, if the fast is really about attaining control over oneself and single-minded devotion towards Ayyappa, why would we see the "No-sex Policy" as a restriction?
 
-So what do we do about the physical attack on women as mentioned in the first point? Well, I say, isn't it in our control? Having eaten satvik food that hhelps you gain control over expression of your emotions, why can't you control yyour anger? Why bring your ego? Let the god decide whether He wants to see them or not.
+So what do we do about the physical attack on women as mentioned in the first point? Well, I say, isn't it in our control? Having eaten satvik food that helps you gain control over expression of your emotions, why can't you control your anger? Why bring your ego? Let the god decide whether He wants to see them or not.
 
 But granted: no guruswamy would like to accept that kind of responsibility.
 
 ## The explanations
 
-Now to the final part of the issue. Many men, famous and otherwise, have tried to offer explanations as to why women are not allowed entry into the Sabarimala shrine. And this part is what raises most questions in me. And I'm going to try to rationally analyse each of the explanations. Of course, to the best of my knowledge. I'm not arrogant enough to claim that I know it all. I'm open to answers as long as they are rational. Along with this, there are some statements that were made as well. I felt it was necessary I answer those here as well.
+Now to the final part of the issue. Many men, famous and otherwise, have tried to offer explanations as to why women are not allowed entry into the Sabarimala shrine. And this part is what raises most questions in me. And I'm going to try to rationally analyse each of the explanations. Of course, to the best of my knowledge. I'm not arrogant enough to claim that I know it all. I'm open to answers as long as they are rational. Along with this, there are some statements that were made as well. I felt it was necessary I answered those here as well.
 
 But first, I'm not exactly "in favour of" women being admitted there. I'm simply against discrimination. If the basis of non-admission to the shrine is based on discrimination or bias, then I'm against the prohibition (and in favour of what the apex court decided).
 
