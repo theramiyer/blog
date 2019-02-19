@@ -20,21 +20,23 @@ Enough prologue.
 
 Given the current setup of our country (or even perhaps the world at large), we are quickly reducing ourselves to bipolarity. Call me an elite if you want, but if we had to reduce ourselves to such a state, we might as well not call ourselves humans. But that's the paradox, isn't it: either you're bipolar, or you're not? Oh, wow.
 
-I started with that, because I feel, today, you either support the current ruling party, or you don't. You either like a country or hate it. That's just how it's become. Recently, I called someone a right-wing-ist. He was quick to call me a leftist. I asked him if he knows what the two mean at all. 'Of course, that I support \<enter a three-letter party name here\> and you support \<another underachieving party's name here\>.' I told him that not only was he wrong, but that the latter underachieving party was not even a leftist. This is all he had to say: 'It is. You wouldn't accept it, because it is too shameful.'
+I started with that, because I feel, today, you either support the current ruling party, or you don't. You either like a country or hate it. That's just how it's become. Recently, I called someone a right-wing-ist (of course because of how he thinks, in general). He was quick to call me a leftist. I asked him whether he knew what the two meant at all. 'Of course, that I support \<enter a three-letter party name here\> and you support \<another underachieving party's name here\>.' I told him that not only was he wrong, but that the latter underachieving party was not the left. This is all he had to say: 'It is. You wouldn't accept it, because it is too shameful.'
 
-I didn't even know how to respond to that. How do you respond to blatant arrogance at ignorance? How do you get started on how appalling it is to get a roaring applause for, 'I don't know. And I don't care.'? No, your statements no more have to be supported by facts! Time to celebrate! Long live ignorance. Down, down science. Down, down facts. Long live anarchy. Down, down thought. Down, down knowledge.
+I didn't even know how to respond to that. How do you respond to blatant arrogance of ignorance? How do you get started on how appalling it is to get a roaring applause for, 'I don't know. And I don't care.'? No, your statements no more have to be supported by facts! Time to celebrate! Long live ignorance. Down, down science. Down, down facts. Long live anarchy. Down, down thought. Down, down knowledge.
 
-Next time someone says knowledge is power, slap them. It's not. And the knowledge of _that_ is today's power.
+The next time someone says knowledge is power, slap them. It's not. And the knowledge of _that_ is today's power.
 
 But allow me to take out some of your power. Know the difference between a few most common isms. Of course, this has been simplified to be friendlier to understanding (hopefully not at the cost of much more misunderstanding).
 
 ## Communism
 
-In short, if I may quote Dictionary.com, it is socialism gone wrong. Communism is considered extreme left. Communism is a system, wherein, all the resources are owned by a community, which is mostly people at large. And then, there is a single totalitarian entity, who runs the entire system. Typically, this can also mean advocating atheism, voiceless common man, zero liberties, and so on. It is ironic that the right-wing entities that hate communism also, sometimes, seem to have the characteristics of zero liberties and a voiceless public. Everyone's favourite example is how China even regulates the use of the Internet.
+In short, if I may quote Dictionary.com, it is socialism gone wrong. Communism is considered extreme left. Communism is a system, wherein, all the resources are owned by a community, which is mostly people at large. And then, there is a single totalitarian entity, who runs the entire system. Typically, this can also mean advocating atheism, voiceless common man, zero liberties, and so on[^1]. Everyone's favourite example is how China even regulates the use of the Internet.
+
+[^1]: It is ironic that the right-wing entities that hate communism also, sometimes, seem to have the characteristics of zero liberties and a voiceless public.
 
 ## Socialism
 
-This is a larger system, of which, communism forms a small (perhaps evil) part. This system relies on what is called _collective co-operation_. Think of this system as one that has a government, and this government runs all the institutions. Therefore, all the institutions that are part of this system are owned by the public. The public---every member of it---pays taxes, and these taxes in turn are re-invested in the well-being of the public.
+This is a larger system, of which, communism forms a small (perhaps evil) part. This system relies on what is called _collective co-operation_. Think of this system as one that has the public, who have a government, and this government runs all the institutions for the public. Therefore, all the institutions that are part of this system are owned by the public. The public---every member of it---pays taxes, and these taxes in turn are invested in the well-being of the public.
 
 Some of the northern European countries have excelled at this system.
 
@@ -44,9 +46,7 @@ This is a political (and not a philosophical) term. This political line of thoug
 
 ## Right-wing-ism
 
-Another political term and thought process, ostensibly, very popular these days[^marxism]. This form of thought usually aligns with conservatism. Politicians who support this ideology, say, 'There is a system in place for a reason; there's a social hierarchy in place for a reason. You don't get to question what is existing, and is right for you.' This is very similar to what is known as _absolutism_. To quote the Oxford dictionary:
-
-[^marxism]:
+Another political term and thought process, ostensibly, very popular these days. This form of thought usually aligns with conservatism. Politicians who support this ideology, say, 'There is a system in place for a reason; there's a social hierarchy in place for a reason. You don't get to question what is existing, and is right for you.' This is also a form of _absolutism_, but from the right. To quote the Oxford dictionary:
 
 > The holding of absolute principles in political, philosophical, or theological matters.
 
@@ -73,7 +73,7 @@ A very thoughtful, beautiful thing to say. But a Himalayan thing to execute. And
 
 ## Democracy
 
-Democratic socialism is a branch in socialism, where, a socialist government is chosen by means of democracy. This system, in other words, lets _people_ decide who will uphold the distribution of the resources to everybody. Or, the people decide who will run the nation and how.
+Democracy is a system, created by the people, for the people and is of the people. Democratic socialism is a branch in socialism, where, a socialist government is chosen by means of democracy. This system, in other words, lets _people_ decide who will uphold the distribution of the resources to everybody. Or, the people decide who will run the nation and how.
 
 ## Republic
 
@@ -81,15 +81,27 @@ A republic is where people are the ultimate power. In a republic, the one who ru
 
 ## Socialist democratic republic
 
-This is a little challenging to understand. In a vanilla democracy, capitalism reigns. The public, as such, does not own all of the resources in that system. In a socialist democracy, a good chunk of these resources are owned by the government, which is in turn, elected and run by people. Therefore, the public owns a good chunk of the resources in the system. Capitalism co-exists. In these systems, you have government-run as well as publicly-owned medical institutions, for example. Taxes are given back to people in the form of things that improve the lives of the people; people ultimately own these "things".
+This is a little challenging to understand. In a vanilla democracy, capitalism reigns. The public, as such, does not own all of the resources in that system. In a socialist democracy, a good chunk of these resources are owned by the government, which is in turn, elected and run by people. Therefore, the public owns a good chunk of the resources in the system. Capitalism co-exists. In these systems, you have government-run as well as publicly-owned transport corporations, for example. Taxes are given back to people in the form of things that improve the lives of the people; people ultimately "own" these "things" in a sense.
 
 Combine the features of a republic, wherein nobody is above the people, and people are above nobody, and it becomes the ideal system that India was dreamt to be (and is, even, in many ways).
 
-The sad part is, we have let politics cloud our judgement of everything. Politicians oversimplify issues, principles and concepts, and feed us with what is favourable to them, and easy for us to chew. All this, in an attempt to get to "own the country" (because that's what ruling today is, apparently). Ruling a country, in my opinion, should not even be a thing in a democracy---in a democracy, you _run_ a country. Representatives are appointed by people, who in turn, lead the progress of the said democracy. These leaders should think of themselves as the chosen captain of a ship that is full of professionals equally capable of running the ship, but have chosen them for the job for a certain period of time.
+The sad part is, we have let politics cloud our judgement of everything. Politicians oversimplify issues, principles and concepts, and feed us with what is favourable to them, and easy for us to chew. All this, in an attempt to get to "own the country" (because that's what ruling today is, apparently). Ruling a democracy, in my opinion, should not even be a thing---in a democracy, you _run_ a country. Representatives are appointed by people, who in turn, lead the progress of the said democracy. But what happens in our country? 
 
-Although today, most of these appointed captains wear a band across their head covering one eye, and start to plunder everything they come across _within the ship_, claiming those findings as their own; repaint the ship in the colour of their flags, paste their faces on the bottles and doors and television sets to remind the others that they are the _brand_ the ship is running under; eventually rub off another wannabe captain's nose in the process ... moronically, consider the ship to be a mere underwater wreckage that they came across when diving for pearls.
+You know the answer. But here is a story. Might I say, completely unrelated. There is a ship. This ship is full of people who know how to run it. Many are qualified captains. They all select one captain to run the ship at a time. They also choose one person each for a role to play in running the ship, of course, among the many that are qualified. The captain and the crew agree to work eight hours a day. Then, some other qualified person would pick up from where the incumbent left off. Eight hours later, the captain and the crew hand over the responsibilities to the newly-elect, and proceed to retire for the day. This goes on for several days. Then, one rogue captain starts work. His crew is as corrupt as he is. He decides, his son would guide the ship when he retires for the day, the son appoints his own son when he retires, for the job.
+
+The captain wears a band across his head covering one eye, and starts to plunder everything he comes across _within the ship_, claiming those findings as his own property. He repaints the ship in the colour of his flag. He also pastes his face on the water bottles and doors and television sets to tell those on board that he is the _brand_ the ship is running under. Eventually, he rubs off another (qualified or otherwise) captain's nose in the process ... moronically, considers the ship to be a mere underwater wreckage that they came across when diving for pearls.
+
+It's a sad story from there on. I don't want to scar you.
 
 ## A little peeve-point: Marxism
+
+'Guess what, I learnt a new term today!'  
+'Yeah? What is it?'  
+‘ "You, Marxist!" ’  
+'Okay, what does it mean?'  
+'Everything I'm not'  
+'Couldn't get any vaguer, but okay, how are you going to use it?'  
+'Like I always do: willy-nilly'
 
 The right-wing in India, today, openly calls out anything that does not align to its thought process, the left-wing. And their favourite form is, "You, Marxist!". And I hear this being said to people more often than I would like. And to clarify, Marxist mentality is one that says, socialism is imperfect, and incomplete, and that communism is the ultimate goal of socialism.
 
