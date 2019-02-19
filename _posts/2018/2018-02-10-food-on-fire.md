@@ -4,6 +4,7 @@ title: "Food on Fire"
 date: "2018-02-10"
 tags:
 - satire
+- mythbuster
 ---
 
 Howdy! It's a Saturday evening, and I just got done with "ricing" my i3 on Ubuntu. I'm still clueless about some things, but that's the fun part of Linux. Now, that shouldn't be the only thing you do on weekends, right?
