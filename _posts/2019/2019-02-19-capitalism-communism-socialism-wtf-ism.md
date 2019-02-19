@@ -8,31 +8,31 @@ tags:
 - mythbuster
 ---
 
-Let's face it, this is the generation of isms. Everywhere you go, every channel you pick, every Facebook page that floods your newsfeed, have one or the other form of _-ism_ being talked about: whether it's a meme, or a debate video (where you can hear almost nothing), or a long post like this one. Needless to say, we're all either tired, or are numb of it.
+Let's face it, this is the generation of isms. Everywhere you go, every channel you pick, every Facebook page that floods your newsfeed, have one or the other form of _-ism_ being talked about: whether it's a meme, or a debate video (where you barely hear a thing), or a long post like this one. Needless to say, we're all either tired, or are numb.
 
-But still, of every incomplete or complete piece we gather, we end up retaining something in our heads, only to happily use it later on, whether the understanding or the context is right or wrong---of late, mostly the latter.
+But still, we end up retaining a part of every incomplete or complete piece we gather, only to happily use it later on, whether the understanding or the context is right or wrong---of late, mostly the latter.
 
-I'm not the kind who has learnt to keep quiet. Sometimes unfortunately, if I may say so. It is hard for me to not jump at fiction stated as fact. I've been growing less turbulent, but I still sometimes do get fired up all right. (Sometimes I simply choose not to show it if the situation is potentially fatal. Think: You're alone, being surrounded by seven people who hold dear what you very naturally hate.)
+I'm not the kind who has learnt to keep quiet. Sometimes unfortunately, if I may say so. It is hard for me to not jump at fiction stated as fact. I've been growing less turbulent over the last couple of years, but I still sometimes do get fired up all right. (Sometimes I simply choose not to show it in the interest of self-preservation. Think: You're alone, surrounded by seven people who hold dear what you very naturally hate.)
 
-Another important aspect is how quickly more and more information is becoming commonly accessible. Don't get me wrong; I don't mean to say that information should not be accessible---quite the contrary. The challenge is that not everyone is inclined to collect every available information. That brings us to a point where we know something about something, but not everything about it. Fine, that's natural, but if you know something about something, know it to a decent extent before you talk, and be open to learning more. Try to know everything about everything. And know that assumption and arrogance are the mother and the father of ignorance.
+Another important aspect is how quickly more and more information is becoming commonly accessible. Don't get me wrong; I don't mean to say that information should not be accessible---quite the contrary. The challenge is that not everyone is inclined to collect every available information. More importantly, we don't verify whether the information we've come across is legitimate. Worse, even if we do verify, we find it hard to find an authoritative source for such information. Therefore, we float in the sea of opinions, which we accept or reject, based on _whether we like the opinion or not_.
 
 Enough prologue.
 
 Given the current setup of our country (or even perhaps the world at large), we are quickly reducing ourselves to bipolarity. Call me an elite if you want, but if we had to reduce ourselves to such a state, we might as well not call ourselves humans. But that's the paradox, isn't it: either you're bipolar, or you're not? Oh, wow.
 
-I started with that, because I feel, today, you either support the current ruling party, or you don't. You either like a country or hate it. That's just how it's become. Recently, I called someone a right-wing-ist (of course because of how he thinks, in general). He was quick to call me a leftist. I asked him whether he knew what the two meant at all. 'Of course, that I support \<enter a three-letter party name here\> and you support \<another underachieving party's name here\>.' I told him that not only was he wrong, but that the latter underachieving party was not the left. This is all he had to say: 'It is. You wouldn't accept it, because it is too shameful.'
+I started with that, because I feel, today, you either support the current ruling party, or you don't. You either like a country or hate it. There's no in-between, there's no partial agreement. That's just how it's become. Recently, I called someone a right-wing-ist (of course based on his ideas and beliefs, in general---I've known him for long enough to be able to make that statement). He was quick to call me a leftist. I asked him whether he knew what the two meant at all. 'Of course, that I support \<enter a three-letter party name here\> and you support \<enter another underachieving party's name here\>.' I told him that not only was he wrong, but that the latter underachieving party was not the left. This is all he had to say: 'It is. You wouldn't accept it, because it is too shameful.'
 
-I didn't even know how to respond to that. How do you respond to blatant arrogance of ignorance? How do you get started on how appalling it is to get a roaring applause for, 'I don't know. And I don't care.'? No, your statements no more have to be supported by facts! Time to celebrate! Long live ignorance. Down, down science. Down, down facts. Long live anarchy. Down, down thought. Down, down knowledge.
+I was left wondering how to respond to that. How do you respond to blatant arrogance of ignorance? How do you get started on how appalling it is to get a roaring applause for, 'I don't know. And I don't care.'? No, your statements no more have to be supported by facts! Time to celebrate! Long live ignorance. Down, down science. Down, down facts. Long live anarchy. Down, down thought. Down, down knowledge. Long live opinions. Long live hollowness. Long live binary. Down, down intellect.
 
 The next time someone says knowledge is power, slap them. It's not. And the knowledge of _that_ is today's power.
 
-But allow me to take out some of your power. Know the difference between a few most common isms. Of course, this has been simplified to be friendlier to understanding (hopefully not at the cost of much more misunderstanding).
+But allow me to disarm you a little. Know the difference between a few most common isms. Of course, this has been simplified to be friendlier to understanding (at the risk of much more misunderstanding).
 
 ## Communism
 
-In short, if I may quote Dictionary.com, it is socialism gone wrong. Communism is considered extreme left. Communism is a system, wherein, all the resources are owned by a community, which is mostly people at large. And then, there is a single totalitarian entity, who runs the entire system. Typically, this can also mean advocating atheism, voiceless common man, zero liberties, and so on[^1]. Everyone's favourite example is how China even regulates the use of the Internet.
+In short, if I may quote Dictionary.com, it is "socialism gone wrong". Communism is considered extreme left. Communism is a system, wherein, all the resources are owned by a community, which is mostly people at large. And then, there is a single totalitarian entity, who runs the entire system. Typically, this can also mean advocating atheism, voiceless common man, zero liberties, and so on[^1]. Everyone's favourite example is how China even regulates the use of the Internet.
 
-[^1]: It is ironic that the right-wing entities that hate communism also, sometimes, seem to have the characteristics of zero liberties and a voiceless public.
+[^1]: It is funny that the right-wing entities that hate communism also, sometimes, seem to have the characteristics of zero liberties and a voiceless public.
 
 ## Socialism
 
@@ -42,15 +42,15 @@ Some of the northern European countries have excelled at this system.
 
 ## Left-wing-ism
 
-This is a political (and not a philosophical) term. This political line of thought is supposed to resonate well with the working class in places where they are considered socially inferior. Left-wing politicians use social equality as their trump card. They do not believe in _one \<anything\>_. This is supposed to mean pluralism (having open arms to all forms of thought).
+This is a political (and not a philosophical) term. This political line of thought is supposed to resonate well with the working class in places where they are considered socially inferior. Left-wing politicians use social equality as their trump card. They do not believe in _one \<anything\>_. This is supposed to mean pluralism (having open arms to all forms of thought) and egalitarianism (everyone is equal, and should be given equal opportunities).
 
 ## Right-wing-ism
 
-Another political term and thought process, ostensibly, very popular these days. This form of thought usually aligns with conservatism. Politicians who support this ideology, say, 'There is a system in place for a reason; there's a social hierarchy in place for a reason. You don't get to question what is existing, and is right for you.' This is also a form of _absolutism_, but from the right. To quote the Oxford dictionary:
+Another political term and thought process, ostensibly, very popular these days. This form of thought usually aligns with conservatism. Politicians who support this ideology, say, 'There is a system in place for a reason; there's a social hierarchy in place for a reason. You don't get to question what is existing, and is right for you.' This is also a form of _absolutism_, but from the right. To quote the Oxford dictionary, absolutism means:
 
 > The holding of absolute principles in political, philosophical, or theological matters.
 
-Typical examples of this would be how one choice of food is chosen to be superior to the other, and the consumption of the other is not allowed; how one form of belief is chosen as the one for all of humanity; how one way of living is sinful and prohibited at levels where the law as directed by the Constitution is ignored, and so on.
+Typical examples of this would be how one choice of food is chosen to be superior to the other, and the consumption of the other is not allowed; how one form of belief is chosen as the one for all of humanity, while everything else is wrong; how one way of living is sinful and prohibited, even though the law as directed by the Constitution is allows it, and so on.
 
 ## What are we as a nation?
 
