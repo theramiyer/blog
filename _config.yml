@@ -17,6 +17,9 @@ markdown: kramdown
 include:
   - _pages
 
+kramdown:
+  footnote_backlink: '&uarr;'
+
 # Gems
 plugins:
   - jekyll-feed
