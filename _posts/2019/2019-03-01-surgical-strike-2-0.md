@@ -15,13 +15,14 @@ tags:
 
 I am an ordinary citizen. And as an ordinary citizen of a country that hates terror attacks, and personally holding the same stand as my country, I was upset and immensely angry on the 14th of February 2019, when forty <span class="small-caps"><span class="small-caps">CRPF</span></span> _jawans_ got killed in a terror attack. The terror outfit, _Jaish-e-Mohammed_ claimed responsibility for the strike. I was upset that India’s September 2018 strike on terror camps in Pakistan hadn’t borne fruit---that the terrorists hadn’t received the message the right way. The first thought that crossed my mind was the wish that our intelligence find Masood Azhar and our defence castrate him in public, after which, any citizen who liked to kick him in the gut, was allowed to.
 
-On the 26th, I woke up to the piece of news that a dozen Mirage 2000 aircrafts of Indian Air Force had entered Pakistan-occupied Kashmir, and bombed a region, destroying a terror camp of JeM. I was ecstatic. Why? In a little bit. But of course, none of this is a “political” or “defence” analysis. This is just what a common Indian citizen knows and understands.
+On the 26th, I woke up to the piece of news that a dozen Mirage 2000 aircrafts of Indian Air Force had entered Pakistan-occupied Kashmir, and bombed a region, destroying a terror camp of JeM. I was ecstatic. Why? In a little bit. But of course, none of this is a “political” or “defence” analysis. This is just what a common Indian citizen knows and understands. Here is a gist of the topics touched:
+
+- toc
+{:toc}
 
 It was fantastic news. What I had read at the time was that twelve jets entered PoK, and only while they were returning, Pakistan identified them and scrambled its jets. But there was no military engagement, no civilian casualties. This was just another example for why we are the fourth-strongest air force in the world. Having been part of the Aero India 2019 show (which I had been to on the 23rd) and having interacted with <span class="small-caps"><span class="small-caps">IAF</span></span> personnel on a few things, I could much easily relate to the whole operation.
 
 Needless to say, Pakistan convened an internal meeting, and long story short, decided that they would like to show us that they can enter our air space, too. Of course, our defence were on high alert following the strike, and a dogfight ensued when their jets entered our air space, at the end of which, two planes had been shot down, one of ours and one of Pakistan’s. None of the pilots landed on our side of the Line of Control, and our Wing Commander who fell in Pakistan’s region was captured by them. Talks of de-escalation began.
-
-Those were some of the facts pertaining to the strike and the retaliation to it.
 
 Social media was on fire. There were some saying India should go out on a full-blown war, while others said Pakistan was right in what it was doing. Then there were personal comments. And there was the so-called “warmongering”. The worst of what I saw was Rahul Kanwal of India Today. Disgraceful, to say the least about what Kanwal said. What B.S. Yedyurappa said on Thursday was probably the only worse thing to Kanwal’s statements. Of course, the latter later “clarified” that his statement was taken “out of context”. Anyway.
 
