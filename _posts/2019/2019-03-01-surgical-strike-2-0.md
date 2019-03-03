@@ -15,7 +15,7 @@ tags:
 
 I am an ordinary citizen. And as an ordinary citizen of a country that hates terror attacks, and personally holding the same stand as my country, I was upset and immensely angry on the 14th of February 2019, when forty <span class="small-caps"><span class="small-caps">CRPF</span></span> _jawans_ got killed in a terror attack. The terror outfit, _Jaish-e-Mohammed_ claimed responsibility for the strike. I was upset that India’s September 2016 strike on terror camps in Pakistan hadn’t borne fruit---that the terrorists hadn’t received the message the right way. The first thought that crossed my mind was the wish that our intelligence find Masood Azhar and our defence castrate him in public, after which, any citizen who liked to kick him in the gut, was allowed to.
 
-On the 26th, I woke up to the piece of news that a dozen Mirage 2000 aircrafts of Indian Air Force had entered Pakistan-occupied Kashmir, and bombed a region, destroying a terror camp of JeM. I was ecstatic. Why? In a little bit. But of course, none of this is a “political” or “defence” analysis. This is just what a common Indian citizen knows and understands. Here is a gist of the topics touched:
+On the 26th, I woke up to the piece of news that a dozen Mirage 2000 aircrafts of Indian Air Force had entered Pakistan-occupied Kashmir, and bombed a region, destroying a terror camp of JeM. I was ecstatic. Why? In a little bit. But of course, none of this is a “political” or “defence” analysis. This is just what a common Indian citizen knows and understands. Here is a gist of the topics touched upon:
 
 - toc
 {:toc}
