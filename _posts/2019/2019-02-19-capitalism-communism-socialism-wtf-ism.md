@@ -56,7 +56,7 @@ Typical examples of this would be how one choice of food is chosen to be superio
 
 Neither. As you see, extreme right-aligned mentality, as well as extreme left-aligned mentality lead to anarchy. If you go extreme left, you are looking at totalitarian control, the implementation of which will lead to anarchy---this is called _left anarchism_. If you go to the extreme right, you get the same situation, implemented in a different way. This is another form of anarchy, called _right anarchism_.
 
-Moreover, from a socio-economic standpoint, both extremes can lead to an unbalanced state. For instance, by allowing capitalism to reign supreme, you would be killing the lives of the economically weak. Similarly, by allowing communism to reign, you would drastically slow down economic growth.
+Moreover, from a socio-economic standpoint, both extremes can lead to an unbalanced state. For instance, by allowing capitalism to reign supreme, you would be killing the lives of the economically weak. Similarly, by allowing communism to reign, you would end up with a handful controlling a voiceless country of minions.
 
 ## What are we as a nation?
 
@@ -79,7 +79,7 @@ A very thoughtful, beautiful thing to say. But a Himalayan thing to execute. And
 
 ## Democracy
 
-Democracy is a system, created by the people, for the people and is of the people. Democratic socialism is a branch in socialism, where, a socialist government is chosen by means of democracy. This system, in other words, lets _people_ decide who will uphold the distribution of the resources to everybody. Or, the people decide who will run the nation and how.
+Democracy is a system, created by the people, for the people and is composed of the people. Democratic socialism is a branch in socialism, where, a socialist government is chosen by means of democracy. This system, in other words, lets _people_ decide who will uphold the distribution of the resources to everybody. Or, the people decide who will run the nation and how.
 
 ## Republic
 

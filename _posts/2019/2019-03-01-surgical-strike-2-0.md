@@ -39,11 +39,11 @@ Now, is this true? As an Indian who goes by what my defence organisations and my
 
 ## Some definitions
 
-Aggression: When someone violates borders or lines of control with an intent to attack a military or civilian establishment.
+<span class='small-caps'>Aggression</span>: When someone violates borders or lines of control with an intent to attack a military or civilian establishment.
 
-Surgical strike: A military strike conducted with a specific target in mind, without collateral damage. This target, usually, is a military establishment. (Source: Wikipedia)
+<span class='small-caps'>Surgical strike</span>: A military strike conducted with a specific target in mind, without collateral damage. This target, usually, is a military establishment. (Source: Wikipedia)
 
-India’s strike: I deliberately add this to clarify that India’s 26th Feb strike was not a conventional surgical strike, but a _non-military pre-emptive strike_ targeted on Jaish-e-Mohammed. This has been more than made clear by our government. This strike was surgical only in that it specifically targeted a camp, and caused zero collateral damage. No military establishment lost anything---on either side---no civilians were injured or eliminated. Anyone who can see the difference between the sun and the moon can see the difference between an aggression and a non-military strike.
+<span class='small-caps'>India’s strike</span>: I deliberately add this to clarify that India’s 26th Feb strike was not a conventional surgical strike, but a _non-military pre-emptive strike_ targeted on Jaish-e-Mohammed. This has been more than made clear by our government. This strike was surgical only in that it specifically targeted a camp, and caused zero collateral damage. No military establishment lost anything---on either side---no civilians were injured or eliminated. Anyone who can see the difference between the sun and the moon can see the difference between an aggression and a non-military strike.
 
 ## Imran Khan’s obvious stand
 
