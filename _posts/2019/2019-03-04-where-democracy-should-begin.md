@@ -3,8 +3,12 @@ layout: "post"
 title: "Where democracy should begin"
 date: "2019-03-04"
 tags:
--
-published: false
+- politics
+- democracy
+- politicians
+- satire
+- education
+- civics
 ---
 
 Education is perhaps the most powerful weapon in the world. Education, starting from our childhood, shapes our thoughts, actions, interactions, and overall, our lives. Not only are our perceptions based on the learnings of our past, but our assimilation of new learnings depend strongly on the basis created by our experiences and past learnings.
@@ -15,21 +19,21 @@ This is also not to say that those who underwent schooling are educated. There i
 
 ## Modes of education
 
-All sources of education can be classified into two: formal and informal. The former being established institutions such as schools and colleges, and the latter being the other modes, that will be talked about in a moment. Formal education may not be accessible to everyone, in spite of efforts by the government and the non-governmental organisations.
+All sources of education can be classified into two: formal and informal. The former is imparted by established institutions such as schools and colleges, and the latter being the other modes, that will be talked about in a moment. Statistically, informal education is more accessible to the common public than the formal, despite efforts by the government and the non-governmental organisations.
 
-One of the modes of education, in the former sense, is folklore and other informal ways of acquiring knowledge. And today, I thought I would talk about the importance of this mode of education from the perspective of a democracy.
+Folklore and cultural performances are two of the informal ways of acquiring knowledge. And today, I thought I would talk about the importance of this mode of education from the perspective of a democracy.
 
 ## On satire
 
-Digressing a little: In my third grade, I was introduced to the "art class". My art teacher was a big consumer of cartoons. He endorsed R.K. Lakshman's _You said it_. Cartoons that my teacher drew used to have some elements from the great Lakshman's style. One day, I decided to have a look at the cartoon on that day's newspaper, while still in the third grade. I saw the cartoon, I read the caption. I did not understand what was so great about the piece of work. I did not understand what made the cartoon so funny. I did not (could not) appreciate the satirical value of the piece. Unfortunately, I don't remember, two decades later, what the cartoon was about that day.
+Digressing a little: In my third grade, I was introduced to the "art class". My art teacher was a big consumer of cartoons. He endorsed R.K. Lakshman's _You said it_. Cartoons that my teacher drew used to have some elements from the great Lakshman's style. One day, I decided to have a look at the cartoon in the daily, while still in the third grade. I saw the cartoon, I read the caption. I did not understand what was so great about the piece of work; what made the cartoon so funny. I did not (could not) appreciate the satirical value of the piece. Unfortunately, I don't remember, two decades later, what the cartoon was about that day.
 
-The point is, assimilation of anything of satirical value requires the viewer/reader to have some level of understanding of what is being attacked. If the taunt is short-lived, it may not make a serious impact on the minds of those who don't understand the context, however, if the same taunt is repeated, the impact may be adverse.
+The point is, assimilation of anything of satirical value requires the viewer/reader to have some level of understanding of what is being attacked. If the taunt is short-lived, it may not make a serious impact on the minds of those who don't understand the context, however, if the same taunt is repeated over and over, the impact may be adverse.
 
-Take for example, two of the most talked-about aspects: democracy and secularism. Taunts on these have corrupted the actual understanding of the idea for those who did not understand what they are. Superficial knowledge (the said taunt) is openly available, in the form of political speeches and debates involving politicians and garbed lobbyists. These terms that refer to great ideas have been reduced to being derogatory terms, such as _demo-crazy_ and _sick-ularism_.
+Take for example, two of the most talked-about aspects: democracy and secularism. Taunts on these have corrupted the actual understanding of the idea for those who did not understand what they are. Superficial knowledge (of the said taunt) is openly available, in the form of political speeches and debates involving politicians and garbed lobbyists. These terms that refer to great ideas have been reduced to being derogatory terms, such as _demo-crazy_ and _sick-ularism_.
 
-Today, while I was pondering over how some of the powerful are misleading the common man into forgetting the difference between a party and a government, an epiphany hit me, when taken in conjunction with the fact about the low rate of education in our country: We don't teach enough people about democracy in the first place, while videos where people laugh at 'demo-crazy' is being made freely available to everyone! This effect is amplified by the open and free availability of Internet access to every nook and corner of the country; you are looking at the India of today, where even the learned don't appreciate the concept of democracy anymore.
+Today, while I was pondering over how some of the powerful are misleading the common man into forgetting the difference between a party and a government, an epiphany hit me, when taken in conjunction with the fact about the low rate of education in our country: We don't teach enough people about democracy in the first place, while videos where people laugh at 'demo-crazy' is being made freely available to everyone! Factor in the amplification of this effect by the open and free availability of access to the Internet and on-demand media in every nook and corner of the country, and you are looking at the India of today, where even the learned don't appreciate the concept of democracy anymore.
 
-This has led to political parties making a mockery of it by leading people into thinking that democracy is only about voting, and about forming coalition governments. And there are parties that are making statements about how a coalition government is bad for the country. People's cheering for this idea only makes things worse.
+This has led to political parties making a mockery of it by leading people into thinking that democracy is only about (insignificant) votes, and about forming coalition governments. And there are parties that are making statements about how a coalition government is bad for the country. People's cheering for this idea in a democracy is nothing short of appalling.
 
 But this brings us back to the point on education.
 
@@ -37,9 +41,9 @@ But this brings us back to the point on education.
 
 Here is the epiphany I spoke about:
 
-Today's folklore are full of stories of kings and princes and princesses; our epics are about kings and their duels. There are stories of invasions (and nothing about inclusions). Not one story I've heard in my childhood was directed towards anything close to democracy, or even if any were, it was never pointed out in specific, in a way that it contested the firm understanding of and belief in monarchy, subtly infused into us by the sheer number of stories of kings and queens and their families.
+Today's folklore are full of stories of kings and princes and princesses; our epics are about kings and their duels. There are stories of invasions (and not about inclusions). Not one story I heard in my childhood was directed towards anything close to democracy. Even if any were, it was never pointed out in specific, in a way that it contested the firm understanding of---and belief in---monarchy, subtly infused into us by the sheer number of stories of kings and queens and their families.
 
-While the idea of using our current terminology (such as _rājya_ for state) was to make the understanding easier for the common folk, I feel that these terms may be subtly conveying a message that we did not intend: That we, the "subjects", are still "ruled" by the "rulers".
+While the idea of using our current terminology (such as _rājya_ for state) was to make the understanding easier for the common folk, I feel that these terms may be subtly conveying a message that we did not intend to: That we, the "subjects", are still "ruled" by the "rulers".
 
 ## On rulers
 
@@ -63,4 +67,16 @@ There is no question that the government does make efforts towards providing chi
 
 Doordarshan seems to be among the better ways that we currently have, to deliver knowledge, but that again, given the reach of satellite television and the popularity of commercial channels over government-run channels, the situation is discouraging. This is the age of _Chhota Bheem_ and _Little Singham_. Unfortunately, the former also builds upon our past of monarchy. It instils in the minds of the children that kings are great, and everyone is happy when a good king rules. Granted, it may be true (and it is in many countries out there), but India of the twenty-first century is a democratic republic.
 
-Perhaps the government can begin a programme to create a set of modern folk tales and fables that talk about self-governance, democracy, the greatness of the secular philosophy. (Hinduism is, in fact, a secular philosophy in itself. The sceptical can---and should---read at least a little of Swami Vivekananda, who talks beautifully about why Hinduism is great in its inclusive nature, along with perhaps a little history on how Hinduism was never a single religion, but a conglomeration of several schools of thought, philosophies and theologies that has never feared evolution).
+Perhaps the government can begin a programme to create a set of modern folk tales and fables that talk about self-governance, democracy, the greatness of the secular philosophy[^secular-hinduism].
+
+The idea is, make these learnings less classroom-like and more fun. Memes are another form of conveying these ideas. Of course, the lateral thinking required to convey these complex ideas in memes is beyond my capacity (to be optimistically realistic, I would add "as of now"). But there certainly are those who can handle this. Short films like the ones on cancer awareness do not seem to have much of an effect, though.
+
+Regardless, we are a billion minds (no pun intended---this has nothing to do with the allegation that an organisation with the same name has been hired by a political party in India to manipulate voters). We should not be working on short cuts when political parties are investing all of their time and effort in propagating disinformation, and celebrating ignorance and misinformation.
+
+Let us work towards a better nation; a better democracy---the democracy that the makers of our nation and the writers of our constitution dreamt about and worked towards, shedding their blood, sweat and tears.
+
+[^secular-hinduism]: Hinduism is, in fact, a secular philosophy in itself. The sceptical can---and should---read at least a little of Swami Vivekananda, who talks beautifully about why Hinduism is great in its inclusive nature, along with perhaps a little history on how Hinduism was never a single religion, but a conglomeration of several schools of thought, philosophies and theologies that has never feared evolution.
+
+## Beyond zero
+
+Those fortunate ones who already understand the current democratic system that we follow, and are satisfied with it, go ahead and watch the <span class='small-caps'>TED</span>x talk by Prof. Lawrence Lessig of Harvard, called, [Our democracy no longer represents the people. Here's how we fix it.](https://www.youtube.com/watch?v=PJy8vTu66tE) His talk is, of course, concentrated on the <span class='small-caps'>USA</span>, but it is easy to superimpose most of what he talks about, with the Indian democratic system of the 21st century. That is the problem we need to solve after the one that this post talks about.
