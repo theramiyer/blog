@@ -7,46 +7,60 @@ tags:
 published: false
 ---
 
-Education is among the strongest weapons any given system has. Education, starting from our childhood, shapes our thoughts, actions, and overall, our lives. Not only are our perceptions based on the learnings of our past, but our assimilation of new learnings depend strongly on our experiences and past learnings.
+Education is perhaps the most powerful weapon in the world. Education, starting from our childhood, shapes our thoughts, actions, interactions, and overall, our lives. Not only are our perceptions based on the learnings of our past, but our assimilation of new learnings depend strongly on the basis created by our experiences and past learnings.
 
-## On literacy
+The talk of education brings to us the thought of literacy. We start talking about how our rate of literacy is improving year on year. While the mainstream may suggest that literacy is a precursor to eduction, logically, they need not be correlated. And it is not, if we look at how we work as humans. For example, there may be literate members of the society, who stopped schooling after the fourth grade.
 
-Rate of literacy is not a measure of the rate of understanding of our surroundings. Not to belittle the importance of literacy, but the numbers only indicate the possibility of education. And more importantly, education has got little to do with literacy.
+This is also not to say that those who underwent schooling are educated. There is an age-old, well-known point about the difference between the learned and the educated. But the line can be blurred in case of this topic.
 
-In other words, someone may have great worldly knowledge. This person is knowledgeable, and, while he did not undergo formal education, is still someone who knows how the world around him runs. At the same time, there may be those who underwent formal education, but do not know anything about the real world around them.
+## Modes of education
+
+All sources of education can be classified into two: formal and informal. The former being established institutions such as schools and colleges, and the latter being the other modes, that will be talked about in a moment. Formal education may not be accessible to everyone, in spite of efforts by the government and the non-governmental organisations.
 
 One of the modes of education, in the former sense, is folklore and other informal ways of acquiring knowledge. And today, I thought I would talk about the importance of this mode of education from the perspective of a democracy.
 
 ## On satire
 
-In my third grade, I was introduced to the "art class". My art teacher was a big consumer of cartoons. (It had nothing to do with how critical he was of the real world.) He endorsed R.K. Lakshman's _You said it_. Cartoons he drew used to have some elements from the great Lakshman's style. One day, I decided to have a look at the cartoon on that day's newspaper---I was still in the third grade. I saw the cartoon, I read the caption. I did not understand what was so great about the piece of work. I did not understand what made the cartoon so funny. I did not appreciate the satirical value of the piece. Unfortunately, I don't remember, two decades later, what the cartoon was about that day.
+Digressing a little: In my third grade, I was introduced to the "art class". My art teacher was a big consumer of cartoons. He endorsed R.K. Lakshman's _You said it_. Cartoons that my teacher drew used to have some elements from the great Lakshman's style. One day, I decided to have a look at the cartoon on that day's newspaper, while still in the third grade. I saw the cartoon, I read the caption. I did not understand what was so great about the piece of work. I did not understand what made the cartoon so funny. I did not (could not) appreciate the satirical value of the piece. Unfortunately, I don't remember, two decades later, what the cartoon was about that day.
 
-My point is, assimilation of anything of great satirical value requires the viewer/reader some level of understanding of what is being attacked. Without the real understanding of aspects such as democracy or secularism, taunts on it can corrupt the actual understanding of the idea. Unfortunately, that is what is happening today. While superficial knowledge is openly available, in the form of political speeches and debates involving politicians and garbed lobbyists. Terms that refer to great ideas are reduced to being derogatory terms such as _demo-crazy_ and _sick-ularism_.
+The point is, assimilation of anything of satirical value requires the viewer/reader to have some level of understanding of what is being attacked. If the taunt is short-lived, it may not make a serious impact on the minds of those who don't understand the context, however, if the same taunt is repeated, the impact may be adverse.
 
-Today, while I was pondering over how some of the powerful are misleading the common man into thinking that a party and a government are the same, it dawned on me, when I thought about it along with the fact about the low rate of education (differentiate between a learned and an educated person before you read further) in our country, that we never teach enough people about democracy in the first place, while videos where people laugh at 'demo-crazy' is being made freely available to everyone! Couple this effect with the open and free availability of Internet access to every nook and corner of the country, and you are looking at the India of today, where even the learned don't appreciate the concept of democracy anymore.
+Take for example, two of the most talked-about aspects: democracy and secularism. Taunts on these have corrupted the actual understanding of the idea for those who did not understand what they are. Superficial knowledge (the said taunt) is openly available, in the form of political speeches and debates involving politicians and garbed lobbyists. These terms that refer to great ideas have been reduced to being derogatory terms, such as _demo-crazy_ and _sick-ularism_.
 
-Granted, political parties are making a mockery of it by leading people into thinking that democracy is all about simply voting, and about forming coalition governments, there are other parties that are making statements about how a coalition government is bad for the country, and worse, there are people cheering for this idea!
+Today, while I was pondering over how some of the powerful are misleading the common man into forgetting the difference between a party and a government, an epiphany hit me, when taken in conjunction with the fact about the low rate of education in our country: We don't teach enough people about democracy in the first place, while videos where people laugh at 'demo-crazy' is being made freely available to everyone! This effect is amplified by the open and free availability of Internet access to every nook and corner of the country; you are looking at the India of today, where even the learned don't appreciate the concept of democracy anymore.
+
+This has led to political parties making a mockery of it by leading people into thinking that democracy is only about voting, and about forming coalition governments. And there are parties that are making statements about how a coalition government is bad for the country. People's cheering for this idea only makes things worse.
 
 But this brings us back to the point on education.
 
 ## The role of informal education
 
-Today's folklore are full of stories of kings and the princes and the princesses, our epics are about kings and the fights between them, and so on. Not one story I've heard in my childhood were directed towards anything close to democracy, or even if any were, it was never pointed out in specific, in a way that it contested the firm understanding of monarchy, subtly infused into us by the sheer number of stories of kings and queens and their families.
+Here is the epiphany I spoke about:
 
-My only source of understanding democracy was civics, and later on, editorials and other columns in newspapers and magazines.
+Today's folklore are full of stories of kings and princes and princesses; our epics are about kings and their duels. There are stories of invasions (and nothing about inclusions). Not one story I've heard in my childhood was directed towards anything close to democracy, or even if any were, it was never pointed out in specific, in a way that it contested the firm understanding of and belief in monarchy, subtly infused into us by the sheer number of stories of kings and queens and their families.
 
-My point is, there should be more stories told to the common folk, that talk about the concept of democracy. Democracy is a relatively new concept. If it is not, and the fact that I am saying that democracy is a relatively new concept, should speak about how it was never emphasised upon in my childhood.
+While the idea of using our current terminology (such as _rājya_ for state) was to make the understanding easier for the common folk, I feel that these terms may be subtly conveying a message that we did not intend: That we, the "subjects", are still "ruled" by the "rulers".
 
-And this should happen before politicians misuse their reach to deliver the message that monarchy or autocracy is good for India, and that the public should push for it. With such campaigning, if at all it succeeds, we would jump from the current conservative-party-led position to the extreme right, which would be the opposite of democracy.
+## On rulers
 
-## On the common sources of knowledge
+We would like to think that our rulers of the past, such as Ashoka, Rājarāja Chola or Akbar were great, a majority of them have not really been the kind to really empower people the way they should have. All our stories are about them having a lavish life, with boatloads of respect from their subjects. While there are stories (and/or chronicles) about how their sons and daughters were educated to great levels, there is none about how the children of common men were educated. Mostly, education comes in the context of the children of the elite members of those societies.
 
-I understand that there is now the temptation to talk about the government's work towards providing children with free education at least until the age of fourteen, but the mere numbers of schools that are actively teaching children (let alone the quality of education in the schools), are unnerving.
+This not only subtly gives the idea that education is not an important aspect of the commons' children, it mostly talks about what a great life the kings and their families had. It seems that this is the general attitude we still carry, as much as we would like to think that we are progressing intellectually.
+
+As a corollary, this also makes the current "rulers" mainly focus on the power, the wealth, the comfort and the respect. And we still continue with the ocean of gap between the "high society" and the commons, in terms of financial status, status in the society, the lifestyle, etc. We have completely forgotten the basis on which the Republic of India was formed: that we are a sovereign socialist democratic republic.
+
+## On democracy
+
+Democracy is a relatively new concept. Democracy is not how the world at large worked in our history. If democracy were common, the fact that I say that democracy is indeed a relatively new concept[^old-democracy], should speak about how it was never emphasised upon in my childhood. My only source of understanding democracy was civics. Only later did I gather more from editorials and other columns in newspapers and magazines. And Wikipedia, of course. As I said, the understanding I gathered from the latter sources was based on what I gathered in my civics class. In other words, my first source of understanding democracy was _formal education_.
+
+[^old-democracy]: Democracy was not unknown to the Indian subcontinent, per se. Some sects within the Indian subcontinent do seem to have followed the democratic system, such as the Gopalas of Bengal, the Pandyas/Cholas of Uthiramerur, and Guru Gobind Singh. However, all of this is little-known, and while elaborate for those ages, these systems only share some similarities with modern democracy.
+
+Given that formal education is much weaker in our society, there should be more stories told to the common folk, that talk about the concept of democracy. And this should happen _before_ politicians misuse their reach to deliver the message that monarchy, autocracy or aristocracy or a combination of these is the way for India, and that the public should push for it. If such campaigning succeeds, we would leap from the current conservative-party-led position to the extreme right, which would be quite the opposite of democracy.
+
+## On the common sources of informal knowledge
+
+There is no question that the government does make efforts towards providing children with free education at least until the age of fourteen, but the mere numbers of schools that are actively teaching children (let alone the quality of education in the schools), are unnerving. Informal education has a better chance of delivering this idea to the commons.
 
 Doordarshan seems to be among the better ways that we currently have, to deliver knowledge, but that again, given the reach of satellite television and the popularity of commercial channels over government-run channels, the situation is discouraging. This is the age of _Chhota Bheem_ and _Little Singham_. Unfortunately, the former also builds upon our past of monarchy. It instils in the minds of the children that kings are great, and everyone is happy when a good king rules. Granted, it may be true (and it is in many countries out there), but India of the twenty-first century is a democratic republic.
 
----
-
-Kings have perhaps used the capitalistic model in the past. If not, read about Nader Shah's invasion of Delhi.
-
-Today, "Intellectual" is a derogatory term. "Secular" is a derogatory term.
+Perhaps the government can begin a programme to create a set of modern folk tales and fables that talk about self-governance, democracy, the greatness of the secular philosophy. (Hinduism is, in fact, a secular philosophy in itself. The sceptical can---and should---read at least a little of Swami Vivekananda, who talks beautifully about why Hinduism is great in its inclusive nature, along with perhaps a little history on how Hinduism was never a single religion, but a conglomeration of several schools of thought, philosophies and theologies that has never feared evolution).
