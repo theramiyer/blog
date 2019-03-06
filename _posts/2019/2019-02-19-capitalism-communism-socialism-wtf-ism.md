@@ -6,6 +6,8 @@ tags:
 - opinion
 - government
 - mythbuster
+- democracy
+- politics
 ---
 
 Let's face it, this is the generation of isms. Everywhere you go, every channel you pick, every Facebook page that floods your newsfeed, have one or the other form of _-ism_ being talked about: whether it's a meme, or a debate video (where you barely hear a thing), or a long post like this one. Needless to say, we're all either tired, or are numb.
