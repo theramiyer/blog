@@ -13,7 +13,7 @@ tags:
 
 Education is perhaps the most powerful weapon in the world. Education, starting from our childhood, shapes our thoughts, actions, interactions, and overall, our lives. Not only are our perceptions based on the learnings of our past, but our assimilation of new learnings depends strongly on the basis created by our experiences and past learnings.
 
-The talk of education brings to us the thought of literacy. We start thinking about how our rate of literacy is improving year on year. While the mainstream may suggest that literacy is a precursor to eduction, logically, they need not be correlated. And it is not, if we look at how we work as humans. For example, there may be literate members of the society, who stopped schooling after the fourth grade.
+The talk of education brings to us the thought of literacy. We start thinking about how our rate of literacy is improving year on year. While the mainstream may suggest that literacy is a precursor to education, logically, they need not be correlated. And it is not, if we look at how we work as humans. For example, there may be literate members of the society, who stopped schooling after the fourth grade.
 
 This is also not to say that those who underwent schooling are educated. There is an age-old, well-known point about the difference between the learned and the educated. But the line can be blurred in _this_ case.
 
@@ -75,7 +75,7 @@ Perhaps the government, along with learned citizens, can begin a programme to cr
 
 The idea is to make these learnings less classroom-like and more fun. Memes are another form of conveying these ideas. Of course, the lateral thinking required to convey these complex ideas in memes is beyond my capacity (to be optimistically realistic, I would add "as of now"). But there certainly are those who can handle this. Short films like the ones on cancer awareness do not seem to have much of an effect, though, despite the unquestionable reach.
 
-Regardless, we are a billion minds (no pun intended---this has nothing to do with the allegation that an organisation with the same name has been hired by a political party in India to manipulate voters). We should not be working on short cuts when political parties are investing all of their time and effort in propagating disinformation, and celebrating ignorance and misinformation.
+Regardless, we are a billion minds (no pun intended---this has nothing to do with the allegation that an organisation with a similar name has been hired by a political party in India to manipulate voters). We should not be working on shortcuts when political parties are investing all of their time and effort in propagating disinformation, and celebrating ignorance and misinformation.
 
 Let us work towards a better nation; a better democracy---the democracy that the makers of our nation and the writers of our constitution dreamt about and worked towards, shedding their blood, sweat and tears.
 
