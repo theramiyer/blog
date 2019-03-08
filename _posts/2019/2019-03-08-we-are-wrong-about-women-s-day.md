@@ -60,7 +60,7 @@ When I was in the final year of college, my friend contested for the post of the
 
 Taking "No" from women is an important issue today. Watch the film, _Pink_,  to know more. The _Pink_ "No" is just one among the several. Taking the "No" in the right way is about anything where the woman says no, and you respect her decision. You do not question it just because it was the woman who decided, especially when the decision rejects your thought, idea or proposal. It is not only about accepting the rejection, but _also about not having resentment towards them_ because of their rejection.
 
-It is about letting the woman decide what is good for her (including her finances), it is about being able to accept---without bringing in gender roles---that a woman is better at your job than you are. That also means, not saying things like 'Women are better at being teachers (but not engineers or drivers or astrophysicists).'
+It is about not coming in the way of her due right to decide what is good (including finances), it is about being able to accept---without bringing in gender roles---facts about a woman being better at your job than you are. That also means, not saying things like 'Women are better at being teachers (but not engineers or drivers or astrophysicists).'
 
 I really liked the '⁠... “to help her” manage' part. I have heard a lot of my friends say, 'Well, she cooks, but I also help her.' Basically, this means, the "she" runs the house, but the "he" helps her. It means that "she" has "accepted" the house chores as hers---which are hers to do because of gender roles---but "he" is kind enough to "help" her. This is bad.
 
