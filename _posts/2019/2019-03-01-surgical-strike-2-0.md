@@ -3,7 +3,6 @@ layout: "post"
 title: "Surgical Strike 2.0"
 subtitle: "In retrospect: the 26th Feb 2019 attack and beyond"
 date: "2019-03-01"
-canonical_url: https://medium.com/@theramiyer/surgical-strike-2-0-d67115ead019
 tags:
 - opinion
 - government
