@@ -9,11 +9,11 @@ During my graduation, in Chennai, I was used to travelling by bus. And even to g
 
 Over the past eight years, (as a Bangalorean now), I have only seen the service deteriorate. Once in 2017, it took me two-and-a-half hours to go from Uttarahalli to Basavanagudi and come back---2017. Imagine that!
 
-This issue of deterioration of <span class="small-caps"><span class="small-caps">BMTC</span></span>’s services is not as straightforward as it might seem to be. Here are some things that I think are the contributing factors, a couple of which snowball the issue:
+This issue of deterioration of <span class="small\-caps">BMTC</span>’s services is not as straightforward as it might seem to be. Here are some things that I think are the contributing factors, a couple of which snowball the issue:
 
 ## High fares
 
-<span class="small-caps"><span class="small-caps">BMTC</span></span>’s bus fares are among the highest in the country. At a point they went so high that it was more economical (on average) to get a dedicated Uber to the destination, if you were travelling with two others. If you were travelling within a single <span class="small-caps">BMTC</span> stage with someone accompanying you, it was more economical to take an auto-rickshaw. Of course, the officials realised that and reduced the fares within a few weeks. But the status of <span class="small-caps">BMTC</span> remains---the fares are still among the highest in the country.
+<span class="small\-caps">BMTC</span>’s bus fares are among the highest in the country. At a point they went so high that it was more economical (on average) to get a dedicated Uber to the destination, if you were travelling with two others. If you were travelling within a single <span class="small-caps">BMTC</span> stage with someone accompanying you, it was more economical to take an auto-rickshaw. Of course, the officials realised that and reduced the fares within a few weeks. But the status of <span class="small-caps">BMTC</span> remains---the fares are still among the highest in the country.
 
 But how would they reduce the fares? They have their employees who need to be paid, and the pay should enable the employees to sustain in a city with a high cost of living. Their buses need maintenance. They have to consider the fuel price hikes as well.
 
