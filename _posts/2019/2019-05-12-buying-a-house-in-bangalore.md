@@ -137,7 +137,26 @@ Some owners claim that their house should be worth a certain (high) price becaus
 
 In such a situation, you could end up selling the house for a mere million more than what was the price when you bought the house. You could end up losing almost two million rupees in bank interest. Not to mention that you probably cannot use most of the furnishings in the new house.
 
-A two bedroom house in the locality costs you a rent of ₹14,000 at the most. Whether you are an owner or a tenant, you would pay a maintenance of ₹1,500. Twelve years ago, the rent would have been about ₹4,000. A five percent increment in rent, term-on-term would have cost him a total of ₹7,79,371. Even a generous ten percent increment in rent every term would have cost him ₹10,78,999 at the end of thirteen terms (a term is 11 months: 144 months ÷ 11). He lost almost double that sum by buying the house⁠---or triple, with the actual market trend of 5% increment.
+A two bedroom house in the locality costs you a rent of ₹14,000 at the most. Whether you are an owner or a tenant, you would pay a maintenance of ₹1,500. Twelve years ago, the rent would have been about ₹4,000. A five percent increment in rent, term-on-term would have cost him a total of ₹7,79,371. Even a generous ten percent increment in rent every term would have cost him ₹10,78,999 at the end of thirteen terms (a term is 11 months: 144 months ÷ 11). He lost almost double that sum by buying the house⁠---or triple, with the actual market trend of 5% increment. Here is some calculation:
+
+| | Rent at 5% increment | Total rent for the term | Rent at 10% increment | Total rent for the term |
+| --- | --: | --: | --: | --: |
+|  Term 1 |  4,000.00 |  44,000.00 |  4,000.00 |  44,000.00 |
+|  Term 2 |  4,200.00 |  46,200.00 |  4,400.00 |  48,400.00 |
+|  Term 3 |  4,410.00 |  48,510.00 |  4,840.00 |  53,240.00 |
+|  Term 4 |  4,630.50 |  50,935.50 |  5,324.00 |  58,564.00 |
+|  Term 5 |  4,862.03 |  53,482.28 |  5,856.40 |  64,420.40 |
+|  Term 6 |  5,105.13 |  56,156.39 |  6,442.04 |  70,862.44 |
+|  Term 7 |  5,360.38 |  58,964.21 |  7,086.24 |  77,948.68 |
+|  Term 8 |  5,628.40 |  61,912.42 |  7,794.87 |  85,743.55 |
+|  Term 9 |  5,909.82 |  65,008.04 |  8,574.36 |  94,317.91 |
+|  Term 10 |  6,205.31 |  68,258.44 |  9,431.79 |  103,749.70 |
+|  Term 11 |  6,515.58 |  71,671.36 |  10,374.97 |  114,124.67 |
+|  Term 12 |  6,841.36 |  75,254.93 |  11,412.47 |  125,537.14 |
+|  Term 13 |  7,183.43 |  79,017.68 |  12,553.71 |  138,090.85 |
+| **Total** | **@5%** |  7,79,371.25 | **@10%** |  10,78,999.33 |
+
+Now, those who pitch buying a house as an investment so that they can rent it out to tenants and earn money on a monthly basis, look at this calculation and combine it with the interest you would be paying to the bank. Does buying a house to rent it out still look like an investment? On a long term---say, five _decades_---may be. But that is too long to start making profits; I would argue that it is not good investment.
 
 ## Case in point: A good sale candidate
 
