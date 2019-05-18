@@ -52,7 +52,7 @@ Going for a flat was the alternative.
 
 ## Depreciation
 
-A building is an immovable asset. Those who do not know what that is, a building is an asset that cannot move. Why does this matter? The value of the asset depends on its surroundings as well. If the surroundings develop to a great extent, the value of the property goes up. Bus stops, malls, schools, Metro stations, etc. appreciate the value. If the surroundings deteriorate, or two years later, someone finds out that the sewage line and the water line are right next to each other in the locality (and the information goes public---ahem), the value of the property will plummet. Apart from this, the whether the property being movable or immovable determines the _depreciation_.
+A building is an immovable asset. Those who do not know what that is, a building is an asset that cannot move. Why does this matter? The value of the asset depends on its surroundings as well. If the surroundings develop to a great extent, the value of the property goes up. Bus stops, malls, schools, Metro stations, etc. appreciate the value. If the surroundings deteriorate, or two years later, someone finds out that the sewage line and the water line are right next to each other in the locality (and the information goes public⁠---ahem), the value of the property will plummet. Apart from this, the whether the property being movable or immovable determines the _depreciation_.
 
 I would not have to worry much about the depreciation if I were owning an entire plot, because the value of a plot almost always appreciates. Compared to the appreciation of the land value, the depreciation of the constructed building would be too low to worry about. But not in case of a flat. When buying a flat, you would be owning an _undivided share_ (or <span class='small-caps'>UDS</span>) of the plot where the flat is. Essentially, you divide the total area of the land among the owners of the houses in the building, based on how big their houses are. For instance, if a plot (60″ × 40″) has four houses divided among two floors, of which two houses are 800 sqft. big and the other two are 600 sqft. big, the <span class='small-caps'>UDS</span> for those who own the 800 sqft. houses would be:
 
@@ -73,7 +73,7 @@ If two acres get divided among forty houses, what are you left with? In this cas
 
 And remember, you cannot sell your <span class='small-caps'>UDS</span> as a piece of land. You have zero freedom with it. The one way it helps is by reducing the depreciation by an almost insignificant amount.
 
-The construction is not great either. Most developers (I will refrain from naming them⁠---because this is a norm, and probably no builder is an exception) use substandard materials, are sometimes negligent---for example, you can knock on some of the tiles in my house, and you can hear a hollow underneath---and construct without leaving enough time for the concrete to cure. Seepage of water, cracked plasters and chipped edges are a disturbingly-common sight in Bangalore.
+The construction is not great either. Most developers (I will refrain from naming them⁠---because this is a norm, and probably no builder is an exception) use substandard materials, are sometimes negligent⁠---for example, you can knock on some of the tiles in my house, and you can hear a hollow underneath⁠---and construct without leaving enough time for the concrete to cure. Seepage of water, cracked plasters and chipped edges are a disturbingly-common sight in Bangalore.
 
 ## On area
 
@@ -111,7 +111,7 @@ Some of my friends are stuck in certain places because they think it is risky if
 
 ## Real estate prices
 
-Real estate in Bangalore is serious (good) business. One of my mother's cousins went from nothing to owning a <span class='small-caps'>BMW</span> because of real estate. At the same time, real estate is a safe haven for those with black money---this is no secret. Those with a lot of black money do not mind spending; the prices go up as a result. If you are spending your hard-earned money, you should think where the scales are, and who is tipping them.
+Real estate in Bangalore is serious (good) business. One of my mother's cousins went from nothing to owning a <span class='small-caps'>BMW</span> because of real estate. At the same time, real estate is a safe haven for those with black money⁠---this is no secret. Those with a lot of black money do not mind spending; the prices go up as a result. If you are spending your hard-earned money, you should think where the scales are, and who is tipping them.
 
 But is it not better if prices keep appreciating? As it turns out, no. Localities get crowded once all the plots get sold. Real estate businessmen are not interested in resale of properties; the margin is low in it. Developing a place that has nothing is more interesting. And lucrative. A place that has nothing but barren fields will sell at a much higher margin than one in a residential locality. Businessmen like converting barren fields into residential plots. This way, they buy an acre at four million and sell it at forty. The one that buys this plot wants to construct as many houses as he can. He crams forty houses there. Spends a million on each house, and sells each house at 5 million.
 
@@ -156,11 +156,11 @@ A two bedroom house in the locality costs you a rent of ₹14,000 at the most. W
 |  Term 13 |  7,183.43 |  79,017.68 |  12,553.71 |  138,090.85 |
 | **Total** | **@5%** |  7,79,371.25 | **@10%** |  10,78,999.33 |
 
-Now, those who pitch buying a house as an investment so that they can rent it out to tenants and earn money on a monthly basis, look at this calculation and combine it with the interest you would be paying to the bank. Does buying a house to rent it out still look like an investment? On a long term---say, five _decades_---may be. But that is too long to start making profits; I would argue that it is not good investment.
+Now, those who pitch buying a house as an investment so that they can rent it out to tenants and earn money on a monthly basis, look at this calculation and combine it with the interest you would be paying to the bank. Does buying a house to rent it out still look like an investment? On a long term⁠---say, five _decades_---may be. But that is too long to start making profits; I would argue that it is not good investment.
 
 ## Case in point: A good sale candidate
 
-My uncle bought a house in Chennai for five lac (half a million) rupees in 2005. He got an undivided share of 600 sqft. In 2015, they got their house reconstructed. A builder approached them, saying he would reconstruct the house if everyone in the flat complex agreed to his proposal. His proposal was that he would demolish the entire complex (four houses---two on each floor), and construct a new building which would have six houses split in two floors, plus a parking area on the ground floor. The builder would give a house to each of the current owners, and would sell two for profit. As an added benefit, each of the current owners would get 150 sqft. more in the new house.
+My uncle bought a house in Chennai for five lac (half a million) rupees in 2005. He got an undivided share of 600 sqft. In 2015, they got their house reconstructed. A builder approached them, saying he would reconstruct the house if everyone in the flat complex agreed to his proposal. His proposal was that he would demolish the entire complex (four houses⁠---two on each floor), and construct a new building which would have six houses split in two floors, plus a parking area on the ground floor. The builder would give a house to each of the current owners, and would sell two for profit. As an added benefit, each of the current owners would get 150 sqft. more in the new house.
 
 At the moment, the price of a plot (60″ × 40″) of land in that locality sells for about a crore (10 million) rupees. The value of the <span class='small-caps'>UDS</span> itself in his case is about 1.7 million, over three times of what he bought the house for. Plus, the last house that got sold in the building sold for over four million.
 
