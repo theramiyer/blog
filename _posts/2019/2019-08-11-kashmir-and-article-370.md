@@ -105,11 +105,11 @@ Why do we need this system? The reason is that each region is different in its o
 
 In India (and most other federal republic nations), the central government manages areas such as defence, finance, external affairs, etc., while the state government manages areas such as physical infrastructure, education, etc. The state governments have autonomy in areas they manage. This autonomy is necessary.
 
-Union Territories are directly managed by the central government, wherein, the President appoints a Lieutenant Governor, who heads the union territory. Compared to a state, the union territory is less autonomous. This is the reason for the expression, '_Reducing_ a state to a union territory'.
+Union Territories are directly managed by the central government, wherein, the President appoints a Lieutenant Governor, who heads the union territory. A union territory is less autonomous compared to a state. This is the reason for the expression, '_Reducing_ a state to a union territory'.
 
 Fact is, Union of India, during the years of formation of the Constitution, the Constituent Assembly of India asked the states to send their representatives to the Assembly. They also encouraged the states to form their respective Constituent Assemblies. Three states formed their own Constituent Assemblies, and all the states sent their representatives to the Constituent Assembly of India. The State Department developed a model constitution for the states. But later, the rulers and chief ministers of all the states, in a meeting, decided that separate constitutions for the states was unnecessary; the suggestions made by the states that had their constituent assemblies anyway got accepted in the Constitution of India. Every state, except the state of Jammu and Kashmir accepted the Constitution of India as their constitution.
 
-A point to note is that the Constituent Assembly of Jammu and Kashmir dissolved itself in 1957, and Kashmir formally became part of the Indian Union. The Legislative Assembly remained, of course.
+A point to note is that the Constituent Assembly of Jammu and Kashmir dissolved itself in 1957, and Kashmir formally became part of the Indian Union through Article 370. The Legislative Assembly remained, of course.
 
 ## Separatism in Kashmir
 
@@ -131,7 +131,7 @@ The solution?
 
 The political parties of Kashmir have their own agendas that keep changing as days pass, which are highly unpredictable. The stand taken by the <span class='small-caps'>NDA</span> government is that the autonomy of Jammu and Kashmir did not help the common men and women of the region. In fact, it worsened the situation for regions such as Leh and Kargil. While the members of the Ladakh region are majority Buddhist, they feel the Muslim majority regions have had the most attention from the politicians of the region. Those in the Ladakh region feel let down.
 
-The political parties have aided the separatist groups as well, either directly or indirectly, on more than one occasion.
+The political parties have aided the separatist groups as well, either directly or indirectly, on more than one occasion. No dice.
 
 ## The Jammu and Kashmir Reorganisation Act
 
