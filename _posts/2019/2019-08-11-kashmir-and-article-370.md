@@ -19,6 +19,11 @@ We heard a lot of noise throughout the last week over the abrogation of Article�
 
 Think again.
 
+Here are the topics I will touch upon in this post:
+
+- TOC
+{:toc}
+
 ## The Articles
 
 <span class='small-caps'>Article 370</span> recognises Jammu and Kashmir as a special state, and provides it with autonomy. The reason for this goes back to the time when Maharaja Hari Singh (the ruler of Kashmir when the British left India) signed the _Instrument of Accession_ (more on that in a moment).
@@ -31,13 +36,13 @@ For now, also note that Kashmir is not the lone state with special status. Thoug
 
 <span class='small-caps'>Article 35<span class='small-caps'>A</span></span> defines "permanent residents of Jammu and Kashmir", and gives them benefits and protections, such as buying and owning property in Jammu and Kashmir, getting state government jobs in Jammu and Kashmir, and getting other benefits from the state government, including scholarships. This article says that everything that is within the state belongs to the domiciles of the state, and nobody else. Explaining the necessity of this article requires bringing history into view.
 
-## The pieces of India
+## The pieces that made India
 
 Understand that India was not a single nation. I know that there are talks of Aryavarta, a single empire, and the kingdoms being vassals of it. People have argued over the truthiness of these statements. We are not going there. We will talk of, let us say, the history of the Modern Indian Subcontinent---the last two centuries.
 
 When the British ruled India, there were two kinds of subjects: State Subjects and Colonial Subjects. In the context, the princely states were state subjects. Those regions that were not among the princely states (such as Madras) were colonial subjects. In that view, Hyderabad, Mysore, Maratha, etc., were state subjects.
 
-In simple terms, when the British were leaving India, they would leave behind _dominions_.
+When leaving, the British would leave behind _dominions_, not kingdoms.
 
 This is the time the concept of the Two-Nation Theory came into existence. Jinnah (and the Muslim League) would create a dominion that will be of the Muslims, called Pakistan, and the Indian National Congress would create a dominion on secular grounds, called the Union of India. Understand the statement: To be in India, you did not have to be a Hindu. As a Muslim or a Christian or a Buddhist or even an atheist, you could be an Indian. Muslims across the land had a choice they could make: either remain in the secular Dominion of India, or join the Islamic Dominion of Pakistan.
 
@@ -61,7 +66,7 @@ Hari Singh, at the time of independence of India and Pakistan, wanted Kashmir to
 
 In order that his state remains independent while he decides its future, he sent a _Standstill Agreement_ to both India and Pakistan, asking both the parties to not change the ongoing arrangements (and the status of his state). Pakistan agreed to it. Nehru, being a Kashmiri Pandit (conspiracy theories aside), did not want Kashmir to be part of Pakistan. India called Maharaja Hari Singh for "negotiating Standstill Agreement between Kashmir Government and Indian dominion."
 
-Variables change (as they do in politics) and Pakistan attacked Kashmir out of the blue. The Maharaja asked India for help. The Governor General of India said that it would be diplomatically, politically and strategically dangerous to send Indian troops to a state that was not part of India---a state that was neutral between India and Pakistan. The Government of India suggested accession. Maharaja Hari Singh signed it, under conditions mentioned in the Instrument of Accession signed by India and Jammu & Kashmir.
+Variables change (as they do in politics) and Pakistan attacked Kashmir out of the blue. The Maharaja asked India for help. The Governor General of India said that it would be diplomatically, politically and strategically dangerous to send Indian troops to a state that was not part of India---a state that was neutral between India and Pakistan. The Government of India suggested accession. Maharaja Hari Singh signed the Instrument of Accession, under certain conditions.
 
 The Indian troops moved in and a battle ensued. There were some wins and some losses. Because both the nations were still infant nations, and when soldiers could not fight battles in the cold weather in the Valley (the technology in the late forties could not help with battles in such weather conditions---on both sides), the battle that started in 1947 ended in 1948. When the cold struck hard in 1947, the Indian troops (of which Brigadier L. P. Sen was part) took a break, and so did the Pakistani army. When the conditions became better, Pakistan had "cemented" the border (which is now Line of Control in Pakistan-occupied Kashmir).
 
