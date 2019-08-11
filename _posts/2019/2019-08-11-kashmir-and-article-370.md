@@ -1,9 +1,18 @@
 ---
 layout: "post"
 title: "Kashmir and Article 370"
-date: "2019-08-10"
+date: "2019-08-11"
 tags:
--
+- kashmir
+- India
+- politics
+- diplomacy
+- geo-politics
+- insurgency
+- accession
+- history
+- civics
+- constitution
 ---
 
 We heard a lot of noise throughout the last week over the abrogation of Article 370 (and subsequently, Article 35<span class='small-caps'>A</span>). My friends and I had discussions and arguments as well. Everyone kept saying: Article 370 is "no longer valid" in the state of Jammu and Kashmir. Why, Jammu and Kashmir was no more a state! But then, as with all noises, this noise added to the confusion in our minds. And  before we go any further, let me say in simple English, what Article 370 and Article 35<span class='small-caps'>A</span> are. Easy one-line statement, you think?
