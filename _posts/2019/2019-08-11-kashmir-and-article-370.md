@@ -48,7 +48,7 @@ This is the time the concept of the Two-Nation Theory came into existence. Jinna
 
 But there was an issue. Some states had a majority Muslim population, but had Hindu rulers (Kashmir---78% Muslim, Hindu ruler: Hari Singh) and states that had a majority Hindu population, but ruled by Muslim rulers (example, Junagadh and Hyderabad).
 
-Sardar Vallabbhai Patel took up the task of meeting with the rulers of all the princely states and asking them to join the Indian dominion. Instrument of Accession is the paperwork the parties (Dominion of India and the princely state) signed for this purpose. For instance, if you were a ruler, you would sign the Instrument of Accession with the Dominion of India, and become part of India.
+Sardar Vallabhbhai Patel took up the task of meeting with the rulers of all the princely states and asking them to join the Indian dominion. Instrument of Accession is the paperwork the parties (Dominion of India and the princely state) signed for this purpose. For instance, if you were a ruler, you would sign the Instrument of Accession with the Dominion of India, and become part of India.
 
 By the time of independence of India, all states except the three---Jammu and Kashmir, Junagadh and Hyderabad---had signed the Instrument of Accession.
 
