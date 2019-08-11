@@ -6,7 +6,9 @@ tags:
 -
 ---
 
-We heard a lot of noise throughout the last week over the abrogation of Article 370 (and subsequently, Article 35A). My friends and I had discussions and arguments as well. Everyone kept saying: Article 370 is "no longer valid" in the state of Jammu and Kashmir. Why, Jammu and Kashmir was no more a state! But then, as with all noises, this noise added to the confusion in our minds. And  before we go any further, let me say in simple English, what Article 370 and Article 35A are.
+We heard a lot of noise throughout the last week over the abrogation of Article 370 (and subsequently, Article 35<span class='small-caps'>A</span>). My friends and I had discussions and arguments as well. Everyone kept saying: Article 370 is "no longer valid" in the state of Jammu and Kashmir. Why, Jammu and Kashmir was no more a state! But then, as with all noises, this noise added to the confusion in our minds. And  before we go any further, let me say in simple English, what Article 370 and Article 35<span class='small-caps'>A</span> are. Easy one-line statement, you think?
+
+Think again.
 
 ## The Articles
 
@@ -18,7 +20,7 @@ To know more about the "temporary" status of the Article, we would need to know 
 
 For now, also note that Kashmir is not the lone state with special status. Though the provisions under special status may vary, regions in Maharashtra, Nagaland, Karnataka, Gujarat, etc. are also covered under special provisions that concern the domiciles of the region. Article 371 of the Constitution of India defines these provisions for the other states.
 
-<span class='small-caps'>Article 35A</span> defines "permanent residents of Jammu and Kashmir", and gives them benefits and protections, such as buying and owning property in Jammu and Kashmir, getting state government jobs in Jammu and Kashmir, and getting other benefits from the state government, including scholarships. This article says that everything that is within the state belongs to the domiciles of the state, and nobody else. Explaining the necessity of this article requires bringing history into view.
+<span class='small-caps'>Article 35<span class='small-caps'>A</span></span> defines "permanent residents of Jammu and Kashmir", and gives them benefits and protections, such as buying and owning property in Jammu and Kashmir, getting state government jobs in Jammu and Kashmir, and getting other benefits from the state government, including scholarships. This article says that everything that is within the state belongs to the domiciles of the state, and nobody else. Explaining the necessity of this article requires bringing history into view.
 
 ## The pieces of India
 
@@ -40,9 +42,9 @@ Sardar Patel (and much of Congress, in fact) were not interested in the accessio
 
 ## The shortened story of Kashmir
 
-Let us start with the introduction of the spirit of Article 35A. The Kashmiri Pandits expressed their concern to Maharaja Hari Singh that Kashmir should be for Kashmiris. That nobody other than Kashmiris should be able to use any of the resources in Kashmir, and that the government (of Jammu and Kashmir) should protect the interests of the Kashmiris _from the British_.
+Let us start with the introduction of the spirit of Article 35<span class='small-caps'>A</span>. The Kashmiri Pandits expressed their concern to Maharaja Hari Singh that Kashmir should be for Kashmiris. That nobody other than Kashmiris should be able to use any of the resources in Kashmir, and that the government (of Jammu and Kashmir) should protect the interests of the Kashmiris _from the British_.
 
-Maharaja Hari Singh started enacting the legal provisions for this from 1912 (thirty-five years before independence). This went on for about a couple of decades, when the provisions took the form of more or less what Article 35A says today. But Article 35A is not the sole piece of document that guarantees these rights and privileges to the Kashmiris.
+Maharaja Hari Singh started enacting the legal provisions for this from 1912 (thirty-five years before independence). This went on for about a couple of decades, when the provisions took the form of more or less what Article 35<span class='small-caps'>A</span> says today. But Article 35<span class='small-caps'>A</span> is not the sole piece of document that guarantees these rights and privileges to the Kashmiris.
 
 In the 1930s, the Maharaja leased out the north-western region of Kashmir, also known as Gilgit then (and Gilgit-Baltistan now) to the British. If I remember it right, this lease was for six decades. The British formed their Gilgit Scouts and remained there, even through the independence of India. Keep this in a corner of your mind for now.
 
@@ -70,15 +72,15 @@ Article 370 was a result of all this that happened in 1947 -- ’48. The In
 
 Effectively, there were two systems in place now. The people of Jammu and Kashmir would follow what their constitution says. The Constitution of India adopted the Constitution of Jammu and Kashmir. Any amendments that the government made to our constitution did not directly apply to the state of Jammu and Kashmir. The bill went to the Constituent Assembly of Jammu and Kashmir, and after the Assembly passed it there, their constitution received the amendment, and the bill came into effect after that.
 
-In other words, Jammu and Kashmir operated as almost a separate country, who had sworn allegiance to India. They had their own flag, and their own constitution. The people born in Jammu and Kashmir became citizens of Jammu and Kashmir first, and then, India. Until 1954, Kashmiris did not even automatically become citizens of India. And until the sixties, Jammu and Kashmir would elect the Prime Minister of Jammu and Kashmir, not the Chief Minister; A practice that had stopped in the other provinces in 1950---after the formation of the Republic of India.
+In other words, Jammu and Kashmir operated as almost a separate country, who had sworn allegiance to India. They had their own flag, and their own constitution. The people born in Jammu and Kashmir became citizens of Jammu and Kashmir first, and then, India. Until 1954, Kashmiris did not even automatically become citizens of India. And until the sixties, Jammu and Kashmir would elect the Prime Minister of Jammu and Kashmir, not the Chief Minister; a practice that had stopped in the other provinces in 1950---after the formation of the Republic of India.
 
-Over time, though, the power of Article 370 has gotten eroded. Nehru himself admitted to this in 1963. The Article also gives the President of India the power to bring changes to the Article by a presidential order (why, this is how Article 35A got added in the first place).
+Over time, though, the power of Article 370 has gotten eroded. Nehru himself admitted to this in 1963. The Article also gives the President of India the power to bring changes to the Article by a presidential order (why, this is how Article 35<span class='small-caps'>A</span> got added in the first place).
 
 The government has also used Article 370 to extend provisions of our constitution to Jammu and Kashmir, a whopping forty-five times. Our constitution contains the Union List, which are aspects that the Constitution controls, also known as subjects. Ninety-four out of ninety-seven subjects in the Union List of the Constitution now directly apply to Jammu and Kashmir (without the necessity of consulting with its constituent assembly). Over 65% of the articles in the Constitution are directly applicable in Jammu and Kashmir.
 
 Question: was "scrapping" Article 370 such a big deal after all?
 
-Coming to Article 35A, one of the paragraphs in the Instrument of Accession protects the rights of the domiciles of Jammu & Kashmir. Article 35A is almost a repetition of it. Which brings us to the question, did it matter that Article 35A got scrapped?
+Coming to Article 35<span class='small-caps'>A</span>, one of the paragraphs in the Instrument of Accession protects the rights of the domiciles of Jammu & Kashmir. Article 35<span class='small-caps'>A</span> is almost a repetition of it. Which brings us to the question, did it matter that Article 35<span class='small-caps'>A</span> got scrapped?
 
 Another point to note is that Article 370 is not technically "gone" (and that is good); the case now is that the state of Jammu and Kashmir is no more a special state. If Article 370 were no more, Jammu and Kashmir will no more be ours. No, not that J&K will want to separate, but because Article 370 is the single little thread that joins Jammu and Kashmir to us, if the Instrument of Accession and the authority of Maharaja Hari Singh comes into question. The Article should _not_ "get scrapped". Remember, we have not yet held the plebiscite. If the people of Jammu and Kashmir choose to stay with India through the plebiscite, there would then be no need of Article 370; that is the situation in which there will be no need of Article 370 for Jammu and Kashmir to be part of India.
 
@@ -108,7 +110,7 @@ While the people of Jammu and Kashmir were in favour of joining with India up un
 
 The feeling was, India no more sees Kashmir as a people, but as a piece of land. That India (and Pakistan) are more concerned about the territory and not about the people. This separates the Kashmiris into three groups: Ones that are still in support for Kashmir's accession to India, ones that are angry with India and want to join Pakistan instead, and the third, who want nothing to do with either country.
 
-Given the skirmishes in the last two to three decades, the sentiment is that the secular model of India has failed in Jammu and Kashmir, and that the Kashmiri Muslims are not seen as "loyal" Indians. 'Then why even bother?' I have heard this sentiment first hand from a Kashmiri Muslim who was a colleague. He said he wanted to join India, but the government authorities see his people at home with an eye of suspicion all the time, that they are Pakistan-friendly (because they are Kashmiri Muslim), while in reality, they are not.
+Given the skirmishes in the last two to three decades, the sentiment is that the secular model of India has failed in Jammu and Kashmir, and that the Kashmiri Muslims are not seen as "loyal" Indians. 'Then why even bother?' I have heard this sentiment first hand from a Kashmiri Muslim who was a colleague. He said he wanted Kashmir to join India, but the government authorities see his people at home with an eye of suspicion all the time, that they are Pakistan-friendly (because they are Kashmiri Muslim), while in reality, they are not.
 
 Another important point to note is that militancy has been drastically growing in the state. Militant groups now target regular Muslim homes that have male children. The groups force families to let one of their children join a militant group. The groups threaten to annihilate the entire family if they don't send a child to the group. Some families relent, while others get killed. Those that relent become a target of the forces, and the forces begin surveillance, and ill-treatment in the name of enquiries and investigation. Again, facts well-known to us all. But again, how do you handle such a situation? How can we, as a country, allow militancy? If a family has sent a boy to the group, a great way of being able to reach the militant group is by "keeping an eye" on the family. But then, how would the families feel? Is self-preservation not a basic human right? At the same time, is promoting militancy the way?
 
@@ -122,7 +124,7 @@ The political parties of Kashmir have their own agendas that keep changing as da
 
 The political parties have aided the separatist groups as well, either directly or indirectly, on more than one occasion.
 
-## August 2019
+## The Jammu and Kashmir Reorganisation Act
 
 August 2019 brought drastic changes to the way Jammu and Kashmir operated. While for so long, Jammu and Kashmir had "great" autonomy (highly debatable, of course), the central government stripped it of the autonomy, through the Jammu and Kashmir Reorganisation Act.
 
@@ -138,7 +140,7 @@ The Shimla Agreement states that India and Pakistan will handle all disputes abo
 
 ## Prime Minister Modi's speech
 
-In his speech to the Nation on August 8, the Prime Minister spoke about critical points about stripping Jammu and Kashmir of its special status. The intended message of the Act essentially is, 'People of Jammu and Kashmir, we will no more treat you different from the rest of the states of India. Welcome to the family.' PM Modi subtly says, 'We have tried ways to make life better for you, to give you the life that the other Indians enjoy, but the attempts have failed. This time, I am trying something new, give me a chance.'
+In his speech to the Nation on August 8, the Prime Minister spoke about critical points about stripping Jammu and Kashmir of its special status. The intended message of the Act essentially is, 'People of Jammu and Kashmir, we will no more treat you different from the rest of the states of India. Welcome to the family.' PM Modi subtly says, 'We have tried ways to make life better for you, to give you the life that the other Indians enjoy, but the attempts have failed. This time, I am trying something new, give me a chance. Let us see how this goes.'
 
 But in the process, the Kashmiris feel that the government has not consulted them in the last seven decades. That this situation is nothing new. They feel that India alienates their Muslims, and that India sees Kashmir as not people, but as a piece of territory. This is a valid stand; look at what the politicians of the lower cadres are saying. Look at the fear that makes India not let any of the hundreds of television channels run in Kashmir. The Kashmiri stand is, if India trusts their allegiance, India should open free speech and free press and television and other communication channels in the region.
 
