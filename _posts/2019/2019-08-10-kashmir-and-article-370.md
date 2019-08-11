@@ -76,7 +76,7 @@ Over time, though, the power of Article 370 has gotten eroded. Nehru himself ad
 
 The government has also used Article 370 to extend provisions of our constitution to Jammu and Kashmir, a whopping forty-five times. Our constitution contains the Union List, which are aspects that the Constitution controls, also known as subjects. Ninety-four out of ninety-seven subjects in the Union List of the Constitution now directly apply to Jammu and Kashmir (without the necessity of consulting with its constituent assembly). Over 65% of the articles in the Constitution are directly applicable in Jammu and Kashmir.
 
-That brings us to the question, was scrapping Article 370 such a big deal after all?
+Question: was "scrapping" Article 370 such a big deal after all?
 
 Coming to Article 35A, one of the paragraphs in the Instrument of Accession protects the rights of the domiciles of Jammu & Kashmir. Article 35A is almost a repetition of it. Which brings us to the question, did it matter that Article 35A got scrapped?
 
@@ -86,9 +86,9 @@ Another point to note is that Article 370 is not technically "gone" (and that i
 
 We are a federal parliamentary democratic republic. A mouthful to say. In a  _federal_ democratic system, each region has its state government, which governs the region, in its own way, by listening to its people. This is the role of the state governments in our country. The central government runs the country as a whole, by taking into account the state governments.
 
-This is the reason we have two elections: <span class='small-caps'>MLA</span> and <span class='small-caps'>MP</span> elections. The state government has a Legislative Assembly. The <span class='small-caps'>MLA</span>, or the Member of the Legislative Assembly, is part of the state government. The Members of the Legislative Assembly elect their chief, who becomes the Chief Minister of the state.
+This is the reason we have two elections: <span class='small-caps'>MLA</span> and <span class='small-caps'>MP</span> elections. The state government has a Legislative Assembly. The <span class='small-caps'>MLA</span>, or the Member of the Legislative Assembly, is part of the state government. The Members of the Legislative Assembly elect their chief, Chief Minister of the state.
 
-During the parliament elections (or more precisely, Lok Sabha elections), members of each of our constituencies elect their MP, (Member of Parliament). The head of all members of parliament is the Prime Minister.
+During the parliament elections (or more precisely, the Lok Sabha elections), members of each of our constituencies elect their MP, (Member of Parliament). The head of all members of parliament is the Prime Minister.
 
 Why do we need this system? The reason is that each region is different in its own way, and each region should have its autonomy in how we run it. The area and the population is rather large, and diverse. In essence, what applies to Gujarat may not necessarily apply to Kerala. Management of state resources, for example, is better done by the state government than the central government.
 
@@ -142,11 +142,11 @@ In his speech to the Nation on August 8, the Prime Minister spoke about critica
 
 But in the process, the Kashmiris feel that the government has not consulted them in the last seven decades. That this situation is nothing new. They feel that India alienates their Muslims, and that India sees Kashmir as not people, but as a piece of territory. This is a valid stand; look at what the politicians of the lower cadres are saying. Look at the fear that makes India not let any of the hundreds of television channels run in Kashmir. The Kashmiri stand is, if India trusts their allegiance, India should open free speech and free press and television and other communication channels in the region.
 
-But given the situation that prevails, can India indeed trust all Kashmiris to make their decision? Given the militancy and the increase in religious extremism, can India open up these channels of communication? Communication was anyway ceded to India in 1947; the Constitution of India took precedence over the State of Jammu and Kashmir in matters of defence, external affairs and communication per the Instrument of Accession.
+But given the situation that prevails, will Kashmir be able to make their decision? Given the militancy and the increase in religious extremism, can India open up these channels of communication? Communication was anyway ceded to India in 1947; the Constitution of India took precedence over the State of Jammu and Kashmir in matters of defence, external affairs and communication per the Instrument of Accession.
 
 ## What changes now
 
-In reality, not much in the functioning of people of Kashmir. There was President's Rule in the state, the Governor being the head of the state. The Governor still is the head of the state. Defence had its presence in the state, and the President's Rule had stripped the police of all power; the central government now controls the forces because Kashmir is a union territory.
+In reality, not much in the functioning of people of Kashmir. There was President's Rule in the state, the Governor being the head of the state. The Governor still is the head of the state. Defence had its presence in the state, and the President's Rule had stripped the police of all power; the central government now controls the forces because Kashmir is a union territory. What difference does it make?
 
 The statehood and the spirit of autonomy that was still a piece of hope in Jammu and Kashmir is now lost. Though done legally and constitutionally, this move was undemocratic without a question.
 
@@ -176,7 +176,7 @@ Given the bilateral nature of Shimla Agreement, the world has no say over what i
 
 Pakistan has received this message without ambiguity. Its actions that followed the Act erase all doubt about it.
 
-And the world has received the message as well. What we heard from the United Nations and the other members of the UN Security Council establishes the fact. The world now sees Kashmir as an internal, inseparable part of India. Of course, China had issues with that the new map showed Aksai Chin as part of Ladakh, but Aksai Chin is a different story; a story of negligence on part of India. A story little known, but that's for another time.
+And the world has received the message. What we heard from the United Nations and the other members of the UN Security Council establishes the fact. The world now sees Kashmir as an internal, inseparable part of India. Of course, China had issues with that the new map showed Aksai Chin as part of Ladakh, but Aksai Chin is a different story; a story of negligence on part of India. A story little known, but that's for another time.
 
 With this Act, and the Prime Minister's speech, India tells the world, Kashmir is not negotiable as Pakistan may have you believe. Kashmir is an internal matter of India. You are free to side either way. Remember, though, what India is and what Pakistan is, both strategically and economically. No matter who chooses what, Kashmir is India, and we entertain no dispute in it anymore.
 
