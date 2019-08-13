@@ -20,7 +20,7 @@ In the last two posts, we understood the technical aspects of the _Jammu and Kas
 
 Reading the series partially will make you judgemental, and will not do justice to reality. This part is more of a nuanced view of the situation, and is not for those with low emotional intelligence, but an important part nonetheless. I have warned you.
 
-<span class='small-caps'>Disclaimer</span>: I have never been to Kashmir. I have never had first-hand interactions with Kashmiris within Kashmir. What I have heard, and what I know, is from reading. But this reading has rejected boundaries. I used a non-profiling search engine, over a non-regionally-identifying browser, because I did not want the search engine to tailor the results around "Hindu searcher from India". As an Indian, I am subconsciously biased towards India, and I understand that. I have hence had to put conscious effort to make this as impartial as I can---there is no substitute for that.
+<span class='small-caps'>Disclaimer</span>: I have never been to Kashmir, and hence, I have never had first-hand interactions with Kashmiris in Kashmir. What I know, is from reading and interacting with Kashmiris here in Bangalore. But this reading has rejected boundaries. I used a non-profiling search engine, over a non-regionally-identifying browser, because I did not want the search engine to tailor the results around "Hindu searcher from India". As an Indian, I am subconsciously biased towards India, and I understand that. I have hence had to put conscious effort to make this as impartial as I can---there is no substitute for that.
 
 Here are the nuances:
 
