@@ -91,7 +91,7 @@ Which part of this was democratic? How would you see this as a Kashmiri?
 
 But then, if you see this as Government of India, how else would you abrogate Article 370?
 
-But why abrogate Article 370 at all, you ask? [Go back to the previous article.]({% post_url 2019/2019-08-12-kashmir-and-article-370-part-two#but-what-changes-now %})
+But why abrogate Article 370 at all, you ask? [Go back to the previous article.]({% post_url 2019/2019-08-12-kashmir-and-article-370-part-two %}#but-what-changes-now)
 
 ## The Two-Nation Theory
 
