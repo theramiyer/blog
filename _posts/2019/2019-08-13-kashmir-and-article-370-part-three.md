@@ -1,6 +1,7 @@
 ---
 layout: "post"
 title: "Kashmir and Article 370: Part Three"
+subtitle: "The nuances and the way forward"
 date: "2019-08-13"
 tags:
 - kashmir
@@ -36,7 +37,7 @@ We read about the break-up of the colonial cartographers' version of the map of 
 - Aksai Chin
 - Trans-Karakoram Tract
 
-The United States Library of Congress has a pictorial representation of the map. (The region shaded with red lines is the Trans-Karakoram Tract.)
+The United States Library of Congress has a pictorial representation of the map. (The region shaded with green lines is the Trans-Karakoram Tract.)
 
 ![Map of the Kashmir Region: United States Library of Congress \| Wikipedia](https://upload.wikimedia.org/wikipedia/commons/8/84/Kashmir_map_big.jpg)
 
