@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Kashmir and Article 370: Part Two"
+title: "Kashmir and Article 370: Part Two"
 subtitle: "The Present"
 date: "2019-08-12"
 tags:
@@ -25,13 +25,13 @@ This is the second part of the three-part series on the _Jammu and Kashmir Reorg
 
 Over the last six decades or so, the power of Article 370 has gotten eroded. Nehru himself admitted to this in 1963. The Article also gives the President of India the power to bring changes to the Article by a presidential order (why, this is how Article 35<span class='small-caps'>A</span> got added in the first place).
 
-The government has also used Article 370 to extend provisions of our constitution to Jammu and Kashmir, a whopping forty-five times. Our constitution contains the Union List, which are aspects that the Constitution controls, also known as subjects. Ninety-four out of ninety-seven subjects in the Union List of the Constitution now directly apply to Jammu and Kashmir (without the necessity of consulting with its constituent assembly). Over 65% of the articles in the Constitution are directly applicable in Jammu and Kashmir.
+The government has also used Article 370 to extend provisions of our constitution to Jammu and Kashmir, a whopping forty-five times. Our constitution contains the Union List, which are aspects that the Constitution governs, also known as subjects. Ninety-four out of ninety-seven subjects in the Union List of the Constitution now directly apply to Jammu and Kashmir, without the necessity of consulting with its (now-non-existent) constituent assembly. Over 65% of the articles in the Constitution are directly applicable in Jammu and Kashmir.
 
 Question: was "scrapping" Article 370 such a big deal after all?
 
 Coming to Article 35<span class='small-caps'>A</span>, one of the paragraphs in the Instrument of Accession protects the rights of the domiciles of Jammu & Kashmir. Article 35<span class='small-caps'>A</span> is almost a repetition of it. Which brings us to the question, did it matter that Article 35<span class='small-caps'>A</span> got scrapped?
 
-Another point to note is that Article 370 is not technically "gone" (and that is good); the case now is that the state of Jammu and Kashmir is no more a special state. If Article 370 were no more, Jammu and Kashmir will no more be ours. No, not that J&K will want to separate, but because Article 370 is the single little thread that joins Jammu and Kashmir to us, if the Instrument of Accession and the authority of Maharaja Hari Singh comes into question. The Article should _not_ "get scrapped". Remember, we have not yet held the plebiscite. If the people of Jammu and Kashmir choose to stay with India through the plebiscite, there would then be no need of Article 370; that is the situation in which there will be no need of Article 370 for Jammu and Kashmir to be part of India.
+Another point to note is that Article 370 is not technically "gone" (and that is good); the case now is that the state of Jammu and Kashmir is no more a special state. If Article 370 were no more, Jammu and Kashmir will no more be ours. No, not that J&K will want to separate, but because Article 370 is the single little thread that joins Jammu and Kashmir to us, if the Instrument of Accession and the authority of Maharaja Hari Singh comes into question. The Article should _not_ "get scrapped". Remember, we have not yet held the plebiscite. If the people of Jammu and Kashmir choose to stay with India through the plebiscite, then, there would be no need of Article 370 for Jammu and Kashmir to be part of India.
 
 ## A note on our model of operation
 
@@ -51,27 +51,13 @@ Fact is, during the years of formation of the Constitution, the Constituent Asse
 
 A point to note is that the Constituent Assembly of Jammu and Kashmir dissolved itself in 1957, and Kashmir formally became part of the Indian Union through Article 370. The Legislative Assembly remained, of course.
 
-## Separatism in Kashmir
-
-Some groups have asked for a separate Kashmir. Pakistan aids these groups via "moral support". This is also known as the insurgency.
-
-While the people of Jammu and Kashmir were in favour of joining with India up until the sixties or seventies, later drastic changes to the state of Kashmir, including setting up "dummy" governments there and rigging elections and manipulating the assembly (Cough ... Indira Gandhi ... cough!) angered the Kashmiris; their anger directed towards India. These are signs of alienation.
-
-The feeling was, India no more sees Kashmir as a people, but as a piece of land. That India (and Pakistan) are more concerned about the territory and not about the people. This separates the Kashmiris into three groups: Ones that are still in support for Kashmir's accession to India, ones that are angry with India and want to join Pakistan instead, and the third, who want nothing to do with either country.
-
-Given the skirmishes in the last two to three decades, the sentiment is that the secular model of India has failed in Jammu and Kashmir, and that the Kashmiri Muslims are not seen as "loyal" Indians. 'Then why even bother?' I have heard this sentiment first hand from a Kashmiri Muslim who was a colleague. He said he wanted Kashmir to join India, but the government authorities see his people at home with an eye of suspicion all the time, that they are Pakistan-friendly (because they are Kashmiri Muslim), while in reality, they are not.
-
-Another important point to note is that militancy has been drastically growing in the state. Militant groups now target regular Muslim homes that have male children. The groups force families to let one of their children join a militant group. The groups threaten to annihilate the entire family if they don't send a child to the group. Some families relent, while others get killed. Those that relent become a target of the forces, and the forces begin surveillance, and ill-treatment in the name of enquiries and investigation. Again, facts well-known to us all. But again, how do you handle such a situation? How can we, as a country, allow militancy? If a family has sent a boy to the group, a great way of being able to reach the militant group is by "keeping an eye" on the family. But then, how would the families feel? Is self-preservation not a basic human right? At the same time, is promoting militancy the way?
-
-Now, imagine if all this happened to _your_ family. What would you do as a mother, as a father, as a son or a daughter or a sister? Let the militant group annihilate your entire family of twelve for a "landmass" that no more sees you as people but as property? Or lose one member while save the rest of your flock? What are you paying the price for? If you choose annihilation, do you think your annihilation will stop militancy in your region? Militants are like cattle. One dies, you breed another.
-
-The solution?
-
 ## Political parties of Kashmir
 
-The political parties of Kashmir have their own agendas that keep changing as days pass, which are highly unpredictable. The stand taken by the <span class='small-caps'>NDA</span> government is that the autonomy of Jammu and Kashmir did not help the common men and women of the region. In fact, it worsened the situation for regions such as Leh and Kargil. While the members of the Ladakh region are majority Buddhist, they feel the Muslim majority regions have had the most attention from the politicians of the region. Those in the Ladakh region feel let down.
+The political parties of Kashmir have their own agendas that keep changing unpredictably, as days pass. The stand taken by the <span class='small-caps'>NDA</span> government is that the autonomy of Jammu and Kashmir did not help the common men and women of the region. In fact, it worsened the situation for regions such as Leh and Kargil. While the members of the Ladakh region are majority Buddhist, they feel the Muslim majority regions have had the most attention from the politicians of the region. Those in the Ladakh region feel let down.
 
-The political parties have aided the separatist groups as well, either directly or indirectly, on more than one occasion. No dice.
+Also, the political parties have aided the separatist groups as well, either directly or indirectly, on more than one occasion. Based on their agenda, the parties spin the narratives and incite people. But the people of Kashmir often feel that these parties are their hope, that these parties will deliver justice. And the parties have indeed, on occasion. Regardless, the most trustworthy of the lot, the people of Kashmir feel, are their local political parties.
+
+But they haven't gotten a solution.
 
 ## The Jammu and Kashmir Reorganisation Act
 
@@ -81,11 +67,11 @@ What is so wrong about it, why is everyone making so much noise?
 
 This is difficult to explain, in part because the validity or relevance of Article 370 itself is in question, given the eroded nature of the article. The Government of India had almost full control over the state anyway. Elections have been difficult in the state, and the Legislative Assembly had gotten dissolved, effectively bringing in President's Rule in the state.
 
-This meant that the state had lost all autonomy.
+This meant that the state had already lost all autonomy. Although, there was hope that there will be Assembly elections.
 
-How the accession of Jammu and Kashmir, as per the norm, and as per what the United Nations had said, was to hold a plebiscite in Jammu and Kashmir, asking the people what they wanted. A plebiscite is out of question given that the region is still highly militarised. Another way of doing it, was proposing to the Constituent Assembly of Jammu and Kashmir the accession of Jammu and Kashmir to the Union of India, but the Constituent Assembly does not exist.
+The accession of Jammu and Kashmir, as per the norm, and as per what the United Nations had said, should have happened by holding a plebiscite in Jammu and Kashmir, asking the people what they wanted. A plebiscite is out of question given that the region is still highly militarised. Another way of doing it, was proposing to the Constituent Assembly of Jammu and Kashmir the accession of Jammu and Kashmir to the Union of India, but the Constituent Assembly does not exist.
 
-The Shimla Agreement states that India and Pakistan will handle all disputes about Kashmir bilaterally, and the two parties will entertain no interference from any third party. This includes the United Nations. The India-administered part of Jammu and Kashmir is an internal matter. The Government of India, through a Presidential Order, can amend Article 370, which it did. Since there was President's Rule in the region, the President could consult the Governor about the accession of Jammu and Kashmir to India. The Governor accepted it. Kashmir lost its special status.
+The Shimla Agreement states that India and Pakistan will handle all disputes about Kashmir bilaterally, and the two parties will entertain no interference from any third party, unless both parties, together, felt the need to. This includes the involvement of the United Nations. This makes the India-administered part of Jammu and Kashmir an internal matter. The Government of India, through a Presidential Order, can amend Article 370, which it did. Since there was President's Rule in the region, the President could consult the Governor about the accession of Jammu and Kashmir to India. The Governor accepted it. Kashmir lost its special status.
 
 ## Prime Minister Modi's speech
 
@@ -107,13 +93,7 @@ But how does direct control over the law and order make anything in Kashmir diff
 
 Then, what changes now?
 
-In my view (based on what I know on the subject), nothing changes within the state of Jammu and Kashmir or even India. The ground zero does not change one bit. What politicians claim does not matter.
-
-## Addressing the alienation
-
-If there has to be a change on ground zero, the government must look at the issue of alienation. Merely saying 'You are no different than the other Indians' is not enough; giving defensive speeches is not enough. We must live up to that promise. How to do that should now be a point of focus for the Government of India.
-
-And what the government does in that direction will tell us if this was akin to what late Mrs Gandhi did, thereby angering the Kashmiris, or this was indeed a genuine attempt at opening arms and accepting Kashmir as a people. The next four weeks will give us a whiff of what the direction is, and the next four years will tell us for sure, what will happen later.
+In my view (based on what I know on the subject), taking away the autonomy of the state does not change anything within the state of Jammu and Kashmir or even India. The ground zero does not change one bit. What politicians claim does not matter---politicians even claim time travel of technology.
 
 ## But, what changes now
 
@@ -123,7 +103,7 @@ India's message to Pakistan is also that there will no more be "going soft" over
 
 An important message is, Kashmir is no more a "Flash Point".
 
-Given the bilateral nature of Shimla Agreement, the world has no say over what is India's own. The point of temporary uncertainty that the provision of autonomy to Kashmir by Article 370 is no more. This Act inseparably integrates Kashmir to India. Kashmir is no more "negotiable".
+Given the bilateral nature of the issue after Shimla Agreement, the world has no say over what is India's own. The point of temporary uncertainty that the provision of autonomy to Kashmir by Article 370 is no more. This Act inseparably integrates Kashmir to India. Kashmir is no more "negotiable".
 
 Pakistan has received this message without ambiguity. Its actions that followed the Act erase all doubt about it.
 
@@ -131,12 +111,10 @@ And the world has received the message. What we heard from the United Nations an
 
 With this Act, and the Prime Minister's speech, India tells the world, Kashmir is not negotiable as Pakistan may have you believe. Kashmir is an internal matter of India. You are free to side either way. Remember, though, what India is and what Pakistan is, both strategically and economically. No matter who chooses what, Kashmir is India, and we entertain no dispute in it anymore.
 
-## Winding up
+## Summing up
 
-To wind up a rather long post, personally, I don't see any other way the government could do this, given the current geopolitical situation. We had to avoid unnecessary engagement in unfruitful or wasteful activities that could potentially sap our growth and make us lose sight of our larger, global goals. We could not let other countries use us as a stage for negotiations. We could not be a pawn. We have our interests, our goals, and a long way to go.
+In this part, we discuss how India operates as a federal democratic republic. We also discuss the civics of this change, the constitutional technicalities, and the geo-political take on the situation. The final chunk that remains is the nuances of these technicalities, thereby sanding out the edges.
 
-But this is not the end of story like some politicians may have you believe. This is a twist, and we don't know what will come of it on ground zero. Kashmir continues to feel alienated, and you cannot blame them for it. The actions of a handful of government agencies and corrupt officials has brought about this situation. Like how we should disregard the all-gloomy-and-dark picture that Arundhati Roy paints, we should disregard the sunny picture that the ruling party shows us, as well. Those are two extremes, and we call ground zero as "zero" for a reason (hint: integers).
+That makes this article incomplete. What you have learned from this part alone, is a third of what I feel is important. To complete the picture, you should [read Part One]({% post_url 2019/2019-08-11-kashmir-and-article-370 %}) (which I suppose you have), and [Part Three]({% post_url 2019/2019-08-13-kashmir-and-article-370-part-three %}) that will follow. Without all the three pieces, knowledge on the subject is incomplete. (Heck, I would argue that all our collective knowledge on the subject is incomplete even after reading everything we have on the subject.)
 
-Vajpayee, from what I remember reading, did apply ointment to a handful wounds of the Kashmiris. I don't know if adopting the spirit will suffice, or if the government has to go an extra mile given the current temperament and the situation in Kashmir. Because today, Kashmiris feel that they have lost all hope. I hope we both manage to accept each other as fellow Indians disregarding geographical, religious and ideological differences, as the designers of the Constitution of India envisaged; the Indian spirit is to _celebrate_ the diversity, not merely _unite_, despite diversity. The former is acceptance, and the latter, mere tolerance. Acceptance is beyond tolerance. Acceptance is when you are a family despite each member being different. Kashmir is that new member in the family who has not yet shared the roof with the family. Merely opening the door, making them seated, and offering them water does not end the story. Again, we did not merely open the door; we ripped the wall on the other side of which the member lived, and said, 'Welcome home!'
-
-Unconditional acceptance from both sides is now the key. Are we both capable of it? Time will tell.
+Go ahead, [read Part Three]({% post_url 2019/2019-08-13-kashmir-and-article-370-part-three %}) to complete the picture.
