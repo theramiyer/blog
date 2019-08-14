@@ -29,7 +29,7 @@ The topic is rather broad, and going into it in a single post made the post "too
 
 <span class='small-caps'>Article 370</span> recognises Jammu and Kashmir as a special state, and provides it with autonomy. The reason for this goes back to the time when Maharaja Hari Singh (the ruler of Kashmir when the British left India) signed the _Instrument of Accession_ (more on that in a moment).
 
-Article 370 states that the Government of India has direct control over three areas in Jammu and Kashmir: Defence, External Affairs and Communication. Any amendments to the Constitution of India will not directly apply to Kashmir (barring the three areas mentioned above). The State of Jammu and Kashmir will have their own constitution, drafted by the Constituent Assembly of Jammu and Kashmir.
+Article 370 states that the Government of India has direct control over three areas in Jammu and Kashmir: Defence, External Affairs and Communication. Any amendments to the Constitution of India will not directly apply to Kashmir (barring the said three areas). The State of Jammu and Kashmir will have their own constitution, drafted by the Constituent Assembly of Jammu and Kashmir.
 
 To know more about the "temporary" status of the Article, we would need to know a little history, which we will get to in a moment.
 
@@ -51,13 +51,13 @@ But there was an issue. Some states had a majority Muslim population, but had Hi
 
 Sardar Vallabhbhai Patel took up the task of meeting with the rulers of all the princely states and asking them to join the Indian dominion. Instrument of Accession is the paperwork the parties (Dominion of India and the princely state) signed for this purpose. For instance, if you were a ruler, you would sign the Instrument of Accession with the Dominion of India, and become part of India.
 
-By the time of independence of India, all states except three---Jammu and Kashmir, Junagadh and Hyderabad---had signed the Instrument of Accession.
+By August 1947, all states except three---Jammu and Kashmir, Junagadh and Hyderabad---had signed the Instrument of Accession.
 
 Sardar Patel (and much of Congress, in fact) were not interested in the accession of Jammu and Kashmir; everyone's main concern was Hyderabad, because it sat right in the centre of the Indian territory (think: most of the Deccan region). Junagadh was not much of a point of concern. In a way, Sardar Patel even used Junagadh as a pawn to "send a message" to Hyderabad and Pakistan, to ensure that Hyderabad joined India. Kashmir was not yet a region of focus. Jinnah was not interested in Kashmir, either, per se. He was eyeing Hyderabad. According to some anecdotal evidence, Jinnah refused the deal of India letting Kashmir join Pakistan if Pakistan stopped meddling with Hyderabad. That was the disinterest in Kashmir back then. Neither party was dying for it, so to speak.
 
 ## The shortened story of Kashmir
 
-Let us start with the introduction of the spirit of Article 35A. The Kashmiri Pandits expressed their concern to Maharaja Hari Singh that Kashmir should be for Kashmiris. That nobody other than Kashmiris should be able to use any of the resources in Kashmir, and that the government (of Jammu and Kashmir) should protect the interests of the Kashmiris _from the British_.
+Let us start with the introduction of the spirit of Article 35A. The Kashmiri Pandits floated the protectionist idea of _Kashmir for Kashmiris_. They expressed to Maharaja Hari Singh that nobody other than Kashmiris should be able to use any of the resources in Kashmir, and that his government must protect the interests of the Kashmiris _from the British_.
 
 Maharaja Hari Singh started enacting the legal provisions for this from 1912 (thirty-five years before independence). This went on for about a couple of decades, when the provisions took the form of more or less what Article 35A says today. But Article 35A is not the sole piece of document that guarantees these rights and privileges to the Kashmiris.
 
@@ -87,7 +87,7 @@ The word, plebiscite, has become a sort of derogatory term these days. To clarif
 
 Article 370 was a result of what happened in 1947--’48. The Indian Government said, 'All right, we understand that you have a special status given the situation. Maharaja Hari Singh has expressed his concerns, and we have also taken into account what the United Nations says. To that effect, we add Article 370 to the Constitution of India, which gives the state of Jammu and Kashmir a special status. This would be in effect while the final status of Kashmir remains undecided, and will remain until we hold a plebiscite.'
 
-Effectively, there were two systems in place now. The people of Jammu and Kashmir would follow what their constitution said. The Constitution of India adopted the Constitution of Jammu and Kashmir. Any amendments that our government made to our constitution did not directly apply to the State of Jammu and Kashmir. The bill went to the Constituent Assembly of Jammu and Kashmir, and after the Assembly passed it there, their constitution received the amendment, and the bill came into effect after that.
+Two systems were in effect now, in Jammu and Kashmir. The people of Jammu and Kashmir would follow what their constitution said. The Constitution of India adopted the Constitution of Jammu and Kashmir. Any amendments that our government made to our constitution did not directly apply to the State of Jammu and Kashmir. The bill went to the Constituent Assembly of Jammu and Kashmir, and after the Assembly passed it there, their constitution received the amendment, and the bill came into effect after that.
 
 In other words, Jammu and Kashmir operated as almost a separate country, which had sworn allegiance to India. They had their own flag and their own constitution. The people born in Jammu and Kashmir became citizens of Jammu and Kashmir first, and then, India; until 1954, Kashmiris did not even automatically become citizens of India. And until the sixties, Jammu and Kashmir would elect the Prime Minister of Jammu and Kashmir, not the Chief Minister; a practice that had stopped in the other provinces in 1950---after the formation of the _Republic of India_.
 

@@ -49,7 +49,7 @@ We are a federal parliamentary democratic republic. (A mouthful to say.) In a  _
 
 This is the reason we have two elections: <span class='small-caps'>MLA</span> and <span class='small-caps'>MP</span> elections. The state government has a Legislative Assembly. The <span class='small-caps'>MLA</span>, or the Member of the Legislative Assembly, is part of the state government. The Members of the Legislative Assembly elect their chief, Chief Minister of the state.
 
-During the parliament elections (or more precisely, the Lok Sabha elections), members of each of our constituencies elect their MP, (Member of Parliament). The head of the members of the Lok Sabha is the Prime Minister.
+During the parliament (or more precisely, the Lok Sabha) elections, registered voters of every constituency elect their MP, (Member of Parliament). The head of these members is the Prime Minister.
 
 Why do we need this system? The reason is that each region is different in its own way, and each region should have its autonomy in how we run it. The area and the population of India is rather large, and diverse. In essence, what applies to Gujarat may not necessarily apply to Kerala. Management of state resources, for example, is better done by the state government than the central government.
 
@@ -115,7 +115,7 @@ Given the bilateral nature of the issue after Shimla Agreement, the world has no
 
 Pakistan has received this message without ambiguity. Its actions that followed the Act erase all doubt about it.
 
-And the world has received the message. What we heard from the United Nations and the other members of the UN Security Council establishes the fact. The world now sees Kashmir as an internal, inseparable part of India. Of course, China had issues with that the new map showed Aksai Chin as part of Ladakh, but Aksai Chin is a different story; a story of negligence on part of India. A story little known, but that's for another time.
+And the world has received the message. What we heard from the United Nations is enough indication. The world now sees Kashmir as an internal, inseparable part of India. Of course, China had issues with that the new map showed Aksai Chin as part of Ladakh, but Aksai Chin is a different story; a story of negligence on part of India. A story little known, but that's for another time.
 
 With this Act, and the Prime Minister's speech, India tells the world, Kashmir is not negotiable as Pakistan may have you believe. That Pakistan is probably forgetting the Shimla Agreement. Kashmir is an internal matter of India. You are free to side either way. Remember, though, what India is and what Pakistan is, both strategically and economically. No matter who chooses what, Kashmir is India, and we entertain no dispute in it anymore.
 
