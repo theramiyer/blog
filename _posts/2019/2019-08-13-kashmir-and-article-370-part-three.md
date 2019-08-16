@@ -56,7 +56,7 @@ On the Indian side, we have been shuttling between different stands. First, Shei
 
 Nehru, on his part, also kept changing his stand on the plebiscite.
 
-As a reaction to Abdullah's changing stands, the Government of India arrested him and appointed Bakshi Ghulam Mohammed as the prime minister of the State. The Constituent Assembly under him, ratified the Instrument of Accession. Jammu and Kashmir officially became part of India in 1954, of course, under Article 370.
+As a reaction to Abdullah's changing stands, the Government of India arrested him and the then _Sadr-i-Riyasat_, Karan Singh, appointed Bakshi Ghulam Mohammed as the Prime Minister of the State. The Constituent Assembly under him, ratified the Instrument of Accession. Jammu and Kashmir officially became part of India in 1954.
 
 At the time, the Kashmiri sentiment was still for accession to India. Although, remember, while the Kashmiris were in favour of accession to India, they may not have been in favour of the abrogation of Article 370. The Constituent Assembly never spoke a word about the abrogation, nor was the plebiscite held. In other words, Kashmiris themselves never said, 'We want to be like any other non-Kashmiri Indian.'
 
@@ -86,7 +86,7 @@ But, imagine if all this happened to _your_ family. What would you do as a mothe
 
 ## The undemocratic side
 
-Legally, the move was straight-forward: The Legislative Assembly of the state of Jammu and Kashmir had dissolved as the state prepared for elections. The elections did not happen, and President's Rule continued. Since Article 370 and the move of the Constituent Assembly of Jammu and Kashmir in 1954 made Jammu and Kashmir part of India, and keeping in view the Shimla Agreement of 1972, the Parliament had all the rights to revoke the special status of Jammu and Kashmir.
+Legally, the move was straight-forward: The Legislative Assembly of the state of Jammu and Kashmir had dissolved as the state prepared for elections. The elections did not happen, and President's Rule continued. Since Article 370 and the move of the Constituent Assembly of Jammu and Kashmir in 1954 made Jammu and Kashmir part of India, and keeping in view the Shimla Agreement of 1972, the Parliament had the rights to revoke the special status of Jammu and Kashmir.
 
 But remember that the government house-arrested the prominent political leaders of the region. The government also prohibited public gatherings. The central government stripped the local security authorities of their weapons. Thousands of troops entered the region, and the region was under a security lock-down.
 

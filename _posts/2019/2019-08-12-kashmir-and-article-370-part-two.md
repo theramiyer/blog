@@ -35,17 +35,17 @@ Another point to note is that Article 370 is not technically "gone"; the case n
 
 ## The story of Assemblies
 
-This part is a little complicated to understand, but I will attempt to explain. We talk of two terms, _Constituent Assembly_, and _Legislative Assembly_. In simple terms, the constituent assembly formulates the constitution, and dissolves; the legislative assembly then takes over.
+We talk of two terms: _Constituent Assembly_, and _Legislative Assembly_. In simple terms, the constituent assembly formulates the constitution, and dissolves; the legislative assembly then takes over.
 
 The initial plan for Jammu and Kashmir was that the two countries would withdraw forces, after which, through a referendum, the people would choose to which country they would like to accede.
 
-When even in 1951 the countries had not withdrawn forces, the Jammu and Kashmir National Conference recommended convening a constituent assembly. The United Nations Security Council, two months before this recommendation, said that the voice of these elected members of the constituent assembly is not a substitute for the plebiscite.
+When even in 1951 the countries had not withdrawn forces, the Jammu and Kashmir National Conference recommended convening a constituent assembly. The United Nations Security Council, two months before this recommendation, had said that the voice of these elected members of the constituent assembly is not a substitute for the plebiscite. Meanwhile, we added Article 370 to the Constitution of India.
 
-Sheikh Abdullah won the elections. The Assembly began forming the Constitution of Jammu and Kashmir, and planned to conclude the matter of accession. In 1954, the Assembly unanimously ratified the state's accession to India, and they recorded in their constitution that the former princely state of Jammu and Kashmir is an integral part of the Union of India. The Assembly finalised the Constitution in 1956, and the Constitution of Jammu and Kashmir came into effect from 1957. The Legislative Assembly came into existence in 1957.
+The Constituent Assembly of Jammu and Kashmir began forming the Constitution of Jammu and Kashmir, and planned to conclude the matter of accession. In 1954, the Assembly unanimously ratified the state's accession to India, and they recorded in their constitution that the former princely state of Jammu and Kashmir was an integral part of the Union of India. The Assembly finalised the Constitution in 1956, and the Constitution of Jammu and Kashmir came into effect from 1957. The Constituent Assembly dissolved after creating their constitution, and the Legislative Assembly came into existence in 1957.
 
 ## A note on our model of operation
 
-We are a federal parliamentary democratic republic. (A mouthful to say.) In a  _federal_ democratic system, each region has its state government, which governs the region, in its own way, by listening to its people. This is the role of the state governments in our country. The central government runs the country as a whole, by taking into account the state governments.
+We are a federal parliamentary democratic republic. (A mouthful to say.) In a _federal_ democratic system, each region has its state government, which governs the region, in its own way, by listening to its people. This is the role of the state governments in our country. The central government runs the country as a whole, while the state governments run their respective states. Each state has its governor, who is part of the central government.
 
 This is the reason we have two elections: <span class='small-caps'>MLA</span> and <span class='small-caps'>MP</span> elections. The state government has a Legislative Assembly. The <span class='small-caps'>MLA</span>, or the Member of the Legislative Assembly, is part of the state government. The Members of the Legislative Assembly elect their chief, Chief Minister of the state.
 
@@ -57,7 +57,7 @@ In India (and most other federal republic nations), the central government manag
 
 Union Territories are directly managed by the central government, wherein, the President appoints a Lieutenant-Governor, who heads the union territory. A union territory is less autonomous compared to a state. This is the reason for the expression, '_Reducing_ a state to a union territory'.
 
-Fact is, during the years of formation of the Constitution, the Constituent Assembly of India asked the states to send their representatives to the Assembly. They also encouraged the states to form their respective Constituent Assemblies. Three states formed their own Constituent Assemblies, and all the states sent their representatives to the Constituent Assembly of India. The State Department developed a model constitution for the states. But later, the rulers and chief ministers of all the states, in a meeting, decided that separate constitutions for the states was unnecessary; the suggestions made by the states that had their constituent assemblies anyway got accepted in the Constitution of India. Every state, except the state of Jammu and Kashmir accepted the Constitution of India as their constitution by 1950.
+Fact is, during the years of formation of the Constitution, three states formed their own Constituent Assemblies, and all the states sent their representatives to the Constituent Assembly of India. The State Department developed a model constitution for the states. But later, the rulers and chief ministers of all the states, in a meeting, decided that separate constitutions for the states were unnecessary; the suggestions made by the states that had their constituent assemblies anyway got accepted in the Constitution of India. Every state, except the state of Jammu and Kashmir accepted the Constitution of India as their constitution by 1950; Article 370 was hence the temporary patch. But Article 370 was the way the amendments to the Constitution of India could flow to the Constitution of Jammu and Kashmir without the Constituent Assembly of J&K.
 
 ## Political parties of Kashmir
 
@@ -65,7 +65,7 @@ The political parties of Kashmir have their own agendas that keep changing unpre
 
 Also, the political parties have aided the separatist groups as well, either directly or indirectly, on more than one occasion. Based on their agenda, the parties spin the narratives and incite people. But the people of Kashmir often feel that these parties are their hope, that these parties will deliver justice. And the parties have indeed, on occasion.
 
-But they haven't gotten a solution to their issues.
+The parties have been unable to amend the Constitution of Jammu and Kashmir to keep up with the Constitution of India over time, making people of Kashmir lead a substandard life, compared to the rest of India.
 
 ## The Jammu and Kashmir Reorganisation Act
 
@@ -79,7 +79,7 @@ This meant that the state had already lost all autonomy. Although, there was hop
 
 The inclusion of Jammu and Kashmir, as per the norm of democracy, and as per what the United Nations had said, should have happened by holding a plebiscite in Jammu and Kashmir, asking the people what they wanted. A plebiscite is out of question given that the region is still highly militarised. Another way of abrogating the Article, was by the Constituent Assembly of Jammu and Kashmir (as per Article 370), but the Constituent Assembly does not exist.
 
-The Shimla Agreement states that India and Pakistan will handle all disputes about Kashmir bilaterally, and the two parties will entertain no interference from any third party, unless both parties, together, felt the need to. This includes the involvement of the United Nations. This makes the India-administered part of Jammu and Kashmir an internal matter. The Government of India, through a Presidential Order, can amend Article 370, which it did. Since there was President's Rule in the region, the President could consult the Governor about the accession of Jammu and Kashmir to India. The Governor accepted it. Kashmir lost its special status.
+The Shimla Agreement states that India and Pakistan will handle all disputes about Kashmir bilaterally, and the two parties will entertain no interference from any third party, unless both parties, together, felt the need to. This includes the involvement of the United Nations. This makes the India-administered part of Jammu and Kashmir an internal matter. The Government of India, through a Presidential Order, can amend Article 370, which it did. Since there was President's Rule in the region, the President could get the concurrence of the Governor about the abrogation of Article 370 in the absence of the Legislative Assembly, which had taken over from the Constituent Assembly. The Governor concurred.
 
 ## Prime Minister Modi's speech
 
@@ -101,11 +101,11 @@ How does direct control over the law and order make anything in Kashmir differen
 
 Then, what changes now?
 
-In my view (based on what I know on the subject), taking away the autonomy of the state does not change anything within the state of Jammu and Kashmir or even India. The ground zero does not change one bit. What politicians claim does not matter---politicians even claim time travel of technology.
+In my view (based on what I know on the subject), taking away the autonomy of the state does not change much within the state of Jammu and Kashmir given the current conditions. The ground zero does not change one bit. What politicians claim does not matter.
 
 ## But, what changes now
 
-India has effectively cemented the connection to Jammu and Kashmir, and snapped the thread that precariously connected it to India. This Act goes a step further from Shimla Agreement and says what is internal is internal, stay away from meddling with it. If you meddle with it, India will no more see it as an aggression against Kashmir, but as a direct aggression against the Union of India itself.
+India has effectively cemented the connection to Jammu and Kashmir, and snapped the thread that precariously connected it to India. This Act goes a step further from Shimla Agreement and says what is internal is internal, stay away from meddling with it. If you meddle with it, India will no more see it as an aggression against Jammu and Kashmir, but as a direct aggression against the Union of India itself.
 
 India's message to Pakistan is also that there will no more be "going soft" over skirmishes by "friendly" state authorities. Indian Defence will directly take you on.
 
@@ -117,7 +117,7 @@ Pakistan has received this message without ambiguity. Its actions that followed 
 
 And the world has received the message. What we heard from the United Nations is enough evidence. The world now sees Kashmir as an internal, inseparable part of India. Of course, China had issues with that the new map showed Aksai Chin as part of Ladakh, but Aksai Chin is a different story; a story of negligence on part of India. A story little known, but that's for another time.
 
-With this Act, and the Prime Minister's speech, India tells the world, Kashmir is not negotiable as Pakistan may have you believe. That Pakistan is probably forgetting the Shimla Agreement. Kashmir is an internal matter of India. You are free to side either way. Remember, though, what India is and what Pakistan is, both strategically and economically. No matter who chooses what, Kashmir is India, and we entertain no dispute in it anymore.
+With this Act, and the Prime Minister's speech, India tells the world, Kashmir is not negotiable as Pakistan may have you believe. That Pakistan is probably forgetting the Shimla Agreement. That Kashmir is an internal matter of India. You are free to side either way. Remember, though, what India is and what Pakistan is, both strategically and economically. No matter who chooses what, Kashmir is India, and we entertain no dispute in it anymore. In order that Kashmir is on par with the other Indian states, we abrogated the hoops that we had to jump through, called Article 370.
 
 ## Summing up
 
