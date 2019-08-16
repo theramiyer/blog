@@ -51,9 +51,9 @@ But there was an issue. Some states had a majority Muslim population, but had Hi
 
 Sardar Vallabhbhai Patel took up the task of meeting with the rulers of all the princely states and asking them to join the Indian dominion. Instrument of Accession is the paperwork the parties (Dominion of India and the princely state) signed for this purpose. For instance, if you were a ruler, you would sign the Instrument of Accession with the Dominion of India, and become part of India.
 
-By August 1947, all states except three---Jammu and Kashmir, Junagadh and Hyderabad---had signed the Instrument of Accession.
+By August 1947, all states except four---Sikkim, Jammu and Kashmir, Junagadh and Hyderabad---had signed the Instrument of Accession.
 
-Sardar Patel (and much of Congress, in fact) were not interested in the accession of Jammu and Kashmir; everyone's main concern was Hyderabad, because it sat right in the centre of the Indian territory (think: most of the Deccan region). Junagadh was not much of a point of concern. In a way, Sardar Patel even used Junagadh as a pawn to "send a message" to Hyderabad and Pakistan, to ensure that Hyderabad joined India. Kashmir was not yet a region of focus. Jinnah was not interested in Kashmir, either, per se. He was eyeing Hyderabad. According to some anecdotal evidence, Jinnah refused the deal of India letting Kashmir join Pakistan if Pakistan stopped meddling with Hyderabad. That was the disinterest in Kashmir back then. Neither party was dying for it, so to speak.
+Sardar Patel (and much of Congress, in fact) were not interested in the accession of Jammu and Kashmir; everyone's main concern was Hyderabad, because it sat right within the Indian territory (think: most of the Deccan region). Junagadh was not much of a point of concern. In a way, Sardar Patel even used Junagadh as a pawn to "send a message" to Hyderabad and Pakistan, to ensure that Hyderabad joined India. Kashmir was not yet a region of focus. Jinnah was not interested in Kashmir, either, per se. He was eyeing Hyderabad. According to some anecdotal evidence, Jinnah refused the deal of India letting Kashmir join Pakistan if Pakistan stopped meddling with Hyderabad. That was the disinterest in Kashmir back then. Neither party was dying for it, so to speak.
 
 ## The shortened story of Kashmir
 
