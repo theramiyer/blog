@@ -115,7 +115,7 @@ Given the bilateral nature of the issue after Shimla Agreement, the world has no
 
 Pakistan has received this message without ambiguity. Its actions that followed the Act erase all doubt about it.
 
-And the world has received the message. What we heard from the United Nations is enough indication. The world now sees Kashmir as an internal, inseparable part of India. Of course, China had issues with that the new map showed Aksai Chin as part of Ladakh, but Aksai Chin is a different story; a story of negligence on part of India. A story little known, but that's for another time.
+And the world has received the message. What we heard from the United Nations is enough evidence. The world now sees Kashmir as an internal, inseparable part of India. Of course, China had issues with that the new map showed Aksai Chin as part of Ladakh, but Aksai Chin is a different story; a story of negligence on part of India. A story little known, but that's for another time.
 
 With this Act, and the Prime Minister's speech, India tells the world, Kashmir is not negotiable as Pakistan may have you believe. That Pakistan is probably forgetting the Shimla Agreement. Kashmir is an internal matter of India. You are free to side either way. Remember, though, what India is and what Pakistan is, both strategically and economically. No matter who chooses what, Kashmir is India, and we entertain no dispute in it anymore.
 
