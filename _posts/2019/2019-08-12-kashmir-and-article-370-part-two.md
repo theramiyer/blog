@@ -3,6 +3,7 @@ layout: "post"
 title: "Kashmir and Article 370: Part Two"
 subtitle: "The Present"
 date: "2019-08-12"
+print: "https://www.scribd.com/document/422074646/Kashmir-and-Article-370"
 tags:
 - kashmir
 - India
@@ -16,7 +17,9 @@ tags:
 - constitution
 ---
 
-This is the second part of the three-part series on the _Jammu and Kashmir Reorganisation Act, 2019_. If you came here directly, this post alone will not do justice to the situation. [Go back and read Part One.]({% post_url 2019/2019-08-11-kashmir-and-article-370 %}) Reading the series partially will make you judgemental with limited knowledge. This post talks about the current situation in Jammu and Kashmir. Here are the topics:
+This is the second part of the three-part series on the _Jammu and Kashmir Reorganisation Act, 2019_. If you came here directly, this post alone will not do justice to the situation. [Go back and read Part One.]({% post_url 2019/2019-08-11-kashmir-and-article-370 %}) Reading the series partially will make you judgemental with limited knowledge. This article is available as a [typeset printable <span class='small-caps'>PDF</span>]({{ page.print }}) as well.
+
+This post talks about the current situation in Jammu and Kashmir. Here are the topics:
 
 - TOC
 {:toc}

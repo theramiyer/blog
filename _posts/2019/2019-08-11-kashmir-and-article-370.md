@@ -3,6 +3,7 @@ layout: "post"
 title: "Kashmir and ArticleÂ 370: Part One"
 date: "2019-08-11"
 subtitle: "The Background"
+print: "https://www.scribd.com/document/422074646/Kashmir-and-Article-370"
 tags:
 - kashmir
 - India
@@ -20,7 +21,9 @@ We heard a lot of noise throughout the last week over the abrogation of ArticleÂ
 
 Think again.
 
-The topic is rather broad, and going into it in a single post made the post "too long for human consumption". I have hence split the post into three parts. Reading the entire series will give you knowledge, reading it partially will make you judgemental. Make your choice. Here are the topics I will touch upon in this post:
+The topic is rather broad, and going into it in a single post made the post "too long for human consumption". I have hence split the post into three parts. Reading the entire series will give you knowledge, reading it partially will make you judgemental. Make your choice. This article is available as a [typeset printable <span class='small-caps'>PDF</span>]({{ page.print }}) as well.
+
+Here are the topics I will touch upon in this post:
 
 - TOC
 {:toc}
