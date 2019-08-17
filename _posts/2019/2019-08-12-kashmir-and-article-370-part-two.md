@@ -34,8 +34,6 @@ Question: was "scrapping" Article 370 such a big deal after all?
 
 Coming to Article 35A, one of the paragraphs in the Instrument of Accession protects the rights of the domiciles of Jammu & Kashmir. Article 35A is almost a repetition of it. Which brings us to the question, did it matter that Article 35A got scrapped?
 
-Another point to note is that Article 370 is not technically "gone"; the case now is that the state of Jammu and Kashmir is no more a special state. If Article 370 were no more, Jammu and Kashmir may no more be ours. No, not that J&K will want to separate, but because Article 370 is the single little thread that joins Jammu and Kashmir to us, if the Instrument of Accession and the authority of Maharaja Hari Singh comes into question. The Article should _not_ "get scrapped". Remember, we have not yet held the plebiscite. If the people of Jammu and Kashmir choose to stay with India through the plebiscite, then, there would be no need of Article 370 for Jammu and Kashmir to be part of India.
-
 ## The story of Assemblies
 
 We talk of two terms: _Constituent Assembly_, and _Legislative Assembly_. In simple terms, the constituent assembly formulates the constitution, and dissolves; the legislative assembly then takes over.
@@ -108,7 +106,7 @@ In my view (based on what I know on the subject), taking away the autonomy of th
 
 ## But, what changes now
 
-India has effectively cemented the connection to Jammu and Kashmir, and snapped the thread that precariously connected it to India. This Act goes a step further from Shimla Agreement and says what is internal is internal, stay away from meddling with it. If you meddle with it, India will no more see it as an aggression against Jammu and Kashmir, but as a direct aggression against the Union of India itself.
+India has effectively cemented the connection to Jammu and Kashmir, and snapped the thread that precariously connected it to the Constitution of India. This Act goes a step further from Shimla Agreement and says what is internal is internal, stay away from meddling with it. If you meddle with it, India will no more see it as an aggression against Jammu and Kashmir, but as a direct aggression against the Union of India itself.
 
 India's message to Pakistan is also that there will no more be "going soft" over skirmishes by "friendly" state authorities. Indian Defence will directly take you on.
 

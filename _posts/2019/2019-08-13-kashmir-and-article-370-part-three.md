@@ -79,7 +79,7 @@ The Kashmiris feel, India and Pakistan no more see Kashmir as a people, but as a
 
 But then, how do we know who is a militant, and who is not?
 
-Militancy has been drastically growing in the state over the last decade. Militant groups target regular (Muslim) homes that have male children. The groups force families to let one of their children join a militant group. The militants threaten to annihilate the family if they don't send a child to the group. Some families relent, while others get killed. Those that relent become a target of the forces, and the forces begin surveillance, and harassment in the name of investigation. But, how can we, as a country, allow militancy? If a family has sent a boy to the group, a good way of being able to reach the militant group is by "keeping an eye" on the family. Yes, but then, isn't self-preservation not a basic human right?
+Militancy has been drastically growing in the state over the last decade. Militant groups target regular (Muslim) homes that have male children. The groups force families to let one of their children join a militant group. The militants threaten to annihilate the family if they don't send a child to the group. Some families relent, while others get killed. Those that relent become a target of the forces, and the forces begin surveillance, and harassment in the name of investigation. But, how can we, as a country, allow militancy? If a family has sent a boy to the group, a good way of being able to reach the militant group is by "keeping an eye" on the family. Yes, but then, isn't self-preservation a basic human right?
 
 At the same time, is militancy the way? To what end?
 
