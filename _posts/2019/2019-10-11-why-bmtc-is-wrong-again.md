@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Why <span class='small-caps'>BMTC</span> is wrong (again)"
+title: "Why BMTC is wrong (again)"
 date: "2019-10-11"
 tags:
 - bmtc
