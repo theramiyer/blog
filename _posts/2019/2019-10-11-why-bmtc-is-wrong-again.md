@@ -8,7 +8,6 @@ tags:
 - commute
 - traffic
 - public transport
-published: false
 ---
 
 Sometimes, some pieces of news bewilder you to such levels that you feel utterly hopeless about life around you. It happened to me today, when I read:
