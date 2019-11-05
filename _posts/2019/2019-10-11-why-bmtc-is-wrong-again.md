@@ -14,7 +14,7 @@ Sometimes, some pieces of news bewilder you to such levels that you feel utterly
 
 > <span class='small-caps'>BMTC</span> seeks congestion tax on high-density corridors; bus lane trial run on <span class='small-caps'>ORR</span> from Oct 20.
 
-To anyone who lives in Bangalore and commutes every dau (the commute involving using at least five kilometres of the pothole-ridden adventure tracks, commonly known as "roads" in Bangalore), this is no less than a crude joke. Show this to any Bangalorean, and the response would be, 'This was the only tax remaining to be imposed. My life is complete.'
+To anyone who lives in Bangalore and commutes every day (the commute involving using at least five kilometres of the pothole-ridden adventure tracks, commonly known as "roads" in Bangalore), this is no less than a crude joke. Show this to any Bangalorean, and the response would be, 'This was the only tax remaining to be imposed. My life is complete.'
 
 ## The tax on roads
 
@@ -73,4 +73,4 @@ The third is for the citizens. Going bumper-to-bumper is not only a risk to the 
 
 Finally, <span class='small-caps'>BMTC</span>. <span class='small-caps'>BMTC</span> has become a miscalculation machine. Despite <span class='small-caps'>BMTC</span> travel being so expensive, it does not compare in quality with the ease of use offered by other bus transport corporations in the country. Their fleet is depleting quickly, the fares are increasing and the number of passengers is dropping. The corporation must take a step back and reflect on its operations, its route planning and the fleet strength. There are serious flaws in how the services are operated, and they need to be fixed.
 
-Taxing the citizens further is not going to prove counter-productive.
+Taxing the citizens further is only going to prove counter-productive.
