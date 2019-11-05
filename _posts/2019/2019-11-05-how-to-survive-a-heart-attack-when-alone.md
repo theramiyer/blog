@@ -136,4 +136,4 @@ Medical professionals working on you must know that you've taken the Aspirin. Th
 
 Your friend might be able to help the medics with your medical issues, information about whether you're allergic to something, and many other things that need human presence. Therefore, call for help.
 
-The rest really is up to the various factors governing the situation. Have hope in people. Though a heart attack is serious, you're quite likely to survive.
+The rest really is up to the various factors governing the situation. Have faith in people. Though a heart attack is serious, you're quite likely to survive.
