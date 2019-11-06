@@ -57,6 +57,9 @@ The message reads (sic):
 
 But, how much of this is true? How much of what is true is valid in 2019? So, I set out to find out some ways to increase the chances of surviving a heart attack when alone.
 
+- TOC
+{:toc}
+
 Before we go any further, a legal disclaimer: Understand that I am <span class='small-caps'>NOT</span> a medical professional. This post is <span class='small-caps'>NOT</span> medical advice, and comes without warranties (in other words, you are on your own). This is merely a post with general knowledge, and I am not responsible for the good or the bad that happens to you after reading this post and/or following what it says. The same applies to this arbitrary Dr. N. Siva as well---you do not know who he is, or whether he even exists. Treat these things with a grain of salt. Sucks, I know, but nothing is a substitute for a medical professional.
 
 ## What causes a heart attack
