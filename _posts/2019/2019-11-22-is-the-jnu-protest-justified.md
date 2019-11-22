@@ -3,15 +3,25 @@ layout: "post"
 title: "Is the JNU protest justified"
 date: "2019-11-22"
 tags:
--
-published: false
+- politics
+- democracy
+- protest
+- social
+- economic
+- government
+- socialism
+- freedom
+- education
 ---
 
 Despite hating to say it, it started with _WhatsApp University_. WhatsApp University is a term used for all of those streams of knowledge tidbits that you get from WhatsApp, that replaces your beliefs, your thoughts, your rationale with what's now popular belief. There is a massive engine that drives this, and this engine includes people with the ability to write posts like this on their phones. This is amplified by people who have all the time in the world to forward them to the masses. These masses gain fresh knowledge of the world through the lens of these forwards.
 
 When I blame the Baby Boomers of India (the generation of my parents and uncles and aunts) for ruining the country for us, it extends to this---these are the guys sitting in their couches sipping their coffees, with their phones in hand, being our teachers at WhatsApp University, still influencing the country. Relentless, I say.
 
-I received this message yesterday ([skip it if you want to](#the-premise)):
+- TOC
+{:toc}
+
+I received this message yesterday ([skip this](#the-premise) if you want to):
 
 > JNU issue - there are a total of ~8000 students at JNU. Of this, the lion’s share of 57% students is of social sciences, language, literature & arts (4578 students) & International studies 15% ( 1210 students). Almost 55% of the total i.e. 4359 students are doing M.Phil. or Ph.D
 >
@@ -65,7 +75,7 @@ According to The Print[^8a948c6c], the fee hike being protested is of the hostel
 
 > The fee hike — set to come into effect from the next academic year — will nearly double the annual fee for JNU students living in hostels from the current Rs 27,600-32,000 annually up to Rs 55,000-61,000.
 >
-> The new fee includes a mufti-fold hike in room rent — from Rs 10/20 per month to Rs 300/600 per month. A new service charge of Rs 1,700 per month has also been added — taking the monthly hostel fee up to Rs 2,000-2,300. Other charges, like establishment (Rs 2,200 per annum), mess (Rs 3,000 per month) and annual fees (Rs 300) remain the same.
+> The new fee includes a mufti-fold (sic) hike in room rent — from Rs 10/20 per month to Rs 300/600 per month. A new service charge of Rs 1,700 per month has also been added — taking the monthly hostel fee up to Rs 2,000-2,300. Other charges, like establishment (Rs 2,200 per annum), mess (Rs 3,000 per month) and annual fees (Rs 300) remain the same.
 >
 > ---Kritika Sharma and Tarun Krishna, The Print
 
@@ -131,6 +141,42 @@ In fact, in the case of IITs, the fee hike was not even for the existing student
 
 The forward says that 4360 students are enrolled in MPhil and PhD courses, and only 1000 articles are published. Well, my college had roughly 1,200 students in 2010, only 270 students graduated. Does that make my college useless?
 
-Here is why it doesn't. While there may have been 1,200 students enrolled, only 270 were in the final year. The maker of the message would have known this if s/he had attended college (or school). Or had some common sense.
+Here is why it doesn't. While there may have been 1,200 students enrolled, only 270 were in the final year. The maker of the message would have known this has s/he attended college (or school). Not even as hard as common sense.
 
-Anyone who underwent research would know that research works differently from the "professional courses" that a mainstream Indian is used to. Explaining it is probably futile, but those interested can simply Google this.
+Anyone who underwent research would know that research works differently from the "professional courses" that a mainstream Indian is used to. Explaining it is probably futile, but those interested can simply Google this. Or apply.
+
+Now to something serious; I didn't know about this, but this trend of giving importance to engineering and management while giving second priority to everything else, is a national phenomenon. According to a report by The Print[^a0d9e8e], IITs and IIMs take up only 3% of the students among those in State-funded educational institutions. Yet, they get 50% of the funding. The rest 97% are stuck with the remaining half.
+
+[^a0d9e8e]: [IITs, IIMs, NITs have just 3% of total students but get 50% of government funds](https://theprint.in/india/governance/iits-iims-nits-have-just-3-of-total-students-but-get-50-of-government-funds/89976/)
+
+Of course, there's no don't IITs contribute immensely to the country in terms of the little research that happens here, but these students are also among the highest that go out of the country. You might justify this citing educational loans and what not, but as a taxpayer who is contributing to their education, I'm indirectly helping another country prosper. When 97% of IITians and IIMites stay back in India after their education, work here, pay taxes here, and in general contribute to the progress of the nation, I'll stop complaining about this.
+
+Despite not getting the "lion's share" of the higher education funding, JNU (and DU) managed to feature at least feature in the top 500 humanities universities in the world[^0b7ee19] (2020 list), apparently. IITs and IIMs frequently feature in the top universities' list, but that's not surprising at all. Now if you think humanities is not a necessary study, you're part of the problem that you complain about---ethical policy-making, general human life, culture, philosophy, promotion of classical languages, etc. You can't complain about these not developing by complaining about funding these studies; you do either. in about the "lion's share" of students being part of social sciences. Don't be the proverbial _Kalidasa_.
+
+[^0b7ee19]: [JNU, DU among top 500 humanities varsities in the world: Times global rankings](https://m.hindustantimes.com/india-news/india-s-jnu-du-among-top-500-humanities-varsities-in-the-world-times-global-rankings/story-rHAOQIR41CJAZA7zj0ljAP.html)
+
+Here is something the supposed 600-page annual report---conveniently---did not mention:
+
+Given that ₹37,461.01 crore (44.07% of budgetary allocation to education) is allocated to higher education, of which only 48.9% (₹18,318.43 crore) goes to the 865 institutes offering higher studies, even if distributed evenly among these institutions, the total money that goes to JNU is about ₹21.18 crore (or 0.06% of the total allocation, and a far, far cry from the said ₹556 crore---nineteen-five-hundredth, to be exact, or roughly, one-twenty-fifth). Does JNU get that level of treatment---twenty-five times the calculated allocation? Really? The Hindustan Times article[^0b7ee19] makes me think, no effing way.
+
+Now to some speculation (I am allowed some if the message maker is): Going by the forward, if 8000 students study in JNU, that translates to about ₹26,475 per student. If we factor in the actual spend of the government, at 84% of the total allocated budget, the amount spent on a student is ₹22,239.
+
+In reality, of course, this is not an exact number because the number of students studying in central universities is unknown. When we learn to publish data transparently, we will know the exact numbers. Until then, I am going to call ₹6.95 lac per student bollocks.
+
+## On socialism
+
+> JNU is a perfect example of bad socialism.
+
+Agreed. So are many, many things in our country. We have a lopsided view of finances. We do not understand farming[^22a27c9] or preservation[^85f0b5b]. Our expenditure on healthcare is questionable, not only because we do not spend enough, but because what is spent is simply inadequate for the masses. Our schemes do indeed make people lazy, such as unchecked farm loan waivers. These are all examples of bad socialism or failed socialism.
+
+[^22a27c9]: [How Delhi’s air crisis can be resolved by curbing paddy cultivation in Punjab, Haryana](https://theprint.in/opinion/how-delhis-air-crisis-can-be-resolved-by-curbing-paddy-cultivation-in-punjab-haryana/315250/)
+
+[^85f0b5b]: [NAFED wasted over 30,000 MT onions, more than half of its buffer stock, amid soaring prices](https://theprint.in/india/nafed-wasted-over-30000-mt-onions-more-than-half-of-its-buffer-stock-amid-soaring-prices/323545/)
+
+Back to JNU, is JNU the best university in India? Largely, no. Do students in JNU not engage in social disturbances? They do, all the time. But do we smother this? Well, if you agree to smother ABVP's and other student bodies' "disturbances" as well. But even then, it is still not convincingly justified; students are a major part of a democracy; these are people who have just attained adulthood and trying their way to nudge the country in a direction that they feel is good. This is called dissent in some cases. If dissent itself is curbed, then we are no democracy. If students do not have a voice, raise the voting age from 18 to, any arbitrary higher value. Would you do that? What happens to the largest vote bank, then?
+
+Yes, most JNU students have this far left sort of mentality in general, and that is probably dangerous in today's India. But does that mean we shut down the university? Had you asked me three days before writing this, I would have said yes. Today, looking outside of WhatsApp University and rooms where news breaks first, I would say, heck, no.
+
+JNU says about 40% of its students come from backgrounds where the monthly income is below ₹12,000. Does that mean the rest 60% can afford the fees? ₹13,000 a month also falls under the 60%. This steep increase is the beginning of a bad trend.
+
+And the numbers we must be focusing on are elsewhere; not in the forward.
