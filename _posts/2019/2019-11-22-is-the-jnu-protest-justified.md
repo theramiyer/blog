@@ -129,9 +129,11 @@ Wrong.
 
 Here are some examples:
 
-- <span class='small-caps'>IIT</span> aspirants stage protest against 900% MTech fee hike, demand rollback ([India Today](https://www.indiatoday.in/education-today/news/story/iit-students-protest-mtech-fee-hike-hrd-ministry-1606467-2019-10-05))
-- Panjab University fee hike: <span class='small-caps'>SOI</span> sits on hunger strike ([The Times of India](https://timesofindia.indiatimes.com/city/chandigarh/pu-fee-hike-soi-sits-on-hunger-strike/articleshow/70424771.cms))
-- Bengaluru: National Law School students protest steep tuition fee hike ([The Indian Express](https://indianexpress.com/article/education/bengalurus-national-law-school-students-protest-steep-fee-hike-decide-not-to-pay-fee-5818726/))
+> <span class='small-caps'>IIT</span> aspirants stage protest against 900% MTech fee hike, demand rollback ([India Today](https://www.indiatoday.in/education-today/news/story/iit-students-protest-mtech-fee-hike-hrd-ministry-1606467-2019-10-05))
+
+> Panjab University fee hike: <span class='small-caps'>SOI</span> sits on hunger strike ([The Times of India](https://timesofindia.indiatimes.com/city/chandigarh/pu-fee-hike-soi-sits-on-hunger-strike/articleshow/70424771.cms))
+
+> Bengaluru: National Law School students protest steep tuition fee hike ([The Indian Express](https://indianexpress.com/article/education/bengalurus-national-law-school-students-protest-steep-fee-hike-decide-not-to-pay-fee-5818726/))
 
 You can find more. Go ahead.
 
