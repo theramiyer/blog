@@ -101,15 +101,15 @@ Really? According to Business Today[^6b3548f1], the government _underspent_ on e
 
 [^6b3548f1]: [Union Budget 2019: Govt underspends budget allocated for education in 4 out of last 5 years](https://www.businesstoday.in/union-budget-2019/budget-2019-govt-underspends-budget-allocated-for-education-in-4-out-of-last-5-years/story/361606.html)
 
-Education is part of the social infrastructure. The whole purpose of paying taxes is to fund things like education! If the government under-spends on education, and there is money remaining in the coffers, why are we complaining about deficits? Where is the deficit? There is only surplus. And that is a bad thing. In fact, between 2015 and 2016, the allocation itself dipped from about ₹83,000 crore to about ₹69,000 crore, and the expenditure also saw a slight dip from ₹69,000 crore to about ₹67,000 crore.
+Education is part of the social infrastructure. The whole purpose of paying taxes is to fund things like education! If the government under-spends on education, and there is money remaining in the coffers, why are we complaining about deficits? Where is the deficit? There is only surplus. And that is a bad thing. In fact, between 2015 and 2016, the allocation itself dipped from about ₹83,000 crore to about ₹69,000 crore, and the expenditure also saw a slight dip from ₹69,000 crore to about ₹67,000 crore.
 
 Twelve-digit numbers (five-digit numbers, in crores) are hard to digest, aren't they? Especially compared to the three digits such as ₹240. But yes, unfortunately, I was also a victim of WhatsApp University this time for a moment.
 
-But coming back, if the government does not mind spending ₹32.4 lac a year (or ₹2.7 lac a month[^3dc4b1ea]) on an MP who is too busy for people, why not spend a fifth of that on a student, if at all the numbers in the forward are true? And mind you, this expense on an incompetent MP is an expense, the expense on a good student is an investment.
+But coming back, if the government does not mind spending ₹32.4 lac a year (or ₹2.7 lac a month[^3dc4b1ea]) on an MP who is too busy for people, why not spend a fifth of that on a student, if at all the numbers in the forward are true? And mind you, this expense on an incompetent MP is an expense, the expense on a good student is an investment.
 
-[^3dc4b1ea]: [Government spends Rs. 2.7 lakh a month per MP](https://www.thehindu.com/data/government-spends-rs-27-lakh-a-month-per-mp/article7699415.ece)
+[^3dc4b1ea]: [Government spends Rs. 2.7 lakh a month per MP](https://www.thehindu.com/data/government-spends-rs-27-lakh-a-month-per-mp/article7699415.ece)
 
-> Travel reimbursements and daily allowances account for the biggest chunk of public spending on Indian MPs, or nearly half of all expenses, at Rs 83 crore for the year, the data shows (Numbers have been approximated)
+> Travel reimbursements and daily allowances account for the biggest chunk of public spending on Indian MPs, or nearly half of all expenses, at Rs 83 crore for the year, the data shows (Numbers have been approximated)
 >
 > ---The Hindu
 
@@ -129,9 +129,9 @@ Wrong.
 
 Here are some examples:
 
-1. [<span class='small-caps'>IIT</span> aspirants stage protest against 900% MTech fee hike, demand rollback](https://www.indiatoday.in/education-today/news/story/iit-students-protest-mtech-fee-hike-hrd-ministry-1606467-2019-10-05)
-2. [Panjab University fee hike: <span class='small-caps'>SOI</span> sits on hunger strike](https://timesofindia.indiatimes.com/city/chandigarh/pu-fee-hike-soi-sits-on-hunger-strike/articleshow/70424771.cms)
-3. [Bengaluru: National Law School students protest steep tuition fee hike](https://indianexpress.com/article/education/bengalurus-national-law-school-students-protest-steep-fee-hike-decide-not-to-pay-fee-5818726/)
+- <span class='small-caps'>IIT</span> aspirants stage protest against 900% MTech fee hike, demand rollback ([India Today](https://www.indiatoday.in/education-today/news/story/iit-students-protest-mtech-fee-hike-hrd-ministry-1606467-2019-10-05))
+- Panjab University fee hike: <span class='small-caps'>SOI</span> sits on hunger strike ([The Times of India](https://timesofindia.indiatimes.com/city/chandigarh/pu-fee-hike-soi-sits-on-hunger-strike/articleshow/70424771.cms))
+- Bengaluru: National Law School students protest steep tuition fee hike ([The Indian Express](https://indianexpress.com/article/education/bengalurus-national-law-school-students-protest-steep-fee-hike-decide-not-to-pay-fee-5818726/))
 
 You can find more. Go ahead.
 
@@ -139,9 +139,9 @@ In fact, in the case of <span class='small-caps'>IIT</span>s, the fee hike was n
 
 ## JNU is useless
 
-The forward says that 4360 students are enrolled in MPhil and PhD courses, and only 1000 articles are published. Well, my college had roughly 1,200 students in 2010, only 270 students graduated. Does that make my college useless?
+The forward says that 4360 students are enrolled in MPhil and PhD courses, and only 1000 articles are published. Well, my college had roughly 1,200 students in 2010, only 270 students graduated. So, my college is useless?
 
-Here is why it doesn't. While there may have been 1,200 students enrolled, only 270 were in the final year. The maker of the message would have known this has s/he attended college (or school). Not even as hard as common sense.
+Here is why it isn't. While there may have been 1,200 students enrolled, only 270 were in the final year. The maker of the message would have known this has s/he attended college (or school). Not even as hard as common sense.
 
 Anyone who underwent research would know that research works differently from the "professional courses" that a mainstream Indian is used to. Explaining it is probably futile, but those interested can simply Google this. Or apply.
 
@@ -149,19 +149,19 @@ Now to something serious; I didn't know about this, but this trend of giving imp
 
 [^a0d9e8e]: [<span class='small-caps'>IIT</span>s, <span class='small-caps'>IIM</span>s, <span class='small-caps'>NIT</span>s have just 3% of total students but get 50% of government funds](https://theprint.in/india/governance/iits-iims-nits-have-just-3-of-total-students-but-get-50-of-government-funds/89976/)
 
-Of course, there's no don't <span class='small-caps'>IIT</span>s contribute immensely to the country in terms of the little research that happens here, but these students are also among the highest that go out of the country. You might justify this citing educational loans and what not, but as a taxpayer who is contributing to their education, I'm indirectly helping another country prosper. When 97% of <span class='small-caps'>IIT</span>ians and <span class='small-caps'>IIM</span>ites stay back in India after their education, work here, pay taxes here, and in general contribute to the progress of the nation, I'll stop complaining about this.
+Of course, <span class='small-caps'>IIT</span>s contribute immensely to the country in terms of the little research that happens here, but these students are highest also among those that go out of the country. You might justify this citing educational loans and what not, but as a taxpayer who is contributing to _their_ education, I'm indirectly helping another country prosper. When 97% of <span class='small-caps'>IIT</span>ians and <span class='small-caps'>IIM</span>ites stay back in India after their education, work here, pay taxes here, and in general contribute to the progress of the nation, I'll stop complaining about this.
 
-Despite not getting the "lion's share" of the higher education funding, <span class='small-caps'>JNU</span> (and DU) managed to feature at least feature in the top 500 humanities universities in the world[^0b7ee19] (2020 list), apparently. <span class='small-caps'>IIT</span>s and <span class='small-caps'>IIM</span>s frequently feature in the top universities' list, but that's not surprising at all. Now if you think humanities is not a necessary study, you're part of the problem that you complain about---ethical policy-making, general human life, culture, philosophy, promotion of classical languages, etc. You can't complain about these not developing by complaining about funding these studies; you do either. in about the "lion's share" of students being part of social sciences. Don't be the proverbial _Kalidasa_.
+Despite not getting the "lion's share" of the higher education funding, <span class='small-caps'>JNU</span> (and <span class='small-caps'>DU</span>) managed to at least feature in the top 500 humanities universities in the world[^0b7ee19] (2020 list), apparently. <span class='small-caps'>IIT</span>s and <span class='small-caps'>IIM</span>s frequently feature in the top universities' list, but that's not surprising at all. Now if you think humanities is not a necessary study, you're part of the problem that you complain about---ethical policy-making, general human life, culture, philosophy, promotion of classical languages, etc. You can't complain about these not developing by complaining about funding these studies; you do either. Don't be the proverbial _Kalidasa_.
 
-[^0b7ee19]: [<span class='small-caps'>JNU</span>, DU among top 500 humanities varsities in the world: Times global rankings](https://m.hindustantimes.com/india-news/india-s-jnu-du-among-top-500-humanities-varsities-in-the-world-times-global-rankings/story-rHAOQIR41CJAZA7zj0ljAP.html)
+[^0b7ee19]: [<span class='small-caps'>JNU</span>, <span class='small-caps'>DU</span> among top 500 humanities varsities in the world: Times global rankings](https://m.hindustantimes.com/india-news/india-s-jnu-du-among-top-500-humanities-varsities-in-the-world-times-global-rankings/story-rHAOQIR41CJAZA7zj0ljAP.html)
 
 Here is something the supposed 600-page annual report---conveniently---did not mention:
 
-Given that ₹37,461.01 crore (44.07% of budgetary allocation to education) is allocated to higher education, of which only 48.9% (₹18,318.43 crore) goes to the 865 institutes offering higher studies, even if distributed evenly among these institutions, the total money that goes to <span class='small-caps'>JNU</span> is about ₹21.18 crore (or 0.06% of the total allocation, and a far, far cry from the said ₹556 crore---nineteen-five-hundredth, to be exact, or roughly, one-twenty-fifth). Does <span class='small-caps'>JNU</span> get that level of treatment---twenty-five times the calculated allocation? Really? The Hindustan Times article[^0b7ee19] makes me think, no effing way.
+Given that ₹37,461.01 crore (44.07% of budgetary allocation to education) is allocated to higher education, of which only 48.9% (₹18,318.43 crore) goes to the 865 institutes offering higher studies, even if distributed evenly among these institutions, the total money that goes to <span class='small-caps'>JNU</span> is about ₹21.18 crore (or 0.06% of the total allocation, and a far, far cry from the said ₹556 crore---nineteen-five-hundredth, to be exact, or roughly, one-twenty-fifth). Does <span class='small-caps'>JNU</span> get that level of treatment---twenty-five times the calculated allocation? Really? The Hindustan Times article[^0b7ee19] makes me think, no effing way.
 
-Now to some speculation (I am allowed some if the message maker is): Going by the forward, if 8000 students study in <span class='small-caps'>JNU</span>, that translates to about ₹26,475 per student. If we factor in the actual spend of the government, at 84% of the total allocated budget, the amount spent on a student is ₹22,239.
+Now to some speculation (I am allowed some if the message maker is): Going by the forward, if 8000 students study in <span class='small-caps'>JNU</span>, that translates to about ₹26,475 per student. If we factor in the actual spend of the government, at 84% of the total allocated budget, the amount spent on a student is ₹22,239.
 
-In reality, of course, this is not an exact number because the number of students studying in central universities is unknown. When we learn to publish data transparently, we will know the exact numbers. Until then, I am going to call ₹6.95 lac per student bollocks.
+In reality, of course, this is not an exact number because the number of students studying in central universities is unknown. When we learn to publish data transparently, we will know the exact numbers. Until then, I am going to call ₹6.95 lac per student bollocks.
 
 ## On socialism
 
@@ -173,7 +173,7 @@ Agreed. So are many, many things in our country. We have a lopsided view of fina
 
 [^85f0b5b]: [<span class='small-caps'>NAFED</span> wasted over 30,000 MT onions, more than half of its buffer stock, amid soaring prices](https://theprint.in/india/nafed-wasted-over-30000-mt-onions-more-than-half-of-its-buffer-stock-amid-soaring-prices/323545/)
 
-Back to <span class='small-caps'>JNU</span>, is <span class='small-caps'>JNU</span> the best university in India? Largely, no. Do students in <span class='small-caps'>JNU</span> not engage in social disturbances? They do, all the time. But do we smother this? Well, if you agree to smother <span class='small-caps'>ABVP</span>'s and other student bodies' "disturbances" as well. But even then, it is still not convincingly justified; students are a major part of a democracy; these are people who have just attained adulthood and trying their way to nudge the country in a direction that they feel is good. This is called dissent in some cases. If dissent itself is curbed, then we are no democracy. If students do not have a voice, raise the voting age from 18 to, any arbitrary higher value. Would you do that? What happens to the largest vote bank, then?
+Back to <span class='small-caps'>JNU</span>, is <span class='small-caps'>JNU</span> the best university in India? Largely, no. Do students in <span class='small-caps'>JNU</span> not engage in social disturbances? They do, all the time. But do we smother this? Well, if you agree to smother <span class='small-caps'>ABVP</span>'s and other student bodies' "disturbances" as well. But even then, it is still not convincingly justified; students are a major part of a democracy; these are people who have just attained adulthood and trying their way to nudge the country in a direction that they feel is good. This is called dissent in some cases. If dissent itself is curbed, then we are no democracy. If students do not have a voice, raise the voting age from 18 to any arbitrary higher value. Would you do that? What happens to the largest vote bank, then?
 
 Yes, most <span class='small-caps'>JNU</span> students have this far left sort of mentality in general, and that is probably dangerous in today's India. But does that mean we shut down the university? Had you asked me three days before writing this, I would have said yes. Today, looking outside of WhatsApp University and rooms where news breaks first, I would say, heck, no.
 
