@@ -18,9 +18,6 @@ Despite hating to say it, it started with _WhatsApp University_. WhatsApp Univer
 
 When I blame the Baby Boomers of India (the generation of my parents and uncles and aunts) for ruining the country for us, it extends to this---these are the guys sitting in their couches sipping their coffees, with their phones in hand, being our teachers at WhatsApp University, still influencing the country. Relentless, I say.
 
-- TOC
-{:toc}
-
 I received this message yesterday ([skip this](#the-premise) if you want to):
 
 > JNU issue - there are a total of ~8000 students at JNU. Of this, the lion’s share of 57% students is of social sciences, language, literature & arts (4578 students) & International studies 15% ( 1210 students). Almost 55% of the total i.e. 4359 students are doing M.Phil. or Ph.D
