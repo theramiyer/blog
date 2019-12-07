@@ -17,6 +17,9 @@ I am no "liberal community". This is important.
 
 More important is that I respect the Constitution. I base my opinion on what our constitution says about how a citizen should be. I also base it on the textbook definitions of some of the important terms that we use on a daily basis. If you have guessed what my stand is (which is no rocket science), humour yourself, because this is probably not a perspective you have heard of.
 
+- TOC
+{:toc}
+
 I have no words to describe the anger I have towards the perpetrators of the rape. As a man, it shames me that such men exist amongst us, making girls generally uncomfortable around all men. And I admit that I wished they received the greatest punishment there is in our law. But, is this how this should have ended?
 
 Why?
