@@ -78,7 +78,9 @@ The funny thing about our incumbent government is not recording uncomfortable da
 
 [^03d4e17a]: [Maths never helped Einstein discover gravity: Piyush Goyal](https://www.thehindu.com/news/national/maths-never-helped-einstein-discover-gravity-piyush-goyal/article29399249.ece)
 
-Anyway, I managed to find the 2017 report from the National Crime Records Bureau[^26317ed7]. According to Page 222 of the report, about 1.7 lac cases against women were _pending investigation for over a year_. In the fast track courts, trials of about 3400 cases took over ten years to complete (Page 1119). Ten years in fast-track courts. Over 15,000 of the 38,000 cases ran for over three years. The fast-track courts closed a mere 1,000 cases within a month. If you consider a case completing in a month as fast-tracked, the success of the fast-track courts is about 2.6%. If you make it a year, the success rate is 30%.
+Anyway, I managed to find the 2017 report from the National Crime Records Bureau[^26317ed7]. According to Page 222 of the report, about 1.7 lac cases against women were _pending investigation for over a year_. The heroic police fail to file charge-sheets in ~40% of the cases. Why?
+
+Now to the judiciary. In the fast track courts, trials of about 3400 cases took over _ten years_ to complete (Page 1119). I repeat: ten years in fast-track courts. Over 15,000 of the 38,000 cases ran for over three years. The fast-track courts closed a mere 1,000 cases within a month. If you consider a case completing in a month as fast-tracked, the success of the fast-track courts is about 2.6%. If you make it a year, the success rate is 30%.
 
 [^26317ed7]: [Crime in India 2017: Statistics](http://ncrb.gov.in/StatPublications/CII/CII2017/pdfs/CII2017-Full.pdf)
 
@@ -88,6 +90,10 @@ As the cherry on top, fast-track courts have about six lac cases pending[^5bc15
 
 All true. But do we take law into our hands? Or do we let the police take law into their own hands? When did the police become synonymous with the law? Let me remind you, we are a republic (with a lowercase r---I'm getting tired already). The moment you throw away the law, whatever little restraint that exists today---on the unlawful or the powerful---will vanish. Lawlessness is much worse than delayed justice.
 
+Look the judiciary does not have magical powers. The judiciary must abide by the law. The law dictates that the proof of crime should be beyond reasonable doubt. This is the law's way of protecting the innocents, in whose warmth the criminals manage to bask. The investigating agencies must submit valid proof which the courts can base their judgements on. In most cases, the judge knows that the accused is a criminal, but he can do nothing until the prosecution produces valid evidence. The investigating agencies must gather the evidence. A major reason for the failure of the judiciary is the investigating agencies.
+
+If the laws are inadequate, the lawmakers are to answer. And who are the lawmakers? The ones we elect. Another part of the failure of these cases is the lawmakers. And the judiciary is to blame as well. Why do public prosecutors not appear in courts during hearings? Who gives the right to the courts to be indifferent to cases? No doubt, there is incompetency in the judiciary as well, as everywhere else.
+
 ## Precedents and looking forward
 
 The legal system must be a system. The legal system (or more specifically, the judiciary) is independent, and is answerable to The Book, and the book alone. This is why the people do not elect the judiciary---people cannot directly pressurise the judiciary.
@@ -96,11 +102,13 @@ The police are answerable to the judiciary. Our constitution protects our rights
 
 After due judicial process, the judiciary decides on what punishment the proven criminals should undergo. In this case, the police had not proven anything yet. As per the judiciary, the prosecution should prove the crime, the accused do not have to prove innocence. It may be hard to objectively look at this situation, but that is what the law says.
 
-What if the police could not prove the crime?
+'But what if the police could not prove the crime?'
 
 That is precisely the issue. It takes significant effort to prove a rape. In a case where the victim was down to ashes, the case becomes harder. In the meanwhile, human rights groups would come, try to save the offenders from capital punishment and what not. In a blink, the alleged criminals would become "humans". And why not, unless proven as perpetrators of such a ghastly crime?
 
-More importantly, if this method becomes an illegal precedent and every other law enforcement agency starts doing this, eliminating the judiciary, we will become a police state. Those with _lathis_ and guns will have the ultimate power. They will not be answerable to anyone.
+But, if this method becomes an illegal precedent and every other law enforcement agency starts doing this, eliminating the judiciary, we will become a police state. Those with _lathis_ and guns will have the ultimate power. They will not be answerable to a neutral agency. If there is no judicial process, a policeman could pick you or me up someday, accuse me of a crime you or I did not commit, and then in broad daylight, shoot me down claiming they have slain the culprit.
+
+Take a step back and understand: this is not me saying this is what happened in this case. I am saying, this _could_ happen tomorrow. If there is the judiciary, the police will have to submit us to the courts, which will try you or me, and can acquit us when they find us innocent. I have a chance to live.
 
 ## The larger issue
 
@@ -108,12 +116,12 @@ Will a death sentence (or an "encounter" for that matter) fix it all? If it coul
 
 While this is a possibility, I find it hard to accept. First, I think the _Werther Effect_ is more powerful than the general population considers it to be. Second, I think the rapists today are comfortable in the knowledge that the police are not interested in pursuing rape cases, unless there is pressure from the likes of celebrities and higher officials. The reason is, rape cases are hard to prove, and every station already has a pile of cases pending investigation. Third, capital punishment is no more a deterrent; the attitude of the criminals is such. Among public figures downplaying the gravity of rape to films promoting toxic masculinity in an already patriarchal society, the bigger point gets lost behind obnoxious remarks and high-decibel narratives.
 
-Today, because rapes find such a high level of coverage in the media, the rapist (dormant or otherwise) thinks of the coverage as a public approval of the crime---Werther Effect. The "elders" and some patriarchal public figures absolving the men of the crime and victim-shaming adds to the fire. This leads the rapist to commit the crime with less remorse and more confidence.
+Today, because rapes find such a high level of coverage in the media, the rapist (dormant or otherwise) thinks of the coverage as a public approval of the crime---Werther Effect. The "elders" and some patriarchal public figures absolving the men of the crime, and victim-shaming add to the fire. This leads the rapist to commit the crime with less remorse and more confidence.
 
 But can you not report a rape? Can you not report the shameful statistics of the agencies that should be protecting us? How do you continue to maintain pressure on these agencies if statistics are not published, and the agencies are not questioned based on the statistics?
 
 Education has not helped either, know that. Learned members of our society make statements that you cannot stand. A couple of days ago, I read someone's statements on how girls should carry condoms to protect themselves, and not resist rape. And a public figure said that most rapes were consensual, making me run for the dictionary, thinking I had either gotten the meaning of rape, or that of consensual wrong.
 
-This issue is deep-rooted. The fault is in the mindset of the public in general. Band-Aid solutions such as hanging the culprits and shooting them down does not help curb rapes. That does not mean we stop punishing the rapists; like I said before, they deserve the toughest-possible punishment---by the book of law. The point is not to kill him, but make him repent. Although that alone will not fix it.
+This issue is deep-rooted. The fault is in the mindset of the public in general. Band-Aid solutions such as hanging the culprits and shooting them down does not help curb rapes. That does not mean we stop punishing the rapists; like I said before, they deserve the toughest-possible punishment---by the book of law. The point is not to kill him, but make him repent. Although _that alone_ will not fix it.
 
 The problem is the organ between the man's ears.
