@@ -28,7 +28,7 @@ Why?
 
 (No pun intended. Notice the lowercase r.)
 
-We are a democratic republic. This is different from all the stories we have heard from way back in the past when kings ruled, and the king's word was the final one. In a democratic republic, we have a system called the Constitution of India, and accompanying it, are the Indian Penal Code and the Criminal Procedure Code. As a total, we call them the _Legal System_. The Constitution defines how the nation should run, what a citizen's life should be like, what are his/her rights and duties and so on.
+We are a democratic republic. This is different from all the stories we have heard from way back in the past when kings ruled, and the king's word was the final one. In thr Democratic Republic of India, we have a system called the Constitution of India, and accompanying it, are the Indian Penal Code and the Criminal Procedure Code. As a total, we call them the _Legal System_. The Constitution defines how the nation should run, what a citizen's life should be like, what are his/her rights and duties and so on.
 
 The Indian Penal Code and the Criminal Procedure Code work in situations where the guidelines laid by the Constitution are not followed. The <span class='small-caps'>IPC</span> defines the different offences, and the respective penalties that the convict must pay---in the form of fine or punishment or both. The CrPC, defines _how_ to handle the offences; how the law enforcement should run the investigation, what or how they should document what is necessary, which court to approach, what the courts' hierarchy is, etc.
 
@@ -40,9 +40,9 @@ In other words, if the police charge someone under an <span class='small-caps'>I
 
 True justice is when the different wings of the system follow the due process, sentence the convict to a punishment, and the convict goes through the punishment. The police or the people do not have the right to announce a punishment, much less take such an action. I am not the one saying it. This is what we gave ourselves on the 26<sup>th</sup> of January, 1950.
 
-Popular beliefs and fan-worthy movies are merely that; they do not dictate how we function as a republic (again, lowercase r). When someone (or a law-enforcement agency) take the law in their own hands, the act is revenge, not justice. Of course, one may be comfortable with us calling this as an act of revenge. 'So what?', they may say. But that is not as per law. What happens when you commit such an act? It becomes a murder. And a murder is punishable in the court of law.
+Popular beliefs and fan-worthy movies are merely that; they do not dictate how we function as a republic (again, lowercase r). When someone (or a law-enforcement agency) take the law in their own hands, the act is revenge, not justice. Of course, one may be comfortable with us calling this as an act of revenge. 'So what?', they may say. But that is not as per law. What happens when you commit such an act? It could be murder. And a murder is punishable in the court of law.
 
-In other words, now the policemen who were responsible for the death of the alleged criminals would come under the lens (and they must, in a civil society that runs by its constitution).
+In other words, now the policemen who were responsible for the death of the alleged criminals would come under the lens (and they must, in a civil society that runs by its constitution) on whether the killings were justifiable as per the law.
 
 Vigilante justice and encounters are nice for a film or a novel. In real life in a democratic republic, such an act is condemnable.
 
@@ -64,7 +64,7 @@ Now, even though the people might be in favour of the policemen who killed the f
 
 To me, though, this is what it looks like: The policemen at the police station did not bother to record a complaint, or file an <span class='small-caps'>FIR</span>. Given that the family had gone to the police station to give a complaint, and a crime had happened as the family had anticipated, the next leg of enquiry would be on why the policemen did not record a complaint and begin investigation. There will be public outrage on this. There will be pressure from superiors that the policemen face punishment---within the department or under the law. There will be an enquiry on the station head, on the other members of the station present at the time, and so on. There would be uncomfortable questions to answer.
 
-Instead, what if the police did what they could to avoid public outrage? Isn't this story of the encounter sounds too convenient? Ten policemen and four criminals. Armed policemen, unarmed criminals. Then someone said the criminals were so adept that two of them snatched the weapons of two policemen. Yet, the so-capable criminals could not shoot one policeman. But all the four of them are dead. Deep down, most of us are thinking this. And some of us are a little more intuitive. We have come to our conclusions. The intuitive ones know the conclusions are spot on.
+Instead, what if the police did what they could to avoid public outrage? Doesn't this story of the encounter sound too convenient? Ten policemen and four criminals. Armed policemen, unarmed criminals. Then someone said the criminals were so adept that two of them snatched the weapons of two policemen. Yet, the so-capable criminals could not shoot one policeman. But all the four of them are dead. Deep down, most of us are thinking this. And some of us are a little more intuitive. We have come to our conclusions. The intuitive ones know the conclusions are spot on.
 
 But the intuitive ones are intuitive enough to also not demand an encounter of the well-to-do ones on whom there are rape allegations. Oh, did I hear a  Sengar somewhere? No? Oh, did someone say Chinmayanand? No?
 
