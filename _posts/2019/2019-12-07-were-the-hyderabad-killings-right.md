@@ -11,7 +11,9 @@ tags:
 - murder
 ---
 
-The first piece of text I read upon waking up yesterday was that the police had killed the alleged rapists of the veterinarian. It took me a moment to let it sink in. This was like the films, where film heroes go about threatening criminals, 'I will take you down and term it an encounter.'
+The first piece of text I read upon waking up yesterday was that the police had killed the alleged rapists of the veterinarian in Hyderabad[^abe13496]. It took me a moment to let it sink in. This was like the films, where film heroes go about threatening criminals, 'I will take you down and term it an encounter.'
+
+[^abe13496]: [All four accused in Hyderabad vet rape and murder case shot dead](https://www.thehindu.com/news/cities/Hyderabad/four-accused-in-hyderabad-vet-rape-and-murder-case-shot-dead/article30202752.ece)
 
 I am no "liberal community". This is important.
 
@@ -106,22 +108,28 @@ After due judicial process, the judiciary decides on what punishment the proven 
 
 That is precisely the issue. It takes significant effort to prove a rape. In a case where the victim was down to ashes, the case becomes harder. In the meanwhile, human rights groups would come, try to save the offenders from capital punishment and what not. In a blink, the alleged criminals would become "humans". And why not, unless proven as perpetrators of such a ghastly crime?
 
-But, if this method becomes an illegal precedent and every other law enforcement agency starts doing this, eliminating the judiciary, we will become a police state. Those with _lathis_ and guns will have the ultimate power. They will not be answerable to a neutral agency. If there is no judicial process, a policeman could pick you or me up someday, accuse me of a crime you or I did not commit, and then in broad daylight, shoot me down claiming they have slain the culprit.
+But, if this method becomes an illegal precedent and every other law enforcement agency starts doing this, eliminating the judiciary, we will become a police state. Those with _lathis_ and guns will have the ultimate power. They will not be answerable to a neutral agency. If there is no judicial process, a policeman could pick me up someday, accuse me of a crime I did not commit, and then in broad daylight, shoot me down claiming they have slain the culprit.
 
-Take a step back and understand: this is not me saying this is what happened in this case. I am saying, this _could_ happen tomorrow. If there is the judiciary, the police will have to submit us to the courts, which will try you or me, and can acquit us when they find us innocent. I have a chance to live.
+Take a step back and understand: this is not me saying this is what happened in Disha's case. I am saying, this _could_ happen tomorrow to you or me. If there is the judiciary, the police will have to submit me to the courts, which will try me, and can acquit me when they find me innocent. I have a chance to live.
 
 ## The larger issue
 
-Will a death sentence (or an "encounter" for that matter) fix it all? If it could, there should have been no rapes happening after the Nirbhaya case. Conversely, the numbers have increased. Yes, an argument is that the number of cases reported has increased, but the number of rapes happening has reduced compared to before. (As an example, suppose the number of rapes happening before the Nirbhaya case were 15,000 a year, a mere 25 of them got reported; now, the rape cases had gone down to 10,000 a year but about 500 were getting reported.)
+Justice or punishment are not about revenge. They should be what Fat Boy and the Little Man are to war. They are not merely about paying back. The dead is dead. She will never see (in)justice anymore. Afterlife is not something I subscribe to, but even if you do, what does it matter whether the four men are in jail or are dead, to the dead doctor? Perhaps her family could say, 'Well, four less men for our other daughter to worry about.' but that is the end of it.
 
-While this is a possibility, I find it hard to accept. First, I think the _Werther Effect_ is more powerful than the general population considers it to be. Second, I think the rapists today are comfortable in the knowledge that the police are not interested in pursuing rape cases, unless there is pressure from the likes of celebrities and higher officials. The reason is, rape cases are hard to prove, and every station already has a pile of cases pending investigation. Third, capital punishment is no more a deterrent; the attitude of the criminals is such. Among public figures downplaying the gravity of rape to films promoting toxic masculinity in an already patriarchal society, the bigger point gets lost behind obnoxious remarks and high-decibel narratives.
+In that context, will a death sentence (or an "encounter" for that matter) fix it all? If it could, there should have been no rapes happening after the Nirbhaya case. Conversely, the numbers have increased. Yes, an argument is that the number of cases reported has increased, but the number of rapes happening has reduced compared to before. (As an example, suppose the number of rapes happening before the Nirbhaya case were 15,000 a year, a mere 25 of them got reported; now, the rape cases had gone down to 10,000 a year but about 500 were getting reported.)
 
-Today, because rapes find such a high level of coverage in the media, the rapist (dormant or otherwise) thinks of the coverage as a public approval of the crime---Werther Effect. The "elders" and some patriarchal public figures absolving the men of the crime, and victim-shaming add to the fire. This leads the rapist to commit the crime with less remorse and more confidence.
+While this is a possibility, I find it hard to accept. First, I think the _Werther Effect_ is more powerful than the general population considers it to be. Second, I think the rapists today are comfortable in the knowledge that the police are not interested in pursuing rape cases, unless there is pressure from the likes of celebrities and higher officials. The reason is, rape cases are hard to prove, and every station already has a pile of cases pending investigation. Third, capital punishment is no more a deterrent; the attitude of the criminals is such. Among public figures downplaying the gravity of rape[^a59d842d] to films promoting toxic masculinity in an already patriarchal society, the bigger point gets lost behind obnoxious remarks and high-decibel narratives.
+
+[^a59d842d]: [14 Times Powerful Indians Made Outrageous Remarks on Rape](https://www.news18.com/news/politics/14-times-powerful-indians-made-outrageous-remarks-on-rape-1484799.html)
+
+Today, because rapes find such a high level of coverage in the media, the rapist (dormant or otherwise) _thinks of_ the coverage as a public approval of the crime---Werther Effect. The "elders" and some patriarchal public figures absolving the men of the crime, and victim-shaming, add to the fire. This leads the rapist to commit the crime with less remorse and more confidence.
 
 But can you not report a rape? Can you not report the shameful statistics of the agencies that should be protecting us? How do you continue to maintain pressure on these agencies if statistics are not published, and the agencies are not questioned based on the statistics?
 
-Education has not helped either, know that. Learned members of our society make statements that you cannot stand. A couple of days ago, I read someone's statements on how girls should carry condoms to protect themselves, and not resist rape. And a public figure said that most rapes were consensual, making me run for the dictionary, thinking I had either gotten the meaning of rape, or that of consensual wrong.
+Education has not helped either, know that. Learned members of our society make statements that you cannot stand. A couple of days ago, I read someone's statements on how girls should carry condoms to protect themselves, and not resist rape[^846d42f1]. Once a public figure had said that most rapes were consensual[^a59d842d], making me run for the dictionary, thinking I had either gotten the meaning of rape, or that of consensual wrong.
 
-This issue is deep-rooted. The fault is in the mindset of the public in general. Band-Aid solutions such as hanging the culprits and shooting them down does not help curb rapes. That does not mean we stop punishing the rapists; like I said before, they deserve the toughest-possible punishment---by the book of law. The point is not to kill him, but make him repent. Although _that alone_ will not fix it.
+[^846d42f1]: [Filmmaker Daniel Shravan asks women to carry condoms to avoid rape](https://www.newindianexpress.com/entertainment/telugu/2019/dec/04/filmmaker-daniel-shravan-asks-women-to-carry-condoms-to-avoid-rape-netizens-rip-into-him--2071440.html)
 
-The problem is the organ between the man's ears.
+This issue is deep-rooted. The fault is in the mindset of the public in general. Band-Aid solutions such as hanging the culprits and shooting them down does not help curb rapes. That does not mean we stop punishing the rapists; like I said before, they deserve the toughest-possible punishment---by the book of law---such that it becomes a deterrent. Although _that alone_ will not fix it.
+
+In reality, the problem is with the organ between the man's ears.
