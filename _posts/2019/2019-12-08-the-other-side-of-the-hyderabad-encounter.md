@@ -3,7 +3,14 @@ layout: "post"
 title: "The other side of the Hyderabad encounter"
 date: "2019-12-08"
 tags:
--
+- police
+- law
+- constitution
+- state
+- rape
+- murder
+- justice
+- anarchy
 ---
 
 I met a friend of mine today, and heard an interesting perspective. A light discussion began on the Hyderabad killings, from her saying, 'I have started feeling that they could have been innocent.' But in no time, one sentence led to another, and we were on the opposite sides---neither of us believing that the four were fully innocent, but at the same time, me standing by the Constitution and her standing by the police.
