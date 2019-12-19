@@ -14,7 +14,10 @@ published: false
 
 Over the last week, I saw protests everywhere. Most groups (not WhatsApp groups) that I am part of had a discussion about the _Citizenship (Amendment) Act_ going. I even surprised some that I was taking the stand I was, given my track record of having ideas contrary to the ruling party's. I find it difficult to explain to people that having rational thoughts is all I do.
 
-Let me get to the point: The <span class='small-caps'>CAA</span> is not about throwing people out. Yet. Not until we know what the other beast, the <span class='small-caps'>NRC</span> is going to be like. Like always, you are free to disagree. Start a healthy discussion, though. I am [@theramiyer](https://twitter.com/theramiyer/) on Twitter; if you know me personally, you have my number already.
+Let me get to the point: The <span class='small-caps'>CAA</span> is not about throwing people out. Yet. Not until we know what the other beast, the <span class='small-caps'>NRC</span> is going to be like. Like always, you are free to disagree. Start a healthy discussion, though. If you know me personally, you have my number already.
+
+- TOC
+{:toc}
 
 Buckle up for the ride. This is interesting.
 
@@ -34,13 +37,13 @@ But what happens if your parents are not Indian, and came to India, in, say, 198
 
 ## Immigration to India
 
-Religious persecution is a word that we hear everyday given the situation. The term means that, say, if you were in a country, called Gamma Land, and the people of Gamma Land worshipped a Lomanso Gomo, their religion being Gomoism[^44299239]. Imagine that an Ashok Kumar, a Buddhist, is a resident of that country; seven generations of his family has been. Today, there is religious extremism in that country, and the Gomos ill-treat Ashok Kumar and his family, by not letting him buy food, or beating him up if he stepped out of the house. This is religious persecution.
+Religious persecution is a word that we hear everyday given the situation. Say, if there was a country, called Gamma Land, and the people of Gamma Land worshipped a Lomanso Gomo, their religion being Gomoism[^44299239]. Imagine that an Ashok Kumar, a Buddhist, is a resident of that country; seven generations of his family have been. Today, there is religious extremism in that country, and the Gomos ill-treat Ashok Kumar and his family, by say, beating him up if he stepped out of the house, because he is Buddhist. This is religious persecution.
 
 [^44299239]: All names of people, places and religion in the paragraph are fictitious. Any resemblance to anything in actual existence is pure coincidence.
 
 Imagine that Ashok Kumar managed to escape the country and come to India. He is an immigrant.
 
-This way, Parsis from Iran have migrated to India. During the partition of India, millions of people went from the Dominion of India to the Dominion of Pakistan and vice versa. Even after the partition, people from Bangladesh kept coming to India because of religious persecution in the past. Thousands of Sri Lankan Tamils came to India, Tibetans came to India (including the Dalai Lama). Similarly, Rohingyas from Myanmar came to India---this is recent. People from Afghanistan have also come to India to escape religious persecution.
+This way, Parsis from Iran have migrated to India. During the partition of India, millions of people went from the Dominion of India to the Dominion of Pakistan and vice versa. Even after the partition, people from East Pakistan kept coming to India because of religious persecution. Thousands of Sri Lankan Tamils came to India, Tibetans came to India (including the Dalai Lama). Similarly, Rohingyas from Myanmar came to India---this is recent. People from Afghanistan have also, at some point, come to India to escape religious persecution.
 
 According to the 2001 Census, most migration to India took place from Bangladesh and Pakistan. Remember, it does not say Muslims alone migrated from there---an important point to note. These immigrants could be Hindus, Sikhs, or anyone, including Muslims.
 
@@ -58,11 +61,11 @@ The takeaway so far should be that immigrants do not automatically become citize
 
 Everything so far is fine. What follows is where the issue is.
 
-## What the Citizenship (Amendment) Act_2019 does
+## What the Citizenship (Amendment) Act 2019 does
 
 Until this point, irrespective of the religion or country of origin, if anyone came into India without proper documents was an illegal immigrant. Those with proper documentation, if they wanted to become Indian, would have to stay in India for eleven years, and then apply for citizenship.
 
-The CAA 2019 changes this. It says, it does not matter how someone came to India, but if they came in before December 2014, from either Bangladesh, Pakistan or Afghanistan, and they belong to either of the Hindu, Sikh, Buddhist, Jain, Christian or Parsi communities, they can get citizenship.
+The <span class='small-caps'>CAA</span> 2019 changes this. It says, it does not matter how someone came to India, but if they came in before December 2014, from either Bangladesh, Pakistan or Afghanistan, and they belong to either of the Hindu, Sikh, Buddhist, Jain, Christian or Parsi communities, they can get citizenship.
 
 In other words, if you came in from one of the three countries mentioned, and you belong to one of the six communities, and you have come five years ago, you can apply for citizenship. (Understand, you do not _automatically_ become citizens. You still have to apply, you still have to establish that you came in before the mentioned date in December 2014.)
 
@@ -76,7 +79,7 @@ Article 14 talks about _Equality before law_:
 
 Protestors and TV debates kept mentioning Article 14. And they ask, why not include Myanmar and Sri Lanka (given that the Rohingya Muslims and the Sri Lankan Tamils are both minorities in the respective nations)? Is this not discrimination? This, has nothing to do with the Constitution. The Parliament should answer its people, but this in itself is not against the Constitution---this is instead a matter of policy. Read on (and feel free to verify this against your copy of the Constitution).
 
-Article 14 provides for the so-called "reasonable classification"[^7cad2f65]. Again, in simple English, "religious minorities of Pakistan, Bangladesh and Afghanistan, belonging to either of the Hindu, Christian, Sikh, Jain, Buddhist and Parsi communities" is a specific class of people, not meant to divide the subjects of legislation (as in, the current Indian citizens), into separate classes. Why does this not divide current Indian citizens? Because this does not talk about us in the first place---this talks about specific religious minorities in these three countries.
+Article 14 provides for the so-called "reasonable classification"[^7cad2f65]. In plain English, "religious minorities of Pakistan, Bangladesh and Afghanistan, belonging to either of the Hindu, Christian, Sikh, Jain, Buddhist and Parsi communities" is a specific class of people, not meant to divide the subjects of legislation (as in, the current Indian citizens), into separate classes. Why does this not divide current Indian citizens? Because this does not talk about us in the first place---this talks about specific religious minorities in these three countries.
 
 [^7cad2f65]: [Article 14 of the Constitution of India](https://en.wikipedia.org/wiki/Article_14_of_the_Constitution_of_India)
 
@@ -88,9 +91,9 @@ If you are among those that ask if the government can do this, read Article 11 
 
 In other words, the Parliament has all the rights to decide the right of citizenship by amending the Constitution. This gives the right to the Legislative body to bring in Acts such as that of 1955 and amendments such as those in 1987, 2004 and 2019.
 
-It this point, it _does not_ look like the immigrants have to establish religious persecution; another important point to note. The matter of religious persecution has been discussed in the parliament, but does not feature in the body of the bill. In other words, it seems that the Parliament _assumes_ that minorities in these three countries face religious persecution. Given that Article 14 presumes validity, if I were a Hindu in Pakistan who wants to come to India, those opposing my citizenship have to prove that I did not face religious persecution, but am coming to India because, say, I love the pollution in New Delhi. Whether leaving it that way is right or wrong is a policy debate, not a legal one, because by nature of our law, the accused does not have to prove innocence, but the accuser has to prove guilt of the accused. Legally, the Parliament is allowed to make a reasonable classification which it did, and is allowed to amend citizenship law, which also it did. Legally, no problem.
+It this point, it _does not_ look like the immigrants have to establish religious persecution; another important point to note. The Parliament discussed the matter of religious persecution, but it does not feature in the body of the bill. In other words, the Parliament seems to _assume_ that minorities in these three countries face religious persecution. Given that Article 14 presumes validity, if I were a Hindu in Pakistan who wants to come to India, those opposing my citizenship have to prove that I did not face religious persecution, but am coming to India because, say, I love the pollution in New Delhi. Whether leaving it that way is right or wrong is a policy debate, not a legal one, because by nature of our law, the accused does not have to prove innocence, but the accuser has to prove guilt of the accused. Legally, the Parliament can make a reasonable classification which it did, and can amend citizenship law, which also it did. Legally, no problem.
 
-If religious persecution is included in the criteria of reasonable classification, this still means that according to the law, if you are a Hindu who migrated to India because of _economic reasons_, someone accusing you of foul play has to prove it to make you an immigrant who would need to spend eleven years in India before applying for citizenship.
+If religious persecution were a criteria of reasonable classification, this still means that according to the law, if you are a Hindu who migrated to India because of _economic reasons_, someone accusing you of foul play has to prove it to make you an immigrant who would need to spend eleven years in India before applying for citizenship.
 
 The question remains that even if religious persecution were a criterion, whether the government will ask non-Muslims coming to India from these three countries on economic or other grounds (or potential "infiltrators"), to wait eleven years. Who will find foul play? Again, a policy issue, not a legal one. A question for Mr Shah's claims to answer, not for the Constitution. If you can legally prove that you are a religious minority, that is, belonging to one of the six communities, coming from the three countries, you have a relaxed citizenship process.
 
@@ -100,9 +103,9 @@ If all you cared about was validation of your claims, you can stop reading here 
 
 A valid question. At the start, I was of the idea that this Act went against the Constitution. And then I read documents, parts of the Constitution itself, spoke to people from both the sides, and listened to the claims on both the sides. WhatsApp University had a boatload of crap as usual, but I have reached a point where I can differentiate between fact and fiction.
 
-I am among those that say while this is absolutely legal and technically constitutional, the act deviates from the principles on which the Constitution was formed. I call it the grey area.
+I am among those that say while this is legal and technically constitutional, the act deviates from the principles of the Constitution. I call it the grey area.
 
-This anxiety (and I say this about those that are anxious based on facts, not every protester out there) stems from a few other aspects. We start with Assam.
+This anxiety (and I say this about those that are anxious based on facts, not every protester out there) stems from the following aspects. We start with Assam:
 
 ## The Assam issue
 
@@ -126,13 +129,17 @@ The Supreme Court carried out this exercise, and like Mr Shekhar Gupta says, th
 
 Panic!
 
-Not just the <span class='small-caps'>BJP</span>, but everyone. Name one political party in 2019 has the "audacity" to throw out over ten lac Hindus from India, saying they are illegal immigrants? None. Not one political party would do that in 2019. Not Congress, not the Left, and most certainly not the <span class='small-caps'>BJP</span>. If the <span class='small-caps'>BJP</span> pitched something like that, I would look to the west in the morning to welcome the sun.
+Not the <span class='small-caps'>BJP</span> alone, but everyone. Name one political party in 2019 has the "audacity" to throw out over ten lac Hindus from India, saying they are illegal immigrants? None. Not one political party would do that in 2019. Not Congress, not the Left, and most certainly not the <span class='small-caps'>BJP</span>. If the <span class='small-caps'>BJP</span> pitched something like that, I would look to the west in the morning to welcome the sun.
 
-Now, if you understand what the <span class='small-caps'>CAA</span> 2019 says, you will know that it goes directly against the Assam Accord of 1985, and the agreement between India and Bangladesh in 1971. It kills the purpose of the Assam Movement. Also, it renders the efforts of the government and the 1,200 crore rupees spent in the <span class='small-caps'>NRC</span> wasted.
+Now, if you understand what the <span class='small-caps'>CAA</span> 2019 says, you will know that it goes directly against the Assam Accord of 1985, and the agreement between India and Bangladesh in 1971. It kills the purpose of the Assam Movement. Also, it renders the efforts of the government and the 1,200 crore rupees spent in the <span class='small-caps'>NRC</span> wasted.
 
 The <span class='small-caps'>CAA</span> was to handle this issue like a hot knife on butter, but ended up being a pneumatic drill (a.k.a. jackhammer) on granite.
 
 Again, not your trigger. Do not jump.
+
+## What happens if I cannot prove my citizenship
+
+At this point, answer to the question is unknown. All we can do is look at Assam and see what is happening. The government has made no official statement on what the criteria for <span class='small-caps'>NRC</span> are, or what the process is. We would need to wait.
 
 ## Are people coming from Bangladesh
 
@@ -144,72 +151,89 @@ Let me address the Home Minister saying that Bangladesh is an theocratic Islamic
 
 [^204f7c64]: [The Constitution of the People‌‌‍’s Republic of Bangladesh](http://bdlaws.minlaw.gov.bd/act-367.html)
 
-Did you see "secularism"? I did. Bangladesh, in 1971 declared itself a secular socialist democratic republic (India added the words "secular" and "socialist" to the Preamble in 1976 through the 42nd Amendment). To get this straight, Bangladesh is a State with Islam as its State Religion, but a secular state that treats other religions as equal. True, there was Martial Law in Bangladesh for some time and that Islamised Bangladesh, but the Supreme Court of Bangladesh later declared all laws passed under the Martial Law as void[^5c801b95]. Their supreme court also prohibited the use of the Sharia Law. That makes Bangladesh a <span class='small-caps'>NOT</span>-a-theocratic State. If we say that a State enshrining secularism in their constitution does not make a them secular, we should perhaps look in the mirror before making baseless accusations.
+Did you see "secularism"? I did. Bangladesh, in 1971 declared itself a secular socialist democratic republic (India added the words "secular" and "socialist" to the Preamble in 1976 through the 42nd Amendment). To get this straight, Bangladesh is a State with Islam as its State Religion, but a secular state that treats other religions as equal. True, there was Martial Law in Bangladesh for some time and that Islamised Bangladesh, but the Supreme Court of Bangladesh later declared all laws passed under the Martial Law as void[^5c801b95]. Their supreme court also prohibited the use of the Sharia Law. That makes Bangladesh a <span class='small-caps'>NOT</span>-a-theocratic State. If we say that a State enshrining secularism in their constitution does not make a them secular, we should perhaps look in the mirror before making baseless accusations.
 
 [^5c801b95]: [Verdict paves way for secular democracy](https://www.thedailystar.net/news-detail-148678)
 
-Second: economic refuge. India was once way better off than Bangladesh, but in 2019 Bangladesh is either equal to or better than India in a good number of economic indicators (Data: The Print[^9057cf45]). While we are at 4.5% <span class='small-caps'>GDP</span> growth rate, Bangladesh is at 8.1%. India is a mere 17% higher in per-capita <span class='small-caps'>GDP</span>. But Bangladesh's per-capita income is 60% higher than Assam and almost the same as West Bengal. Bangladesh's female labour participation is at 33%, while India's is 27.2%. Certainly, women from Bangladesh are not dying to come to India for jobs. That is another point for non-Islamism; Bangladesh treats its women better than average Islamic States. And in the end, the Global Hunger Index[^105a8707]: India is at rank 102 and Bangladesh is at 88---ahead of us by 14 positions.
+Second: economic refuge. India was once way better off than Bangladesh, but in 2019 Bangladesh is either equal to or better than India in a good number of economic indicators (Data: The Print[^9057cf45]). While we are at 4.5% <span class='small-caps'>GDP</span> growth rate, Bangladesh is at 8.1%. India is a mere 17% higher in per-capita <span class='small-caps'>GDP</span>. But Bangladesh's per-capita income is 60% higher than Assam and almost the same as West Bengal. Bangladesh's female labour participation is at 33%, while India's is 27.2%. Certainly, women from Bangladesh are not dying to come to India for jobs. That is another point for non-Islamism; Bangladesh treats its women better than average Islamic States. And in the end, the Global Hunger Index[^105a8707]: India is at rank 102 and Bangladesh is at 88---ahead of us by 14 positions.
 
-[^9057cf45]: [CAB-NRC, India-Bangladesh ties, and breaking some popular myths about our friendliest neighbour](https://www.youtube.com/watch?v=gmOfSlxEPBc)
+[^9057cf45]: [<span class='small-caps'>CAB-NRC</span>, India-Bangladesh ties, and breaking some popular myths about our friendliest neighbour](https://www.youtube.com/watch?v=gmOfSlxEPBc)
 
 In other words, India is no more an economic eye-candy for people of Bangladesh. There may have been Bangladeshis coming in, in the past, but India is not attractive to them anymore.
 
 Anyway, this was mainly to call out Mr Amit Shah for his statements on our friend nation. If you think I am putting down India, you are part of the problem; you are not facilitating diagnosis.
 
-Of course, you may say things like Bangladesh is a smaller country, and therefore easier to manage. That logic may fly for a second when trying to pitch two governments, but the numbers disagree with that people of Bangladesh are dying to come to India. And that is the point in question here.
+Of course, you may say that Bangladesh is a smaller country, and thus is easier to manage. That logic may fly for a second when trying to pitch two governments, but the numbers disagree with that people of Bangladesh are dying to come to India. And that is the point in question here.
 
-[^105a8707]: [Global Hunger Index 2019: India ranked lower than Nepal, Pakistan, Bangladesh](https://www.thehindu.com/news/national/global-hunger-index-2019-india-ranked-lower-than-nepal-pakistan-bangladesh/article29714429.ece)
+[^105a8707]: [Global Hunger Index 2019: India ranked lower than Nepal, Pakistan, Bangladesh](https://www.thehindu.com/news/national/global-hunger-index-2019-india-ranked-lower-than-nepal-pakistan-bangladesh/article29714429.ece)
 
 ## Are Muslims persecuted in Pakistan
 
-The ideology of Pakistan is that of the Sunni sect of Islam. Understanding the intricacies in Islam is beyond me at this point, but it is fact that the State in general cares little about the non-Sunni Muslims. Shias, Ahmediyas and other sects either get the second-class treatment or face persecution.
+The ideology of Pakistan is that of the Sunni sect of Islam. Understanding the intricacies in Islam is beyond me at this point, but the fact is that the State in general cares little about the non-Sunni Muslims. Shias, Ahmediyas and other sects either get the second-class treatment or face persecution.
 
-'So what? Why is it India's responsibility to give shelter to the Shias or the Ahmediyas if they face persecution in Pakistan? How is that India's problem?' Of course, legally, India has no obligation to absorb anyone into its population. Today, India says that members of the six religious communities from the three nations have a relaxed citizenship law; tomorrow, we could say that the courtesy is extended to Rohingya Muslims and no one else. Legally and constitutionally, we will be right in saying it.
+'So what? Why is it India's responsibility to give shelter to the Shias or the Ahmediyas if they face persecution in Pakistan? How is that India's problem?' Of course, legally, India has no obligation to absorb anyone into its population. Today, India says that members of the six religious communities from the three nations have a relaxed citizenship law; tomorrow, we could say that we extend the courtesy to Rohingya Muslims and no one else. Legally and constitutionally, we will be right in saying it.
 
-But the answer to 'Why not Muslims' being 'Muslims do not face persecution in Pakistan' is uninformed at best.
+Counter question: Why is it India's responsibility to give shelter to anybody coming from another country? What does it matter what religion they follow? Again, legally, India has no obligation to absorb anyone into its population.
 
-Point two, given that most immigrants coming into India are from Pakistan and Bangladesh (2001 Census), India is refusing to relax the citizenship law for one part of the immigrants. Why?
+But the answer to 'Why not Muslims' being 'Muslims do not face persecution in Pakistan' is factually incorrect.
+
+Point two, given that most immigrants coming into India are from Pakistan and Bangladesh (Census 2001), India is refusing to relax the citizenship law for one part of the immigrants. Why?
+
+Of course, policy decision, not legal discrimination, but why the discrimination from even the policy standpoint in a secular State?
 
 ## The sense of India
 
-India is a secular State. India has no State Religion. India was not formed by the Partition---Pakistan was. If anyone told you otherwise, they are wrong. Mr Shah is wrong as well. Those that did not believe in India's secular philosophy went to Pakistan. The partition was not about Hindus and Muslims, but about a class of Muslims wanting a separate Islamic State and everyone else. The _everyone else_ included Muslims who did not want an Islamic State. That, is India, my dear friend. It did not matter what god you believed in (or whether you believed in a god), what you ate or wore, what language you spoke, what you did for a living, or anything as crude. All that mattered was that you wanted to be free, and be together, perhaps as a nation.
+We are a secular State. India has no State Religion. India was not formed by the Partition---Pakistan was. If anyone told you otherwise, they are wrong. Mr Shah is no exception. Those that did not believe in India's secular philosophy went to Pakistan. The partition was not about Hindus and Muslims, but about a class of Muslims wanting a separate Islamic State on one side and everyone else on the other. The _everyone else_ included Muslims who did not want an Islamic State. That, is India, my dear friend. It did not matter what god you believed in (or whether you believed in a god), what you ate or wore, what language you spoke, what you did for a living, or anything as crude. All that mattered was that you wanted to be free, and be together, perhaps as a nation.
 
 People mattered.
 
 We Indians are not united by a religion. Not by a language. Not by an ideology. Not by culture. Not by ethnicity. Not by colour of the skin. We were not even a single nation to begin with!
 
-What unites us is the idea of India. The sense of oneness is despite our differences. Beyond tolerance, inclusion is the philosophy behind India.
+> India, that is Bharat, shall be a Union of States.  
+> ---Article 1, Constitution of India
+
+What unites us is the idea of India. The sense of oneness is despite our differences. Beyond tolerance, _inclusion_ is the philosophy behind India.
 
 This model of oneness is magnificent, but also rather fragile in a sense. And that sentence probably upsets more people than the essay makes happy. But my role as a writer is to show the truth.
 
-A populist has to make the masses happy. And in this hunger to make the masses happy, comes the game of majority. To appeal to the majority, a populist taps into what the masses like. Slowly, "making the majority happy" becomes an obsession. As this obsession advances, the deeper the populist goes to the most basic of instincts. And in this race, we, along with the populist, lose sight of the sense of India, and alienate a section of the society. Then another. Then another. Until everyone is alienated. Because no one can satiate this lust.
+A populist has to make the masses happy. And in this hunger to make the masses happy, comes the game of majority. To appeal to the majority, a populist taps into what the masses like. Gradually, "making the majority happy" becomes an obsession. As this obsession advances, the deeper the populist goes to the most basic of instincts. And in this race, we, along with the populist, lose sight of the sense of India, and alienate a section of the society. Then another. Then another. Until everyone gets alienated. Because no one can satiate this lust.
 
-Take a step back and think: What we fought two centuries for, would not last one. History will repeat itself. One of my friends said India should have more nationalism to counter the division mode that we are in. He meant it in the sense of landmass. But what good is a country with an undivided landmass but divided people?
+Take a step back and think: What we fought two centuries for, would not last one. History will repeat itself. One of my friends said India should have more nationalism to counter the division mode that we are in. He meant it in the sense of landmass. But what good is a country with an undivided landmass but divided people; resentment and Inner Lines?
 
 ## Nationwide NRC
 
-This is what makes the Act malicious. The Home Minister says, 'Understand the chronology. First, the CAB will come [into existence]. Then, there will be the NRC [exercise].'
+This is what makes the Act malicious. The Home Minister says, 'Understand the chronology. First, the <span class='small-caps'>CAB</span> will come [into existence]. Then, there will be the <span class='small-caps'>NRC</span> [exercise].'
 
-In the process of NRC, based on our experience, every citizen is a suspected immigrant to begin with. The citizens then establish their citizenship and get included in the registry.
+During the <span class='small-caps'>NRC</span> exercise, based on our experience, every citizen is a suspected immigrant to begin with. The citizens then establish their citizenship and get included in the registry.
 
-I would have no problem establishing my citizenship because I have airtight documentation proving my citizenship, right from my birth. I am educated, I know to work with the government functions, my parents and I have ensured to preserve the documents. I have a job in the regulated sector of the economy, I have a bank account with continuous transactions. I primarily deal cashless. Everything about me is regulated. I have nothing to worry about. But what number of citizens can do this? Why, my mother does not have any documentation to prove that she is Indian. Their family lost the documents. Back in the day, nobody worried about all this. Nobody had DigiLocker to store the documents. What would they do? My mother can prove that she is married to my father who in turn has documentation to prove his citizenship---and this way, she is a still a citizen. But what about others? My mother is educated, and still, this is the situation. What about those that are uneducated? Or illiterate?
+I would have no problem establishing my citizenship because I have airtight documentation proving my citizenship, right from my birth. I got educated, I know to work with the government functions, my parents and I have ensured to preserve the documents. I have a job in the regulated sector of the economy, I have a bank account with continuous transactions. I primarily deal cashless. I have nothing to worry about. But what number of citizens can do this? Why, my mother does not have any documentation to prove that she is Indian. Their family lost the documents. Back in the day, nobody worried about all this. Nobody had DigiLocker to store the documents. What would they do? My mother can prove she is the wife of my father, who in turn has documentation to prove his citizenship---and this way, she is a still a citizen. But what about others? My mother went to school, got educated, and still, this is the situation. What about the uneducated? Or the illiterate?
 
-Everyone says, 'Do not look at CAA with NRC---they are two separate entities.' I cannot help but look at them together, because Mr Shah said the latter will follow the former, and the goal is to expel "intruders" from the country.
+Everyone says, 'Do not look at <span class='small-caps'>CAA</span> with <span class='small-caps'>NRC</span>---the two are separate.' I cannot help but look at them together, because Mr Shah said the latter will follow the former, and the goal is to expel "intruders" from the country.
+
+The Amendment, when married to the <span class='small-caps'>NRC</span>, goes against the _spirit of_ the Constitution of India.
 
 ## Was this amendment needed
 
 No.
 
-Read Article 11 again, and you will know that the government can declare anyone a citizen. The government can accord and revoke anyone's citizenship as it deems fit. Given that, what was the necessity to bring this amendment? Even as a matter of policy, why was this required---what was so pressing after all? The Sikhs and Christians and Hindus and Buddhists and Jains from other countries wait eleven years to get Indian citizenship, just like everybody else, so what? Or on the contrary, a person of any religious belief gets citizenship in five years. What changes anything?
+Read Article 11 again, and you will know that the government can declare anyone a citizen. The government can accord and revoke anyone's citizenship as it deems fit. Given that, what was the necessity to bring this amendment? Even as a matter of policy, why was this required---what was so pressing after all? The Sikhs and Christians and Hindus and Buddhists and Jains from other countries wait eleven years to get Indian citizenship, like everybody else, so what? Or otherwise, a person of any religious belief gets citizenship in five years. Why not?
 
-Second, the NRC is expensive. 12 billion rupees is no small amount for one state. To find what, 1.9 million immigrants. This in a small state---2.39% of the total area of India. The expense would be 50,28,685 crore if this exercise has to happen across India. Can we afford it financially? What part of this is not crazy?
+Second, the <span class='small-caps'>NRC</span> is expensive. 12 billion rupees is no small amount for one state. To find what, 1.9 million immigrants. This in a small state---2.39% of the total area of India. The expense would be 50,28,685 crore if this exercise has to happen across India. (By simple arithmetic, not accounting for the speed of the process and the inflation, other operational difficulties, etc.) Can we afford it financially? What part of this is not crazy?
 
-Or perhaps there will never be an NRC. Good, but still, what was the necessity of this amendment?
+Or perhaps there will never be an <span class='small-caps'>NRC</span>. Good, but still, what was the necessity of this amendment?
 
-## If I were
+A friend asked:
 
-Imagine I am in a parallel universe. If I were the ruling party with absolute majority, and was Hindutva-favouring, here is what I would do. I know from the NRC exercise in Assam that the majority of immigrants are Hindus. I feel that the Muslims have somehow managed to collect documentation to prove their citizenship. Hindus have not, because the general thought is that India is a Hindu majority state, and Hindus are safe here.
+> I want persecuted minorities to enter. And have a list of Indian citizens also. Give me a solution.
 
-I want to increase my vote bank. I know that the Muslims will never vote for me. I introduce a similar Bill that legitimises the presence of non-Muslims in the country by giving them citizenship and voting rights. I carry out an NRC exercise, by which I fist make sure the majority of immigrants, the non-Muslims, get citizenship and voting rights. I make the Muslim immigrants wait an additional six years. Meanwhile, I also revoke the citizenship of some of the Muslim citizens citing their inability to produce documentation for their presence in India.
+First, persecuted minorities can still enter. Even without the Amendment. Second, Register of Citizens is a fickle list. People take birth, people die. People move to different countries and forgo Indian citizenship, new ones apply for and get Indian citizenship. I do not see how a National Register of Citizens will help in today's world.
 
-I go for elections.
+If at all you want to do it, you cannot do it in this decade for all the citizens of India. Because all the citizens of India do not have documents to prove their citizenship. Start regulating the documentation. Make a set of documents mandatory and push citizens to get the documents. Make the process simple. Make the process understandable. Reduce bureaucracy. Understand that not everybody is a Shashi Tharoor. Before planes can take off and land, there must be a runway. If the <span class='small-caps'>NRC</span> gets introduced now, it will be another demomentisation.
+
+Dear those running the government, think beyond a nice list of citizens. If you take away someone's citizenship, they lose their job because the law says so. The regular citizen does not have the time to go to the courts and the tribunals. We have a day job, our companies expect us to be in the office at 9 <span class='small-caps'>AM</span>, and to stay until 6 <span class='small-caps'>PM</span>. We also work shifts. We go through traffic; a regular Bangalorean spends 12 hours for work. If you ask 1.5 crore Bangaloreans to prove their citizenship, then get our documents rejected, go fix the documents and come back, get them rejected again, then approach a tribunal with an appeal ...
+
+Now expand this to the rest of India.
+
+Think. Thought is hard, and it probably does not naturally come to you. But thought is necessary. This is not about the last seventy years. This is not about who is "bold". This is not about power play. This is not a game.
+
+And no, I am not saying that this is somehow a political party's way of taking away the voting rights of a large, unfavourable chunk of the population, making the immigrant Muslims wait another six years---"like everybody else"---and expediting the citizenship of Hindu immigrants at the same time, in the Punjab and Bengal regions, before the elections, to enlarge the vote bank. I take no responsibility for what _you thought_ I meant.
