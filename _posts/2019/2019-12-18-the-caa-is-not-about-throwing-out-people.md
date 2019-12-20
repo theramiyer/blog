@@ -14,7 +14,7 @@ tags:
 
 Over the last week, I saw protests everywhere. Most groups (not WhatsApp groups) that I am part of had a discussion about the _Citizenship (Amendment) Act_ going. I even surprised some that I was taking the stand I was, given my track record of having ideas contrary to the ruling party's. I find it difficult to explain to people that having rational thoughts is all I do.
 
-Let me get to the point: The <span class='small-caps'>CAA</span> is not about throwing people out. Yet. Not until we know what the other beast, the <span class='small-caps'>NRC</span> is going to be like. Like always, you are free to disagree. Start a healthy discussion, though. If you know me personally, you have my number already.
+Let me get to the point: The <span class='small-caps'>CAA</span> is not about throwing people out. At all. The <span class='small-caps'>NRC</span> is a different issue. Like always, you are free to disagree. Start a healthy discussion, though. If you know me personally, you have my number already.
 
 - TOC
 {:toc}
