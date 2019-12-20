@@ -267,4 +267,4 @@ And no, I did not say that this is somehow a political party's way of taking awa
 
 I take responsibility for what I say, not for what _you think I mean_.
 
-Long live the Sovereign Secular Democratic Republic of Bharat.
+Long live Bhārat Gaṇarājya, the Sovereign Secular Democratic Republic of India.
