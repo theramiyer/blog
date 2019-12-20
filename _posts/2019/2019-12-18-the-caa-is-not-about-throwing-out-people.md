@@ -47,7 +47,7 @@ This way, Parsis from Iran have migrated to India. During the partition of India
 
 According to the 2001 Census, most migration to India took place from Bangladesh and Pakistan. Remember, it does not say Muslims alone migrated from there---an important point to note. These immigrants could be Hindus, Sikhs, or anyone, including Muslims.
 
-These people who come to India are the immigrants. The Citizenship Act(1)(b)[^bb92a781] defines an illegal immigrant as:
+These people who come to India are the immigrants. The Citizenship Act(1)(b)[^bb92a781] defines an _illegal immigrant_ as:
 
 > “illegal migrant” means a foreigner who has entered into India―  
   (i)  without  a  valid  passport  or  other  travel  documents  and  such  other  document  or authority as may be prescribed by or under any law in that behalf; or  
@@ -65,9 +65,11 @@ Everything so far is fine. What follows is where the issue is.
 
 Until this point, irrespective of the religion or country of origin, if anyone came into India without proper documents was an illegal immigrant. Those with proper documentation, if they wanted to become Indian, would have to stay in India for eleven years, and then apply for citizenship.
 
-The <span class='small-caps'>CAA</span> 2019 changes this. It says, it does not matter how someone came to India, but if they came in before December 2014, from either Bangladesh, Pakistan or Afghanistan, and they belong to either of the Hindu, Sikh, Buddhist, Jain, Christian or Parsi communities, they can get citizenship.
+The Citizenship Amendment Act 2019[^bb982ab74] changes this. It says, it does not matter how someone came to India, but if they came in before the 31st of December 2014, from either Bangladesh, Pakistan or Afghanistan, and they belong to either of the Hindu, Sikh, Buddhist, Jain, Christian or Parsi communities, they can get citizenship.
 
-In other words, if you came in from one of the three countries mentioned, and you belong to one of the six communities, and you have come five years ago, you can apply for citizenship. (Understand, you do not _automatically_ become citizens. You still have to apply, you still have to establish that you came in before the mentioned date in December 2014.)
+[^bb982ab74]: [The Citizenship (Amendment) Act, 2019; The Gazette of India](http://egazette.nic.in/WriteReadData/2019/214646.pdf)
+
+In other words, if you came in from one of the three countries mentioned, and you belong to one of the six communities, and you have come five years ago, you can apply for citizenship. (Understand, you do not _automatically_ become citizens. You still have to apply, you still have to establish that you came in before the 31st of December 2014.) Going forward, immigrants belonging to the six communities, coming from these six countries, will have to reside in India for five years (instead of eleven) before applying for citizenship.
 
 This is not your trigger. Do not jump yet.
 
@@ -103,7 +105,7 @@ If all you cared about was validation of your claims, you can stop reading here 
 
 A valid question. At the start, I was of the idea that this Act went against the Constitution. And then I read documents, parts of the Constitution itself, spoke to people from both the sides, and listened to the claims on both the sides. WhatsApp University had a boatload of crap as usual, but I have reached a point where I can differentiate between fact and fiction.
 
-I am among those that say while this is legal and technically constitutional, the act deviates from the principles of the Constitution. I call it the grey area.
+I am among those that say while this is legal and technically constitutional, the act deviates from the principles of the Constitution.
 
 This anxiety (and I say this about those that are anxious based on facts, not every protester out there) stems from the following aspects. We start with Assam:
 
@@ -139,7 +141,7 @@ Again, not your trigger. Do not jump.
 
 ## What happens if I cannot prove my citizenship
 
-At this point, answer to the question is unknown. All we can do is look at Assam and see what is happening. The government has made no official statement on what the criteria for <span class='small-caps'>NRC</span> are, or what the process is. We would need to wait.
+At this point, answer to the question is unknown. All we can do is look at Assam, see what is happening and speculate. The government has made no official statement on what the criteria for <span class='small-caps'>NRC</span> are, or what the process is. We would need to wait.
 
 ## Are people coming from Bangladesh
 
@@ -198,27 +200,50 @@ This model of oneness is magnificent, but also rather fragile in a sense. And th
 
 A populist has to make the masses happy. And in this hunger to make the masses happy, comes the game of majority. To appeal to the majority, a populist taps into what the masses like. Gradually, "making the majority happy" becomes an obsession. As this obsession advances, the deeper the populist goes to the most basic of instincts. And in this race, we, along with the populist, lose sight of the sense of India, and alienate a section of the society. Then another. Then another. Until everyone gets alienated. Because no one can satiate this lust.
 
-Take a step back and think: What we fought two centuries for, would not last one. History will repeat itself. One of my friends said India should have more nationalism to counter the division mode that we are in. He meant it in the sense of landmass. But what good is a country with an undivided landmass but divided people; resentment and Inner Lines?
-
-## Nationwide NRC
-
-This is what makes the Act malicious. The Home Minister says, 'Understand the chronology. First, the <span class='small-caps'>CAB</span> will come [into existence]. Then, there will be the <span class='small-caps'>NRC</span> [exercise].'
-
-During the <span class='small-caps'>NRC</span> exercise, based on our experience, every citizen is a suspected immigrant to begin with. The citizens then establish their citizenship and get included in the registry.
-
-I would have no problem establishing my citizenship because I have airtight documentation proving my citizenship, right from my birth. I got educated, I know to work with the government functions, my parents and I have ensured to preserve the documents. I have a job in the regulated sector of the economy, I have a bank account with continuous transactions. I primarily deal cashless. I have nothing to worry about. But what number of citizens can do this? Why, my mother does not have any documentation to prove that she is Indian. Their family lost the documents. Back in the day, nobody worried about all this. Nobody had DigiLocker to store the documents. What would they do? My mother can prove she is the wife of my father, who in turn has documentation to prove his citizenship---and this way, she is a still a citizen. But what about others? My mother went to school, got educated, and still, this is the situation. What about the uneducated? Or the illiterate?
-
-Everyone says, 'Do not look at <span class='small-caps'>CAA</span> with <span class='small-caps'>NRC</span>---the two are separate.' I cannot help but look at them together, because Mr Shah said the latter will follow the former, and the goal is to expel "intruders" from the country.
-
-The Amendment, when married to the <span class='small-caps'>NRC</span>, goes against the _spirit of_ the Constitution of India.
+Take a step back and think: What we fought two centuries for, would not last one. History will repeat itself. One of my friends said India should have more nationalism to counter the division mode that we are in. He meant it in the sense of landmass. But what good is a country with an undivided landmass but divided people, resentment and Inner Lines?
 
 ## Was this amendment needed
 
 No.
 
-Read Article 11 again, and you will know that the government can declare anyone a citizen. The government can accord and revoke anyone's citizenship as it deems fit. Given that, what was the necessity to bring this amendment? Even as a matter of policy, why was this required---what was so pressing after all? The Sikhs and Christians and Hindus and Buddhists and Jains from other countries wait eleven years to get Indian citizenship, like everybody else, so what? Or otherwise, a person of any religious belief gets citizenship in five years. Why not?
+Read Article 11 again, and you will know that the government can declare anyone a citizen. The government can accord and revoke anyone's citizenship as it deems fit. Given that, what was the necessity to bring this amendment? Even as a matter of policy, why was this required---what was so pressing after all? The Sikhs and Christians and Hindus and Buddhists and Jains from other countries wait eleven years to get Indian citizenship, like everybody else, so what? You want people of these religions to "feel welcome", sure, but are others not?
 
-Second, the <span class='small-caps'>NRC</span> is expensive. 12 billion rupees is no small amount for one state. To find what, 1.9 million immigrants. This in a small state---2.39% of the total area of India. The expense would be 50,28,685 crore if this exercise has to happen across India. (By simple arithmetic, not accounting for the speed of the process and the inflation, other operational difficulties, etc.) Can we afford it financially? What part of this is not crazy?
+## Is this act discriminatory
+
+Constitutionally, no ([read above](#article-14)). Fundamentally, based on the spirit of India, yes:
+
+>  In the Third Schedule to the principal Act, in clause (d), the following proviso shall be inserted, namely:—  
+> 'Provided that for the person belonging to Hindu, Sikh, Buddhist, Jain, Parsi or Christian community in Afghanistan, Bangladesh or Pakistan, the aggregate period of residence or service of Government in India as required under this clause shall be read as "not less than five years" in place of "not less than eleven years".'.
+
+## Nationwide NRC
+
+This is what makes the Act malicious. The Home Minister says, 'Understand the chronology. First, the <span class='small-caps'>CAB</span> will come [into existence]. Then, there will be the <span class='small-caps'>NRC</span> [exercise].'
+
+During the <span class='small-caps'>NRC</span> exercise, based on our experience, everyone is a suspected non-citizen to begin with. The citizens then establish their citizenship and get included in the registry.
+
+I would have no problem establishing my citizenship because I have airtight documentation proving my citizenship, right from my birth. I got educated, I know to work with the government functions, my parents and I have ensured to preserve the documents. I have a job in the regulated sector of the economy, I have a bank account with continuous transactions. I have nothing to worry about. But what number of citizens can do this? I do not know. Will a voter ID count as a valid document? My guess is as good as yours.
+
+Back in the day, nobody worried about all this. Nobody had DigiLocker to store the documents. What would those that do not have the documents do? My mother can prove she is the wife of my father, who in turn has enough documentation to prove his citizenship---and this way, she is a still a citizen. But what about others? My mother went to school, got educated, and still, this is the situation. What about the uneducated? Or the illiterate? Perhaps they have the documents, perhaps not. Perhaps the documentation they have will be accepted, perhaps not.
+
+All that we say with resepct to the <span class='small-caps'>NRC</span> will be mere speculation; the government has not shared official word on the exercise.
+
+Everyone says, 'Do not look at <span class='small-caps'>CAA</span> with <span class='small-caps'>NRC</span>---the two are separate.' I cannot help but look at them together, because Mr Shah said the latter will follow the former, and the goal is to expel "intruders" from the country. Should I read between the lines along with the current narratives? No? All right.
+
+The Amendment, _if_ married to the <span class='small-caps'>NRC</span>, goes against the _spirit of_ the Constitution of India, not the Constitution itself. This is beyond technicalities.
+
+Do I support the <span class='small-caps'>NRC</span>?
+
+Not at this time.
+
+Does it mean I am in favour of illegal immigrants?
+
+No. I am not in favour of anything illegal.
+
+Look, the <span class='small-caps'>NRC</span> is expensive. 12 billion rupees is no small amount for one state. To find what, 1.9 million immigrants. 6% of the population of Assam. This in a small state---3.09 crore people. The expense would be 52,000 crore if this exercise has to happen across India. (By simple arithmetic, not accounting for the speed of the process and the inflation, other operational difficulties, etc.) Can we afford it financially, especially _at this time_? Is this the most pressing issue in 2019 -- 2020?
+
+No.
+
+Second, do we go tracking down every illegal immigrant and throw them into the detention centres? The Assam <span class='small-caps'>NRC</span> identified 6% of those evaluated, as illegal immigrants. Assam is a border state. Say, in the rest of India, we find 3% as illegal immigrants. Are there enough detention centres for 4 crore people? Or are we going to build them?
 
 Or perhaps there will never be an <span class='small-caps'>NRC</span>. Good, but still, what was the necessity of this amendment?
 
@@ -226,14 +251,20 @@ A friend asked:
 
 > I want persecuted minorities to enter. And have a list of Indian citizens also. Give me a solution.
 
-First, persecuted minorities can still enter. Even without the Amendment. Second, Register of Citizens is a fickle list. People take birth, people die. People move to different countries and forgo Indian citizenship, new ones apply for and get Indian citizenship. I do not see how a National Register of Citizens will help in today's world.
+Persecuted minorities can still enter. _Even without the Amendment._
 
-If at all you want to do it, you cannot do it in this decade for all the citizens of India. Because all the citizens of India do not have documents to prove their citizenship. Start regulating the documentation. Make a set of documents mandatory and push citizens to get the documents. Make the process simple. Make the process understandable. Reduce bureaucracy. Understand that not everybody is a Shashi Tharoor. Before planes can take off and land, there must be a runway. If the <span class='small-caps'>NRC</span> gets introduced now, it will be another demomentisation.
+If at all you want to do an <span class='small-caps'>NRC</span> exercise, wait; work on the infrastructure. I will give you an example: I cannot download my birth certificate online. Why? I have a physical Birth Certificate from Chennai Corporation; Chennai Corporation says everyone born from 1989 can get their birth certificate on their site. I cannot find mine. And I have tried to get in touch to fix it; it has not worked. I have applied for the voter ID, I see the status says approved, but it has been that way for several years. I keep getting bounced between offices. No luck.
 
-Dear those running the government, think beyond a nice list of citizens. If you take away someone's citizenship, they lose their job because the law says so. The regular citizen does not have the time to go to the courts and the tribunals. We have a day job, our companies expect us to be in the office at 9 <span class='small-caps'>AM</span>, and to stay until 6 <span class='small-caps'>PM</span>. We also work shifts. We go through traffic; a regular Bangalorean spends 12 hours for work. If you ask 1.5 crore Bangaloreans to prove their citizenship, then get our documents rejected, go fix the documents and come back, get them rejected again, then approach a tribunal with an appeal ...
+Nice of you to say that no Indian citizen will go through hardship because of <span class='small-caps'>NRC</span>. Not all the citizens of India have documents to prove their citizenship. Start regulating the documentation. Make a set of documents mandatory and push citizens to get the documents. Make the process simple. Make the process understandable; understand that not everybody is a Shashi Tharoor. Reduce bureaucracy. Before jets can take off and land, there must be a runway. If the <span class='small-caps'>NRC</span> gets introduced now, it will be another demomentisation.
+
+Dear those running the government, think beyond a nice list of citizens. If you take away a citizen's citizenship, they lose their job because the law says so. The regular citizen does not have the time to go to the courts and the tribunals. We have a day job, our companies expect us to be in the office at least 9 hours. This is how we earn our bread and butter. We work shifts, we go through traffic; a regular Bangalorean spends 12 hours for work. If you ask 1.5 crore Bangaloreans to prove their citizenship, then get our documents rejected, go fix the documents and come back, get them rejected again, then approach a tribunal with an appeal ...
 
 Now expand this to the rest of India.
 
-Think. Thought is hard, and it probably does not naturally come to you. But thought is necessary. This is not about the last seventy years. This is not about who is "bold". This is not about power play. This is not a game.
+Thought is hard, and it probably does not naturally come to you; you take pride in not being an "intellectual", because you never disagree with yourself. But thought is necessary. This is not about the last seventy years. This is not about who is "bold". This is not about power play. This is not a game.
 
-And no, I am not saying that this is somehow a political party's way of taking away the voting rights of a large, unfavourable chunk of the population, making the immigrant Muslims wait another six years---"like everybody else"---and expediting the citizenship of Hindu immigrants at the same time, in the Punjab and Bengal regions, before the elections, to enlarge the vote bank. I take no responsibility for what _you thought_ I meant.
+And no, I did not say that this is somehow a political party's way of taking away the voting rights of a large, unfavourable chunk of the population, making the immigrant Muslims wait another six years---"like everybody else"---and expediting the citizenship of non-Muslim immigrants at the same time, in the Bengal region, before the elections, to enlarge the favourable vote bank. Saying so would be highly "unintellectual" of me; I leave such behaviour to those who can go on the stage and find out by the clothes of people what their agenda is.
+
+I take responsibility for what I say, not for what _you think I mean_.
+
+Long live the Sovereign Secular Democratic Republic of Bharat.
