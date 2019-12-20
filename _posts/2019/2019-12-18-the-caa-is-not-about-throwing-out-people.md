@@ -27,7 +27,7 @@ This directly concerns the Constitution of India, and this time, I downloaded an
 
 Part II of the Constitution defines who it considers a citizen of India.
 
-The Constitution came into power on the 26th of January 1950. Read Article 5 of the Constitution of India. In plain English, anyone who took birth in India since the 26th of January 1950, anyone who was in India since the 26th of January 1945, or were biological children of Indian parent(s)---parent(s) who had been either born in India or had lived in India for over five years by the 26th of January 1950, were citizens of India.
+The Constitution came into power on the 26th of January 1950. Read Article 5 of the Constitution of India. In plain English, anyone who took birth in India since the 26th of January 1950, anyone who was in India since the 26th of January 1945, or were biological children of Indian parent(s)---parent(s) who were either born in India or had lived in India for over five years by the 26th of January 1950, were citizens of India.
 
 In 1955, the Parliament enacted the Citizenship Act, which defined who would be citizens of India after 1950---those who were not born by the first Republic Day. It also speaks about who can get citizenship of India, and how; it said that those who came to India should stay for eleven years before being able to apply for citizenship. (Until then, the tenure was five years.)
 
@@ -37,7 +37,7 @@ But what happens if your parents are not Indian, and came to India, in, say, 198
 
 ## Immigration to India
 
-Religious persecution is a word that we hear everyday given the situation. Say, if there was a country, called Gamma Land, and the people of Gamma Land worshipped a Lomanso Gomo, their religion being Gomoism[^44299239]. Imagine that an Ashok Kumar, a Buddhist, is a resident of that country; seven generations of his family have been. Today, there is religious extremism in that country, and the Gomos ill-treat Ashok Kumar and his family, by say, beating him up if he stepped out of the house, because he is Buddhist. This is religious persecution.
+Religious persecution is a word that we hear everyday given the situation. Say, if there was a country, called Gamma Land, and the people of Gamma Land worshipped a Lomanso Gomo, their religion being Gomoism[^44299239]. Imagine that an Ashok Kumar, a Buddhist, is a resident of that country; seven generations of his family have been. Today, there is religious extremism in that country, and the Gomos ill-treat Ashok Kumar and his family, by say, beating him up if he stepped out of the house, because he is Buddhist. This is an example of religious persecution.
 
 [^44299239]: All names of people, places and religion in the paragraph are fictitious. Any resemblance to anything in actual existence is pure coincidence.
 
