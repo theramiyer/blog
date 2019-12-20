@@ -23,7 +23,7 @@ Buckle up for the ride. This is interesting.
 
 ## Citizens of India
 
-This directly concerns the Constitution of India, and this time, I downloaded and read the related articles myself. Most of them, at least. If you would like a [copy of the Constitution of India (amendments until April 2019)](http://legislative.gov.in/sites/default/files/COI-updated.pdf), you can get it from the website of the Legislative Department, Ministry of Law.
+This directly concerns the Constitution of India, and this time, I downloaded and read the related articles myself. Most of them, at least. If you would like you can also get yourself a free copy of [the Constitution of India (amendments until April 2019)](http://legislative.gov.in/sites/default/files/COI-updated.pdf). This is from the website of the Legislative Department, Ministry of Law, Government of India.
 
 Part II of the Constitution defines who it considers a citizen of India.
 
@@ -190,7 +190,7 @@ People mattered.
 We Indians are not united by a religion. Not by a language. Not by an ideology. Not by culture. Not by ethnicity. Not by colour of the skin. We were not even a single nation to begin with!
 
 > India, that is Bharat, shall be a Union of States.  
-> ---Article 1, Constitution of India
+> ---Article 1(1), Constitution of India
 
 What unites us is the idea of India. The sense of oneness is despite our differences. Beyond tolerance, _inclusion_ is the philosophy behind India.
 
