@@ -12,6 +12,7 @@ author:
   url: https://ramiyer.me
   google_plus: +RamIyer07
   twitter: theramiyer
+  facebook: theramiyer
 
 # Build settings
 markdown: kramdown
@@ -30,7 +31,6 @@ plugins:
 
 
 # social links
-facebook: theramiyer
 
 # Permalinks
 permalink: /:title/
