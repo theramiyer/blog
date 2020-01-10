@@ -139,7 +139,7 @@ Calling for emergency services is a no-brainer. Calling for an ambulance is bett
 
 It's important that you're accurate and crisp on the call with emergency services. All they need is information, and that's all that's worth your effort.
 
-Crushed Aspirin under your tongue absorbs quickly because the area has a rich supply of blood. Absorption of swallowed Aspirin could take about forty minutes. If you are a cardiac patient, your cardiologist must have prescribed Aspirin (e.g. Ecosprin---even Disprin would do) and/or Atrovastatin (e.g. Ecosprin AV). Avoiding water is also advised so that you don't choke and worsen the situation while you are probably finding it hard to breathe. Chewing the tablet increases the surface area making absorption significantly faster. Despite this, if you choose to drink water, that should be about two tablespoons.
+Crushed Aspirin under your tongue absorbs quickly because the area has a rich supply of blood. Absorption of swallowed Aspirin could take about forty minutes. If you are a cardiac patient, your cardiologist must have prescribed Aspirin (e.g. Ecosprin---even Disprin would do) and/or Atrovastatin (e.g. Ecosprin <span class='small-caps'>AV</span>). Avoiding water is also advised so that you don't choke and worsen the situation while you are probably finding it hard to breathe. Chewing the tablet increases the surface area making absorption significantly faster. Despite this, if you choose to drink water, that should be about two tablespoons.
 
 Medical professionals working on you must know that you've taken the Aspirin. They'll treat you accordingly. Aspirin could interfere with some medicines, and the medics could base their prescriptions on whether you've taken the Aspirin.
 
