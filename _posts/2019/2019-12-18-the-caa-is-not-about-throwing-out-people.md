@@ -19,7 +19,7 @@ Let me get to the point: The <span class='small-caps'>CAA</span> is not about th
 - TOC
 {:toc}
 
-Buckle up for the ride. This is interesting. Really interesting.
+Buckle up for the ride. This is interesting.
 
 ## Citizens of India
 
