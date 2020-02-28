@@ -36,7 +36,7 @@ Sanskrit has the _hrasva_ and _deergha_ sounds. For example, the sound of 'u' in
 - 'i' sounds like 'i' in film.
 - 'u' sounds like 'u' in put.
 - 'e' sounds like 'e' in ten.
-- 'o' sounds like 'o' in the British (not American) pronunciation of pot.
+- 'o' sounds like 'o' in pronunciation.
 
 You get the idea.
 
