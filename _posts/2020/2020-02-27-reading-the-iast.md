@@ -24,7 +24,7 @@ Writing the subtitles was a unique experience for me. But we will get to that la
 
 The Latin script (these letters that you are reading) is limiting when we write Sanskrit in it. Whereas the Devanagari script (the most common script used for Sanskrit) has 46 to 50 simple letters (depending on which you count), the Latin alphabet has 26. (I have not counted the composites in either script.)
 
-I found it hard to write the words whose pronunciations are hard to express in the Latin script. I decided to switch to <span class='small-caps'>IAST</span>, or the _International Alphabet for Sanskrit Transliteration_. But I figured, the alphabet is not popular, and rather limited to juvenile text decoration on social network sites (Anybody remember Orkut?), and needs an introduction. I decided to write a quick and simple guide on how to read the IAST (or "Sanskrit in English", as some say), and a quicker reference to IAST if you know an Indic language.
+I found it hard to write the words whose pronunciations are hard to express in the Latin script. I decided to switch to <span class='small-caps'>IAST</span>, or the _International Alphabet for Sanskrit Transliteration_. But I figured, the alphabet is not popular, and rather limited to juvenile text decoration on social network sites (Anybody remember Orkut?), and needs an introduction. I decided to write a quick and simple guide on how to read the <span class='small-caps'>IAST</span> (or "Sanskrit in English", as some say), and a quicker reference to <span class='small-caps'>IAST</span> if you know an Indic language.
 
 ## Introduction to the IAST
 
