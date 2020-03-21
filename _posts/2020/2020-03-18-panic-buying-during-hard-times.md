@@ -16,6 +16,10 @@ We are in March already, and more and more people are suffering from <span class
 - TOC
 {:toc}
 
+if you would rather listen to this post:
+
+<iframe src="https://anchor.fm/ramiyer/embed/episodes/The-coronavirus-panic-roundup-ebnhv7" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 Panic-buying is when people foresee a shortage of essentials, and buy more than necessary so they do not run out of them.
 
 ## How bad is COVID-19
@@ -65,6 +69,13 @@ This effect is more pronounced in societies that are individualistic---the 'ever
 ## Then why not panic-buy
 
 We are not individuals; we are a society. Beyond that, we are a nation. We are not alone, and we are not the most underprivileged. We have the elderly, the physically challenged and all sorts of people in our society. Shelves being empty tells us that the stores are working beyond their normal capacity. When one section of people overbuys, it puts pressure on the retail system. The stores find it hard to restock. The stockists face a crunch and the wholesalers have to pull strings and go beyond their usual.
+
+<figure>
+  <a href="https://www.dailymail.co.uk/news/article-8134387/Heartbreaking-moment-elderly-woman-stares-shelves-Coles-coronavirus-pandemic.html#i-b7d62de91033f3c7">
+  <img src="https://i.dailymail.co.uk/1s/2020/03/20/10/26202008-8134387-image-a-9_1584701889203.jpg" alt="Elderly woman stares at empty shelves"/>
+  </a>
+  <figcaption>Hungry and alone: Heartbreaking moment elderly woman looks on at empty shelves in Coles before breaking down in tears after coronavirus hoarders took all the food. (Source: Daily Mail)</figcaption>
+</figure>
 
 We are no more in the pre-eighties India. There will not be a short-term shortage of consumables. At the same time, you the individual cannot preserve consumables for a long period of time. This defeats the purpose of stockpiling. Also, you may end up wasting a lot of what you stored; for example, potatoes.
 
