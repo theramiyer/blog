@@ -3,7 +3,12 @@ layout: "post"
 title: "Janata Curfew"
 date: "2020-03-22 22:02"
 tags:
--
+- society
+- crisis
+- health
+- government
+- politics
+- humanity
 ---
 
 The whole purpose of Janata Curfew was defeated today. At five this evening, we hear the sounds of clapping and the shankh-dhvani and people clanging plates and all of that. We look out of one of our windows and see about ten people fist-bumping, high-fiving and shaking hands. It was disappointing.
