@@ -37,7 +37,7 @@ If you have a good immunity, your body will be successful in making the antibody
 
 Here are some statistics to show the exponential growth in the number of infections. (Visit https://corona.help for more, and [buy Alex a coffee](https://ko-fi.com/alexdumitru) for his efforts, if you can.)
 
-![India statistics: Coronavirus infections as of 22 Mar 2019 (https://corona.help)](https://photos.google.com/album/AF1QipPSNRp19XH_Ksy9vga1VDyZFHzUTYjHTz6J-mCW/photo/AF1QipM_Owyeek1NWwmc_aTgOygGuCB1y6NjnfQNfXVH)
+![India statistics: Coronavirus infections as of 22 Mar 2019 (https://corona.help)](https://instagram.com/p/B-EPP17go-t/media?size=l)
 
 What you see are India statistics. Even with the smaller sample size (compared to the global statistics), we see an exponential growth. The infection history as well as the daily change, they are both exponential. At the same time, if you look at the recoveries---the global recoveries---the curve is almost linear. That brings me to:
 
