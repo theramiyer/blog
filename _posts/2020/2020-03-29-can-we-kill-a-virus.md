@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Is a virus a living being"
+title: "Can we kill a virus"
 date: "2020-03-29"
 tags:
 - science
