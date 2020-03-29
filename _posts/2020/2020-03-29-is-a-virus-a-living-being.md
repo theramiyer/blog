@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Is a virus a living being"
-date: "2020-03-29 11:31"
+date: "2020-03-29"
 tags:
 - science
 - chemistry
