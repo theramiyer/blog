@@ -35,3 +35,8 @@ Our body protects us using its immunity. The immune system is capable of detecti
 When our immunity detects the virus, it tries to interfere with the virus's attachment to the cell. Our immunity also has to stop the infected cells from multiplying. It increases the body temperature, or generates phlegm or floats chemicals, all in an attempt to defeat the virus's methods to take control of our cells. Once successful, the immune system stores this information for future use---again, figuratively. The next time there is such an attack, the body detects it sooner and prevents attachment, and also disintegrates the virus---breaks the complex structure.
 
 'Killing a virus' is not technically correct, because a virus is not alive in the first place. But we find it easier to express it this way. Of course, defining what life is, is for another nuanced discussion.
+
+Now, to some advice, opinion, or whatever you would like to call it:
+
+- Drink a lot of water. The summer is beginning, and our bodies are going to need more water than, say, three months ago. Also, our immunity needs enough water to function. If you have underlying health issues, check with your doctor on how much water you can drink.
+- Most of us working from home do not have to groom ourselves the way we would otherwise. I have not had my haircut for some time now. Let us collect that money and either support our local barber, or donate it to a larger fund like the <span class='small-caps'>PMRF</span>, irrespective of what the amount is; little drops make an ocean. If every Indian citizen could donate one rupee, towards the fund, the fund would have 1.3 billion rupees.
