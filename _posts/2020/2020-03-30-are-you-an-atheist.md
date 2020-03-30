@@ -24,7 +24,7 @@ Now is the time you get yourself a mug of hot coffee.
 
 Am I an atheist? No. Being an atheist according to me is as much arrogant as claiming the existence of God. Neither help scientific thought. I am not a hundred percent sure that there is no God. But I am also not a hundred percent sure that there is a God. But let us keep my thoughts aside and look at it in perspective.
 
-Imagine a world where someone has no idea about what science is. Science is already hard to understand to most, because every simple questions appear to have complex explanations. Imagine a world where we ago about doing what we do, working towards something tangible, chasing happiness and peace; imagine how utterly upsetting the fact is that we would one day become a mere bagful of organic matter. But, if someone told us that we could resurrect, that is an incentive for us to actively work towards making the world a better place than the one we came into, so we could reap the benefits of it when we return.
+Imagine a world where someone has no idea about what science is. Science is already hard to understand to most, because simple questions appear to have complex explanations. Imagine a world where we ago about doing what we do, working towards something tangible, chasing happiness and peace; imagine how utterly upsetting the fact is that we would one day become a mere bagful of organic matter. But, if someone told us that we could resurrect, that is an incentive for us to actively work towards making the world a better place than the one we came into, so we could reap the benefits of it when we return.
 
 Now, thinking that we all came into being by accident is overwhelmingly difficult to imagine. And so is that we took millions of years to come to where we are.
 
