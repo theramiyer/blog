@@ -21,4 +21,10 @@ Am I an atheist? No. Being an atheist according to me is as much arrogant as cla
 
 Now is the time you get yourself a mug of hot coffee.
 
+---
+
 Who created the creator?
+
+Thankfully the book did not create itself, for if it did, keeping aside the fact that it may take millions of years, the work will be attributed to an imaginary intelligent being.
+
+While such interviews do expose the thoughtlessness on part of the participants in comparison with the interviewer, it does not make the interviewer right.
