@@ -22,7 +22,7 @@ Certainly uplifting. And there sure is an Intelligent Creator, right?
 
 Now is the time you get yourself a mug of hot coffee.
 
-Am I an atheist? No. Being an atheist according to me is as much arrogant as claiming the existence of God. Neither help scientific thought. I am not a hundred percent sure that there is no God. But I am also not a hundred percent sure that there is a God. But let us keep my thoughts aside and look at it in perspective.
+Am I an atheist? No. Being an atheist according to me is as much arrogant as claiming the existence of God. Neither help scientific thought. I am not a hundred percent sure that there is no God. But I am also not a hundred percent sure that there is a God. But let us keep my thoughts aside and look at it in perspective---because I think Jim's actions are a lousy way to sell the concept of God. (And I don't mean "sell" in the literal sense of exchanging something in return for money.)
 
 Imagine a world where someone has no idea about what science is. Science is already hard to understand to most, because simple questions appear to have complex explanations. Imagine a world where we ago about doing what we do, working towards something tangible, chasing happiness and peace; imagine how utterly upsetting the fact is that we would one day become a mere bagful of lifeless organic matter. But, if someone told us that we could resurrect, that would be an incentive for us to actively work towards making the world a better place than the one we came into, so we could reap the benefits of it when we return.
 
