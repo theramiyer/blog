@@ -7,6 +7,7 @@ tags:
 - crisis
 - society
 - psychology
+spotify: 3qBPGtJZMriY07DLt8tiiy
 ---
 
 The way the year 2020 started bordered on insane. For those in India, this effect was rather pronounced, starting from Kerala passing a resolution against the Citizenship Amendment Act 2019, followed by upping of the protests across the country---Delhi's Shaheen Bagh being the flag ship, to the incidents of dirty politics during the Delhi Elections campaigning, to the novel coronavirus going on claiming thousands of lives.
@@ -18,7 +19,7 @@ We are in March already, and more and more people are suffering from <span class
 
 if you would rather listen to this post:
 
-<iframe src="https://anchor.fm/ramiyer/embed/episodes/The-coronavirus-panic-roundup-ebnhv7" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+{% include spotify.html %}
 
 Panic-buying is when people foresee a shortage of essentials, and buy more than necessary so they do not run out of them.
 

@@ -10,6 +10,7 @@ tags:
 - constitution
 - protests
 - religion
+spotify: 2UqKyMqXnOXG2x6J7TsMML
 ---
 
 Over the last week, I saw protests everywhere. Most groups (not WhatsApp groups) that I am part of had a discussion about the _Citizenship (Amendment) Act_ going. I even surprised some that I was taking the stand I was, given my track record of having ideas contrary to the ruling party's. I find it difficult to explain to people that having rational thoughts is all I do.
@@ -20,6 +21,8 @@ Let me get to the point: The <span class='small-caps'>CAA</span> is not about th
 {:toc}
 
 Buckle up for the ride. This is interesting.
+
+{% include spotify.html %}
 
 ## Citizens of India
 

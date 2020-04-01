@@ -8,11 +8,14 @@ tags:
 - biology
 - coronavirus
 - education
+spotify: 4CBrC7ML7vu8f0ecdBStmS
 ---
 
 In the last blog post, I had made a statement about how a living organism works, specifically, propagation. I had equated that with that of the behaviour of a virus. Later I realised that it could lead to some confusion, with some thinking that a virus is a living organism.
 
 A virus is not a living organism per se.
+
+{% include spotify.html %}
 
 Per se, because a virus does show similarities with living organisms such as possibly contributing to the creation of eukaryotes, or even containing genetic information. But that would become a long, technical discussion, which I do not wish to get into at this point because one, such a discussion would be long, and two, I do not have technical knowledge about the nuances of the concept. The last biology class I attended was fifteen years ago. And biology was not something I connected with.
 
