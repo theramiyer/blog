@@ -10,7 +10,7 @@ tags:
 - taxes
 ---
 
-Ever since [Prime Minister Modi made his speech](https://www.youtube.com/watch?v=g2I20uFMy3E) on the 12th of May 2020, _Aatmanirbhar_ started trending. (along with Andaman and Nicobar, if you know what I mean.) My Facebook newsfeed showed countless memes and what not, about boycotting Chinese products. Some even questioned your bravery to be able to say no to <span class='small-caps'>Made in China</span>.
+Ever since [Prime Minister Modi made his speech](https://www.youtube.com/watch?v=g2I20uFMy3E) on the 12th of May 2020, _Aatmanirbhar_ started trending. (Along with Andaman and Nicobar, if you know what I mean.) My Facebook newsfeed showed countless memes and what not, about boycotting Chinese products. Some even questioned your bravery to be able to say no to <span class='small-caps'>Made in China</span>.
 
 ![“Saying no to Made in China”: Postcard News](https://www.instagram.com/p/B-6fEYqg8-D/media/?size=l)
 
@@ -79,11 +79,11 @@ The two are inter-related. If we produce as much as China does, and if we have a
 
 Our government will not force us to buy from within the country. Think about it this way: We will have to make all products in India to stop Indians buying from China. Why?
 
-China sells cheap rates. The cost of producing the goods in India is higher than for China, because of economies of scale. Second, no other country sells as cheap as China does. For instance, if a tonne of smokium[^885c7b1a] costs $400 when bought from China, Australia sells the same substance for $470. Assume the tax on smokium bought from China is 14%, while when bought from Australia is 12%. Calculate the total cost and compare. China: $456; Australia: $526. Buying from Australia is more expensive despite the lower tax. Manufacturing within India is a better choice; at least, there would be no import taxes.
+China sells at cheap rates. The cost of producing the goods in India is higher than for China, because of economies of scale. Second, no other country sells as cheap as China does. For instance, if a tonne of smokium[^885c7b1a] costs $400 when bought from China, Australia sells the same substance for $470. Assume the tax on smokium bought from China is 14%, while when bought from Australia is 12%. Calculate the total cost and compare. China: $456; Australia: $526. Buying from Australia is more expensive despite the lower tax. Manufacturing within India is a better choice; at least, there would be no import taxes.
 
 [^885c7b1a]: Smokium: Something I made up
 
-But the case has been that producing in India is still more expensive than importing from China despite the tax benefit. One way to bring down the cost would be to increase production, or compromise on quality. Nobody likes the latter, and the former is hard.
+But the case has been that producing in India is still more expensive than importing from China despite the tax benefit. We could bring down the cost increasing production, or compromising on quality. Nobody likes the latter, and the former is hard.
 
 The government does not force anyone against buying from China for a simple reason: If the products become more expensive, people will buy less. For instance, if the price of my favourite brand of coffee powder goes up by ₹300/kg, I will either buy 250 grams less of the coffee, or stop buying something else (like, avoid the social _chai_ for a week every month). If I so felt that buying the coffee at the higher price is not worth it, I will stop buying it altogether, which will have its own consequences, such as the coffee manufacturer selling one kilogram less coffee per month. One million consumers like me would mean 1,000 tonnes less coffee sold for the company, which in turn will increase the net price of the coffee so the company can compensate for its loss of sale, which further discourages customers.
 
@@ -91,9 +91,9 @@ This cycle is undesirable for the government.
 
 ## Make in India
 
-Make in India is a fantastic phrase and a good plan, but requires enormous amounts of work. The first step is to make business easier in India. The 2020 _Doing Business_ report[^a09c7b45] ranks India at 63 in ease of doing business. We have come up from 134 back in 2014. But China ranks at 31. We still have a long way to go: think of how easy starting a business is, like getting construction permits, electricity, registration, or what kind of aid is available to new businesses, what the tax norms are, etc. These factors impact the ease of doing business. The reality is that we are in an age where small businesses are unable to understand <span class='small-caps'>GST</span>, even three years after its implementation.
+Make in India is a fantastic phrase and a good plan, but requires enormous amounts of work. The first step is to make business easier in India. The 2020 _Doing Business_ report[^a09c7b45] ranks India at 63 in ease of doing business. We have come up from 134 back in 2014. But China ranks at 31. We still have a long way to go, if we are competing with China. Think of how easy starting a business is, like registration, getting construction permits, electricity supply, or what kind of aid is available to new businesses, what the tax norms are, etc. These factors impact the ease of doing business. The reality is that we are in an age where small businesses are unable to understand <span class='small-caps'>GST</span>, even three years after its implementation.
 
-Don't believe me? Sure, the government has all the documentation, but how accessible is it? And by that I don't mean being able to find links and click on them; how simple is it for the general population to understand this? What percentage of businesses can afford to hire a chartered accountant?
+Sure, the government has all the documentation, but how accessible is it? And by that I don't mean being able to find links and click on them; how simple is it for the general population to understand this? What percentage of businesses can afford to hire a chartered accountant?
 
 [^a09c7b45]: [Ease of Doing Business rankings (Doing Business)](https://www.doingbusiness.org/content/dam/doingBusiness/pdf/db2020/Doing-Business-2020_rankings.pdf)
 
