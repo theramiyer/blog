@@ -2,6 +2,7 @@
 layout: "post"
 title: "Can we be free of Chinese goods"
 date: "2020-05-16 11:11"
+spotify: 1aIKOuo9dleSDqR4mnf4uJ
 tags:
 - nationalism
 - economics
@@ -18,6 +19,8 @@ Ever since [Prime Minister Modi made his speech](https://www.youtube.com/watch?v
 {:toc}
 
 Bravery to post aside, I started to think, 'How practical would it be to boycott Chinese products?' Or rather, what would it take to boycott them?
+
+{% include spotify.html %}
 
 ## The current situation
 
