@@ -58,7 +58,7 @@ The chances of getting <span class='small-caps'>COVID-19</span> appears dosage-d
 
 Attention.
 
-Incubation period is the time between the point you contract the virus and the time the symptoms start to appear. This is why they say, the disease is _silent_. You do not know you have the disease until symptoms start to appear.
+Incubation period is the time between the point you contract the virus and the time the symptoms start to appear. This period in case of a SARS-CoV-2 infection is high. You do not know you have the disease until symptoms start to appear. This is why they say, the disease is _silent_.
 
 But all that while, you could be expelling the virus while you talk, while you breathe, and while you laugh[^5f6519aa].
 
