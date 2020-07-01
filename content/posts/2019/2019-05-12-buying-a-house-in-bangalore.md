@@ -13,7 +13,7 @@ title: The economics of home ownership in Bangalore
 
 When I was in college, my dream was to buy a house in the Kathipara area in Chennai. I was a simple, unthoughtful middle-class child back then. As an unthoughtful middle-class child, my nature was to roll with the mainstream, whether something mattered or not. And the mainstream, more often than not, works on sentiments. Buying a house and "settling down" is one such sentiment.
 
-When I moved to Bangalore, my aunt told me, 'You know what? Real estate is much cheaper in Bangalore compared to Chennai. Buy a house there.' Of course, with a gross <span class='small-caps'>CTC</span> of a mere 2.04 lac rupees per annum, no investment was an option. I did not fret over it. Then came higher education, and that drew out six thousand rupees a month out of my pay. Investment stopped being an option once again. I tried to buy a plot somewhere in Kanchipuram, but I dropped the plan once again because I understood that I would have to forgo one meal a day if I took up the investment as well as education with the income I made.
+When I moved to Bangalore, my aunt told me, 'You know what? Real estate is much cheaper in Bangalore compared to Chennai. Buy a house there.' Of course, with a gross {{< smallcaps "CTC" >}} of a mere 2.04 lac rupees per annum, no investment was an option. I did not fret over it. Then came higher education, and that drew out six thousand rupees a month out of my pay. Investment stopped being an option once again. I tried to buy a plot somewhere in Kanchipuram, but I dropped the plan once again because I understood that I would have to forgo one meal a day if I took up the investment as well as education with the income I made.
 
 One day, when talking about regular life, I mentioned to a senior, 'Well, I thought I would buy a good house here and settle down. Perhaps bring down my parents here, and after brother graduates, reunite the family under a single roof. But ...' My senior stopped eating what he was eating, and chuckled. '_Buy_ a house? In Bangalore?'
 
@@ -27,7 +27,7 @@ Thoughts about a house in Bangalore were a mess. These were the questions in my 
 
 ## Basic requirements
 
-The first point I looked at were my requirements. What kind of house did I need? What was the area I needed? I figured that I needed a three-<span class='small-caps'>BHK</span> house, of about fifteen hundred square feet. It would allow for a decent amount of moving space, and would comfortably contain all the furniture, appliances and other necessities that we would have as a family. The next question was, where I wanted this house to be. I am a typical South Bangalorean. I like the Banashankari and the Uttarahalli areas. I chose the place; this is where I wanted the house to be.
+The first point I looked at were my requirements. What kind of house did I need? What was the area I needed? I figured that I needed a three-{{< smallcaps "BHK" >}} house, of about fifteen hundred square feet. It would allow for a decent amount of moving space, and would comfortably contain all the furniture, appliances and other necessities that we would have as a family. The next question was, where I wanted this house to be. I am a typical South Bangalorean. I like the Banashankari and the Uttarahalli areas. I chose the place; this is where I wanted the house to be.
 
 The next question I asked was whether I was all right with a flat. Turned out, I was not. I wanted an individual house. I do not like being part of a dysfunctional association which is indecisive. Flats in the urban middle-class Bangalore is typically unorganized, unmaintained and sometimes, even unruly. I was not comfortable with flats that had more than four houses. Four-house flats in Bangalore South, though, per my observations, did not come with three bed rooms. Two bed rooms were a norm. Independent house was the more logical answer.
 
@@ -43,9 +43,9 @@ I went and asked a bank official nonetheless, 'How much of the total can I expec
 
 I calculated: Four million for the plot along with the registration fee. Two million for the construction. One million for the interiors. The official said the bank tries its best to ensure well-being of the customers, and offers an amount that lets the customer have at least forty percent of his monthly pay for himself. I asked him if I was eligible for a loan of seven million. He said I was eligible for about two million, given the kind of loan, my credit score and my monthly income. This was apparently with a _conservative_, safe interest rate.
 
-That night, I created an <span class='small-caps'>EMI</span> calculator in Excel, and started calculating how much I would be paying, what the total amount of interest going to the bank and so on. The tool painted a grim picture.
+That night, I created an {{< smallcaps "EMI" >}} calculator in Excel, and started calculating how much I would be paying, what the total amount of interest going to the bank and so on. The tool painted a grim picture.
 
-What I also learned was, I would be paying almost 210% back to the bank by the end of the <span class='small-caps'>EMI</span> tenure. Reducing the tenure was not an option because of my income, and keeping in mind that the bank would not take more than 60% of my salary.
+What I also learned was, I would be paying almost 210% back to the bank by the end of the {{< smallcaps "EMI" >}} tenure. Reducing the tenure was not an option because of my income, and keeping in mind that the bank would not take more than 60% of my salary.
 
 Going for a flat was the alternative.
 
@@ -53,7 +53,7 @@ Going for a flat was the alternative.
 
 A building is an immovable asset. Those who do not know what that is, a building is an asset that cannot move (I know). Why does this matter? The value of the asset depends on its surroundings as well. If the surroundings develop well, the value of the property goes up. Bus stops, malls, schools, Metro stations, etc. appreciate the value. If the surroundings deteriorate, or two years later, someone finds out that the sewage line and the water line are right next to each other in the locality (and the information goes public⁠---ahem), the value of the property will plummet. Apart from this, the property being movable or immovable determines the _depreciation_.
 
-I would not have to worry much about the depreciation if I were owning an entire plot, because the value of a plot almost always appreciates. Compared to the appreciation of the land value, the depreciation of the constructed building would be too low to worry about. But not in case of a flat. When buying a flat, you would be owning an _undivided share_ (or <span class='small-caps'>UDS</span>) of the plot where the flat is. Essentially, you divide the total area of the land among the owners of the houses in the building, based on how big their houses are. For instance, if a plot (60″ × 40″) has four houses divided among two floors, of which two houses are 800 sqft. big and the other two are 600 sqft. big, the <span class='small-caps'>UDS</span> for those who own the 800 sqft. houses would be:
+I would not have to worry much about the depreciation if I were owning an entire plot, because the value of a plot almost always appreciates. Compared to the appreciation of the land value, the depreciation of the constructed building would be too low to worry about. But not in case of a flat. When buying a flat, you would be owning an _undivided share_ (or {{< smallcaps "UDS" >}}) of the plot where the flat is. Essentially, you divide the total area of the land among the owners of the houses in the building, based on how big their houses are. For instance, if a plot (60″ × 40″) has four houses divided among two floors, of which two houses are 800 sqft. big and the other two are 600 sqft. big, the {{< smallcaps "UDS" >}} for those who own the 800 sqft. houses would be:
 
 > area of the house owned  
 > ÷ total area of all the houses combined  
@@ -66,11 +66,11 @@ I would not have to worry much about the depreciation if I were owning an entire
 > × (60 × 40)  
 > = 686 sqft.
 
-The value of this 686 sqft. does not depreciate. But the value of the 800 sqft. constructed will. When you calculate the price of the property during resale, more often than not, the price will always be higher than when you bought it, if you own an individual house. If you own a flat that has four houses, the chances of the price going down is still low. But in Bangalore, the norm is having 40 to 140 houses in a complex. The builders almost always deviate from the approved plan (construct five floors instead of four). This leads to more houses in the complex, thereby reducing the <span class='small-caps'>UDS</span> further. To builders, this is "forward thinking" because some day, the development authorities will make the norms more lenient (history says that this is always a matter of time).
+The value of this 686 sqft. does not depreciate. But the value of the 800 sqft. constructed will. When you calculate the price of the property during resale, more often than not, the price will always be higher than when you bought it, if you own an individual house. If you own a flat that has four houses, the chances of the price going down is still low. But in Bangalore, the norm is having 40 to 140 houses in a complex. The builders almost always deviate from the approved plan (construct five floors instead of four). This leads to more houses in the complex, thereby reducing the {{< smallcaps "UDS" >}} further. To builders, this is "forward thinking" because some day, the development authorities will make the norms more lenient (history says that this is always a matter of time).
 
 If two acres get divided among forty houses, what are you left with? In this case, would the value of your property appreciate or depreciate? Yes, in the initial years, the value will appreciate. But soon, the depreciation will begin. By the time I complete paying back the loan, the value of the house would have gone lower than I paid in all.
 
-And remember, you cannot sell your <span class='small-caps'>UDS</span> as a piece of land. You have zero freedom with it. The one way it helps is by reducing the depreciation by an almost insignificant amount.
+And remember, you cannot sell your {{< smallcaps "UDS" >}} as a piece of land. You have zero freedom with it. The one way it helps is by reducing the depreciation by an almost insignificant amount.
 
 The construction is not great either. Most developers (I will refrain from naming them⁠---because this is a norm, and probably no builder is an exception) use substandard materials, are sometimes negligent⁠---for example, you can knock on some of the tiles in my house, and you can hear a hollow underneath⁠---and construct without leaving enough time for the concrete to cure. Seepage of water, cracked plasters and chipped edges are a disturbingly-common sight in Bangalore.
 
@@ -96,7 +96,7 @@ Scam? I would say so.
 
 ## Land ownership
 
-Owning a land alone in Bangalore is not safe either. Land mafia in Bangalore is public knowledge, and I know of individuals who almost lost their lands to the mafia. One of them got saved because <span class='small-caps'>BEML</span>, which is a government enterprise, had allotted the piece of land to his father⁠---a then employee⁠---and the family had lived on that land for over twenty years. Corner plots in good localities, plot surrounded by empty plots, plots in semi-commercial or purely-residential areas (that covers most liveable plots anyway) are targets. The general consensus in Bangalore is that owning a flat is much safer.
+Owning a land alone in Bangalore is not safe either. Land mafia in Bangalore is public knowledge, and I know of individuals who almost lost their lands to the mafia. One of them got saved because {{< smallcaps "BEML" >}}, which is a government enterprise, had allotted the piece of land to his father⁠---a then employee⁠---and the family had lived on that land for over twenty years. Corner plots in good localities, plot surrounded by empty plots, plots in semi-commercial or purely-residential areas (that covers most liveable plots anyway) are targets. The general consensus in Bangalore is that owning a flat is much safer.
 
 ## Daily life
 
@@ -110,11 +110,11 @@ Some of my friends are stuck in certain places because they think it is risky if
 
 ## Real estate prices
 
-Real estate in Bangalore is serious (good) business. One of my mother's cousins went from nothing to owning a swanky house in a swanky neighbourhood and a <span class='small-caps'>BMW</span> because of real estate. At the same time, real estate is a safe haven for those with black money⁠---this is no secret. Those with a lot of black money do not mind spending; the prices go up as a result. If you are spending your hard-earned money, you should think where the scales are, and who is tipping them.
+Real estate in Bangalore is serious (good) business. One of my mother's cousins went from nothing to owning a swanky house in a swanky neighbourhood and a {{< smallcaps "BMW" >}} because of real estate. At the same time, real estate is a safe haven for those with black money⁠---this is no secret. Those with a lot of black money do not mind spending; the prices go up as a result. If you are spending your hard-earned money, you should think where the scales are, and who is tipping them.
 
 But is it not better if prices keep appreciating? As it turns out, no. Localities get crowded once all the plots get sold. Real estate businessmen are not interested in resale of properties; the margin is low in it. Developing a place that has nothing is more interesting. And lucrative. A place that has nothing but barren fields will sell at a much higher margin than one in a residential locality. Businessmen like converting barren fields into residential plots. This way, they buy an acre at four million and sell it at forty. The one that buys this plot wants to construct as many houses as he can. He crams forty houses there. Spends a million on each house, and sells each house at 5 million.
 
-Bigger players buy the plot at four million, construct forty houses and sell each house at four million (5 million, but ­buy <span class='small-caps'>NOW</span> at 20% discount: The never-again-in-a-lifetime offer!). ("Once in a lifetime" is a cliché.)
+Bigger players buy the plot at four million, construct forty houses and sell each house at four million (5 million, but ­buy {{< smallcaps "NOW" >}} at 20% discount: The never-again-in-a-lifetime offer!). ("Once in a lifetime" is a cliché.)
 
 This brings me to:
 
@@ -159,8 +159,8 @@ Now, those who pitch buying a house as an investment so that they can rent it ou
 
 ## Case in point: A good sale candidate
 
-My uncle bought a house in Chennai for five lac (half a million) rupees in 2005. He got an undivided share of 600 sqft. In 2015, they got their house reconstructed. A builder approached them, saying he would reconstruct the house if everyone in the flat complex agreed to his proposal. His proposal was that he would demolish the entire complex (four houses⁠---two on each floor), and construct a new building which would have six houses split in two floors, plus a parking area on the ground floor. The builder would give a house to each of the current owners, and would sell two for profit. As an added benefit, each of the current owners would get 150 sqft. more in the new house (because they were forgoing a part of their <span class='small-caps'>UDS</span>).
+My uncle bought a house in Chennai for five lac (half a million) rupees in 2005. He got an undivided share of 600 sqft. In 2015, they got their house reconstructed. A builder approached them, saying he would reconstruct the house if everyone in the flat complex agreed to his proposal. His proposal was that he would demolish the entire complex (four houses⁠---two on each floor), and construct a new building which would have six houses split in two floors, plus a parking area on the ground floor. The builder would give a house to each of the current owners, and would sell two for profit. As an added benefit, each of the current owners would get 150 sqft. more in the new house (because they were forgoing a part of their {{< smallcaps "UDS" >}}).
 
-At the moment, the price of a plot (60″ × 40″) of land in that locality sells for about a crore (10 million) rupees. The value of the <span class='small-caps'>UDS</span> itself in his case is about 1.7 million, over three times of what he bought the house for. Plus, the last house that got sold in the building, sold for over four million.
+At the moment, the price of a plot (60″ × 40″) of land in that locality sells for about a crore (10 million) rupees. The value of the {{< smallcaps "UDS" >}} itself in his case is about 1.7 million, over three times of what he bought the house for. Plus, the last house that got sold in the building, sold for over four million.
 
 But do you see that kind of appreciation in property value anymore?

@@ -13,11 +13,11 @@ Today, I watched a rather curious video on Facebook, called, [_The Atheist Delus
 
 {% include spotify.html %}
 
-Then, Jim goes on to ask them what the <span class='small-caps'>DNA</span> is. One says the <span class='small-caps'>DNA</span> is the instruction code for the cells, so they could form a certain way. Jim mentions how the strands in the <span class='small-caps'>DNA</span> if stretched out, could go all the way to the sun and back, or something along those lines. And then he asks, 'Well, if you think the book could not create itself, how could the <span class='small-caps'>DNA</span>, which is the instruction code for every living being on earth, create itself?'
+Then, Jim goes on to ask them what the {{< smallcaps "DNA" >}} is. One says the {{< smallcaps "DNA" >}} is the instruction code for the cells, so they could form a certain way. Jim mentions how the strands in the {{< smallcaps "DNA" >}} if stretched out, could go all the way to the sun and back, or something along those lines. And then he asks, 'Well, if you think the book could not create itself, how could the {{< smallcaps "DNA" >}}, which is the instruction code for every living being on earth, create itself?'
 
 {% include youtube.html %}
 
-Then he asks, 'Do you mean to say everything came from nothing?' He even mentions Richard Dawkins in a statement to one of the participants and shows a clip of a video where Prof. Dawkins tells the audience how the concept of "nothing created everything" defies common sense. Then, he says, 'Don't you think there is an intelligent being behind this intelligent design? Do you think the entire Universe happened by accident? Do you think your <span class='small-caps'>DNA</span> happened by accident?'
+Then he asks, 'Do you mean to say everything came from nothing?' He even mentions Richard Dawkins in a statement to one of the participants and shows a clip of a video where Prof. Dawkins tells the audience how the concept of "nothing created everything" defies common sense. Then, he says, 'Don't you think there is an intelligent being behind this intelligent design? Do you think the entire Universe happened by accident? Do you think your {{< smallcaps "DNA" >}} happened by accident?'
 
 > "Origins don't matter."
 

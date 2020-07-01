@@ -22,9 +22,9 @@ It was a late summer evening, and I was in the final year of my graduation. It w
 "Why, what is your problem? Who is she to you that you're so concerned?"\\
 "Oh yeah? She's my sister, and I know what you're asking her number for."
 
-And right after the conversation, I sent her a message, "Bum, you're my sister from now. <span class="small-caps">LOL</span>. Have a problem? :)" and the reply was, "No problem. :)"
+And right after the conversation, I sent her a message, "Bum, you're my sister from now. {{< smallcaps "LOL" >}}. Have a problem? :)" and the reply was, "No problem. :)"
 
-I think I still have that message somewhere backed up in my notebook's hard drive. She did consider me to be a good friend of hers until then, but then on, we became closer. After the summer break, we both went to Vellore to get trained before getting into the company we were placed in. Those days made us what we are today. It is then that we found we almost shared the same <span class="small-caps">DNA</span> of craziness. We were found constantly fighting with each other, hitting each other, sharing thoughts and ideas, sharing secrets, being for each other when required but irritating each other to the core.
+I think I still have that message somewhere backed up in my notebook's hard drive. She did consider me to be a good friend of hers until then, but then on, we became closer. After the summer break, we both went to Vellore to get trained before getting into the company we were placed in. Those days made us what we are today. It is then that we found we almost shared the same {{< smallcaps "DNA" >}} of craziness. We were found constantly fighting with each other, hitting each other, sharing thoughts and ideas, sharing secrets, being for each other when required but irritating each other to the core.
 
 One day, while chatting with a guy who had a severe crush on her, she sent this message to him: "...he's the brother I never had while growing up. J" and that touched me. And tonight, I wanna tell her that she too is the sister I never had while growing up.
 

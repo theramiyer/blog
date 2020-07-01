@@ -33,13 +33,13 @@ Supermarkets had half-lowered their shutters. On asking why, they said that the 
 
 Everywhere you look, sanitisers and masks are out of stock. Our regular flower vendor told us that greens will not be available for some days, because there is nothing in the main market. While the concerned organisations are keeping an eye on the prices, we see a shortage in supply. Right?
 
-Items such as soaps, coffee, bottled beverages, toiletries, instant foods, etc. come under fast-moving consumer goods, or <span class='small-caps'>FMCG</span>. The companies that make these goods have said that _they have enough stock_, except that they are now working harder to get them delivered to the distributors and stores because of the sudden increase in demand.
+Items such as soaps, coffee, bottled beverages, toiletries, instant foods, etc. come under fast-moving consumer goods, or {{< smallcaps "FMCG" >}}. The companies that make these goods have said that _they have enough stock_, except that they are now working harder to get them delivered to the distributors and stores because of the sudden increase in demand.
 
 The other aspect of this situation is the increase in in-home consumption[^25d84257]. Those of us that can work from home are working from home. Had we been at work, we would have eaten at the cafeteria, or walked to the nearby restaurant, or had a tea at the joint at the corner of the street or the _chai-sutta_ point behind our office buildings. Now with the offices closed, we are having our tea and snacks at home, which has increased the in-home consumption. All the consumables that went through the distributor channel to these joints are with the joints, and channelling them to the regular retail route is a challenge.
 
 [^25d84257]: [Consumer goods fly off the shelves as coronavirus spreads in India](https://economictimes.indiatimes.com/industry/cons-products/fmcg/consumer-goods-fly-off-the-shelves-as-coronavirus-spreads-in-india/articleshow/74644159.cms)
 
-Because of all the lock-downs, the e-grocers and <span class='small-caps'>FMCG</span> manufacturers report a surge of about 20% in demand. The good thing about online stores is that they can set a limit on who can buy how much of the goods. This will stop people from unnecessarily stocking up on essentials.
+Because of all the lock-downs, the e-grocers and {{< smallcaps "FMCG" >}} manufacturers report a surge of about 20% in demand. The good thing about online stores is that they can set a limit on who can buy how much of the goods. This will stop people from unnecessarily stocking up on essentials.
 
 Oh, and on the side, smoking is bad for health. Passive smoking is as bad if not worse. I try to avoid these places, and so should you.
 
@@ -53,7 +53,7 @@ And according to Nash Equilibrium in Game Theory, this is rational behaviour[^04
 
 [^0417862b]: [Fear is the key and panic buying is the therapy](https://www.livemint.com/news/india/fear-is-the-key-and-panic-buying-is-the-therapy-11583946988380.html)
 
-> “Even people who were queuing up in the supermarket line to buy toilet paper, they have no idea why they are buying toilet paper,” said Andy Yap, a professor of organizational [behaviour] at the Singapore campus of <span class='small-caps'>INSEAD</span> business school. “They ... see other people doing it and start doing it themselves because they are afraid they might lose out.”
+> “Even people who were queuing up in the supermarket line to buy toilet paper, they have no idea why they are buying toilet paper,” said Andy Yap, a professor of organizational [behaviour] at the Singapore campus of {{< smallcaps "INSEAD" >}} business school. “They ... see other people doing it and start doing it themselves because they are afraid they might lose out.”
 
 The other point is the reaction of the governments across the world. When governments take drastic steps and make shock announcements, it triggers panic in people. Example: Japan.
 

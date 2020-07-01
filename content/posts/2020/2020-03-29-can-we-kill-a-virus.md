@@ -28,7 +28,7 @@ Wait, what?
 
 You read it right; a virus cannot reproduce by itself. Viruses cannot metabolise either (metabolism is the process of performing chemical reactions in the body to generate energy). I think of viruses as those beings that are non-living when not attached to a host, and a living being when it gets a host. Much like a seed, except that most seeds grow in a non-living habitat such as soil. Let me go one step further and say that this is true as of the 29th of March, 2020.
 
-Experts consider viruses as having a "borrowed life". They cannot "live" on their own. They attach themselves to host cells, break their outer shell---made of complex proteins or lipid (fat) or both---and release their <span class='small-caps'>DNA</span> or the <span class='small-caps'>RNA</span> on to the host cell. This way, they take control of the host cell and use the host cell's reproductive machinery to multiply. Except in this case, the cells are rogue cells, which do not work as designed for their purpose.
+Experts consider viruses as having a "borrowed life". They cannot "live" on their own. They attach themselves to host cells, break their outer shell---made of complex proteins or lipid (fat) or both---and release their {{< smallcaps "DNA" >}} or the {{< smallcaps "RNA" >}} on to the host cell. This way, they take control of the host cell and use the host cell's reproductive machinery to multiply. Except in this case, the cells are rogue cells, which do not work as designed for their purpose.
 
 This degenerates the organ that these cells make up and the organ fails. Of course, that is an oversimplified statement.
 
@@ -41,4 +41,4 @@ When our immunity detects the virus, it tries to interfere with the virus's atta
 Now, to some advice, opinion, or whatever you would like to call it:
 
 - Drink a lot of water. The summer is beginning, and our bodies are going to need more water than, say, three months ago. Also, our immunity needs enough water to function. If you have underlying health issues, check with your doctor on how much water you can drink.
-- Most of us working from home do not have to groom ourselves the way we would otherwise. I have not had my haircut for some time now. Let us collect that money and either support our local barber, or donate it to a larger fund like the <span class='small-caps'>PMRF</span>, irrespective of what the amount is; little drops make an ocean. If every Indian citizen could donate one rupee, towards the fund, the fund would have 1.3 billion rupees.
+- Most of us working from home do not have to groom ourselves the way we would otherwise. I have not had my haircut for some time now. Let us collect that money and either support our local barber, or donate it to a larger fund like the {{< smallcaps "PMRF" >}}, irrespective of what the amount is; little drops make an ocean. If every Indian citizen could donate one rupee, towards the fund, the fund would have 1.3 billion rupees.

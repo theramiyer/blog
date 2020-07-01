@@ -37,7 +37,7 @@ Understand, that as taxpaying individuals, this is your money and mine going int
 
 Some of us think, since we pay taxes, the government should give back a return in our investment. To think so is fine. Feeling upset that the government gives subsidies to farmers as well as the so-called farmers, and that what we pay for does not come back to us at all, is normal. We can even justify some of this disapproval. But we are a socialist economy (whether you like it or not), and in a socialist economy, life belongs to everyone, and the right to good life is everyone's. Those higher than a baseline (and the number that defines the baseline in India is highly controversial) ought to help those below, have a good life.
 
-Medical facilities should be free for at least a certain class of individuals. Education should be free because every Indian has a right to it, but not every Indian can afford educating their child in schools. Those who earn well should help those who do not, in getting their children at least primary education. This is a return of investment in a long term, because if every future citizen of India is not merely literate, but also educated, they will run the country better by contributing to the national income, which in turn contributes to the <span class='small-caps'>GDP</span>, which is directly linked to the performance of an economy and the standard of life in the economy.
+Medical facilities should be free for at least a certain class of individuals. Education should be free because every Indian has a right to it, but not every Indian can afford educating their child in schools. Those who earn well should help those who do not, in getting their children at least primary education. This is a return of investment in a long term, because if every future citizen of India is not merely literate, but also educated, they will run the country better by contributing to the national income, which in turn contributes to the {{< smallcaps "GDP" >}}, which is directly linked to the performance of an economy and the standard of life in the economy.
 
 ### Indirect investment
 
@@ -47,7 +47,7 @@ These are assets. These assets have a long life. For example, an eight-inch laye
 
 Some local transport authorities subsidise travel, thereby encouraging the public to use public transport. This may not be true in Bangalore, but in most other cities, there is real subsidy in public transport. In Chennai, you pay a mere ₹10 to travel from one end of the city to another by the suburban train. Technically, you are paying a little for the operating cost with this amount---say, the electrical energy used. The rest of the cost (coaches, railway tracks, electricity line, etc.) is borne by the Indian Railways. The Indian Railways get a quota allocated from the yearly budget.
 
-We collectively contribute to building and maintaining this infrastructure in the form of taxes---income tax, <span class='small-caps'>GST</span>, etc.
+We collectively contribute to building and maintaining this infrastructure in the form of taxes---income tax, {{< smallcaps "GST" >}}, etc.
 
 ### The socialistic aspect
 

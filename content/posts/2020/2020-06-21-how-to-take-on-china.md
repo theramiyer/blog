@@ -32,7 +32,7 @@ What we want is to set a new normal. We want change. And change happens through 
 
 ## Identifying the channels
 
-There can be no doubt that we see China as hostile. But like I mentioned in my previous post, boycotting Chinese goods will adverse effects on us, and make a mere 3% dent on China's exports---not 3% of their <span class='small-caps'>GDP</span>, but the exports alone. I would disagree that China will face any impact significant enough to change its ways.
+There can be no doubt that we see China as hostile. But like I mentioned in my previous post, boycotting Chinese goods will adverse effects on us, and make a mere 3% dent on China's exports---not 3% of their {{< smallcaps "GDP" >}}, but the exports alone. I would disagree that China will face any impact significant enough to change its ways.
 
 Granted, India is one of the largest markets in the world, but a ban on Chinese goods will not make a _direct_ impact on China.
 
@@ -62,7 +62,7 @@ In a communist market, the State controls rights to property. The State decides 
 
 You can see everywhere you look in the context of China, that people complain of its market practices as unfair. This is the beauty of "Communist Capitalism"---a beautiful oxymoron that oozes convenience. The modus operandi of the Chinese economy is a fascinating case study of how a welfare-oriented system can become a so-called dragon burning down everything in its wake, leeching on the world economy.
 
-In short, China has modelled its policies in such a way that they benefit China no matter what anyone does. China was a protectionist market, which the world saw as bad. Then, China entered into globalisation, and made it worse. At the core of this is mercantilism (or, neomercantilism, in the post-<span class='small-caps'>WTO</span> era). But before we get into it:
+In short, China has modelled its policies in such a way that they benefit China no matter what anyone does. China was a protectionist market, which the world saw as bad. Then, China entered into globalisation, and made it worse. At the core of this is mercantilism (or, neomercantilism, in the post-{{< smallcaps "WTO" >}} era). But before we get into it:
 
 ## State-owned Enterprises
 
@@ -70,9 +70,9 @@ Let us take an example of car manufacturing, which Prof Chang-Tai Hsieh talks a
 
 [^d07c3e2c]: [Crony Capitalism with Chinese Characteristics](https://pdfs.semanticscholar.org/aadb/87c81db7223b50f1bbb608796bf2b92cb32b.pdf)
 
-A company, say, from the US, approaches China to start business there. China is a large, lucrative market. The way China operates, local governments, such as the government of the City of Shanghai, work almost as an independent entity. This government owns a firm, Shanghai Automobile Industry Corporation. The US-based company cannot manufacture and sell products on their own. They must go into a joint venture with a local company. This company in Shanghai is <span class='small-caps'>SAIC</span>.
+A company, say, from the US, approaches China to start business there. China is a large, lucrative market. The way China operates, local governments, such as the government of the City of Shanghai, work almost as an independent entity. This government owns a firm, Shanghai Automobile Industry Corporation. The US-based company cannot manufacture and sell products on their own. They must go into a joint venture with a local company. This company in Shanghai is {{< smallcaps "SAIC" >}}.
 
-When getting into the joint venture, <span class='small-caps'>GM</span>, the <span class='small-caps'>US</span>-based company, must transfer the technical know-how of the manufacture to <span class='small-caps'>SAIC</span>, who would now be free to use it in its own ventures. These companies, of course, do not share the know-how of their latest technology, but it still means that the companies manage to sell outdated technology to the people of China. A classic example for why an authoritarian system is not good for the people and the market---the deep dark side of Communism.
+When getting into the joint venture, {{< smallcaps "GM" >}}, the {{< smallcaps "US" >}}-based company, must transfer the technical know-how of the manufacture to {{< smallcaps "SAIC" >}}, who would now be free to use it in its own ventures. These companies, of course, do not share the know-how of their latest technology, but it still means that the companies manage to sell outdated technology to the people of China. A classic example for why an authoritarian system is not good for the people and the market---the deep dark side of Communism.
 
 These State-owned companies use the intellectual property to capture and saturate the local markets, and then, begin exporting the goods at dirt-cheap rates, eliminating competition from other international players. This crony capitalism and a communistic market is a dangerous combination because the capitalists make great profits by selling goods that are not worth what we pay, and at the same time, give the politicians excessive power and unfair advantage.
 
@@ -80,7 +80,7 @@ These State-owned companies use the intellectual property to capture and saturat
 
 State-owned enterprises operating at the global level is detrimental to free market trade. Look at it in simple terms. The government is powerful. The government gets funded through the taxes it collects. Power and money. If the government gets into business, it wouldn't care about profits as much as a businessman would. Loss would not worry the government either. This becomes a bigger problem when the state-owned enterprise reduces costs to such levels (by not caring about profits) that the privately-owned enterprises cannot compete at all. A simple example for this is Air India. No, we are not engaging on the debate on the decision of the government to sell off Air India---that would be for some other day.
 
-China gives subsidies to its State-Owned Enterprises (<span class='small-caps'>SOE</span>), which drastically alters the balance, and in fact even angers the private players within China, let alone foreign private players.
+China gives subsidies to its State-Owned Enterprises ({{< smallcaps "SOE" >}}), which drastically alters the balance, and in fact even angers the private players within China, let alone foreign private players.
 
 ## Tariffs
 
@@ -88,7 +88,7 @@ In classic mercantilism, a country discourages imports by applying high tariff o
 
 The modern world sees mercantilism as a bad practice, learning from our past that such policies have led to wars and colonialism. But do countries not place tariffs on foreign products at all? Almost every country does, but we limit its extent. Why, even countries like the US apply tariffs on some foreign goods. This is a matter of balance.
 
-Countries today apply newer techniques rather than simple tariff: Non-tariff Barriers. These practices could range from customs delays to complex policies in establishing trade or import quotas. What level of <span class='small-caps'>NTB</span> are bad would make this post a lot more complicated than needed---developing economies need some level of such practices to have a level playing field and maintain a healthy trade balance. Although, China, apart from imposing tariffs, also aggressively engages in predatory neo-mercantilist practices to emphasise on exports and reduce imports, to maintain a high trade surplus.
+Countries today apply newer techniques rather than simple tariff: Non-tariff Barriers. These practices could range from customs delays to complex policies in establishing trade or import quotas. What level of {{< smallcaps "NTB" >}} are bad would make this post a lot more complicated than needed---developing economies need some level of such practices to have a level playing field and maintain a healthy trade balance. Although, China, apart from imposing tariffs, also aggressively engages in predatory neo-mercantilist practices to emphasise on exports and reduce imports, to maintain a high trade surplus.
 
 ## Putting the findings in context
 

@@ -20,7 +20,7 @@ We heard a lot of noise throughout the last week over the abrogation of ArticleÂ
 
 Think again.
 
-The topic is rather broad, and going into it in a single post made the post "too long for human consumption". I have hence split the post into three parts. Reading the entire series will give you knowledge, reading it partially will make you judgemental. Make your choice. This article is available as a [typeset printable <span class='small-caps'>PDF</span>]({{ page.print }}) as well.
+The topic is rather broad, and going into it in a single post made the post "too long for human consumption". I have hence split the post into three parts. Reading the entire series will give you knowledge, reading it partially will make you judgemental. Make your choice. This article is available as a [typeset printable {{< smallcaps "PDF" >}}]({{ page.print }}) as well.
 
 Here are the topics I will touch upon in this post:
 

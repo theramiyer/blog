@@ -30,7 +30,7 @@ In case of dengue, the mosquito is the carrier, and the human is the victim. In 
 
 We say a virus is viable when the virus is capable of infecting, while unattached to a host. Viruses cannot "live". But the material that can infect organisms remains active for a period of time. After this time, the virus disintegrates, and can no more cause any harm. Think of this as its shelf life.
 
-This period is different for different viruses, in different environments. The Smallpox virus can remain viable for years, while the <span class='small-caps'>SARS</span>-CoV-2 breaks down on a copper surface in hours, while it can stay afloat in the air for up to three hours[^4dd1918c] and continue to be active on plastic surfaces for up to three days.
+This period is different for different viruses, in different environments. The Smallpox virus can remain viable for years, while the {{< smallcaps "SARS" >}}-CoV-2 breaks down on a copper surface in hours, while it can stay afloat in the air for up to three hours[^4dd1918c] and continue to be active on plastic surfaces for up to three days.
 
 ### Medium
 
@@ -52,13 +52,13 @@ The chances of getting <span class='small-caps'>COVID-19</span> appears dosage-d
 
 Attention.
 
-Incubation period is the time between the point you contract the virus and the time the symptoms start to appear. This period in case of a <span class='small-caps'>SARS</span>-CoV-2 infection is high. You do not know you have the disease until symptoms start to appear. This is why they say, the disease is _silent_.
+Incubation period is the time between the point you contract the virus and the time the symptoms start to appear. This period in case of a {{< smallcaps "SARS" >}}-CoV-2 infection is high. You do not know you have the disease until symptoms start to appear. This is why they say, the disease is _silent_.
 
 But all that while, you could be expelling the virus while you talk, while you breathe, and while you laugh[^5f6519aa].
 
 ### Immunity
 
-Those who recover from the <span class='small-caps'>SARS</span>-CoV-2 infection, may show short-term immunity to re-infections. This is because, according to a study, one of the types of antibodies that fight the infection remained in the system for a short period. The levels of these antibodies dropped in two to three months[^f5814369]. The levels of another antibody, one which attacks the spike protein in the virus did not reduce, which could point at long-term immunity.
+Those who recover from the {{< smallcaps "SARS" >}}-CoV-2 infection, may show short-term immunity to re-infections. This is because, according to a study, one of the types of antibodies that fight the infection remained in the system for a short period. The levels of these antibodies dropped in two to three months[^f5814369]. The levels of another antibody, one which attacks the spike protein in the virus did not reduce, which could point at long-term immunity.
 
 But again, this does not mean much at the moment; this is a starting point. We have not had the virus for long enough to know about life-long immunity. The working of the human immunity is too complex to make such blanket claims based on the little evidence we have at the moment.
 
@@ -128,7 +128,7 @@ Hydroxychloroquine and azithromycin?
 
 Under clinical conditions. Neither of these is going to prevent the disease, and you should not self-medicate. The claims about these are either speculative, or the experts are questioning the methods of the studies. In either case, we have no evidence to support any of these claims[^1fa7f00b]. Your doctor knows what is best for you.
 
-For more information about these, refer to the [Coronavirus Resource Center](https://www.health.harvard.edu/diseases-and-conditions/coronavirus-resource-center) of the Harvard Medical School, and the [Mythbuster](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters) series by the <span class='small-caps'>WHO</span>.
+For more information about these, refer to the [Coronavirus Resource Center](https://www.health.harvard.edu/diseases-and-conditions/coronavirus-resource-center) of the Harvard Medical School, and the [Mythbuster](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters) series by the {{< smallcaps "WHO" >}}.
 
 ## How to deal with the situation
 
@@ -163,7 +163,7 @@ Some may see this as an unpopular idea, but by calling your domestic help home, 
 
 At the same time, understand that this is probably their sole means of livelihood. Don't stop paying them. We have asked our domestic help not to come for work, but haven't stopped their pay.
 
-Yes, managing work and household chores is hard. But managing a <span class='small-caps'>COVID</span>-19 infection is harder.
+Yes, managing work and household chores is hard. But managing a {{< smallcaps "COVID" >}}-19 infection is harder.
 
 ### Meeting people
 
@@ -221,11 +221,11 @@ Following these steps will reduce the chances of your contracting the infection.
 
 This is the new normal. We adapt.
 
-[^800b055a]: Fake news: [How Italian doctors disobeyed <span class='small-caps'>WHO</span> and discovered the secrets of coronavirus](https://web.archive.org/web/20200523172503/https://medium.com/@efogator2019/how-italian-doctors-disobeyed-who-and-discovered-the-secrets-of-coronavirus-9eeb7e0b4310) (archived before page shutdown)
+[^800b055a]: Fake news: [How Italian doctors disobeyed {{< smallcaps "WHO" >}} and discovered the secrets of coronavirus](https://web.archive.org/web/20200523172503/https://medium.com/@efogator2019/how-italian-doctors-disobeyed-who-and-discovered-the-secrets-of-coronavirus-9eeb7e0b4310) (archived before page shutdown)
 
-[^4dd1918c]: [Aerosol and Surface Stability of <span class='small-caps'>SARS</span>-CoV-2 as Compared with <span class='small-caps'>SARS</span>-CoV-1 (New England Journal of Medicine, March 17, 2020)](https://www.nejm.org/doi/full/10.1056/nejmc2004973)
+[^4dd1918c]: [Aerosol and Surface Stability of {{< smallcaps "SARS" >}}-CoV-2 as Compared with {{< smallcaps "SARS" >}}-CoV-1 (New England Journal of Medicine, March 17, 2020)](https://www.nejm.org/doi/full/10.1056/nejmc2004973)
 
-[^5f6519aa]: [<span class='small-caps'>COVID</span>-19 basics (Harvard Medical School)](https://www.health.harvard.edu/diseases-and-conditions/covid-19-basics)
+[^5f6519aa]: [{{< smallcaps "COVID" >}}-19 basics (Harvard Medical School)](https://www.health.harvard.edu/diseases-and-conditions/covid-19-basics)
 
 [^93e7b169]: [Number of critical Covid-19 patients has halved across the country, shows data (Hindustan Times, as of May 11, 2020)](https://www.hindustantimes.com/india-news/number-of-critical-covid-19-patients-has-halved-across-the-country-shows-data/story-kucHQKQkI1TBc0sZO0SleI.html)
 
@@ -237,6 +237,6 @@ This is the new normal. We adapt.
 
 [^f0d1527c]: [Hydrocortisone, Vitamin C, and Thiamine for the Treatment of Severe Sepsis and Septic Shock](https://journal.chestnet.org/article/S0012-3692(16)62564-3/fulltext)
 
-[^1fa7f00b]: [Treatments for <span class='small-caps'>COVID</span>-19 (Harvard Medical School)](https://www.health.harvard.edu/diseases-and-conditions/treatments-for-covid-19)
+[^1fa7f00b]: [Treatments for {{< smallcaps "COVID" >}}-19 (Harvard Medical School)](https://www.health.harvard.edu/diseases-and-conditions/treatments-for-covid-19)
 
 [^d524e45e]: [It’s Not Whether You Were Exposed to the Virus. It’s How Much. (The New York Times, May 29, 2020)](https://www.nytimes.com/2020/05/29/health/coronavirus-transmission-dose.html)

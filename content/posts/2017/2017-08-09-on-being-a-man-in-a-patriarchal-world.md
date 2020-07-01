@@ -20,7 +20,7 @@ Honestly, the statement didn't hit me much that day. It took me years of analysi
 
 But why am I writing all this? Let's digress a little.
 
-Once the fire had subsided a little after an <span class="small-caps">FIR</span> was filed against the Twitter trolls who'd trolled Dhanya, the actor came forth and told everyone that everyone had the right to criticise his work. In the night, one of my friends posted a question on Facebook, on whether rightist trolls should be trolled to discourage such behaviour on the Internet.
+Once the fire had subsided a little after an {{< smallcaps "FIR" >}} was filed against the Twitter trolls who'd trolled Dhanya, the actor came forth and told everyone that everyone had the right to criticise his work. In the night, one of my friends posted a question on Facebook, on whether rightist trolls should be trolled to discourage such behaviour on the Internet.
 
 My stand on this is that trolling back the trolls is only going to fix a symptom. Or a specific instance of the symptom. The root cause is still left unaddressed. Of course, trolling back the trolls might help here and there, but that's just a patch. The root cause is the idea that women are somehow inferior to men. That a woman doesn't have the right to question a man's performance. A _root symptom_, as Soumya points out in her article, is that hurling verbal sexual abuses hurt women more than they hurt men. And such abuses directed towards the women in a man's family hurt the man. At a point when I started going really basic, it even made me think, why does the world feel that the woman is at the receiving end of sex (and that the man is in control)? And that that, even if so, is somehow inferior? What sort of idea is that? What are such thoughts based on?
 

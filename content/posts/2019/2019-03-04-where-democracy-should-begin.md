@@ -62,7 +62,7 @@ Democracy is a relatively new concept[^old-democracy]. Democracy is not how the 
 
 Given that formal education is, statistically, much weaker in our society, there should be more stories told to the common folk, that talk about the concept of democracy. And this should happen _before_ politicians misuse their reach to deliver the message that monarchy, autocracy or aristocracy or a combination of some or all of these is the way for India, and that the public should push for it. If such campaigning succeeds, we would leap from the current conservative-party-led position to the extreme right, which would be quite the opposite of democracy[^extreme-left].
 
-[^extreme-left]: An extreme-left-led position is equally anarchic. Read more in my post, [Capitalism, communism, socialism … <span class='small-caps'>WTF</span>-ism]({%- post_url 2019/2019-02-19-capitalism-communism-socialism-wtf-ism %}).
+[^extreme-left]: An extreme-left-led position is equally anarchic. Read more in my post, [Capitalism, communism, socialism … {{< smallcaps "WTF" >}}-ism]({%- post_url 2019/2019-02-19-capitalism-communism-socialism-wtf-ism %}).
 
 ## On the common sources of informal knowledge
 
@@ -82,4 +82,4 @@ Let us work towards a better nation; a better democracy---the democracy that the
 
 ## Beyond zero
 
-Those fortunate ones who already understand the current democratic system that we follow, and are satisfied with it, go ahead and watch the <span class='small-caps'>TED</span>x talk by Prof. Lawrence Lessig of Harvard, called, [Our democracy no longer represents the people. Here's how we fix it.](https://www.youtube.com/watch?v=PJy8vTu66tE) His talk is, of course, concentrated on the <span class='small-caps'>USA</span>, but it is easy to superimpose most of what he talks about, with the Indian democratic system of the 21st century. The video talks about the problem that we need to solve _after_ the one that this post talks about.
+Those fortunate ones who already understand the current democratic system that we follow, and are satisfied with it, go ahead and watch the {{< smallcaps "TED" >}}x talk by Prof. Lawrence Lessig of Harvard, called, [Our democracy no longer represents the people. Here's how we fix it.](https://www.youtube.com/watch?v=PJy8vTu66tE) His talk is, of course, concentrated on the {{< smallcaps "USA" >}}, but it is easy to superimpose most of what he talks about, with the Indian democratic system of the 21st century. The video talks about the problem that we need to solve _after_ the one that this post talks about.
