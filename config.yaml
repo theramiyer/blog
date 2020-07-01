@@ -1,0 +1,20 @@
+baseURL: 'https://blog.ramiyer.me'
+languageCode: en-gb
+title: Ram’s blog
+description: Raw thoughts of a humanist
+theme: typographical-hugo
+permalinks:
+  posts: '/:title/'
+Author:
+  name: Ram Iyer
+  url: 'https://ramiyer.me'
+  twitter: iamramiyer
+  facebook: iamramiyer
+
+related:
+  threshold: 80
+  includeNewer: true
+  toLower: true
+  indices:
+  - name: tags
+    weight: 100
