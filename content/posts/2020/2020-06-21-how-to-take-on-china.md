@@ -13,8 +13,8 @@ My previous post gives a gist of what it would take to boycott goods of Chinese 
 
 Don't get him wrong; that's a valid point.
 
-Sentiment | 1  
-Logic | 0
+> Sentiment: 1  
+> Logic: 0
 
 China laughed.
 
