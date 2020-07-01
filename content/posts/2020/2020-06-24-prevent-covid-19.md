@@ -12,8 +12,7 @@ But the truth still is that the curve did not flatten in its real sense; of cour
 
 But here is the problem: <span class='small-caps'>COVID-19</span> is often silent.
 
-- TOC
-{:toc}
+{{< toc >}}
 
 ## Understanding the pathogen
 

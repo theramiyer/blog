@@ -16,8 +16,7 @@ Over the last week, I saw protests everywhere. Most groups (not WhatsApp groups)
 
 Let me get to the point: The <span class='small-caps'>CAA</span> is not about throwing people out. At all. The <span class='small-caps'>NRC</span> is a different issue. Like always, you are free to disagree. Start a healthy discussion, though. If you know me personally, you have my number already.
 
-- TOC
-{:toc}
+{{< toc >}}
 
 Buckle up for the ride. This is interesting.
 

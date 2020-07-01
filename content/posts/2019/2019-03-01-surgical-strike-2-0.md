@@ -16,8 +16,7 @@ I am an ordinary citizen. And as an ordinary citizen of a country that hates ter
 
 On the 26th, I woke up to the piece of news that a dozen Mirage 2000 aircrafts of Indian Air Force had entered Pakistan-occupied Kashmir, and bombed a region, destroying a terror camp of JeM. I was ecstatic. Why? In a little bit. But of course, none of this is a “political” or “defence” analysis. This is just what a common Indian citizen knows and understands. Here is a gist of the topics touched upon:
 
-- toc
-{:toc}
+{{< toc >}}
 
 This article is available as a [typeset printable <span class='small-caps'>PDF</span>]({{ page.print }}) as well.
 

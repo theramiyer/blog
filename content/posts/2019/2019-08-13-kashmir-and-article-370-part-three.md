@@ -24,8 +24,7 @@ Reading the series partially will make you judgemental, and will not do justice 
 
 Here are the nuances:
 
-- TOC
-{:toc}
+{{< toc >}}
 
 ## Breaking down the regions
 

@@ -13,8 +13,7 @@ The way the year 2020 started bordered on insane. For those in India, this effec
 
 We are in March already, and more and more people are suffering from <span class='small-caps'>COVID-19</span>. Thousands are dead. As the death toll increased, the governments started taking measures to slow down the spread---hopefully to a halt. As the events unfolded, and the governments made announcements, people started panicking and the last time I went to a nearby supermarket, I saw people standing in queues at the counters with loaded carts, which is unusual for the middle of the month. Shelves were empty including those of vegetables with longer shelf lives.
 
-- TOC
-{:toc}
+{{< toc >}}
 
 if you would rather listen to this post:
 

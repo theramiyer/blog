@@ -10,8 +10,7 @@ title: Reading the IAST
 
 During my visit to Chennai the last month, I came across a film that was community-funded and community-made without paid professionals. This film was about the life of a Vaishnava guru of the thirteenth century, called Vedanta Desika, or Venkatacharya.
 
-- TOC
-{:toc}
+{{< toc >}}
 
 ## The film
 

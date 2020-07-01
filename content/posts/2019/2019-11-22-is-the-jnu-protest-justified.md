@@ -17,8 +17,7 @@ Despite hating to say it, it started with _WhatsApp University_. WhatsApp Univer
 
 When I blame the Baby Boomers of India (the generation of my parents and uncles and aunts) for ruining the country for us, it extends to this---these are the guys sitting in their couches sipping their coffees, with their phones in hand, being our teachers at WhatsApp University, still influencing the country. Relentless, I say.
 
-- TOC
-{:toc}
+{{< toc >}}
 
 I received this message yesterday ([skip this](#the-premise) if you want to):
 

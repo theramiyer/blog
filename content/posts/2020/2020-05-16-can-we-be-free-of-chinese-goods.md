@@ -14,8 +14,7 @@ Ever since [Prime Minister Modi made his speech](https://www.youtube.com/watch?v
 
 ![“Saying no to Made in China”: Postcard News](https://www.instagram.com/p/B-6fEYqg8-D/media/?size=l)
 
-- TOC
-{:toc}
+{{< toc >}}
 
 Bravery to post aside, I started to think, 'How practical would it be to boycott Chinese products?' Or rather, what would it take to boycott them?
 

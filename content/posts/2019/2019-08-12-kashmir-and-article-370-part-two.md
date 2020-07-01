@@ -20,8 +20,7 @@ This is the second part of the three-part series on the _Jammu and Kashmir Reorg
 
 This post talks about the current situation in Jammu and Kashmir. Here are the topics:
 
-- TOC
-{:toc}
+{{< toc >}}
 
 ## Article 370 over time
 

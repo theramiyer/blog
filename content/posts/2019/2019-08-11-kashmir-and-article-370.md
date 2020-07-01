@@ -24,8 +24,7 @@ The topic is rather broad, and going into it in a single post made the post "too
 
 Here are the topics I will touch upon in this post:
 
-- TOC
-{:toc}
+{{< toc >}}
 
 ## The Articles
 

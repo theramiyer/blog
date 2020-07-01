@@ -28,8 +28,7 @@ We _do not_ want that.
 
 What we want is to set a new normal. We want change. And change happens through deliberate effort. Change happens through work. By channelising the energy and pumping it into action.
 
-- TOC
-{:toc}
+{{< toc >}}
 
 ## Identifying the channels
 
