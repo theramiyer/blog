@@ -65,12 +65,12 @@ I would say, rather confused. Before someone jumps off the chair, draws their we
 
 Let us start with what India should be. To quote the [Preamble to the Constitution of India](https://en.wikipedia.org/wiki/Preamble_to_the_Constitution_of_India):
 
-> <span class='small-caps'>WE, THE PEOPLE OF INDIA</span>, having solemnly resolved to constitute India into a <span class='small-caps'>SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC</span> and to secure to all its citizens  
+> {{< smallcaps "WE, THE PEOPLE OF INDIA" >}}, having solemnly resolved to constitute India into a {{< smallcaps "SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC" >}} and to secure to all its citizens  
 > {{< smallcaps "JUSTICE" >}}, social, economic and political;  
 > {{< smallcaps "LIBERTY" >}} of thought, expression, belief, faith and worship;  
 > {{< smallcaps "EQUALITY" >}} of status and of opportunity; and to promote among them all  
 > {{< smallcaps "FRATERNITY" >}} assuring the dignity of the individual and the unity and integrity of the Nation;  
-> <span class='small-caps'>IN OUR CONSTITUENT ASSEMBLY</span> this  26th day of November, 1949, do <span class='small-caps'>HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION</span>.
+> {{< smallcaps "IN OUR CONSTITUENT ASSEMBLY" >}} this  26th day of November, 1949, do {{< smallcaps "HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION" >}}.
 
 Now, to quote Dr B.&thinsp;R.&thinsp;Ambedkar in the context:
 

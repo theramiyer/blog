@@ -32,7 +32,7 @@ Experts consider viruses as having a "borrowed life". They cannot "live" on thei
 
 This degenerates the organ that these cells make up and the organ fails. Of course, that is an oversimplified statement.
 
-Our body protects us using its immunity. The immune system is capable of detecting the presence of such infections and act accordingly. But the viruses are smarter sometimes. They can go on doing what they do under the radar, because they have anti-detection systems in place within themselves. The <span class='small-caps'>SARS-CoV-2</span> is one such case---it goes undetected for up to two weeks, which is what defines its incubation period.
+Our body protects us using its immunity. The immune system is capable of detecting the presence of such infections and act accordingly. But the viruses are smarter sometimes. They can go on doing what they do under the radar, because they have anti-detection systems in place within themselves. The {{< smallcaps "SARS" >}}-CoV-2 is one such case---it goes undetected for up to two weeks, which is what defines its incubation period.
 
 When our immunity detects the virus, it tries to interfere with the virus's attachment to the cell. Our immunity also has to stop the infected cells from multiplying. It increases the body temperature, or generates phlegm or floats chemicals, all in an attempt to defeat the virus's methods to take control of our cells. Once successful, the immune system stores this information for future use---again, figuratively. The next time there is such an attack, the body detects it sooner and prevents attachment, and also disintegrates the virus---breaks the complex structure.
 

@@ -27,7 +27,7 @@ The message reads (sic):
 >
 > You have been trained in {{< smallcaps "CPR" >}}, but the guy who taught the course did not tell you how to perform it on yourself.
 >
-> <span class='small-caps'>HOW TO SURVIVE A HEART ATTACK WHEN ALONE?</span>  
+> {{< smallcaps "HOW TO SURVIVE A HEART ATTACK WHEN ALONE?" >}}  
 > Since many people are alone when they suffer a heart attack without help, the person whose heart is beating improperly and who begins to feel faint, has only
 > about 10 seconds left before losing consciousness.
 >

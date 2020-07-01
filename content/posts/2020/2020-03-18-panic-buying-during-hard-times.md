@@ -11,7 +11,7 @@ title: Panic Buying during hard times
 
 The way the year 2020 started bordered on insane. For those in India, this effect was rather pronounced, starting from Kerala passing a resolution against the Citizenship Amendment Act 2019, followed by upping of the protests across the country---Delhi's Shaheen Bagh being the flag ship, to the incidents of dirty politics during the Delhi Elections campaigning, to the novel coronavirus going on claiming thousands of lives.
 
-We are in March already, and more and more people are suffering from <span class='small-caps'>COVID-19</span>. Thousands are dead. As the death toll increased, the governments started taking measures to slow down the spread---hopefully to a halt. As the events unfolded, and the governments made announcements, people started panicking and the last time I went to a nearby supermarket, I saw people standing in queues at the counters with loaded carts, which is unusual for the middle of the month. Shelves were empty including those of vegetables with longer shelf lives.
+We are in March already, and more and more people are suffering from {{< smallcaps "COVID-19" >}}. Thousands are dead. As the death toll increased, the governments started taking measures to slow down the spread---hopefully to a halt. As the events unfolded, and the governments made announcements, people started panicking and the last time I went to a nearby supermarket, I saw people standing in queues at the counters with loaded carts, which is unusual for the middle of the month. Shelves were empty including those of vegetables with longer shelf lives.
 
 {{< toc >}}
 

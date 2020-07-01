@@ -95,7 +95,7 @@ But, here is the cherry on the pie---the forward says:
 
 > The students may have all the time for doctoral courses, the nation is certainly running out of money to pay for these scholars.
 
-Are we? According to Business Today[^6b3548f1], the government _underspent_ on education in the first four years of <span class='small-caps'>NDA-1</span>. This is from Union Budget 2019.
+Are we? According to Business Today[^6b3548f1], the government _underspent_ on education in the first four years of {{< smallcaps "NDA-1" >}}. This is from Union Budget 2019.
 
 [^6b3548f1]: [Union Budget 2019: Govt underspends budget allocated for education in 4 out of last 5 years](https://www.businesstoday.in/union-budget-2019/budget-2019-govt-underspends-budget-allocated-for-education-in-4-out-of-last-5-years/story/361606.html)
 

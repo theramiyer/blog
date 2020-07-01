@@ -162,7 +162,7 @@ Did you see "secularism"? I did. Bangladesh, in 1972 declared itself a secular 
 
 Second: economic refuge. India was once way better off than Bangladesh, but in 2019 Bangladesh is either equal to or better than India in a good number of economic indicators (Data: The Print[^9057cf45]). While we are at 4.5% {{< smallcaps "GDP" >}} growth rate, Bangladesh is at 8.1%. India is a mere 17% higher in per-capita {{< smallcaps "GDP" >}}. But Bangladesh's per-capita income is 60% higher than Assam and almost the same as West Bengal. Bangladesh's female labour participation is at 33%, while India's is 27.2%. Certainly, women from Bangladesh are not dying to come to India for jobs. That is another point for non-Islamism; Bangladesh treats its women better than average Islamic States. And in the end, the Global Hunger Index[^105a8707]: India is at rank 102 and Bangladesh is at 88---ahead of us by 14 positions.
 
-[^9057cf45]: [<span class='small-caps'>CAB-NRC</span>, India-Bangladesh ties, and breaking some popular myths about our friendliest neighbour](https://www.youtube.com/watch?v=gmOfSlxEPBc)
+[^9057cf45]: [{{< smallcaps "CAB-NRC" >}}, India-Bangladesh ties, and breaking some popular myths about our friendliest neighbour](https://www.youtube.com/watch?v=gmOfSlxEPBc)
 
 In other words, India is no more an economic eye-candy for people of Bangladesh. There may have been Bangladeshis coming in, in the past, but India is not attractive to them anymore.
 

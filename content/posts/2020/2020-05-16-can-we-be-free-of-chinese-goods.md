@@ -10,7 +10,7 @@ tags:
 title: Can we be free of Chinese goods
 ---
 
-Ever since [Prime Minister Modi made his speech](https://www.youtube.com/watch?v=g2I20uFMy3E) on the 12th of May 2020, _Aatmanirbhar_ started trending. My Facebook newsfeed showed countless memes and what not, about boycotting Chinese products. Some even questioned my bravery to be able to say no to <span class='small-caps'>Made in China</span>.
+Ever since [Prime Minister Modi made his speech](https://www.youtube.com/watch?v=g2I20uFMy3E) on the 12th of May 2020, _Aatmanirbhar_ started trending. My Facebook newsfeed showed countless memes and what not, about boycotting Chinese products. Some even questioned my bravery to be able to say no to {{< smallcaps "Made in China" >}}.
 
 ![“Saying no to Made in China”: Postcard News](https://www.instagram.com/p/B-6fEYqg8-D/media/?size=l)
 
@@ -100,7 +100,7 @@ Sure, the government has all the documentation, but how accessible is it? And by
 
 [^a09c7b45]: [Ease of Doing Business rankings (Doing Business)](https://www.doingbusiness.org/content/dam/doingBusiness/pdf/db2020/Doing-Business-2020_rankings.pdf)
 
-Secondly, the basic infrastructure required to enable this is not in place. If it were, we would not be looking at 7.6% unemployment (December 2019---three months before the <span class='small-caps'>COVID-19</span> lockdown)[^2d029c00].
+Secondly, the basic infrastructure required to enable this is not in place. If it were, we would not be looking at 7.6% unemployment (December 2019---three months before the {{< smallcaps "COVID-19" >}} lockdown)[^2d029c00].
 
 [^2d029c00]: [Unemployment Rate in India ({{< smallcaps "CMIE" >}})](https://unemploymentinindia.cmie.com/)
 
@@ -131,6 +131,6 @@ We have spent decades, mired in Hindu-Muslim skirmishes and scams and "internal 
 
 Third, we also seem to miss out on recycling. Recycling plastics and metals would mean less of them bought from elsewhere. Apart from reducing the size of landfills, recycling could generate more jobs, and at the same time, lend a hand in reducing imports as well as the cost of raw materials. Why we are not encouraging recycling in the right way is beyond me. What happened to the 'No waste is waste' campaign?
 
-The moral of the story is, tweeting 'Boycott Chinese goods' or making postcards of 'We are saying {{< smallcaps "no" >}} to <span class='small-caps'>Made in China</span>' at this point is stupid, short-sighted, irresponsible and absurd.
+The moral of the story is, tweeting 'Boycott Chinese goods' or making postcards of 'We are saying {{< smallcaps "no" >}} to {{< smallcaps "Made in China" >}}' at this point is stupid, short-sighted, irresponsible and absurd.
 
 Sure, you can exercise your right to expression of views; opine that I am anti-national. But, will silencing the pain with a pill fix the broken bone?

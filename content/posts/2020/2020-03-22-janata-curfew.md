@@ -49,7 +49,7 @@ Incubation period is the time between someone getting infected, and the time the
 
 During this time, while you may be carrying the virus, you will not know that you have the virus. You might go on with your lives, but you _could_ be spreading the virus around even when you are not showing symptoms[^addbbed9].
 
-[^addbbed9]: [<span class='small-caps'>COVID-19</span>: How it spreads (Centers for Disease Control and Prevention)](https://www.cdc.gov/coronavirus/2019-ncov/prepare/transmission.html)
+[^addbbed9]: [{{< smallcaps "COVID-19" >}}: How it spreads (Centers for Disease Control and Prevention)](https://www.cdc.gov/coronavirus/2019-ncov/prepare/transmission.html)
 
 ## Community transmission
 
