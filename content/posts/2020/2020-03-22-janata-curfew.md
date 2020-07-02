@@ -13,7 +13,7 @@ title: Janata Curfew
 
 Some of us defeated the whole purpose of the Janata Curfew today. At five this evening, we hear the sounds of clapping and the shankh-dhvani and people clanging plates and all of that. We look out of one of our windows and see about ten people fist-bumping, high-fiving and shaking hands. The last part was disappointing.
 
-{% include spotify.html %}
+{{< spotify >}}
 
 The point of the Janata Curfew was not showing your political allegiance to someone or sending forwards, and then coming out on the streets at five to show support. Self quarantine was the point of the exercise. But what happened instead was dieting for an entire month, and at the end of it, binge on biryani for three days straight.
 

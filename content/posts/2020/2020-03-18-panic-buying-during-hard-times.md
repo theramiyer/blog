@@ -17,7 +17,7 @@ We are in March already, and more and more people are suffering from {{< smallca
 
 if you would rather listen to this post:
 
-{% include spotify.html %}
+{{< spotify >}}
 
 Panic-buying is when people foresee a shortage of essentials, and buy more than necessary so they do not run out of them.
 

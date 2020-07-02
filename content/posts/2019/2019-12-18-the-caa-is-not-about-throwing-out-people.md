@@ -20,7 +20,7 @@ Let me get to the point: The {{< smallcaps "CAA" >}} is not about throwing peopl
 
 Buckle up for the ride. This is interesting.
 
-{% include spotify.html %}
+{{< spotify >}}
 
 ## Citizens of India
 

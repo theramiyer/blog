@@ -11,11 +11,11 @@ youtube: q4mLXqwy3EA
 
 Today, I watched a rather curious video on Facebook, called, [_The Atheist Delusion_](https://m.facebook.com/story.php?story_fbid=483439892323398&id=106313546083516). A decent piece of work. Here is a gist of what happens in the video: A person---let us call him 'Jim'---goes to different people asking them if they were atheists. The people answer in the affirmative. Jim hands them a colour-printed picture book and asks them if the book created itself---if the colours somehow fell from the sky creating those pictures, and then black ink fell from somewhere forming those letters with the capitalisation, punctuation and all. They say it would be stupid to think so.
 
-{% include spotify.html %}
+{{< spotify >}}
 
 Then, Jim goes on to ask them what the {{< smallcaps "DNA" >}} is. One says the {{< smallcaps "DNA" >}} is the instruction code for the cells, so they could form a certain way. Jim mentions how the strands in the {{< smallcaps "DNA" >}} if stretched out, could go all the way to the sun and back, or something along those lines. And then he asks, 'Well, if you think the book could not create itself, how could the {{< smallcaps "DNA" >}}, which is the instruction code for every living being on earth, create itself?'
 
-{% include youtube.html %}
+{{< youtube >}}
 
 Then he asks, 'Do you mean to say everything came from nothing?' He even mentions Richard Dawkins in a statement to one of the participants and shows a clip of a video where Prof. Dawkins tells the audience how the concept of "nothing created everything" defies common sense. Then, he says, 'Don't you think there is an intelligent being behind this intelligent design? Do you think the entire Universe happened by accident? Do you think your {{< smallcaps "DNA" >}} happened by accident?'
 

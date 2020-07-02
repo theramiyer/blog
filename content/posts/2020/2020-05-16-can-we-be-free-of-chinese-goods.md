@@ -18,7 +18,7 @@ Ever since [Prime Minister Modi made his speech](https://www.youtube.com/watch?v
 
 Bravery to post aside, I started to think, 'How practical would it be to boycott Chinese products?' Or rather, what would it take to boycott them?
 
-{% include spotify.html %}
+{{< spotify >}}
 
 ## The current situation
 
