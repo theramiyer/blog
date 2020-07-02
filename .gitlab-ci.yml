@@ -12,6 +12,7 @@ stages:
   - deploy
 
 build for production:
+  only: master
   stage: build
   script:
     - JEKYLL_ENV=production bundle exec jekyll build -d public/
@@ -22,6 +23,7 @@ build for production:
     expire_in: 1 day
 
 deploy to production:
+  only: master
   stage: deploy
   script:
     - bundle exec s3_website push
