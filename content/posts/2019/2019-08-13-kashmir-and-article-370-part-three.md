@@ -1,6 +1,5 @@
 ---
 date: "2019-08-13T00:00:00Z"
-print: https://www.scribd.com/document/422074646/Kashmir-and-Article-370
 subtitle: The nuances and the way forward
 tags:
 - kashmir
@@ -16,9 +15,9 @@ tags:
 title: 'Kashmir and Article 370: Part Three'
 ---
 
-In the last two posts, we understood the technical aspects of the _Jammu and Kashmir Reorganisation Act, 2019_. To repeat for the benefit of those who landed here directly, this is the third part of the three-part series on the Act. [Part One of the series]({% post_url 2019/2019-08-11-kashmir-and-article-370 %}) is about the background of the formation of the Union of India and accession of Jammu and Kashmir to it. [Part Two of the series]({% post_url 2019/2019-08-12-kashmir-and-article-370-part-two %}) is about the current situation, along with the legal and geo-political view of the change.
+In the last two posts, we understood the technical aspects of the _Jammu and Kashmir Reorganisation Act, 2019_. To repeat for the benefit of those who landed here directly, this is the third part of the three-part series on the Act. [Part One of the series]({{< ref "/posts/2019/2019-08-11-kashmir-and-article-370" >}}) is about the background of the formation of the Union of India and accession of Jammu and Kashmir to it. [Part Two of the series]({{< ref "/posts/2019/2019-08-12-kashmir-and-article-370-part-two" >}}) is about the current situation, along with the legal and geo-political view of the change.
 
-Reading the series partially will make you judgemental, and will not do justice to reality. This part is more of a nuanced view of the situation, and is not for those with low emotional intelligence, but an important part nonetheless. I have warned you. This article is available as a [typeset printable {{< smallcaps "PDF" >}}]({{ page.print }}) as well.
+Reading the series partially will make you judgemental, and will not do justice to reality. This part is more of a nuanced view of the situation, and is not for those with low emotional intelligence, but an important part nonetheless. I have warned you. This article is available as a [typeset printable {{< smallcaps "PDF" >}}](https://www.scribd.com/document/422074646/Kashmir-and-Article-370) as well.
 
 {{< smallcaps "Disclaimer" >}}: I have never been to Kashmir, and hence, I have never had first-hand interactions with Kashmiris in Kashmir. What I know, is from interacting with Kashmiris here in Bangalore, and reading. But this reading has rejected boundaries. I used a non-profiling search engine, over a non-regionally-identifying browser, because I did not want the search engine to tailor the results around "Hindu searcher from India". As an Indian, I am subconsciously biased towards India, and I understand that. I have hence had to put conscious effort to make this as impartial as I can---there is no substitute for that.
 
@@ -93,7 +92,7 @@ Which part of that was democratic? How would you see this as a Kashmiri?
 
 But then, as the Government of India, how else would you abrogate Article 370 without causing a massacre of innocent people---by militants, by secessionists, by political extremists, by religious extremists, or other anti-social elements?
 
-But why abrogate Article 370 at all, you ask? [Go back to the previous article.]({% post_url 2019/2019-08-12-kashmir-and-article-370-part-two %}#but-what-changes-now)
+But why abrogate Article 370 at all, you ask? [Go back to the previous article.]({{< ref "/posts/2019/2019-08-12-kashmir-and-article-370-part-two" >}}#but-what-changes-now)
 
 A bigger question emerges in case of independent Kashmir: Will Pakistan and its militants let Kashmir last one month as a separate country? What then?
 

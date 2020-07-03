@@ -1,6 +1,5 @@
 ---
 date: "2019-08-11T00:00:00Z"
-print: https://www.scribd.com/document/422074646/Kashmir-and-Article-370
 subtitle: The Background
 tags:
 - kashmir
@@ -20,7 +19,7 @@ We heard a lot of noise throughout the last week over the abrogation of ArticleÂ
 
 Think again.
 
-The topic is rather broad, and going into it in a single post made the post "too long for human consumption". I have hence split the post into three parts. Reading the entire series will give you knowledge, reading it partially will make you judgemental. Make your choice. This article is available as a [typeset printable {{< smallcaps "PDF" >}}]({{ page.print }}) as well.
+The topic is rather broad, and going into it in a single post made the post "too long for human consumption". I have hence split the post into three parts. Reading the entire series will give you knowledge, reading it partially will make you judgemental. Make your choice. This article is available as a [typeset printable {{< smallcaps "PDF" >}}](https://www.scribd.com/document/422074646/Kashmir-and-Article-370) as well.
 
 Here are the topics I will touch upon in this post:
 
@@ -102,4 +101,4 @@ While the people of Jammu and Kashmir were in favour of joining with India up un
 
 That is more or less the history part of the Jammu and Kashmir region. Remember, the Jammu and Kashmir that we have seen since birth is the map that the colonial cartographers left with India. This map is technically four parts: the Gilgit-Baltistan region in the north-west (which swore allegiance to Pakistan despite technical issues with it), the Aksai Chin region in the north-east (that China claims as own, the issue India woke up to in 1950), the Azad Kashmir region that Pakistan has occupied, and the India-administered Jammu and Kashmir---Siachen is now part of this region.
 
-The rest, we will [see in the next post]({% post_url 2019/2019-08-12-kashmir-and-article-370-part-two %}).
+The rest, we will [see in the next post]({{< ref "/posts/2019/2019-08-12-kashmir-and-article-370-part-two" >}}).

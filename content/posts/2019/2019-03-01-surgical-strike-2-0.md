@@ -1,6 +1,5 @@
 ---
 date: "2019-03-01T00:00:00Z"
-print: https://www.scribd.com/document/422074817/Surgical-Strike-2-0
 subtitle: 'In retrospect: the 26th Feb 2019 attack and beyond'
 tags:
 - opinion
@@ -18,7 +17,7 @@ On the 26th, I woke up to the piece of news that a dozen Mirage 2000 aircrafts o
 
 {{< toc >}}
 
-This article is available as a [typeset printable {{< smallcaps "PDF" >}}]({{ page.print }}) as well.
+This article is available as a [typeset printable {{< smallcaps "PDF" >}}](https://www.scribd.com/document/422074817/Surgical-Strike-2-0) as well.
 
 It was fantastic news. What I had read at the time was that twelve jets entered PoK, and only while they were returning, Pakistan identified them and scrambled its jets. But there was no military engagement, no civilian casualties. This was just another example for why we are the fourth-strongest air force in the world. Having been part of the Aero India 2019 show (which I had been to on the 23rd) and having interacted with {{< smallcaps "IAF" >}} personnel on a few things, I could much easily relate to the whole operation.
 
