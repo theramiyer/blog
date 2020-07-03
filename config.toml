@@ -17,17 +17,29 @@ facebook = "iamramiyer"
 
 [menu]
   [[menu.main]]
-  identifier = "about"
-  name = ""
-  title = "About"
-  url = "/about/"
-  weight = 0.0
-  [[menu.main]]
   identifier = "archive"
-  name = "Archive"
+  pre = "<i class='fas fa-archive'></i>"
   title = "Archive"
   url = "/archive/"
-  weight = 0.0
+  weight = 1
+  [[menu.main]]
+  identifier = "youtube"
+  pre = "<i class='fab fa-youtube'></i>"
+  title = "YouTube"
+  url = "https://youtube.com/ramiyer"
+  weight = 2
+  [[menu.main]]
+  identifier = "podcast"
+  pre = "<i class='fas fa-headphones-alt'></i>"
+  title = "Podcast"
+  url = "https://anchor.fm/ramiyer"
+  weight = 3
+  [[menu.main]]
+  identifier = "about"
+  pre = "<i class='fas fa-info'></i>"
+  title = "About"
+  url = "/about/"
+  weight = 4
 
 [related]
 threshold = 80.0
