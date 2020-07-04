@@ -48,3 +48,7 @@ toLower = true
   [[related.indices]]
   name = "tags"
   weight = 100.0
+
+[outputs]
+    home = [ "HTML", "JSON"]
+    page = [ "HTML"]
