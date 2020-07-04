@@ -50,5 +50,5 @@ toLower = true
   weight = 100.0
 
 [outputs]
-    home = [ "HTML", "JSON"]
-    page = [ "HTML"]
+  home = [ "HTML", "JSON"]
+  page = [ "HTML"]
