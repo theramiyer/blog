@@ -1,5 +1,4 @@
 ---
 title: Archive
+type: archive
 ---
-
-{{< search >}}
