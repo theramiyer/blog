@@ -1,20 +1,16 @@
-image: bchew/jekyll-build
-
-cache:
-  paths:
-    - vendor/
-
-before_script:
-  - bundle install --path vendor
-
 stages:
   - build
   - deploy
 
+variables:
+    GIT_SUBMODULE_STRATEGY: recursive
+
 build for production:
   stage: build
+  image: monachus/hugo
+  only: master
   script:
-    - JEKYLL_ENV=production bundle exec jekyll build -d public/
+    - hugo
     - find public/ -type f ! -iname 'index.html' ! -iname '404.html' -iname '*.html' -print0 | while read -d $'\0' f; do mv "$f" "${f%.html}"; done
   artifacts:
     paths:
@@ -23,8 +19,11 @@ build for production:
 
 deploy to production:
   stage: deploy
+  image: registry.gitlab.com/gitlab-org/cloud-deploy/aws-base:latest
+  only: master
   script:
-    - bundle exec s3_website push
+    - aws s3 sync ./public/ s3://$S3_BUCKET/ --acl public-read --delete
+    - aws cloudfront create-invalidation --distribution-id $CLOUDFRONT_ID  --paths "/*"
   artifacts:
     paths:
       - public
