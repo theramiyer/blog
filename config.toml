@@ -2,7 +2,7 @@ baseURL = "https://blog.ramiyer.me"
 languageCode = "en-gb"
 title = "Ram’s blog"
 description = "Raw thoughts of a humanist"
-theme = "typographical-hugo"
+theme = "typographical"
 googleAnalytics = "UA-96215433-5"
 
 [permalinks]
