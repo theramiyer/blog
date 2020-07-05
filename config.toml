@@ -1,0 +1,54 @@
+baseURL = "https://blog.ramiyer.me"
+languageCode = "en-gb"
+title = "Ram’s blog"
+description = "Raw thoughts of a humanist"
+theme = "typographical-hugo"
+googleAnalytics = "UA-96215433-5"
+
+[permalinks]
+post = "/:title/"
+page = "/:title/"
+
+[Author]
+name = "Ram Iyer"
+url = "https://ramiyer.me"
+twitter = "iamramiyer"
+facebook = "iamramiyer"
+
+[menu]
+  [[menu.main]]
+  identifier = "archive"
+  pre = "<i class='fas fa-archive'></i>"
+  title = "Archive"
+  url = "/archive/"
+  weight = 1
+  [[menu.main]]
+  identifier = "youtube"
+  pre = "<i class='fab fa-youtube'></i>"
+  title = "YouTube"
+  url = "https://youtube.com/ramiyer"
+  weight = 2
+  [[menu.main]]
+  identifier = "podcast"
+  pre = "<i class='fas fa-headphones-alt'></i>"
+  title = "Podcast"
+  url = "https://anchor.fm/ramiyer"
+  weight = 3
+  [[menu.main]]
+  identifier = "about"
+  pre = "<i class='fas fa-info'></i>"
+  title = "About"
+  url = "/about/"
+  weight = 4
+
+[related]
+threshold = 80.0
+includeNewer = true
+toLower = true
+  [[related.indices]]
+  name = "tags"
+  weight = 100.0
+
+[outputs]
+  home = [ "HTML", "JSON"]
+  page = [ "HTML"]
