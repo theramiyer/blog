@@ -52,3 +52,11 @@ toLower = true
 [outputs]
   home = [ "HTML", "JSON"]
   page = [ "HTML"]
+
+canonifyURLs = true
+copyright = "Ram Iyer"
+enableRobotsTXT = true
+
+[sitemap]
+    changefreq = "weekly"
+    priority = 0.5
