@@ -1,9 +1,11 @@
 baseURL = "https://blog.ramiyer.me"
-languageCode = "en-gb"
+languageCode = "en-GB"
 title = "Ram’s blog"
-description = "Raw thoughts of a humanist"
 theme = "typographical"
 googleAnalytics = "UA-96215433-5"
+
+[params]
+description = "Raw thoughts of a humanist"
 
 [permalinks]
 post = "/:title/"
