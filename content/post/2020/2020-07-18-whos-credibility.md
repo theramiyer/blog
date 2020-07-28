@@ -186,7 +186,7 @@ To question the credibility of the organisation on the basis of our misunderstan
 
 > What the hell is {{< smallcaps WHO >}}'s credibility
 
-The organisation has always maintained that we are still learning about the virus, and that the policies and will update their recommendations based on the new evidences that emerge.
+The organisation has always maintained that we are still learning about the virus, and will update their recommendations and policies based on the new evidences that emerge.
 
 Let us not be lazy. This is a time when the science around the virus is evolving. Countries around the world are conducting studies to understand the virus. The methods of prevention may change as new evidences come out. One theory or method may replace another. That does not make everybody else a fool. Science is not a game of Sudoku, in science, there could be more than one solutions, and one may work better than the other based on circumstances.
 
