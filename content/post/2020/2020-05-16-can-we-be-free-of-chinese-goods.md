@@ -26,7 +26,9 @@ As of March 2020, our total import from China was at $70 billion[^aa6ccf72] in
 
 The issue is not merely importing goods and services from China, but _how much_ we export and import. We call this _Trade Balance_; the difference between the worth of goods and services exported, and the worth of goods and services imported. A positive number indicates a trade surplus, while a negative number indicates deficit. Data source: Export Import Data Bank, Govt. of India.
 
+{{< raw >}}
 <div class="flourish-embed flourish-chart" data-src="visualisation/2448356" data-url="https://flo.uri.sh/visualisation/2448356/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+{{< /raw >}}
 
 [^290ca9bc]: [Export Import Data Bank (Ministry of Commerce and Industry)](https://commerce-app.gov.in/eidb/)
 
