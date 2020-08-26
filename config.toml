@@ -52,7 +52,7 @@ toLower = true
   weight = 100.0
 
 [outputs]
-  home = [ "HTML", "JSON"]
+  home = [ "HTML", "JSON", "RSS"]
   page = [ "HTML"]
 
 canonifyURLs = true
