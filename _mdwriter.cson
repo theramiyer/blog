@@ -49,7 +49,7 @@ frontMatter: """
 title: "{title}"
 date: "{date}"
 tags:
-- 
+-
 ---
 """
 
@@ -91,7 +91,7 @@ textStyles:
   code:
     before: "`", after: "`"
   bold:
-    before: "<span class='small-caps'>", after: "</span>"
+    before: "{{< smallcaps ", after: " >}}"
   italic:
     before: "_", after: "_"
   keystroke:
