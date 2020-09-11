@@ -59,6 +59,10 @@ Did we educate ourselves before we went about running hashtags?
 
 Or did we rely on Mr Goswami to give us the hashtags?
 
+Out of curiosity, I looked at the list of debates in the series, and here is what I found:
+
+{{< instagram CFAZTdtgrsF >}}
+
 Accompanied by psychedelic animations playing on loop, the high-pitched voices of so-called journalists rage on, piercing our ears and filling our living rooms; journalists who do not like to waste time on trivialities like the economy or the future of children, because, there are more pressing issues like actors' personal videos which---"one could conclude without any effort whatsoever"---was evidence of drug abuse. 'Oh, what is happening to our nation?!'
 
 But, so that I do not become part of the click-bait gang, here is what the situation as of today is:
