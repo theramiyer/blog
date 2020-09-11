@@ -1,8 +1,8 @@
 ---
-title: "Sushant is no more"
-subtitle: "his absence has left ashānti"
+title: "What Justice"
+subtitle: "when sadism and voyeurism have taken over"
 date: "2020-09-08"
-description: "The death of the actor came as a surprise to most and a shock to some, but today, it all seems more about eyeballs than brain food."
+description: "The death of the actor came as a shock to most, but today, has it all become more about eyeballs than brain food?"
 tags:
 - media
 - journalism
@@ -13,9 +13,9 @@ tags:
 - covid-19
 ---
 
-Death of Bollywood actors had started to seem like a norm in the second quarter of this year. I am not a Bollywood buff; I am choosy about the films I watch, I seldom watch Bollywood, and am not a "fan" of anyone, though I do like some actors more than others. Death of any human is sad. I felt sorry for his death, irrespective of the circumstances.
+The number of Bollywood stars to die in three months was abnormally high in the second quarter of this year. Death of any human is sad. The circumstances of the death of Sushant Singh Rajput were salt to the wound.
 
-I subscribe to _The Hindu_, and the story did not get much prominence. I wondered why, because the news of the death of Irrfan Khan and Rishi Kapoor had smacked us right in our face. The Sushant death piece also carried suicide helpline numbers. My eyes narrowed. Thoughts work fast. My brain instantly took me to the _Werther Effect_; I had read about it in a book on psychology. I searched. And I found the {{< smallcaps WHO >}} guidelines on reporting suicide[^1566402e], whose _Quick Reference_ reads:
+I subscribe to _The Hindu_, and the story did not get much prominence. I wondered why, because the news of the death of Irrfan Khan and Rishi Kapoor had smacked us right in our face. The piece about Sushant's death also carried suicide helpline numbers. My eyes narrowed. Thoughts work fast. My brain instantly took me to the _Werther Effect_; I had read about it. I searched. And I found the {{< smallcaps WHO >}} guidelines on reporting suicide[^1566402e], whose _Quick Reference_ reads:
 
 [^1566402e]: [Preventing Suicide: A Resource for Media Professionals](https://www.who.int/mental_health/prevention/suicide/resource_media.pdf) ({{< smallcaps WHO >}})
 
