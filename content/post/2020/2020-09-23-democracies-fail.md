@@ -1,6 +1,6 @@
 ---
 title: "Democracies fail"
-date: "2020-09-21"
+date: "2020-09-23"
 description: "You fail our democracy. Whether you like it or not, you are the reason for its failure. And this is not your regular high-school civics lecture."
 tags:
 - democracy
