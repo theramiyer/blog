@@ -42,7 +42,7 @@ newDraftFileName: "{slug}{extension}"
 newPostFileName: "{year}-{month}-{day}-{slug}{extension}"
 
 # front matter date format, determines the {date} in frontMatter
-frontMatterDate: "{year}-{month}-{day} {hour}:{minute}"
+frontMatterDate: "{year}-{month}-{day}T{hour}:{minute}:{second}+0530"
 # front matter template
 frontMatter: """
 ---
