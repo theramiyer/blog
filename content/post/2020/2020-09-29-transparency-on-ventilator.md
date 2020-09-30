@@ -9,6 +9,7 @@ tags:
 - covid-19
 - governance
 - democracy
+- India
 ---
 
 I am wary of all politicians, no matter what party they belong to, what ideology they promote, or any other quality of a political party you can think of. Even if my dear grandmother were a politician, I would be wary of her; more so if she held power. Let us keep politics aside, because politics is politics---a game of whataboutery and other fallacies. Let us talk human life for once.
