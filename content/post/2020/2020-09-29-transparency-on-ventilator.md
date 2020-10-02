@@ -16,6 +16,8 @@ I am wary of all politicians, no matter what party they belong to, what ideology
 
 Ventilators are life support. Let us remember that, above all else.
 
+{{< toc >}}
+
 ## The story
 
 I will keep this short, and add footnotes for those who would like details.
