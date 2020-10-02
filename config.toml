@@ -5,7 +5,7 @@ theme = "typographical"
 googleAnalytics = "UA-96215433-5"
 
 [params]
-description = "Raw thoughts of a humanist"
+description = "For what it’s worth"
 
 [permalinks]
 post = "/:title/"
