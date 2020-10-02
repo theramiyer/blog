@@ -11,7 +11,7 @@ Having stopped watching TV news years ago, I see those noisy faces is in meme co
 
 {{< youtube IEV-CsTBKPk 1568 1613 >}}
 
-Regardless, for most of us who do not like all the masala and the drama, but care about the content, the newspaper has been the source of news. My family has trusted The Hindu for generations. Two Sub-Editors to work with the Group are from my extended family. My cousin has been with the organisation for over two decades now---joined and stayed for the passion for journalism. We've held the daily in high regard.
+Regardless, for most of us who do not like all the masala and the drama, but care about the content, the newspaper has been the source of news. My family has trusted The Hindu for generations. We've held the daily in high regard.
 
 {{< toc >}}
 
