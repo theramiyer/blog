@@ -5,7 +5,7 @@ tags:
 title: The World of Automation Today (Part 3)
 ---
 
-Having had the [communication]({{< ref "/post/2017/2017-10-11-the-world-of-automation-today-part-1" >}}) and the [build]({{< ref "/post/2017/2017-10-12-the-world-of-automation-today-part-2" >}}) taken care of, we wanted a streamline social communication as well. This was a relatively new thought. And this part is so small, we could do a mini case study within this post. So let's dig in.
+Having had the [communication]({{< ref "the-world-of-automation-today-part-1" >}}) and the [build]({{< ref "the-world-of-automation-today-part-2" >}}) taken care of, we wanted a streamline social communication as well. This was a relatively new thought. And this part is so small, we could do a mini case study within this post. So let's dig in.
 
 ## Communication
 

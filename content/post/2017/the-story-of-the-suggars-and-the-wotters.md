@@ -3,7 +3,7 @@ date: "2017-09-05T00:00:00Z"
 title: The Story of the Suggars and the Wotters
 ---
 
-This is the prose version of [The Suggars and the Wotters]({{< ref "/post/2017/2017-09-04-suggars-and-wotters" >}}). I'm just taking my baby-steps into the world of poetry, so I'm sure I may not have made much sense there (not to mention the desperate attempts at rhyme). I thought I'd do a prose version of the story as well. So here goes:
+This is the prose version of [The Suggars and the Wotters]({{< ref "suggars-and-wotters" >}}). I'm just taking my baby-steps into the world of poetry, so I'm sure I may not have made much sense there (not to mention the desperate attempts at rhyme). I thought I'd do a prose version of the story as well. So here goes:
 
 This was one of those simple times when sugar wasn't the demon that it is seen as today; the necessary evil. Sugar, in those days, was loved by gods and men alike, and was considered auspicious. Sugar was a symbol of the good, of celebration.
 

@@ -15,7 +15,7 @@ tags:
 title: 'Kashmir and Article 370: Part Two'
 ---
 
-This is the second part of the three-part series on the _Jammu and Kashmir Reorganisation Act, 2019_. If you came here directly, this post alone will not do justice to the situation. [Go back and read Part One.]({{< ref "/post/2019/2019-08-11-kashmir-and-article-370" >}}) Reading the series partially will make you judgemental with limited knowledge. This article is available as a [typeset printable {{< smallcaps "PDF" >}}](https://www.scribd.com/document/422074646/Kashmir-and-Article-370) as well.
+This is the second part of the three-part series on the _Jammu and Kashmir Reorganisation Act, 2019_. If you came here directly, this post alone will not do justice to the situation. [Go back and read Part One.]({{< ref "kashmir-and-article-370" >}}) Reading the series partially will make you judgemental with limited knowledge. This article is available as a [typeset printable {{< smallcaps "PDF" >}}](https://www.scribd.com/document/422074646/Kashmir-and-Article-370) as well.
 
 This post talks about the current situation in Jammu and Kashmir. Here are the topics:
 
@@ -121,6 +121,6 @@ With this Act, and the Prime Minister's speech, India tells the world, Kashmir i
 
 In this part, we discuss how India operates as a federal democratic republic. We also discuss the civics of this change, the constitutional technicalities, and the geo-political take on the situation. The final chunk that remains is the nuances of these technicalities, to sand out the edges.
 
-That makes this article incomplete. What you have learned from this part alone, is a third of what I feel is important. To complete the picture, you should [read Part One]({{< ref "/post/2019/2019-08-11-kashmir-and-article-370" >}}) (which I suppose you have), and [Part Three]({{< ref "/post/2019/2019-08-13-kashmir-and-article-370-part-three" >}}) that will follow. Without all the three pieces, knowledge on the subject is incomplete. (Why, I would argue that all our collective knowledge on the subject is incomplete even after reading everything we have on the subject.)
+That makes this article incomplete. What you have learned from this part alone, is a third of what I feel is important. To complete the picture, you should [read Part One]({{< ref "kashmir-and-article-370" >}}) (which I suppose you have), and [Part Three]({{< ref "kashmir-and-article-370-part-three" >}}) that will follow. Without all the three pieces, knowledge on the subject is incomplete. (Why, I would argue that all our collective knowledge on the subject is incomplete even after reading everything we have on the subject.)
 
-Go ahead, [read Part Three]({{< ref "/post/2019/2019-08-13-kashmir-and-article-370-part-three" >}}) to complete the picture.
+Go ahead, [read Part Three]({{< ref "kashmir-and-article-370-part-three" >}}) to complete the picture.

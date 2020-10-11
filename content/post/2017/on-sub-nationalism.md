@@ -7,13 +7,13 @@ tags:
 title: On Sub-Nationalism
 ---
 
-This post is in continuation to the post, [On Reduction]({{< ref "/post/2017/2017-12-10-on-reduction" >}}), which lays the ground about what's to follow in this post; we spoke about how India was not founded on the principles of "one" anything other than a nation. Sardar Patel, back in his day, set out to unify the country on no principle other than a single point of governance. The Indian National Congress (of those days, not the present-day---pardon my honesty---Blunder-Engine Dynasty) felt that the different provinces had to unite under one umbrella of governance, to become a strong, united entity.
+This post is in continuation to the post, [On Reduction]({{< ref "on-reduction" >}}), which lays the ground about what's to follow in this post; we spoke about how India was not founded on the principles of "one" anything other than a nation. Sardar Patel, back in his day, set out to unify the country on no principle other than a single point of governance. The Indian National Congress (of those days, not the present-day---pardon my honesty---Blunder-Engine Dynasty) felt that the different provinces had to unite under one umbrella of governance, to become a strong, united entity.
 
 This post is one among three in the series:
 
-1. [On Reduction]({{< ref "/post/2017/2017-12-10-on-reduction" >}})
+1. [On Reduction]({{< ref "on-reduction" >}})
 2. On Sub-nationalism
-3. [On Unification]({{< ref "/post/2017/2017-12-14-on-unification" >}})
+3. [On Unification]({{< ref "on-unification" >}})
 
 I'm unsure how people got this idea that India has to have one language and one culture. (I'm not referring to complex issues such as the Uniform Civil Code.) Again, to set the stage, I came across this question, "[What is the reason a strong sub-nationalism exists in Karnataka, Maharashtra, Tamil Nadu, while states like UP and Bihar don't have such sentiments?](https://www.quora.com/What-is-the-reason-a-strong-sub-nationalism-exist-in-Karnataka-Maharashtra-Tamil-Nadu-while-states-like-UP-and-Bihar-dont-have-such-sentiments)" Sub-nationalism, right? Wow!
 
@@ -52,4 +52,4 @@ But, having lived in Gujarat for eighteen years, and having interacted with Indi
 
 Going by this, we understand that there are no hard borders in terms of languages in our country, like the way our political borders portray. All of these are gradients. And then, you cannot really figure out what is the "pure" form of a spoken language. It's simply useless to go on that quest, in my opinion. But we can all agree to that our cultures were free to adopt mixtures of languages and find something that they wanted to develop and use. In today's terms, this is a great case of _Adaptation_ in Creative Commons, or _Reuse_ in software!
 
-That brings us to the end of this post. [Let's continue later]({{< ref "/post/2017/2017-12-14-on-unification" >}})!
+That brings us to the end of this post. [Let's continue later]({{< ref "on-unification" >}})!

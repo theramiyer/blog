@@ -101,4 +101,4 @@ While the people of Jammu and Kashmir were in favour of joining with India up un
 
 That is more or less the history part of the Jammu and Kashmir region. Remember, the Jammu and Kashmir that we have seen since birth is the map that the colonial cartographers left with India. This map is technically four parts: the Gilgit-Baltistan region in the north-west (which swore allegiance to Pakistan despite technical issues with it), the Aksai Chin region in the north-east (that China claims as own, the issue India woke up to in 1950), the Azad Kashmir region that Pakistan has occupied, and the India-administered Jammu and Kashmir---Siachen is now part of this region.
 
-The rest, we will [see in the next post]({{< ref "/post/2019/2019-08-12-kashmir-and-article-370-part-two" >}}).
+The rest, we will [see in the next post]({{< ref "kashmir-and-article-370-part-two" >}}).

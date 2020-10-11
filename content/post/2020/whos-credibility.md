@@ -196,7 +196,7 @@ And for the sake of sanity, please stay away from WhatsApp University.
 
 ## But wait, should I be scared of asymptomatic transmission
 
-You should be _cautious_ of asymptomatic transmission. I have made a [post about preventing the disease]({{< ref "/post/2020/2020-06-24-prevent-covid-19.md" >}}); read it. Read the official {{< smallcaps WHO >}} documentation about the different modes of transmission[^9]. While there is no guarantee that following all the measures will save you from the disease, you will greatly reduce your chances of infection.
+You should be _cautious_ of asymptomatic transmission. I have made a [post about preventing the disease]({{< ref "prevent-covid-19.md" >}}); read it. Read the official {{< smallcaps WHO >}} documentation about the different modes of transmission[^9]. While there is no guarantee that following all the measures will save you from the disease, you will greatly reduce your chances of infection.
 
 [^9]: [Transmission of {{< smallcaps SARS >}}-CoV-2: implications for infection prevention precautions](https://www.who.int/news-room/commentaries/detail/transmission-of-sars-cov-2-implications-for-infection-prevention-precautions)
 
