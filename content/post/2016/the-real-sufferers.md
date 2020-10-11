@@ -26,41 +26,21 @@ Source: Wikipedia
 
 |Year|Milestone|
 |--- |--- |
-|1890|Conference is held between Mysore and the Madras Presidency, that Kaveri water would be used to develop both the
-states, without affecting anyone.|
+|1890|Conference is held between Mysore and the Madras Presidency, that Kaveri water would be used to develop both the states, without affecting anyone.|
 |1892|Agreement is signed to implement what was discussed in 1890|
-|1910|King of Mysore plans to build a dam that could hold 41.5 TMC of water.Madras refuses to consent to this stating
-they’ve planned to build an 80 TMC dam at Mettur.Government of India interferes, and permission is given to Mysore to
-proceed with the construction of the dam to hold 11 TMC. The foundation, though, is laid according to the 41 TMC plan.
-Madras feels a little insecure, and the dispute continues.|
+|1910|King of Mysore plans to build a dam that could hold 41.5 TMC of water.Madras refuses to consent to this stating they’ve planned to build an 80 TMC dam at Mettur.Government of India interferes, and permission is given to Mysore to proceed with the construction of the dam to hold 11 TMC. The foundation, though, is laid according to the 41 TMC plan. Madras feels a little insecure, and the dispute continues.|
 |1914|Government of India upholds the decision and allows Mysore to construct the dam to hold 11 TMC of water.|
 |1924|Mardas appeals against the decision. An agreement is arrived at, and the agreement is set to lapse in 50 years.|
-|1956|State boundaries are drawn based on linguistic demographics. (The worst decision ever made by the Government of
-India.)Coorg becomes part of Mysore, Malabar goes to Kerala, and Puducherry remains a Union territory. Subsequently,
-Puduchery and Kerala jump into the issue: Kabini, a major tributary having now become part of Kerala, and Puducherry,
-where the river ends, having requested for availability of water for drinking and minor agricultural uses.|
+|1956|State boundaries are drawn based on linguistic demographics. (The worst decision ever made by the Government of India.)Coorg becomes part of Mysore, Malabar goes to Kerala, and Puducherry remains a Union territory. Subsequently, Puduchery and Kerala jump into the issue: Kabini, a major tributary having now become part of Kerala, and Puducherry, where the river ends, having requested for availability of water for drinking and minor agricultural uses.|
 |1972-73|The Cauvery Fact Finding Committee gets constituted. The committee submits a report.|
-|1976|The Central government holds a discussion along with the two states, and a draft agreement, which also provides
-for the creation of the Cauvery Valley Authority, is accepted by both the states. The agreement is signed.|
-|Late 1970s|Construction of Harangi begins; Tamil Nadu goes to court demanding the constitution of a Tribunal, under the
-Interstate Water Disputes Act (1956).Stoppage of construction is also demanded for.|
+|1976|The Central government holds a discussion along with the two states, and a draft agreement, which also provides for the creation of the Cauvery Valley Authority, is accepted by both the states. The agreement is signed.|
+|Late 1970s|Construction of Harangi begins; Tamil Nadu goes to court demanding the constitution of a Tribunal, under the Interstate Water Disputes Act (1956).Stoppage of construction is also demanded for.|
 |1980s|Tamil Nadu withdraws the case, and the negotiation begins.|
-|1986|A farmers’ association from Tanjavur moves the Supreme Court, demanding the constitution of a tribunal.Talks
-continue until 1990, yielding (surprise-surprise) no results.|
-|1990|The Supreme Court directs the government to form a tribunal. The tribunal gets formed in June 1990. The states
-present their requirements: Karnataka claims 13 km3 of water, Kerala claims 2.83 km3 of water, Puducherry claims 0.3 km3
-of water, and Tamil Nadu refers the agreements of 1892 and 1924, and asks the tribunal to ensure the flows are complying
-with the aforementioned agreements (16 km3 for Tamil Nadu and Puducherry, 5 km3 for Karnataka, and 0.1 km3 for Kerala).|
-|1991|The tribunal gives an interim award on 25 June. The tribunal directs Karnataka not to increase the area of
-irrigated land. Karnataka issues an ordinance seeking to annul the award. The Supreme Court steps in and strikes down
-the ordinance and upholds the tribunal’s award.|
-|1995-96|Monsoons fail badly. Karnataka is unable to release 0.85 km3, as asked by Tamil Nadu. The tribunal asks
-Karnataka to release 0.31 km3. Karnataka pleads against it. Tamil Nadu involves the Supreme Court, which asks the Prime
-Minister to intervene. Karnataka releases 0.16 km3 as per the Prime Minister’s decision.|
-|1997|Government of India proposes setting up a Cauvery River Authority, which would have powers to even control the
-dams, if the Interim Order was not obeyed. Karnataka protests this.The Government does away with the dam control powers,
-and creates two bodies instead: The Cauvery River Authority, which has the executive powers, and the Cauvery Monitoring
-Committee which would be entrusted with the duty to assess the actual situation.|
+|1986|A farmers’ association from Tanjavur moves the Supreme Court, demanding the constitution of a tribunal.Talks continue until 1990, yielding (surprise-surprise) no results.|
+|1990|The Supreme Court directs the government to form a tribunal. The tribunal gets formed in June 1990. The states present their requirements: Karnataka claims 13 km3 of water, Kerala claims 2.83 km3 of water, Puducherry claims 0.3 km3 of water, and Tamil Nadu refers the agreements of 1892 and 1924, and asks the tribunal to ensure the flows are complying with the aforementioned agreements (16 km3 for Tamil Nadu and Puducherry, 5 km3 for Karnataka, and 0.1 km3 for Kerala).|
+|1991|The tribunal gives an interim award on 25 June. The tribunal directs Karnataka not to increase the area of irrigated land. Karnataka issues an ordinance seeking to annul the award. The Supreme Court steps in and strikes down the ordinance and upholds the tribunal’s award.|
+|1995-96|Monsoons fail badly. Karnataka is unable to release 0.85 km3, as asked by Tamil Nadu. The tribunal asks Karnataka to release 0.31 km3. Karnataka pleads against it. Tamil Nadu involves the Supreme Court, which asks the Prime Minister to intervene. Karnataka releases 0.16 km3 as per the Prime Minister’s decision.|
+|1997|Government of India proposes setting up a Cauvery River Authority, which would have powers to even control the dams, if the Interim Order was not obeyed. Karnataka protests this.The Government does away with the dam control powers, and creates two bodies instead: The Cauvery River Authority, which has the executive powers, and the Cauvery Monitoring Committee which would be entrusted with the duty to assess the actual situation.|
 |⋮||
 |2016|No decision yet, situation continues.|
 
@@ -79,7 +59,7 @@ TN-registered vehicles, just because it’s a TN-registered vehicle. They are al
 play in what decisions the governments take, other than their having _contributed towards_ the election of the leaders.
 
 > They are all innocent people, they have no role to play in what decisions the governments take.
-
+> 
 > We’re law-abiding citizens … not terrorists.
 
 ## Probable further steps
