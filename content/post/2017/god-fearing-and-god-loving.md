@@ -9,7 +9,7 @@ In my English class in high school, my teacher, while teaching us a lesson---a s
 
 I've been a non-religious person at least over the last decade of my life. I go to temples and churches and all; I don't have a problem with God. I simply don't believe in the popular interpretation of God. And I most certainly have no fear of Him (or Her). And my grandmother thinks that makes me bad. Well, Grandma, I disagree.
 
-#### Do we have God?
+#### Do we have God
 
 All that said, I've always liked the prospect of having a superpower that could set things straight in a flick of a finger, provide emotional support when needed, and act as a crutch when we struggled. A strong pole to lean on, so to speak. So, over time, I started loving God. Of course, in the unconventional, inexpressive way. As an invisible Mother. And later, I realised a few things, and started loving God as a visible Mother---Mother Nature. I came from Her. I am part of Her. An abstract, infinite entity, who has everything, and who cannot be completely understood. I saw no problem with that idea. I could simply see the entire Universe as one single being, and call it God. But again, that was unconventional. I did not fear nature in a way, 'If I do this, Nature would punish me.', or, 'If I told a lie, I would be fried in a pan of boiling oil.' To me, such a system seems baseless, and simply stupid. Heaven, Hell, afterlife, you name it.
 

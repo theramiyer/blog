@@ -16,7 +16,7 @@ This post is one among three in the series:
 
 Historian and columnist Ramchandra Guha did an hour-long talk on how nationalism is a nineteenth-century European phenomenon, and how Indian nationalism was founded on the exact opposite principles.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oLmcaEM0NRs?start=147&amp;end=248&amp;rel=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+{{< youtube oLmcaEM0NRs 147 248 >}}
 
 He went on to say how we seem to be gradually moving towards the said model of European nationalism, by looking for _one_ language, _one_ religion, and _one_ common enemy. Keeping aside the common enemy part for a whole book, I thought I'd focus on the more relatable "one language" and "one _culture_" parts.
 
@@ -34,7 +34,7 @@ Coming back to Quora, I saw a myriad of questions about Tamil and Tamil Nadu. At
 
 But slowly, I noticed a few other things as well. Polarity. Chauvinism. Bias. (Polarity and bias are two different things.) Prejudice. Pride.
 
-There were questions as ridiculous as "[Why did Malaysia and Singapore choose a decrepit language like Tamil as one of their official languages instead of Hindi?](https://www.quora.com/Why-did-Malaysia-and-Singapore-choose-a-decrepit-language-like-Tamil-as-one-of-their-official-languages-instead-of-Hindi?srid=p{{< smallcaps "KBV" >}})" Entitlement alert!
+There were questions as ridiculous as "[Why did Malaysia and Singapore choose a decrepit language like Tamil as one of their official languages instead of Hindi?](https://www.quora.com/Why-did-Malaysia-and-Singapore-choose-a-decrepit-language-like-Tamil-as-one-of-their-official-languages-instead-of-Hindi)" Entitlement alert!
 
 I don't know why, but there's a lot of bias towards---or rather, against---languages, in India. We somehow don't want to celebrate the fact that we're the _only_ country in the world to have this many languages in a single piece of land. We want to reduce ourselves not even to twenty-two official languages, but one!
 

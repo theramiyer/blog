@@ -39,7 +39,6 @@ The United States Library of Congress has a pictorial representation of the map.
 
 ![Map of the Kashmir Region: United States Library of Congress \| Wikipedia](https://upload.wikimedia.org/wikipedia/commons/8/84/Kashmir_map_big.jpg)
 
-
 ## Separatism in Kashmir
 
 The restrictions in Article 370 limited the democratic reforms in Kashmir for about three decades. By the late 1980s, the Government of India had even reversed some of the reforms. Along with this, during Indira Gandhi's tenure as the Prime Minister, the government stopped tolerating the expression of discontent. Some of these channels were even closed.
@@ -144,4 +143,4 @@ I hope we both manage to accept each other as fellow Indians disregarding geogra
 
 Are we both capable of unconditionally accepting each other and moving forward as one? Time will tell.
 
-> I welcome constructive criticism. If you find any issues with the technical aspects of this post, do [let me know](https://twitter.com/{{ site.twitter }}). Please attach evidence, and I will make corrections accordingly. I will ignore baseless arguments, propaganda, accusations, name-calling, tangential arguments, conspiracy theories, content overload and any other form of destructive engagement.
+> I welcome constructive criticism. If you find any issues with the technical aspects of this post, do [let me know](https://twitter.com/iamramiyer). Please attach evidence, and I will make corrections accordingly. I will ignore baseless arguments, propaganda, accusations, name-calling, tangential arguments, conspiracy theories, content overload and any other form of destructive engagement.

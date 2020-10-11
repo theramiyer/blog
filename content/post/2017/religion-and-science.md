@@ -19,5 +19,4 @@ But then, did we make a mistake there, as a species? Did we somehow hinder the n
 
 No conclusions, again. These are raw thoughts. Perhaps, when I'm able to reflect on these, I'll share the thoughts here. Of course, you're free to comment on the Facebook post for this post. Let's talk.
 
-
 \* By "weak members", I don't mean anything even remotely connected to the term, "the weaker sex"; I don't believe in the idea of a weaker sex.
