@@ -18,6 +18,8 @@ frustration, slammed the newspaper on the floor. Mind you, it’s not some rando
 subscribe to the largest-selling English daily of South India. Most of you have, by now, probably guessed the name. Be
 that as it may, I was unhappy.
 
+> {{< smallcaps "Update" >}} : As part of "growing up", I have come to realise the importance of journalism, and its [role in showing the negative]({{< ref "time-to-rethink-print-media.md#the-business" >}}). My stand on the issue has changed. I am glad this did not pick up (not that I tried beyond making this post anyway), and I hope this trend does not pick up either. The media must be a critic. We need it.
+
 Immediately, pulling out my beloved notebook, I did some Google search on relevant terms—I wanted to create a custom
 newspaper. Yes, too ambitious; too, too ambitious. But what had to be done, had to be done; and _someone_ had to do
 this. But how do we get all the data? My favourite newspaper’s site came to the rescue. Yes, the daily has a high
@@ -31,7 +33,7 @@ hardly any control.
 For now, I’ve resorted to Flipboard with a [magazine](http://flip.it/5PE2l) that contains hand-picked, filtered,
 necessary, good content. It would be amazing if people could pitch in to collect $99 for the year, so we could start the
 newspaper, this time, fed by the Press Trust of India. It would be wonderful if anyone would like to contribute to it.
-Send a message to my [Facebook page](https://www.facebook.com/ramiyerofficial) if you’d like to join the movement!
+Send a message to my [Facebook page](https://www.facebook.com/iamramiyer) if you’d like to join the movement!
 
 Rest assured, every contribution (monetary or otherwise) would be accounted for, and displayed publicly. And everything
 would be done through online transfers.
