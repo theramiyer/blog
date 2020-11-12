@@ -6,6 +6,7 @@ googleAnalytics = "UA-96215433-5"
 
 [params]
 description = "For what it’s worth"
+enableTypographicalHyphenation = true
 
 [permalinks]
 post = "/:title/"
@@ -58,6 +59,8 @@ toLower = true
 canonifyURLs = true
 copyright = "Ram Iyer"
 enableRobotsTXT = true
+
+EnableHyphenation = true
 
 [sitemap]
     changefreq = "weekly"
