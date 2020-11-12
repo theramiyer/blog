@@ -9,7 +9,7 @@ tags:
 
 One week is a long time sometimes. I have been waiting for some five days to make this post. On Tuesday that I received a message in one of the WhatsApp groups that I am part of, questioning the credibility of the {{< smallcaps WHO >}}.
 
-Speaking of WhatsApp, I gave a talk at work about being a drop-out of the WhatsApp University. Check out the redone home version of the video here if it interests you. If you are into satire, you might enjoy it. I even made some [literature for the university](https://s3.ap-south-1.amazonaws.com/blogimages.ramiyer.me/2020/whatsapp-university.pdf).
+Speaking of WhatsApp, I gave a talk at work about being a drop-out of the WhatsApp University. Check out the redone home version of the video here if it interests you. If you are into satire, you might enjoy it. I even made some [literature for the university](//blogfiles.ramiyer.me/2020/whatsapp-university.pdf).
 
 {{< youtube LMK13EgxHNs >}}
 
@@ -109,7 +109,7 @@ I do not like it when people focus too much on the origin of the problem rather 
 
 Like it or not, the virus is out now. The disease has affected millions, as [https://covidbynumbers.com/](https://covidbynumbers.com/) shows; in India alone we have crossed the one-million mark. Of what consequence is the investigation of its origins to the handling of the pandemic? Okay, some say, 'Well, China has managed to contain the virus. How did they do it? Because they have the technology to contain the virus; they are not giving it to the rest of the world.' Well, even if we do entertain that line of thought, we must ask ourselves, 'Will China share the treatment methods if at all it has any?' and understand that the {{< smallcaps WHO >}} is not an intelligence agency. In the world outside of fiction novels, a scientist's job is in science.
 
-{{< figure src="https://s3.ap-south-1.amazonaws.com/blogimages.ramiyer.me/2020/2020-07-19+08-53-43.png" caption="CovidByNumbers home page" >}}
+{{< figure src="https://blogfiles.ramiyer.me/2020/2020-07-19+08-53-43.png" caption="CovidByNumbers home page" >}}
 
 ## We don't know
 

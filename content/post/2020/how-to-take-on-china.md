@@ -99,7 +99,7 @@ Now, to be fair, China has indeed changed some of its ways. For instance, in 201
 
 Assessing the scores of other economies and comparing them with China's would be an ideal way to go about finding out which the case is, but the process would consume an enormous amount of time. Another method is to go by the indicators; see what has improved, if anything. The official report[^3f8af399] assesses two Chinese cities, and shows improvement in nine out of ten parameters. The list of reforms shows that China has been making a great deal progress in the last two years[^c2b08064].
 
-![China's reforms - Doing Business 2020](https://s3.ap-south-1.amazonaws.com/blogimages.ramiyer.me/2020/2020-06-21-07-59-02.png)
+![China's reforms - Doing Business 2020](//blogfiles.ramiyer.me/2020/2020-06-21-07-59-02.png)
 
 [^c2b08064]: [Business Reforms in China](https://www.doingbusiness.org/en/reforms/overview/economy/china)
 
@@ -117,7 +117,7 @@ Of course! It shows we are going in the right direction.
 
 And to be fair, either way, we must also remember that the _Doing Business_ report is not foolproof or a complete picture in any way. The 2020 report uses data from two cities in China: Shanghai and Beijing. Similarly, with India, it uses data from Mumbai and Delhi. But a bad sign is that we showed no improvement in three parameters, and slipped 0.3 points in _Registering Property_, in the last year. Also, India showed reforms in a good number of areas in the 2018 and 2019 reports, but seemed to have lost momentum a little in 2020.
 
-![India's reforms - Doing Business 2020](https://s3.ap-south-1.amazonaws.com/blogimages.ramiyer.me/2020/2020-06-21-09-09-59.png)
+![India's reforms - Doing Business 2020](//blogfiles.ramiyer.me/2020/2020-06-21-09-09-59.png)
 
 ## What next
 

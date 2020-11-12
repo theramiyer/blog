@@ -91,9 +91,9 @@ Finally, I needed the archive page. By this time, I had read enough documentatio
 
 Once I was done with all this, I realised that the drop caps were not appearing correctly in Chrome. I use Firefox; I worked on the {{< smallcaps CSS >}} based on Firefox. Turns out, the two browsers behave differently when it comes to pseudo-selectors. I went back to the way drop caps were implemented in the Jekyll site.
 
-{{< figure src="https://s3.ap-south-1.amazonaws.com/blogimages.ramiyer.me/2020/2020-07-05-10-34-06.png" caption="Drop-cap render in Firefox" >}}
+{{< figure src="//blogfiles.ramiyer.me/2020/2020-07-05-10-34-06.png" caption="Drop-cap render in Firefox" >}}
 
-{{< figure src="https://s3.ap-south-1.amazonaws.com/blogimages.ramiyer.me/2020/2020-07-05-10-34-22.png" caption="Drop-cap render in Chrome" >}}
+{{< figure src="//blogfiles.ramiyer.me/2020/2020-07-05-10-34-22.png" caption="Drop-cap render in Chrome" >}}
 
 That was the final coat of polish to be done before I could call the theme on par with the Jekyll theme in terms of features and experience.
 
