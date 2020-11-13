@@ -9,6 +9,16 @@ description = "For what it’s worth"
 enableTypographicalHyphenation = true
 enableDevanagari = true
 
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    respectDoNotTrack = true
+    useSessionStorage = true
+  [privacy.twitter]
+    enableDNT = true
+  [privacy.youTube]
+    privacyEnhanced = true
+
 [permalinks]
 post = "/:title/"
 page = "/:title/"
