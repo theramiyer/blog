@@ -5,11 +5,12 @@ theme = "typographical"
 googleAnalytics = "UA-96215433-5"
 
 [params]
-description = "For what it’s worth"
-enableTypographicalHyphenation = true
-enableDevanagari = true
+  description = "For what it’s worth"
+  enableTypographicalHyphenation = true
+  enableDevanagari = true
   fbAppId = "1004129106665557"
   fbAccessToken = "c0ccefea32b8675b177da298022b672c"
+  privacyPolicyUrl = "/privacy/"
 
 [privacy]
   [privacy.googleAnalytics]
