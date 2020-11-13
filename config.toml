@@ -7,6 +7,7 @@ googleAnalytics = "UA-96215433-5"
 [params]
 description = "For what it’s worth"
 enableTypographicalHyphenation = true
+enableDevanagari = true
 
 [permalinks]
 post = "/:title/"
