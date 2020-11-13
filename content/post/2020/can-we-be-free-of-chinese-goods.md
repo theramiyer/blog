@@ -110,7 +110,7 @@ Secondly, the basic infrastructure required to enable this is not in place. If i
 
 No. Not noticeably, anyway. China's exports to India constitute about 3% of their total exports. While China will be "upset" about the sentiment, the boycott will not make an actual impact.
 
-The boycott will have adverse affects on India instead. If in doubt, [read above](#government-does-not-hand-twist).
+The boycott will have adverse affects on India instead. If in doubt, [read above](#why-does-the-government-not-hand-twist).
 
 ## Show me the light
 
