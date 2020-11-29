@@ -11,6 +11,7 @@ googleAnalytics = "UA-96215433-5"
   fbAppId = "1004129106665557"
   fbAccessToken = "c0ccefea32b8675b177da298022b672c"
   privacyPolicyUrl = "/privacy/"
+  enableSharing = false
 
 [privacy]
   [privacy.googleAnalytics]
