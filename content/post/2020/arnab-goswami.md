@@ -2,6 +2,10 @@
 title: "Arnab Goswami"
 subtitle: "and why he matters"
 date: 2020-11-21T07:24:14+05:30
+tags:
+- journalism
+- propaganda
+- democracy
 ---
 
 A couple of days ago, my aunts and uncles had come over. They are all hardcore supporters of the _Bharatiya Janata Party_ ({{< smallcaps BJP >}}); they feel that the party is "the true saviour of Hinduism", a religion that the "secular" parties of our country have disregarded---or worse, degraded. Whether Hinduism as a religion needs anybody's protection or not is your personal opinion and mine as much as theirs.
