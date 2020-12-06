@@ -12,7 +12,7 @@ tags:
 - tracking
 ---
 
-In [the previous post]({{< ref "better-online-privacy-part-i.md" >}}), we saw what we mean by privacy, why it matters, and why we say privacy is a myth in today's world of connected services. We also looked at what methods companies use to track us online. We saw that the conventional methods of protecting our privacy online does not work in cases of Google and Facebook. In this post, we look at how to handle tracking by large corporations like Google and Facebook, who track you using your browser fingerprint. We will look at the techniques to handle browser fingerprinting, and look at what we will need to keep in mind to protect our privacy, when using devices like our cell phone.
+In [the previous post]({{< ref "better-online-privacy-part-i.md" >}}), we saw what we mean by privacy, why it matters, and why we say privacy is a myth in today's world of connected services. We also looked at what methods companies use to track us online. We saw that the conventional methods of protecting our privacy online does not work in cases such as Google and Facebook. In this post, we look at how to handle tracking by large corporations like Google and Facebook, who track you using your browser fingerprint. We will look at the techniques to handle browser fingerprinting, and look at what we will need to keep in mind to protect our privacy, when using devices like our cell phone.
 
 And you need not be a "techie" or an enthusiast to do this---these are simple-to-understand steps that a normal person can use. And these are all free or freemium products and services.
 
