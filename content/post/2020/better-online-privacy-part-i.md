@@ -12,7 +12,7 @@ tags:
 - tracking
 ---
 
-Privacy is a myth. We have all heard that. Some of us agree, some disagree, most could not care less. The most common response I have gotten to statements about privacy is "Well, not like I have anything to hide." Yes, you probably do not. But would you be comfortable if your Uber driver or your personal banker could tell the brand of the inners you wear? Yes, we all wear them, they make them in a small set of colours, and a specific set of models, but yet, it makes you uncomfortable---even for a second---when someone points out what you are wearing, even as a guess---unless you're the kind to purposefully show it as a statement. That, my friend, is our sense of privacy.
+Privacy is a myth. We have all heard that. Some of us agree, some disagree, most could not care less. The most common response I have gotten to statements about privacy is "Well, not like I have anything to hide." Yes, you probably do not. But would you be comfortable if your Uber driver or your personal banker could tell the brand of the inners you wear? Yes, we all wear them, they make them in a small set of colours, and a specific set of models, but yet, it makes you uncomfortable---even for a second---when someone points out what you are wearing, even as a guess---unless you're the kind to purposefully show it as a statement (don't mean to judge). That, my friend, is our sense of privacy.
 
 In the same context, let me tell you how it works on the Internet. Imagine you went to a Jockey store in your locality to buy your favourite innerwear. The man at the counter takes down your details. And then, every time another store owner---any store owner, including the one that sells coconuts near your flat---goes to the store (not even to buy innerwear), the man at the counter shows him the list of customers in the locality and tells him what they bought, which includes details about you and what you bought---and how frequently you buy. This coconut seller then correlates this information about you with your last date, and the next time you go to buy coconut from him, he asks you, 'So, when are you giving us the news?'
 
@@ -34,7 +34,7 @@ Let us go through the different types of cookies, though, so that the term itsel
 
 ### Session cookies
 
-Session cookies store information for the web session you are running at the moment. For instance, unless I have removed Google Analytics from this site (which you can read about in my [privacy policy]({{< ref "/page/privacy.md" >}})), is what Google stores to tell me someone visited my site, and how long you spent on which page(s). No, I cannot personally identify you---I cannot even tell the difference between you and your cat that loves your keyboard. I care about others' privacy as much as I care about mine if not more.
+Session cookies store information for the web session you are running at the moment. For instance, unless I have removed Google Analytics from this site (which you can read about in my [privacy policy]({{< ref "/page/privacy.md" >}})), a session cookie is what Google stores to tell me someone visited my site, and how long you spent on which page(s). No, I cannot personally identify you---I cannot even tell the difference between you and your cat that loves your keyboard. I care about others’ privacy as much as I care about mine if not more.
 
 The point is, once you close your browser session, these cookies get discarded.
 
@@ -50,19 +50,19 @@ These cookies are infringement on privacy. These cookies watch your browsing act
 
 But this is nothing new.
 
-You would notice that when you watch sports channels, you get advertisements about beer. Daily soaps have "relevant" advertisements. This has started happening at a much larger scale now, and with much more personal data.
+You would notice that when you watch sports channels, you get advertisements about beer. Daily soaps have "relevant" advertisements. This has started happening at a much larger scale now, and with much more personal data and personal targeting.
 
 These sites that track you, can create a personal profile of you. And no, I am not saying it without basis---I experienced it personally.
 
 ## But there is more
 
-Beyond serving you "relevant" advertisements, companies used this information to turn political opinions of people. Ever since the Cambridge Analytica scandal came out, people removed a good chunk of personal information from their Facebook profiles, and yet, you would have noticed that what Facebook shows you is still relevant. How does that work?
+Beyond serving you "relevant" advertisements, companies have used this information to turn political opinions of people. Ever since the Cambridge Analytica scandal came out, people removed a good chunk of personal information from their Facebook profiles, and yet, you would have noticed that what Facebook shows you is still relevant. How does that work?
 
 Enter: Browser fingerprinting
 
 In theory, sites can uniquely identify every browser. Even without cookies. A browser fingerprint is a combination of factors such as your browser name, browser version, the operating system that you run, the time zone you are in, your system language, the preferred language on your browser, etc. Together, they form a unique profile.
 
-Also, in theory, as of now Google and Facebook are the companies that have enough capability to identify you by browser across sites[^brax-browser]. You get a great explanation of a browser fingerprint in this video (do not worry, your watching the video below will not affect your YouTube history or pattern). Do you want to know if your browser fingerprint is unique? Go to [Cover Your Tracks](https://coveryourtracks.eff.org/) by Electronic Frontier Foundation to see for yourself.
+Also, in theory, as of now no companies other than Google and Facebook have enough capability to identify you by browser across sites[^brax-browser]. You get a great explanation of a browser fingerprint in this video (do not worry, your watching the video below will not affect your YouTube history or pattern). Do you want to know if your browser fingerprint is unique? Go to [Cover Your Tracks](https://coveryourtracks.eff.org/) by Electronic Frontier Foundation to see for yourself.
 
 [^brax-browser]: [Which browser should I use?](https://www.youtube.com/watch?v=9z3_Em4S99g)
 
@@ -74,7 +74,7 @@ Conventionally, we block cookies, or use Private Window (or Incognito Mode, or I
 
 If---if---they share this data with others, the others could use the data for different other purposes. None of these is in our best interests. And while this does seem like a conspiracy theory, any security expert will tell you that I am right (more so because what I am saying rests on the shoulders of such security researchers, who have been in the field for decades).
 
-You could install tools like Privacy Badger by Electronic Frontier Foundation, or Ghostery or something else, and think that you are safe. While they do give you some level of safety, they cannot protect you from browser fingerprinting.
+You could install tools like Privacy Badger by Electronic Frontier Foundation, or Ghostery or something else, and think that you are safe. While they do give you some level of safety, they cannot protect you much from browser fingerprinting (also, they could add to the uniqueness of your browser fingerprint, without intending to do so).
 
 Like Mr Braxman says, if you sign into Google on a browser and Google gets the browser fingerprint, the effect gets multiplied. As an example, imagine that you visited some thirty sites on a certain day in a session. Assume that all the thirty sites have some or the other Google tracking mechanism, including Google Analytics configured to use persistent storage. Assume that you have not signed into Google on this browser yet. In the first of those thirty sites, Google saw you as a new person. The second site onwards, it said, 'Oh, I have seen you before', using your browser fingerprint.
 
@@ -88,6 +88,6 @@ And need I say anything about Facebook?
 
 ## My problem with the conventional way
 
-Not that I personally have a problem with the conventional way. The problem is, I use Linux at home. The market of desktop linux is depressingly small, which makes me a minority anyway. Add other browser parameters to it and making my browser not unique becomes impractical.
+Not that I personally have a problem with the conventional way. The problem is, I use Linux at home; the market of desktop linux is depressingly small, which makes me a minority anyway. Add other browser parameters to it and making my browser not unique becomes impractical.
 
 The idea is to find an approach that works, and at the same time, is practical. We will [look at that in the next post]({{< ref "better-online-privacy-part-ii.md" >}}).
