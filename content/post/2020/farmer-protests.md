@@ -284,7 +284,7 @@ He says that the Central government still has consulted with the State governmen
 
 I think I can now give my view given that we have the bigger picture.
 
-We see that the concept of {{< smallcaps MSP >}} was a necessary step at the time when we had scarcity of food grains. But that is perhaps leading to a slow destruction in return for lower market risk. The times have changed from 1890s and 1960s. Also, we are no more a purely-socialistic economy. The world is not the same as that of the 1960s. We as a country have moved towards globalisation. We are not the protectionist economy of the past; we are a global market player of consequence. Because we are now part of the free market, we must drive our production _based on demand_.
+We see that the concept of {{< smallcaps MSP >}} was a necessary step at the time when we had scarcity of food grains. But that is perhaps now leading to a slow destruction in return for lower market risk. The times have changed from 1890s and 1960s. Also, we are no more a purely-socialistic economy. The world is not the same as that of the 1960s. We as a country have moved towards globalisation. We are not the protectionist economy of the past; we are a global market player of consequence. Because we are now part of the free market, we must drive our production _based on demand_.
 
 While price support was necessary back when we introduced it---and it worked well at the time---we must now move towards _income support_ for the farmers to keep farming sustainable. Telangana, for instance, has done this. Other States followed soon after.
 
@@ -292,15 +292,15 @@ Of course, if Punjab or Haryana stopped producing wheat and paddy, it will affec
 
 This also means that the government must take account of how much of what it needs to replenish its reserves. The government must buy no more than this and, it could perhaps use the money that it used to buy surpluses with, towards reform packages or incentives so that the farmers diversify more and reduce our dependence on imports.
 
-Having said this, the farmers’ anxiety is legitimate.
+Having said this, the farmers’ anxiety is legitimate. There can nee no debate here.
 
 The track record of this government in implementation of ideas and reforms has been opaque and thoughtless. Most of the sweeping moves (fondly known as "masterstrokes") have ended up hurting more than benefiting.
 
 While the general move towards capitalism is welcome, the regulatory framework plays a critical role in capitalistic economies. Governments of capitalistic economies have a solid framework of checks and balances. How are you checking unfair hoarding and price manipulation? How are you protecting the farmer from exploitation? How are you ensuring that the farmer does not lose his land, profession or dignity? What makes you think there will be no corruption with the new system; how do you ensure fair play?
 
-This is not to say that the government should interfere with businesses or that the farmer should depend on the government for his life; the framework in which the businesses operate must be strong enough to balance the two parties. Building and maintaining this healthy business framework is the responsibility of the government as the non-partisan powerful entity. The farmers’ thought that the current government is favourable to the corporations is not unfounded.
+This is not to say that the government should interfere with businesses or that the farmer should depend on the government for his life; the framework in which the businesses operate must be strong enough to balance the two parties. Building and maintaining this healthy business framework is the responsibility of the government as the non-partisan powerful entity. The farmers’ fear that the current government is favourable to the corporations is not unfounded.
 
-Those governing must also understand that the first step towards trust is transparency. You cannot go about doing your own thing in stealth and ask everyone to trust you. Instead of pushing narratives, the government should have put some efforts into communication. 'This is good for you; trust me.' is not the way to go in our country. There must be a 'because', followed by why you think your move is good. You must allow open debating. The problem is, in our country, we have created this environment of dirty politics where no thought gets through. Having said that, you cannot throw the '_Bāp se sawāl kartā hai?_' card at the citizens---you are not the _bāp_ to begin with.
+Those governing must also understand that the first step towards trust is transparency. You cannot go about doing your own thing in stealth and ask everyone to trust you. Instead of pushing narratives, the government should have put some efforts into communication. In the right way. 'This is good for you; trust me.' is not the way to go in our country. There must be a 'because', followed by why you think your move is good. You must allow open debating. The problem is, in our country, we have created this environment of dirty politics where no thought gets through. Having said that, you cannot throw the '_Bāp se sawāl kartā hai?_' card at the citizens---you are not the _bāp_ to begin with.
 
 And is this how you bring a reform---by steam-rolling? In a co-operative federal system, you do not slap people around; you balance power. The ruling party had a respectable politician with them; they should perhaps read up about him.
 
@@ -312,6 +312,6 @@ The ruling parties make comments like 'too much democracy' because they fear any
 
 Be that as it may, as citizens, we have the responsibility to stay informed. Outsourcing governance does not work. And there is no such thing as a benevolent dictator. In a democracy, we must keep awake, because at the end of the day, good governance is also a citizen's responsibility. If we do not know what is good for us and we do not know what to ask for, we will keep hitting the roads in protest. Because sometimes, we must also gauge the intelligence and the intentions of those we vote into power---one way or another.
 
-As for these farm laws, the government should man up, face the farmer and show some sincerity by speaking about the government's problem, and _offer_ solutions. Remove all political middlemen---make it a straight communication; not from a stage set up somewhere in a studio on a citadel, but on the ground in front of the farmer. Citizens including our farmers, can understand the government's problems.
+As for these farm laws, the government should man up, face the farmer and show some sincerity by speaking about the government's problem, and _offer_ solutions instead of imposing them. Remove all political middlemen---make it a straight communication; not from a stage set up somewhere in a studio on a citadel, but on the ground in front of the farmer. Because they are farmers. Show some respect---they are doing a mostly thankless job. Also, citizens including our farmers, can understand the government's problems.
 
-Trust us; we have always been transparent.
+Trust us; we have always been transparent and accommodating.
