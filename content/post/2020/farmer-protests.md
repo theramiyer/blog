@@ -39,10 +39,6 @@ Before we go any further, let me mention that this is merely a compilation of th
 - Karan Thapar and _[The Wire](https://thewire.in/)_
 - [Faye D'Souza](https://www.youtube.com/fayedsouza) and her team
 
-And I have a request: Do not quote bits from this piece; to get a point delivered to someone, send the entire post.
-
-Because context matters.
-
 ## A brief about the three laws
 
 If you remember, back in September, we had spoken about how the [Rajya Sabha had cleared agriculture bills]({{< ref "democracies-fail#opposition-to-balance" >}}) in the absence of the opposition parties; the opposition parties had "boycotted" the Rajya Sabha proceedings because of how the Speaker had cleared the three bills through voice vote amidst vocal opposition.
