@@ -2,6 +2,18 @@
 title: "Farmer Protests"
 subtitle: "The big picture"
 date: 2020-12-13T12:30:54+05:30
+tags:
+- democracy
+- business
+- farming
+- capitalism
+- socialism
+- food
+- protest
+- governance
+- law
+- debate
+- politics
 ---
 
 I have been following the farmer protest for weeks now, but did not pen down anything because I am not one to form opinions on such complex issues without first understanding the different facets of them---I am not that loudest Bollywood actor after all. I have a day job, and my weekends are busy with household chores, virtual socialising (which includes reading WhatsApp messages), hobby coding, and experiments in the kitchen. I take my time to understand issues and form lasting opinions about them.
