@@ -2,6 +2,8 @@
 title: "Farmer Protests"
 subtitle: "The big picture"
 date: 2020-12-13T12:30:54+05:30
+description: |
+  The farmers have been protesting the "farm reform" laws for months now. What we hear from the mainstream media is conspiracies, namecalling and discrediting of the protests. But why are the farmers protesting? Independent media on YouTube will give you a good picture, but here, we talk about arguments from both the sides. This post tells you why it makes sense for the farmers to protest, and why it makes sense for the government to introduce these laws. As for the view on how these were implemented, well.
 tags:
 - democracy
 - business
