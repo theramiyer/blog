@@ -2,7 +2,6 @@
 title: "Farmer Protests"
 subtitle: "The big picture"
 date: 2020-12-13T12:30:54+05:30
-draft: true
 ---
 
 I have been following the farmer protest for weeks now, but did not pen down anything because I am not one to form opinions on such complex issues without first understanding the different facets of them---I am not that loudest Bollywood actor after all. I have a day job, and my weekends are busy with household chores, virtual socialising (which includes reading WhatsApp messages), hobby coding, and experiments in the kitchen. I take my time to understand issues and form lasting opinions about them.
@@ -179,7 +178,7 @@ Understand this. India is the largest exporter of rice[^rice-export] in the worl
 
 [^rice-export]: [Amid Ladakh standoff, China turns to India for rice for first time in decades](https://www.hindustantimes.com/business-news/china-buys-rice-from-india-for-first-time-in-decades-as-supplies-tighten-says-trade-officials/story-pveRQyJ9R2pD0fzo2oVSPP.html)
 
-Mr Gupta says, 'You get free water, free power (to pump out the water), and at harvest, Food Corporation of India buys the produce from you at a fixed price---easy crop. He said, against the buffer stock need of 10.25 million tonnes, India held (back then) 27.6 million tonnes.
+Mr Gupta says, 'You get free water, free power (to pump out the water), and at harvest, Food Corporation of India buys the produce from you at a fixed price---easy crop.' He said, against the buffer stock need of 10.25 million tonnes of rice, India held (back then) 27.6 million tonnes.
 
 In all this, we seem to miss that we are depleting the water table. The Punjab--Haryana region is a global hotspot for depleting water table.
 
@@ -187,59 +186,59 @@ Secondly, when the Punjab and the Haryana governments saw the issue of depleting
 
 There is also the problem of too much urea and nitrates in the ground water of Punjab and Haryana, which are harmful for the states themselves.
 
-This is the first point to support the idea that Punjab and Haryana should stop cultivating paddy.
+Ecological sustainability is the first point to support the idea that Punjab and Haryana should stop cultivating paddy.
 
-### Debt vs net equity
+### Debt vs equity
 
-Prof. Ashok Gulati, in an interview, speaks about surpluses. The cost of producing rice in India is higher than the rest of the world. We are already spending a lot of water to grow rice. When the rice grows in surplus, we must sell it outside our country. But if the cost of producing rice is higher here than the international market price, nobody would buy from us. The government then has to subsidise rice, which is more loss to the government.
+Prof. Ashok Gulati, in an interview, speaks about surpluses. He says that the price of rice in India is higher than the rest of the world. We are already spending a lot of water to grow rice. When the rice grows in surplus, we must sell it outside our country. But if the price of rice is higher here than the international market price, nobody would buy from us. The government then has to subsidise rice, which is more loss to the government.
 
-Prof. Gulati then adds, 'Rice, we are still competitive... wheat, we have become non-competitive.' If you thought surplus rice was bad, surplus wheat is worse. He also speaks about surplus sugar. In one of Newslaundry vidoes, Nidhi Suresh interviews a farmer leader, in which the leader talks about how bad the situation is already that some of the private sector sugar mills have not paid the farmers for the raw material. Prof. Gulati mentions the same point from a different perspective: because of the surplus, and the government's State Advised Price, the whole situation is a "mess" since the sugar mills are running out of money to pay. Also, the price the farmer must fetch for sugar is higher than the international price of sugar, which brings us to the same issue as rice.
+Prof. Gulati then adds, 'Rice, we are still competitive... wheat, we have become non-competitive.' If you thought surplus rice was bad, surplus wheat is worse. He also speaks about surplus sugar. In a Newslaundry video, Nidhi Suresh interviews a farmer leader, in which the leader talks about how bad the situation is already that some of the private sector sugar mills have not paid the farmers for the raw material. Prof. Gulati mentions the same point from a different perspective: because of the surplus, and the government's State Advised Price, the whole situation is a "mess" since the sugar mills are running out of money to pay. Also, the price the farmer must fetch for sugar is higher than the international price of sugar, which brings us to the same issue as rice.
 
 In other words, because of the availability of resources at heavy subsidies to the farmer, the farmer chooses to grow paddy, wheat and sugarcane, leading to surplus with the Food Corporation of India, and non-payment of dues to farmers in other cases.
 
 In the last section we saw the Food Corporation of India buys agricultural produce from the farmer at {{< smallcaps MSP >}}. With the surpluses, this has led to {{< smallcaps FCI >}} whose equity is about ₹5,000 crore, sit on a debt of ₹1,80,000 crore. Debt that is about _40 times_ its equity. This is loss of taxpayer money---your money, mine, and the farmer's. The Punjab and Haryana governments do not complain because the rural cess and the _mandi_ taxes fetch them thousands of crores of rupees.
 
-Also, even after free distribution of rice and wheat during the pandemic situation last summer, the FCI still had a buffer stock of 97 million metric tonne of grain, against the buffer stock norm of 41.2 million metric tonne. That is the size of our surpluses.
+Also, even after free distribution of rice and wheat during the pandemic situation last summer, the {{< smallcaps FCI >}} still had a buffer stock of 97 million metric tonne of grain, against the buffer stock norm of 41.2 million metric tonne. That is the size of our surpluses.
 
 ### The history
 
-An episode of _Cut The Clutter_ talks about the history of {{< smallcaps MSP >}}. I will skip the Colonial aspect of it, but mention the part about the green revolution. Back in the sixties, we fell dangerously short of wheat. The United States stepped in with their PL-480 scheme and sent us wheat. The US government of the time also persuaded India to move away from "price control" to incentivise farmers to grow more---the idea was, if you incentivise the farmer to grow more and stop restricting what he makes from the produce, he may produce more.
+An episode of _Cut The Clutter_ talks about the history of {{< smallcaps MSP >}}. I will skip the Colonial aspect of it, but mention the part about the green revolution. Back in the sixties, we fell dangerously short of wheat. The United States stepped in with their PL-480 scheme and sent us wheat. The US government of the time also persuaded India to move away from "price control" and instead offer price support to incentivise farmers to grow more---the idea was, if you incentivise the farmer to grow more and stop restricting what he makes from the produce, he may produce more.
 
-To assure the farmer that even if the market gets flooded with grain, the government will still buy it at least in such a way that the farmer does not incur a loss. This was the birth of {{< smallcaps MSP >}}.
+To assure the farmer that even if the market gets flooded with grain, the government will still buy it at least in such a way that the farmer does not incur a loss, the government introduced {{< smallcaps MSP >}}.
 
-The green revolution happened mainly in Punjab. First, the reason was the Punjab produced great wheat. Second, Punjab had the water. In ten years, India's wheat production doubled. Paddy has a similar story.
+The green revolution started in Punjab. First, the reason was the Punjab produced great wheat. Second, Punjab had the water. In ten years, India's wheat production doubled. Paddy has a similar story.
 
 But as years passed and farmers of the other states learned the new techniques and got access to the resources that Punjab's farmers had, they also started growing paddy in surplus. Today, we are a rice surplus nation.
 
 ### 'At the cost of other crops'
 
-Another observation is that farmers of Punjab and Haryana, because they have such a great support for their wheat and paddy crops, are _moving away from other crops_ that do not fetch them even the {{< smallcaps MSP >}}---as observed before, crops like maize sells at half the {{< smallcaps MSP >}}. Why would a farmer put in all the effort to grow maize when he does not fetch enough to make a solid return?
+Another observation is that farmers of Punjab and Haryana, because they have such a great support for their wheat and paddy crops, are _moving away from other crops_ that do not fetch them even the {{< smallcaps MSP >}}---as observed before, crops like maize sell at half the {{< smallcaps MSP >}}. Why would a farmer put in all the effort to grow maize when he does not fetch enough to make a solid return?
 
 What happens, though, is that because the farmer is switching to wheat and rice for good returns, he is not growing other crops like oilseeds. A {{< smallcaps NITI >}} Aayog paper points out[^niti-paper]:
 
 [^niti-paper]: [Raising Agricultural Productivity and Making Farming Remunerative for Farmers](https://niti.gov.in/sites/default/files/2019-07/RAP3.pdf)
 
-> Even if India doubles its current level of oilseed production, the import dependence will remain at 40 per cent level.The situation is worse in pulses. Per capita intake and availability of pulses in the country has declined to two-third since early 1960s. During the 50 years between 1964--65 and 2014--15, per capita production of pulses declined from 25 kg to 13.6 kg. Even imports, which constitute about one-fifth of domestic demand, have failed to arrest decline in the availability of pulses in the country.
+> Even if India doubles its current level of oilseed production, the import dependence will remain at 40 per cent level. The situation is worse in pulses. Per capita intake and availability of pulses in the country has declined to two-third since early 1960s. During the 50 years between 1964--65 and 2014--15, per capita production of pulses declined from 25 kg to 13.6 kg. Even imports, which constitute about one-fifth of domestic demand, have failed to arrest decline in the availability of pulses in the country.
 
-What is also pointed out is how the smaller farmers have diversified much more by growing fruits, vegetables, milk and others. Like IT and the Cloud, the fact that smaller farmers cannot afford to invest is a boon for them, because they can switch to other crops with ease.
+What is also pointed out is how the smaller farmers have diversified much more by growing fruits, vegetables, milk and others.
 
 Also, the mentioned Cut The Clutter episode says that although Green Revolution started in Punjab (then Punjab and Haryana were one), the productivity has not gone up in the recent years, nor has the diversification increased. But now, Haryana has introduced an incentive of ₹7,000 per acre if they shift away from the thirsty paddy.
 
 ### The case of Bihar
 
-In one of the videos of the protest (was it ScoopWhoop?) wherein a farmer from Bihar, who has come in support of the Punjab farmers, says, 'Well, look what happened in Bihar. They abolished {{< smallcaps APMC >}} markets, and now, we sell rice at a much lower price than the {{< smallcaps MSP >}}. If abolishing state procurement was so good, why are we Bihar farmers suffering and not growing paddy in our own fields?'
+In one of the videos of the protest (was it ScoopWhoop?) a farmer from Bihar, who has come in support of the Punjab farmers, says, 'Well, look what happened in Bihar. They abolished {{< smallcaps APMC >}} markets, and now, we sell rice at a much lower price than the {{< smallcaps MSP >}}. If abolishing state procurement was so good, why are we Bihar farmers suffering and not growing paddy in our own fields, and instead, coming here to work?'
 
-The counter-argument that Mr Shekhar Gupta puts forth is that the excessive production of rice in Punjab is offsetting the produce in Bihar. He says that the Food Corporation of India buys rice from Punjab and Haryana, and under the Food Security Act, sells the rice in states like Bihar at ₹2 a kilo. When rice is available from the {{< smallcaps FCI >}} at that price, who would buy the rice at ten times the price from the market? The traders who sell rice in Bihar do not want to buy rice from Bihar because the end customer buys from the {{< smallcaps PDS >}}; the local trader cannot sell much. Because the demand is low, the price of rice is low in Bihar. To worsen the situation, he says, West Bengal, Assam, Uttar Pradesh and Bihar are all grain-surplus states.
+The counter-argument that Mr Shekhar Gupta puts forth is that the excessive production of rice in Punjab is offsetting the price in Bihar. He says that the Food Corporation of India buys rice from Punjab and Haryana, and under the Food Security Act, sells the rice in states like Bihar at ₹2 a kilo. When rice is available from the {{< smallcaps FCI >}} at that price, who would buy the locally grown rice at ten times the price from the market? The traders who sell rice in Bihar do not want to buy rice from Bihar because the end customer buys from the {{< smallcaps PDS >}}; the local trader cannot sell much. Because the demand is low, the price of rice is low in Bihar. He says, West Bengal, Assam, Uttar Pradesh and Bihar are all grain-surplus states.
 
 > The farmer's income, this way, cannot go up by more than 4% or 5%. The farmer is caught in a trap.
 
 ### The infrastructure problem
 
-Prof. Gulati says (and I think Vivek Kaul agrees) that farming of today needs much more infrastructure to give a level playing field to every player including the small ones, and the government is incapable of providing it given its current capability to handle food. The food processing industry, though, is much larger than the government's agricultural and allied infrastructure; the private sector has a much bigger capacity to build and handle the necessary infrastructure.
+Prof. Gulati says (and I think Vivek Kaul agrees) that farming of today needs much more infrastructure to give a level playing field to every player including the small ones, and the government is incapable of providing it given its current capability to handle food. The food processing industry, though, is much larger than the government's agricultural infrastructure; the private sector has a much bigger capacity to build and handle the necessary infrastructure.
 
 Also, in states other than Punjab and perhaps also Haryana, the private sector buys 90% of the produce from the farmers.
 
-The question the professor asks is, 'Is it wiser to let the private sector set the bar higher by reducing the costs, rather than suppressing the private sector and keep incurring losses?' His stand is that while the farmer may get benefited today, this model is not sustainable anymore, because of how much surplus we have everywhere.
+The question the professor asks is, 'Which is wiser: let the private sector set the bar higher by reducing the costs, or suppress the private sector and keep incurring losses?' His stand is that while the farmer may get benefited today, this model is not sustainable anymore, because of how much surplus we have everywhere.
 
 ### What about milk
 
@@ -247,7 +246,7 @@ The question the professor asks is, 'Is it wiser to let the private sector set t
 
 Prof. Gulati says, in his interview with Karan Thapar, 'Look at milk!'
 
-His point is that even the smallest farmer who has as little as two litres of milk surplus, sells to large conglomerates like Nestlé. Private sector players like Nestlé and Hatsun have been buying from these farmers without exploiting them. He almost calls the idea that large corporations would exploit the farmers as unfounded. He says that the corporations build a relationship with the farmers. The reason is that the corporations who want to see any profit, must invest in infrastructure. This is their initial investment. If they exploit the farmers and the farmers back away, they cannot even recover the initial investment.
+His point is that even the smallest farmer who has as little as two litres of milk surplus, sells to large conglomerates like Nestlé. Private sector players like Nestlé and Hatsun have been buying from these farmers without exploiting them. He almost calls the idea that large corporations would exploit the farmers, unfounded. He says that the corporations build a long-term relationship with the farmers. The reason is that the corporations who want to see any profit, must invest in infrastructure. This is their initial investment. If they exploit the farmers and the farmers back away, they cannot even recover the initial investment.
 
 He says, 'Aggregation is the key!' This was something that my father also suggested when we were talking about the protests at home, although he did not specifically mention the dairy co-operatives. Prof. Gulati says, 'Don't underestimate the small holder.'
 
@@ -255,15 +254,15 @@ He also mentions poultry as an example, which the private sector leads today. Th
 
 ### The curse of the Public Distribution System
 
-Statistically, about 80 crore people depend on the National Food Security Act. Of these 8 crore migrant farmers depend critically on the Public Distribution System. But Prof. Gulati says that the government incurs a procurement-and-distribution cost of about 40% of what it gives the farmer in exchange for his produce, over the price of the produce itself. In other words, if the government buys a kilogram of some grain X for ₹10 from a farmer, the actual cost that the government incurs is ₹14 including the procurement and distribution. He says that the market can handle this in under 15%. An {{< smallcaps NSSO >}} report observes that about 46% of the grain and other farm produce sent by the Centre leaks away, and never reaches the end beneficiary.
+Statistically, about 80 crore people depend on the National Food Security Act. But Prof. Gulati says that the government incurs a procurement-and-distribution cost of about 40% of what it gives the farmer in exchange for his produce, over the price of the produce itself. In other words, if the government buys a kilogram of some grain X for ₹10 from a farmer, the actual cost that the government incurs is ₹14 including the procurement and distribution. He says that the market can handle this in under 15%. To add to this, an {{< smallcaps NSSO >}} report observes that about 46% of the grain and other farm produce sent by the Centre leaks away, and never reaches the end beneficiary, including losses from the leakage.
 
 In other words, the government actually ends up spending ₹26 for a kilogram of grain X that reaches the end beneficiary.
 
 ### Transactional costs
 
-In the last example, ₹16 are the transactional costs. In a surplus economy, where we are looking at the global market, we must reduce the transactional costs to stay competitive. At the moment, the situation is that the market price for the grain is about ₹18, while the government spends ₹26. If India wants to sell this grain, it must do so at a loss of at least ₹8 for a kilogram of grain X---which makes the total cost as ₹34.
+In the last example, ₹16 are the transactional costs. In a surplus economy, where we are looking at the global market, we must reduce the transactional costs to stay competitive. At the moment, the situation is that the market price for the grain is about ₹18, while the government spends ₹26. If India wanted to sell this grain, it must do so at a loss of at least ₹8 for a kilogram of grain X---which makes the total cost as ₹34.
 
-The professor also notes that the government ₹90,000 crore because of lack of storage. This happens because the government is buying more than the need, spends in transactions, cannot sell it because of the price being less competitive, and since the government is unable to store the produce, it gets wasted. Mr Gupta in one of his Cut The Clutter episodes also notes that the government does not build more storage because the storage will fill up the coming year.
+The professor also notes that the government loses about ₹90,000 crore because of lack of storage. This happens because the government is buying more than the need, spends in transactions, cannot sell it because of the price being less competitive, and since the government is unable to store the produce, it gets wasted. Mr Gupta in one of his Cut The Clutter episodes also notes that the government does not build more storage because the storage will fill up the coming year.
 
 ### Consultation with the State governments
 
@@ -281,22 +280,22 @@ While price support was necessary back when we introduced it---and it worked wel
 
 Of course, if Punjab or Haryana stopped producing wheat and paddy, it will affect the reserves, and so, it does not make sense to make a blanket order against growing wheat or paddy. The idea is to not overdo it.
 
-This also means that the government must take account of how much of what it needs to replenish its reserves. The government must buy no more than this. The government, with whatever money it used to buy surplus with, could perhaps use it for reform packages or incentives so that the farmers diversify more and reduce our dependence on imports.
+This also means that the government must take account of how much of what it needs to replenish its reserves. The government must buy no more than this and, it could perhaps use the money that it used to buy surpluses with, towards reform packages or incentives so that the farmers diversify more and reduce our dependence on imports.
 
 Having said this, the farmers’ anxiety is legitimate. The track record of this government in implementation of ideas and reforms has been thoughtless. Most of the sweeping moves (fondly known as "masterstrokes") have ended up hurting more people than those benefited.
 
-While the general move towards capitalism is welcome, the government plays a critical role in capitalistic economies. Governments of capitalistic economies regulate well. How are you checking unfair hoarding and price manipulation? How are you protecting the farmer from exploitation? How are you ensuring that the farmer does not lose his land, profession or dignity? What makes you think there will be no corruption with the new system; how do you ensure fair play?
+While the general move towards capitalism is welcome, the regulatory framework plays a critical role in capitalistic economies. Governments of capitalistic economies have a solid framework of checks and balances. How are you checking unfair hoarding and price manipulation? How are you protecting the farmer from exploitation? How are you ensuring that the farmer does not lose his land, profession or dignity? What makes you think there will be no corruption with the new system; how do you ensure fair play?
 
-This is not to say that the government should interfere with businesses or that the farmer should depend on the government for his life; the framework in which the businesses operate must be strong enough to keep the balance between the two parties. Building and maintaining this healthy business framework is the responsibility of the government. The general idea that the current government is favourable to the corporations is not unfounded.
+This is not to say that the government should interfere with businesses or that the farmer should depend on the government for his life; the framework in which the businesses operate must be strong enough to keep the balance between the two parties. Building and maintaining this healthy business framework is the responsibility of the government as the non-partisan powerful entity. The general idea that the current government is favourable to the corporations is not unfounded.
 
 Those governing must also understand that the first step towards trust is transparency. You cannot go about doing your own thing in stealth and ask everyone to trust you. Instead of pushing narratives, the government should have put some efforts into communication. 'This is good for you; trust me.' is not the way to go in our country. There must be a 'because', followed by why you think your move is good. You must allow open debating. The problem is, in our country, we have created this environment of dirty politics where no thought gets through. Having said that, you cannot throw the '_Bāp se sawāl kartā hai?_' card at the citizens---you are not the _bāp_ to begin with.
 
-And is this how you bring a reform---by steam-rolling? In a co-operative federalism, you do not slap people around; you balance power. The ruling party had a respectable politician with them; they should perhaps read up about him.
+And is this how you bring a reform---by steam-rolling? In a co-operative federal system, you do not slap people around; you balance power. The ruling party had a respectable politician with them; they should perhaps read up about him.
 
 Now, to something interesting:
 
 ## Making informed decisions
 
-The ruling parties do not want any politics, and make comments like 'too much democracy' because they fear anybody can sway people either way, because people are too ill-informed. Who kept them ill-informed after all? This is also the insecurity of the populist, who, unintentionally, is also questioning his own victory in elections by questioning the intellect of people.
+The ruling parties make comments like 'too much democracy' because they fear anybody can sway people either way, because people are too ill-informed. Who kept them ill-informed through the decades? This is also the insecurity of the populist, who, unintentionally, is also questioning his own victory in elections by questioning the intellect of people.
 
-Be that as it may, as citizens, we have the responsibility to stay informed. Outsourcing governance will not work. In a democracy, we must keep awake, because at the end of the day, good governance is also a citizen's responsibility. If we do not know what is good for us and we do not know what to ask for, we will keep hitting the roads in protest. Because sometimes, we must also gauge the intelligence and the intentions of those we vote into power---one way or another.
+Be that as it may, as citizens, we have the responsibility to stay informed. Outsourcing governance does not work. And there is no such thing as a benevolent dictator. In a democracy, we must keep awake, because at the end of the day, good governance is also a citizen's responsibility. If we do not know what is good for us and we do not know what to ask for, we will keep hitting the roads in protest. Because sometimes, we must also gauge the intelligence and the intentions of those we vote into power---one way or another.
