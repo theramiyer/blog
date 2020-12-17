@@ -18,7 +18,7 @@ tags:
 - politics
 ---
 
-I have been following the farmer protest for weeks now, but did not pen down anything because I am not one to form opinions on such complex issues without first understanding the different facets of them---I am not that loudest Bollywood actor after all. I have a day job, and my weekends are busy with household chores, virtual socialising (which includes reading WhatsApp messages), hobby coding, and experiments in the kitchen. I take my time to understand issues and form lasting opinions about them.
+I have been following the farmer protest for weeks now, but did not pen down anything because I am not one to form opinions on such complex issues without first understanding the different facets of them---I am not that loudest Bollywood actor after all. I have a day job, and my weekends are busy with chores, virtual socialising (which includes reading WhatsApp messages), hobby coding, and experiments in the kitchen. I take my time to understand issues and form lasting opinions about them.
 
 If you are impatient or short-sighted, you will find it hard to read this (which is good for some, because they are looking for those like you to support them in masses---drop this right now and go join; Twitter and a career in politics await you).
 
