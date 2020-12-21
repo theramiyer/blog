@@ -20,7 +20,7 @@ tags:
 
 I have been following the farmer protest for weeks now, but did not pen down anything because I am not one to form opinions on such complex issues without first understanding the different facets of them---I am not that loudest Bollywood actor after all. I have a day job, and my weekends are busy with chores, virtual socialising (which includes reading WhatsApp messages), hobby coding, and experiments in the kitchen. I take my time to understand issues and form lasting opinions about them.
 
-If you are impatient or short-sighted, you will find it hard to read this (which is good for some, because they are looking for those like you to support them in masses---drop this right now and go join; Twitter and a career in politics await you).
+This post is not for the impatient or the short-sighted, nor is it for the prejudiced.
 
 While the post will be long, I promise you that it packs answers to critical questions about the three farm laws. With this post, I try to help you understand issues that people (including the government) have talked little about. This will help you debate both, a _librāndu_ and a _sanghī_. I will take a non-partisan approach, because I have a nuanced take on this. Besides, going one side or another may lead you to lose sight of the larger picture. In this post, we do not look at the issue through a window; we go a full circle, zooming in and out as needed.
 
@@ -308,10 +308,12 @@ Now, to something interesting:
 
 ## Making informed decisions
 
-The ruling parties make comments like 'too much democracy' because they fear anybody can sway people either way, because people are too ill-informed. Who kept them ill-informed through the decades? This is also the insecurity of the populist, who, unintentionally, is also questioning his own victory in elections by questioning the intellect of people.
+People and parties in power make comments like 'too much democracy' because of the fear that anybody can sway people either way, because people are too ill-informed. Keeping you ill-informed makes lives of some easier. This is also the insecurity of the populist, who, unintentionally, is also questioning his/her own victory in elections, by questioning the intellect of people.
 
-Be that as it may, as citizens, we have the responsibility to stay informed. Outsourcing governance does not work. And there is no such thing as a benevolent dictator. In a democracy, we must keep awake, because at the end of the day, good governance is also a citizen's responsibility. If we do not know what is good for us and we do not know what to ask for, we will keep hitting the roads in protest. Because sometimes, we must also gauge the intelligence and the intentions of those we vote into power---one way or another.
+Be that as it may, outsourcing governance does not work. And there is no such thing as a "benevolent dictator". In a democracy, we must keep awake, because at the end of the day, good governance is also a citizen's responsibility. If we do not know what is good for us and we do not know what to ask for, we will keep hitting the roads in protest. Because sometimes, we must also gauge the intelligence and the intentions of those we vote into power---one way or another.
 
-As for these farm laws, the government should man up, face the farmer and show some sincerity by speaking about the government's problem, and _offer_ solutions instead of imposing them. Remove all political middlemen---make it a straight communication; not from a stage set up somewhere in a studio on a citadel, but on the ground in front of the farmer. Because they are farmers. Show some respect---they are doing a mostly thankless job. Also, citizens including our farmers, can understand the government's problems.
+As for these farm laws, the government should man up, face the farmer and show some sincerity by speaking about the government's problem, and _offer_ solutions instead of imposing them. Remove all political middlemen---make it a straight communication; not from a citadel, but on the ground in front of the farmer. Because they are farmers. Show some respect---they are among those doing a thankless job. Also, citizens including our farmers, can understand the government's problems.
+
+They are doing what they are don't because of a trust deficit. While the problem of surpluses is real, the government cannot overcome it by imposition.
 
 Trust us; we have always been transparent and accommodating.
