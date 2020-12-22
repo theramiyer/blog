@@ -314,6 +314,6 @@ Be that as it may, outsourcing governance does not work. And there is no such th
 
 As for these farm laws, the government should man up, face the farmer and show some sincerity by speaking about the government's problem, and _offer_ solutions instead of imposing them. Remove all political middlemen---make it a straight communication; not from a citadel, but on the ground in front of the farmer. Because they are farmers. Show some respect---they are among those doing a thankless job. Also, citizens including our farmers, can understand the government's problems.
 
-They are doing what they are don't because of a trust deficit. While the problem of surpluses is real, the government cannot overcome it by imposition.
+They are doing what they are doing because of a trust deficit. While the problem of surpluses is real, the government cannot overcome it by imposition.
 
 Trust us; we have always been transparent and accommodating.
