@@ -317,3 +317,11 @@ As for these farm laws, the government should man up, face the farmer and show s
 They are doing what they are doing because of a trust deficit. While the problem of surpluses is real, the government cannot overcome it by imposition.
 
 Trust us; we have always been transparent and accommodating.
+
+Also, now that we are talking about informed decisions, if you thought that the new laws affect no one other than the farmers of Punjab and Haryana, think again. While it is true that farmers of other states have been dealing with private players, these laws change the environment across the country, in a fundamental way, including preventing the farmers from going to the court.
+
+Also, while true that the private dairy players have not exploited the farmers, know that dairy is a different ball game. Dairy has much more consumption than wheat and rice put together, and its general _value_ is higher than wheat and rice put together.
+
+> Past performance is not indicative of future returns.
+
+Perhaps the corporations will not exploit the farmers and indeed build a lasting positive relationship with the farmers. But is the government making such a field available?
