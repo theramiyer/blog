@@ -318,10 +318,10 @@ They are doing what they are doing because of a trust deficit. While the problem
 
 Trust us; we have always been transparent and accommodating.
 
-Also, now that we are talking about informed decisions, if you thought that the new laws affect no one other than the farmers of Punjab and Haryana, think again. While it is true that farmers of other states have been dealing with private players, these laws change the environment across the country, in a fundamental way, including preventing the farmers from going to the court.
+Also, now that we are talking about informed decisions, if you thought that the new laws affect no one other than the farmers of Punjab and Haryana, think again. True, farmers of other states have been dealing with private players. But these laws change the environment across the country, in a fundamental way, including preventing the farmers from going to the court.
 
-Also, while true that the private dairy players have not exploited the farmers, know that dairy is a different ball game. Dairy has much more consumption than wheat and rice put together, and its general _value_ is higher than wheat and rice put together.
+Also, while true that the private dairy players have not exploited the farmers, know that dairy is a different ball game. Dairy has much more consumption than wheat and rice put together, and its general _value_ is higher than wheat and rice put together. The returns are different. The risks are different than agricultural produce such as grains, pulses, and vegetables.
 
 > Past performance is not indicative of future returns.
 
-Perhaps the corporations will not exploit the farmers and indeed build a lasting positive relationship with the farmers. But is the government making such a field available?
+I am not questioning the learned experts who have been in the field longer than I have been alive, but merely saying that nobody has addressed these queries on a public platform; the farmer is perhaps unaware of these points as well. Perhaps those in favour of this reform are right, perhaps the corporations will not exploit the farmers and indeed build a lasting positive relationship with the farmers. But is the government making such a field available? Who is talking about the nitty-gritties of this issue?
