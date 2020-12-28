@@ -5,13 +5,15 @@ description: Put plainly, I don't want your data.
 
 Put bluntly, I couldn't care less about getting data about you. This site uses Google Analytics to track readership, but that is to know some rudimentary metrics about general audience behaviour, like, to see when there is the most amount of activity, and what posts people like to read. While I do not base my content on it, it tells me which posts are easy to read and understand, or what posts people refer.
 
-## Google Analytics
+## Analytics
 
-I have configured Google Analytics to use session storage, which means that the cookie expires as soon as you close your browser session. That way, I do not get to see the percentage of readers returning to the site, but again, the parameter does not matter much to me. The Google Analytics implementation on this site also anonymises your IP and respects the Do Not Track setting on your browser.
+I have configured _Google Analytics_ to use session storage, which means that the cookie expires as soon as you close your browser session. That way, I do not get to see the percentage of readers returning to the site, but again, the parameter does not matter much to me. The Google Analytics implementation on this site also anonymises your IP and respects the Do Not Track setting on your browser.
 
 Whatever I do track, I do not share with anybody. Tracking on my site is purely for the purposes of my tuning the content to be better.
 
 Read [Google's Privacy Policy](https://policies.google.com/privacy?hl=en) for more information.
+
+I am planning to transition analytics to the privacy-respecting and {{< smallcaps GDPR >}}-compliant [Plausible Analytics](https://plausible.io/). The transition may happen soon, depending on how I like Plausible (it seems great for now), and if it fits in my budget. You can also [view the statistics](https://plausible.io/blog.ramiyer.me) online.
 
 ## Twitter
 
