@@ -13,6 +13,7 @@ googleAnalytics = "UA-96215433-5"
   privacyPolicyUrl = "/privacy/"
   enableSharing = false
   razorpayId = "pl_G7QWxZCN9t3mZ1"
+  plausibleAnalytics = true
 
 [privacy]
   [privacy.googleAnalytics]
