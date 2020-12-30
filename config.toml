@@ -19,6 +19,12 @@ theme = "typographical"
 [params.dropCap]
   enable = true
 
+[params.contactForm]
+  id = 'xjvpplyr'
+  namePlaceholder = 'Your name (optional)'
+  emailPlaceholder = 'Your email (optional)'
+  messagePlaceholder = 'Your message (read above if you are sending me content)'
+
 [params.plausible]
   enable = true
   domain = "blog.ramiyer.me"
