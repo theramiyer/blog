@@ -12,6 +12,9 @@ theme = "typographical"
   privacyPolicyUrl = "/privacy/"
   razorpayId = "pl_G7QWxZCN9t3mZ1"
 
+[params.dropCap]
+  enable = true
+
 [params.plausible]
   enable = true
   domain = "blog.ramiyer.me"
