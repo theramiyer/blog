@@ -14,7 +14,7 @@ These discussions suffer the one-thing-led-to-another syndrome, and in general, 
 
 As you would expect from every {{< smallcaps BJP >}} loyalist, they flared up against the _Shiv Sena_, calling them "goons" and what not.
 
-My brother and I, a duo that has a general disregard for politicians, but loves to play the Devil's Advocate, listened with patience while they went on about how the police had arrested him for no reason despite giving a statement in the court that they could not find any evidence of any foul play in the death of Mr Anvay Naik.
+My brother and I have a general disregard for politicians, but love to play the Devil's Advocate. We listened with patience while they went on about how the police had arrested him for no reason despite giving a statement in the court that they could not find any evidence of any foul play in the death of Mr Anvay Naik.
 
 On the Internet, you can find tens or hundreds of blog posts and videos about whether Goswami is a journalist or not. You will see arguments that a journalist can or cannot pick a side, and you will also find Goswami's speech before leaving Times Now, where he says that a journalist must take a side---"how could one not?"
 
