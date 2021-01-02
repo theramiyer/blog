@@ -17,7 +17,7 @@ Meanwhile, I heard of the "blazing fast" Hugo. My Jekyll site would take three s
 
 My Jekyll theme, [Typographical](https://github.com/theramiyer/typographical), is a fork of the beautiful [Tale](https://github.com/chesterhow/tale) theme. I looked for the same theme in the Hugo theme repository. And there it was, ported to Hugo by a few members of the Hugo community. Most of my work was done. All I had to do to get a similar look-and-feel as that of my _Typographical_ theme was copy-paste the {{< smallcaps SCSS >}} directory from my Jekyll theme to this theme and add the links to the fonts used in the theme to the {{< smallcaps HTML >}} header. I had my doubts about this copy-paste business, but the first build showed that the team had retained the {{< smallcaps CSS >}} classes from the Jekyll theme. What remained was adding the features that I'd included in my theme. And this is how I went about it.
 
-![When you decide to go all in and migrate your #blog from #jekyll to #hugo within the weekend, while retaining all the old functionality.](//blogfiles.ramiyer.me/2020/2020-07-05-hugo-migration.jpg)
+![When you decide to go all in and migrate your #blog from #jekyll to #hugo within the weekend, while retaining all the old functionality.](http://blogfiles.ramiyer.me/2020/2020-07-05-hugo-migration.jpg)
 
 ## The partials and the little tweaks
 
