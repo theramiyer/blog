@@ -35,14 +35,14 @@ theme = "typographical"
     privacyEnhanced = true
 
 [permalinks]
-post = "/:title/"
-page = "/:title/"
+  post = "/:title/"
+  page = "/:title/"
 
 [Author]
-name = "Ram Iyer"
-url = "https://ramiyer.me"
-twitter = "iamramiyer"
-facebook = "iamramiyer"
+  name = "Ram Iyer"
+  url = "https://ramiyer.me"
+  twitter = "iamramiyer"
+  facebook = "iamramiyer"
 
 [menu]
   [[menu.main]]
@@ -84,13 +84,9 @@ toLower = true
 
 canonifyURLs = true
 enableRobotsTXT = true
-enableGitInfo = true
 
 EnableHyphenation = true
 
 [sitemap]
     changefreq = "weekly"
     priority = 0.5
-
-[frontmatter]
-lastmod = ["lastmod", ":fileModTime", ":default"]
