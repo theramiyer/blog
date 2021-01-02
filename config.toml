@@ -91,3 +91,6 @@ EnableHyphenation = true
 [sitemap]
     changefreq = "weekly"
     priority = 0.5
+
+[frontmatter]
+lastmod = ["lastmod", ":fileModTime", ":default"]
