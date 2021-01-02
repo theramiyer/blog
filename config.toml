@@ -83,8 +83,8 @@ toLower = true
   page = [ "HTML"]
 
 canonifyURLs = true
-copyright = "Ram Iyer"
 enableRobotsTXT = true
+enableGitInfo = true
 
 EnableHyphenation = true
 
