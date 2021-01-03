@@ -9,6 +9,8 @@ theme = "typographical"
   enableDevanagari = true
   fbAppId = "1004129106665557"
   fbAccessToken = "c0ccefea32b8675b177da298022b672c"
+  applePodcastsId = "id1448518505"
+  googlePodcastsId = "aHR0cHM6Ly9hbmNob3IuZm0vcy8xNGNjYTI0L3BvZGNhc3QvcnNz"
   privacyPolicyUrl = "/privacy/"
   PostFooterHtml = '<div class="support-button"><form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_G7QWxZCN9t3mZ1"></script></form></div>'
 
