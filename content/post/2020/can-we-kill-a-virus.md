@@ -1,6 +1,7 @@
 ---
 date: "2020-03-29T00:00:00Z"
-spotify: 4CBrC7ML7vu8f0ecdBStmS
+episode:
+    spotify: 4CBrC7ML7vu8f0ecdBStmS
 tags:
 - science
 - chemistry

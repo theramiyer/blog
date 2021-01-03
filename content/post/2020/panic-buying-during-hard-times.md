@@ -1,6 +1,7 @@
 ---
 date: "2020-03-18T00:00:00Z"
-spotify: 3qBPGtJZMriY07DLt8tiiy
+episode:
+  spotify: 3qBPGtJZMriY07DLt8tiiy
 tags:
 - economics
 - crisis

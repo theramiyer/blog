@@ -1,6 +1,7 @@
 ---
 date: "2020-05-16T00:00:00Z"
-spotify: 1aIKOuo9dleSDqR4mnf4uJ
+episode:
+    spotify: 1aIKOuo9dleSDqR4mnf4uJ
 tags:
 - nationalism
 - economics

@@ -1,6 +1,7 @@
 ---
 date: "2020-03-30T00:00:00Z"
-spotify: 5zMCST7j5NwbhxgEbGAlv6
+episode:
+    spotify: 5zMCST7j5NwbhxgEbGAlv6
 tags:
 - belief
 - atheism

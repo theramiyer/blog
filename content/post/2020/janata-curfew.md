@@ -1,6 +1,7 @@
 ---
 date: "2020-03-22T00:00:00Z"
-spotify: 0aYI8lAPgz8bPskD7p2iD5
+episode:
+    spotify: 0aYI8lAPgz8bPskD7p2iD5
 tags:
 - society
 - crisis
