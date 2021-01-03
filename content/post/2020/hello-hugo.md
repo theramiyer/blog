@@ -41,7 +41,7 @@ While reading the Hugo documentation, I came across this feature. Turns out, thi
 
 Another such feature is Google Analytics. The Tale theme did not already have this, but all I had to do was add the code that the documentation had, in the head partial.
 
-{{< highlight html >}}
+{{< highlight go >}}
 {{ if not (in (.Site.BaseURL | string) "localhost") }}
     {{ template "_internal/google_analytics_async.html" . }}
 {{ end }}
@@ -66,7 +66,7 @@ All I needed to do to use the same code in Hugo was to find a way to generate th
 
 Finally, I needed the archive page. By this time, I had read enough documentation to handle this by myself. But to not let readers lose the flavour of the old site, I decided to translate the Liquid code into Hugo. Since I wanted the archive to be part of the theme, I decided to write a layout for it. This way, those who use the theme can easily make their archive page by creating a page in their contents directory and specifying the type as archive. They can optionally write some content in their Markdown file, which will appear right before the search bar and the post archive. Here is how I generate the post list for the archive:
 
-{{< highlight html >}}
+{{< highlight go >}}
 <section class="post-list">
 {{ $MyYear := 3000 }}
 {{ $MyMonth := "Something" }}
