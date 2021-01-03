@@ -1,7 +1,9 @@
 ---
 date: "2020-03-29T00:00:00Z"
 episode:
-    spotify: 4CBrC7ML7vu8f0ecdBStmS
+    spotify: "4CBrC7ML7vu8f0ecdBStmS"
+    apple: "1000469878289"
+    google: "YTMzZTZmNzQtYmY5MS00ZDJjLWFkZDUtZDdkODViNjQxMWM1"
 tags:
 - science
 - chemistry
@@ -15,7 +17,7 @@ In the last blog post, I had made a statement about how a living organism works,
 
 A virus is not a living organism per se.
 
-{{< spotify >}}
+{{< podcast >}}
 
 Per se, because a virus does show similarities with living organisms such as possibly contributing to the creation of eukaryotes, or even containing genetic information. But that would become a long, technical discussion, which I do not wish to get into at this point because one, such a discussion would be long, and two, I do not have technical knowledge about the nuances of the concept. The last biology class I attended was fifteen years ago. And biology was not something I connected with.
 

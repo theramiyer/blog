@@ -2,6 +2,8 @@
 date: "2020-05-16T00:00:00Z"
 episode:
     spotify: 1aIKOuo9dleSDqR4mnf4uJ
+    apple: "1000475605067"
+    google: "NzBhYWM2MzMtZGYyNC00YmViLThmZTctMjI3ZDcyOWYzZDc0"
 tags:
 - nationalism
 - economics
@@ -19,7 +21,7 @@ Ever since [Prime Minister Modi made his speech](https://www.youtube.com/watch?v
 
 Bravery to post aside, I started to think, 'How practical would it be to boycott Chinese products?' Or rather, what would it take to boycott them?
 
-{{< spotify >}}
+{{< podcast >}}
 
 ## The current situation
 

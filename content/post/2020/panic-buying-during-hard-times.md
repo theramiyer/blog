@@ -1,7 +1,9 @@
 ---
 date: "2020-03-18T00:00:00Z"
 episode:
+  apple: 1000469054499
   spotify: 3qBPGtJZMriY07DLt8tiiy
+  google: aHR0cHM6Ly9hbmNob3IuZm0vcmFtaXllci9lcGlzb2Rlcy9UaGUtY29yb25hdmlydXMtcGFuaWMtcm91bmR1cC1lYm5odjc
 tags:
 - economics
 - crisis
@@ -18,7 +20,7 @@ We are in March already, and more and more people are suffering from {{< smallca
 
 if you would rather listen to this post:
 
-{{< spotify >}}
+{{< podcast >}}
 
 Panic-buying is when people foresee a shortage of essentials, and buy more than necessary so they do not run out of them.
 

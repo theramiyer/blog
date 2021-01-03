@@ -1,7 +1,9 @@
 ---
 date: "2019-12-18T00:00:00Z"
 episode:
+  apple: 1000467989861
   spotify: 2UqKyMqXnOXG2x6J7TsMML
+  google: MWVjYmU5MWEtMTAzMS00MmQyLTlmODktM2Y3NDVmODNlYjAw
 tags:
 - clutter
 - India
@@ -21,7 +23,7 @@ Let me get to the point: The {{< smallcaps "CAA" >}} is not about throwing peopl
 
 Buckle up for the ride. This is interesting.
 
-{{< spotify >}}
+{{< podcast >}}
 
 ## Citizens of India
 

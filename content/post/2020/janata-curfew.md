@@ -1,7 +1,9 @@
 ---
 date: "2020-03-22T00:00:00Z"
 episode:
+    apple: 1000469362210
     spotify: 0aYI8lAPgz8bPskD7p2iD5
+    google: aHR0cHM6Ly9hbmNob3IuZm0vcmFtaXllci9lcGlzb2Rlcy9KYW5hdGEtQ3VyZmV3LWFuZC1zb21lLXN0YXRpc3RpY3MtZWJzZDZq
 tags:
 - society
 - crisis
@@ -14,7 +16,7 @@ title: Janata Curfew
 
 Some of us defeated the whole purpose of the Janata Curfew today. At five this evening, we hear the sounds of clapping and the shankh-dhvani and people clanging plates and all of that. We look out of one of our windows and see about ten people fist-bumping, high-fiving and shaking hands. The last part was disappointing.
 
-{{< spotify >}}
+{{< podcast >}}
 
 The point of the Janata Curfew was not showing your political allegiance to someone or sending forwards, and then coming out on the streets at five to show support. Self quarantine was the point of the exercise. But what happened instead was dieting for an entire month, and at the end of it, binge on biryani for three days straight.
 
