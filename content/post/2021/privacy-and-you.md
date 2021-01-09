@@ -111,4 +111,4 @@ We have a handful of alternatives for such services out there. Privacy does come
 
 If you do try any of these out, and like them, please also consider supporting them either financially or through contribution to code or documentation.
 
-Like I have been saying, it does not make sense to get rid of the Big Five ({{< smallcaps GAFAM >}}), but we sure can reduce their control over data about us.
+Like I have been saying, it does not make sense to get rid of the Big Five ({{< smallcaps GAFAM >}}), but we sure can reduce their control over data about us. Also, none of the above paid me anything to list them out.
