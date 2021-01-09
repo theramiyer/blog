@@ -94,17 +94,21 @@ Secondly, users' data is no company's commodity. The user must have a right to c
 
 This is not about showing a company its place. This is about taking control of your data and data about you. Weigh the value you receive in return for your data. If the deal is not good enough, walk out. Do not hold on to toxic relationships.
 
-We have a handful of alternatives for such services out there. Privacy does come at a cost. Living with the nature, exposed to the elements does not need any money; you need the ability to survive. If you need clothes and a shelter to protect your privacy and what you value most, you must pay for it. Experience tells us that we can trust no single business with what we value, because businesses are here for business, and their priorities may be different from yours. This is why we support Free/Libre and Open Source Software ({{< smallcaps FLOSS >}}). The community drives them. Most of these run on donations and grants. Here are some privacy-friendly alternatives I use on a regular basis:
+We have a handful of alternatives for such services out there. Privacy does come at a cost. Living in the open, exposed to the elements does not need any money; you need the ability to survive. If you need clothes and a shelter to protect your privacy and what you value most, you must pay for it. Experience tells us that we can trust no single business with what we value, because businesses are here for business, and their priorities may be different from yours. This is why we support Free/Libre and Open Source Software ({{< smallcaps FLOSS >}}). The community drives them. Most of these run on donations and grants. Here are some privacy-friendly alternatives I use on a regular basis:
 
-1. [Signal](https://www.signal.org/) for messaging (open source)
+1. [Pop!_OS](https://pop.system76.com/) as my laptop's OS
 2. [ProtonMail](https://protonmail.com/) for email (open source)
-3. [Firefox](https://www.mozilla.org/en-GB/firefox/browsers/) browser (open source)
-4. [ProtonCalendar](https://calendar.protonmail.com/)
-5. [Cryptee](https://crypt.ee/) for notes (open source)
-6. [DuckDuckGo](https://duckduckgo.com/) and [Qwant](https://www.qwant.com/) for search
-7. [Plausible](https://plausible.io/) for analytics (open source)
-8. [Wire](https://wire.com/en/) for video calls and conferencing (open source), planning to try [Jami](https://jami.net/) (also open source)
-9. [Hugo](https://gohugo.io/) for blogging (open source)
-10. [Home Assistant](https://www.home-assistant.io/) for home automation (open source, I use it without cloud, on the local network)
+3. [Signal](https://www.signal.org/) for messaging (open source)
+4. [Firefox](https://www.mozilla.org/en-GB/firefox/browsers/) browser (open source)
+5. [ProtonCalendar](https://calendar.protonmail.com/)
+6. [Cryptee](https://crypt.ee/) for notes (open source)
+7. [DuckDuckGo](https://duckduckgo.com/) and [Qwant](https://www.qwant.com/) for search
+8. [Plausible](https://plausible.io/) for analytics (open source)
+9. [Wire](https://wire.com/en/) for video calls and conferencing (open source), planning to try [Jami](https://jami.net/) (also open source)
+10. [Hugo](https://gohugo.io/) for blogging (open source)
+11. [Home Assistant](https://www.home-assistant.io/) for home automation (open source, I use it without cloud, on the local network)
+12. [Zoho](https://www.zoho.com/) for email on my domains
 
 If you do try any of these out, and like them, please also consider supporting them either financially or through contribution to code or documentation.
+
+Like I have been saying, it does not make sense to get rid of the Big Five ({{< smallcaps GAFAM >}}), but we sure can reduce their control over data about us.
