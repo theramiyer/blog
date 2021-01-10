@@ -30,17 +30,17 @@ Convenience and security are inversely proportional. The higher the security, th
 
 You see, businesses are here to make money. In the Information Age, data is money. Companies use data about you for ad tracking, and that is what the general understanding is. But it goes beyond that. If you see, companies like Google, Microsoft and Facebook have an eye on companies for acquisition. Fitbit is among the most recent ones to come under the wings of Google. You may think, well, what could Google possibly gain from this?
 
-Over time, you may have seen the shift from mere activity tracking to health shortcode tracking[^health-track]. Wait, are they not the same? No. A health tracker can track far more: like your blood pressure, mood shifts, stress levels, sleep and even menstrual cycle. Activity trackers do none of that. They measure how (and how much) you move, and perhaps how your heart responds to the movements. In a sense, activity trackers are "dumb"; they give the makers little _data_; the data they give is useful to you because no one other than you can put it in context. Health trackers add the context as well.
+Over time, you may have seen the shift from mere activity tracking to health tracking[^health-track]. Wait, are they not the same? No. A health tracker can track far more: like your blood pressure, mood shifts, stress levels, sleep and even menstrual cycle. Activity trackers do none of that. They measure how (and how much) you move, and perhaps how your heart responds to the movements. In a sense, activity trackers are "dumb"; they give the makers little _data_; the data they give is useful to you because no one other than you can put it in context. Health trackers add the context as well.
 
 [^health-track]: Google Buys Fitbit For $2.1 Billion: Here’s What It Means ([Forbes](https://www.forbes.com/sites/davidphelan/2019/11/01/google-buys-fitbit-for-21-billion-heres-what-it-means/?sh=5e6d0240732f))
 
 But that is convenient. You know how well your latest morning walk route works for your weight and blood pressure. And you get all that information under one icon. Maintaining an Excel worksheet is so 2010.
 
-But this has a flip side. Assume that the company that collects this kind of data (Google, Apple or anyone) either allows third parties access this data, or someone breaches this data and lets it all out. Imagine your insurance provider gets this data, sees a trend in your weight and stress levels, correlates that data, and increases your premium. It has never happened so far, but there is no saying it will never happen.
+But this has a flip side. Assume that the company that collects this kind of data (Google, Apple or anyone) either allows third parties access this data, or someone breaches their security fortress and lets out all the data. Imagine your insurance provider gets this data, sees a trend in your weight and stress levels, correlates that data with your past hospital visits, and increases your premium. It has never happened so far, but there is no saying it will never happen.
 
 ## What is the big deal
 
-This post is about the data sharing between Facebook and WhatsApp, which now, you have no say in. The question that I got asked when I said I was going away from WhatsApp was, 'Well, what is the big deal? WhatsApp encrypts messages end-to-end!'
+This post is about data sharing between Facebook and WhatsApp, which going forward, you have no say in. The question that I got asked when I said I was going away from WhatsApp was, 'Well, what is the big deal? WhatsApp encrypts messages end-to-end!'
 
 Think again. If Facebook saw no big deal in a stupid app that lets you catch up with friends, sends and receives encrypted messages and displays no ads while charging nothing, why did it buy the app for 19 billion[^fb-wa-acq]  dollars? Nineteen _billion_ dollars. Let that sink in.
 
@@ -54,15 +54,15 @@ At most, you can create an {{< smallcaps SMS >}} app, like [Messages](https://pl
 
 [^sms-org-cloud]: The app has been around for some time now, and Microsoft has not changed the no-cloud strategy. But we do not know how long they will keep it that way.
 
-Facebook wants to be in this space, because transactional messages are critical in determining the user's financial profile and behaviour. This is why Gmail tracks your purchases, even though (it claims that) it does not show ads based on them.
+Facebook wants to be in this space, because transactional messages are critical in determining the user's financial profile and behaviour. This is why Google tracks your purchases via Gmail, even though (it claims that) it does not show ads based on them.
 
 A step in this direction is WhatsApp Business. Businesses can sign up for the platform and, if more than one individual are interacting with customers or businesses want automated messaging, they could go for the paid package where the businesses get access to the [WhatsApp Business {{< smallcaps API >}}](https://www.whatsapp.com/business/api), using which, they can send messages.
 
 This is crucial information for Facebook, because it can tell who is buying what from whom, how frequently they have interactions, etc.
 
-Also, WhatsApp Business is not restricted to businesses. Political organisations, activists, anyone with need to interact with hundreds, thousands or millions of users can use the platform. _Cambridge Analytica_ is a classic example of manipulation of users on the fence. All this power vested in a single powerful entity is dangerous.
+Also, WhatsApp Business is not restricted to businesses. Political organisations, activists, anyone with need to interact with hundreds, thousands or millions of users can use the platform. The _Cambridge Analytica_ scandal is a classic example of manipulation of users on the fence. All this power vested in a single powerful entity is dangerous.
 
-And, do not forget the payment integration. Using {{< smallcaps UPI >}} apps such as PhonePe and Google Pay gives loads of financial data about users as well as businesses to the makers of these apps. If you combined messaging with payments (which Google and PhonePe have not excelled at yet because nobody sees the two as communication apps), could skyrocket user-base and data collection. You build a business _ecosystem_ that nobody would want to leave.
+And, do not forget the payment integration. Using {{< smallcaps UPI >}} apps such as PhonePe and Google Pay we (users and businesses) give loads of financial data to the makers of these apps. If you combined messaging with payments (which Google and PhonePe have not excelled at yet because nobody sees the two as communication apps), could skyrocket user-base and data collection. You build a business _ecosystem_ that nobody would want to leave.
 
 ## Facebook already knows me
 
@@ -70,7 +70,7 @@ Like a friend pointed out, Facebook already knows perhaps too much about each of
 
 This may change in the future. In other words, we will confirm Facebook's doubts. This will make for a more accurate profile.
 
-Second is your contacts and whom you interact with. This information can help Facebook create a cohort. And everyone who has used any form of analytics can tell you how valuable cohorts are. These are microcosms of similar thoughts and behaviours. In short, this is valuable data.
+Second is your contacts and whom you interact with. This information can help Facebook create a cohort. And anyone who has used any form of analytics can tell you how valuable cohorts are. These are microcosms of similar thoughts and behaviours. In short, this is valuable data.
 
 Does Facebook not already know whom you interact with the most? It has Messenger, it knows what you post, who likes your posts the most, whose posts you like the most and so on. It knows with whom you agree and disagree.
 
