@@ -30,7 +30,7 @@ Convenience and security are inversely proportional. The higher the security, th
 
 You see, businesses are here to make money. In the Information Age, data is money. Companies use data about you for ad tracking, and that is what the general understanding is. But it goes beyond that. If you see, companies like Google, Microsoft and Facebook have an eye on companies for acquisition. Fitbit is among the most recent ones to come under the wings of Google. You may think, well, what could Google possibly gain from this?
 
-Over time, you may have seen the shift from mere activity tracking to health tracking[^health-track]. Wait, are they not the same? No. A health tracker can track far more: like your blood pressure, mood shifts, stress levels, sleep and even menstrual cycle. Activity trackers do none of that. They measure how (and how much) you move, and perhaps how your heart responds to the movements. In a sense, activity trackers are "dumb"; they give the makers little _data_; the data they give is useful to you because no one other than you can put it in context. Health trackers add the context as well.
+Over time, you may have seen the shift from mere activity tracking to health tracking[^health-track]. Wait, are they not the same? No. A health tracker can track far more: like your blood pressure, mood shifts, stress levels, sleep and even menstrual cycle. Activity trackers do none of that. They measure how (and how much) you move, and perhaps how your heart responds to the movements. In a sense, activity trackers are "dumb"; they give the makers little useful data; the data they give is useful to _you_ because no one other than you can put it in context. Health trackers add the context as well.
 
 [^health-track]: Google Buys Fitbit For $2.1 Billion: Here’s What It Means ([Forbes](https://www.forbes.com/sites/davidphelan/2019/11/01/google-buys-fitbit-for-21-billion-heres-what-it-means/?sh=5e6d0240732f))
 
@@ -48,7 +48,7 @@ Think again. If Facebook saw no big deal in a stupid app that lets you catch up 
 
 Simple: WhatsApp aims to replace the good old {{< smallcaps SMS >}}.
 
-You would have services that send you messages, such as order updates, through WhatsApp. This is one of the reasons Facebook bought WhatsApp. In reality, {{< smallcaps SMS >}} is government-regulated space, at least in countries like India. Telecom Regulator Authority of India has always had a say in this, including setting limits on the number of {{< smallcaps SMS >}} messages that one can send in a day. Companies looking to use this have to clear regulatory requirements before getting the access to send bulk messages. Moreover, how do you buy {{< smallcaps SMS >}}?
+You would have services that send you messages, such as order updates, over WhatsApp. This is one of the reasons Facebook bought WhatsApp. In reality, {{< smallcaps SMS >}} is government-regulated space, at least in countries like India. Telecom Regulator Authority of India has always had a say in this, including setting limits on the number of {{< smallcaps SMS >}} messages that one can send in a day. Companies looking to use this have to clear regulatory requirements before getting the access to send bulk messages. Moreover, how do you buy {{< smallcaps SMS >}}?
 
 At most, you can create an {{< smallcaps SMS >}} app, like [Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging) by Google or [{{< smallcaps SMS >}} Organizer](https://play.google.com/store/apps/details?id=com.microsoft.android.smsorganizer) by Microsoft. I think Microsoft aces this space, and to make it sweeter, says that all processing happens on the phone, no link to the cloud[^sms-org-cloud]. Facebook did indeed try to push [Messenger](https://play.google.com/store/apps/details?id=com.facebook.orca) as the {{< smallcaps SMS >}} app, but nobody I know uses it for {{< smallcaps SMS >}}. Also, all this is on Android, because, Apple does not let any third party touch {{< smallcaps SMS >}}, citing privacy and security.
 
@@ -56,17 +56,17 @@ At most, you can create an {{< smallcaps SMS >}} app, like [Messages](https://pl
 
 Facebook wants to be in this space, because transactional messages are critical in determining the user's financial profile and behaviour. This is why Google tracks your purchases via Gmail, even though (it claims that) it does not show ads based on them.
 
-A step in this direction is WhatsApp Business. Businesses can sign up for the platform and, if more than one individual are interacting with customers or businesses want automated messaging, they could go for the paid package where the businesses get access to the [WhatsApp Business {{< smallcaps API >}}](https://www.whatsapp.com/business/api), using which, they can send messages.
+A step in this direction is WhatsApp Business. Businesses can sign up for the platform and, if more than one individual are interacting with customers or businesses want automated messaging, they could go for the paid package where the businesses get access to the [WhatsApp Business {{< smallcaps API >}}](https://www.whatsapp.com/business/api), using which, they can automate messaging.
 
 This is crucial information for Facebook, because it can tell who is buying what from whom, how frequently they have interactions, etc.
 
-Also, WhatsApp Business is not restricted to businesses. Political organisations, activists, anyone with need to interact with hundreds, thousands or millions of users can use the platform. The _Cambridge Analytica_ scandal is a classic example of manipulation of users on the fence. All this power vested in a single powerful entity is dangerous.
+Also, WhatsApp Business is not restricted to businesses. Political organisations, activists, anyone with need to interact with hundreds, thousands or millions of users can use the platform. The _Cambridge Analytica_ scandal is a classic example of manipulation of users on the fence. All this power vested in a single large entity is dangerous. And Facebook is an empire.
 
-And, do not forget the payment integration. Using {{< smallcaps UPI >}} apps such as PhonePe and Google Pay we (users and businesses) give loads of financial data to the makers of these apps. If you combined messaging with payments (which Google and PhonePe have not excelled at yet because nobody sees the two as communication apps), could skyrocket user-base and data collection. You build a business _ecosystem_ that nobody would want to leave.
+And, do not forget the payment integration. Using {{< smallcaps UPI >}} apps such as PhonePe and Google Pay we (users and businesses) give loads of financial data to the makers of these apps. If you combined messaging with payments (which Google and PhonePe have not excelled at yet because nobody sees the two as communication apps), user-base and data collection could skyrocket. It would be a business _ecosystem_ that nobody would want to leave.
 
 ## Facebook already knows me
 
-Like a friend pointed out, Facebook already knows perhaps too much about each of us. Going by what we browse, which ads we watch without scrolling and what products interest us is half the story. Where the real money goes is the more important half. We all have our #FoundOnAmazon lists and those lists that have products we may never buy, but wish for nonetheless. No store makes real money from window-shoppers. For now, other than products that you buy on Facebook itself, Facebook knows you like something; it does not know what you actually buy, unless you review the product on the platform, claiming to have bought it.
+Like a friend pointed out, Facebook already knows perhaps too much about each of us. Going by what we browse, which ads we watch without scrolling away and what products interest us is half the story. Where the real money goes is the more important half. We all have our #FoundItOnAmazon lists and those lists that have products we may never buy, but wish for nonetheless. No store makes real money from window-shoppers. For now, other than products that you buy on Facebook itself, Facebook knows you probably like something; it does not know what you actually buy, unless you review the product on the platform, claiming to have bought it.
 
 This may change in the future. In other words, we will confirm Facebook's doubts. This will make for a more accurate profile.
 
@@ -78,9 +78,11 @@ In reality, these are different worlds. I need not explain this; I will ask a si
 
 ## WhatsApp was sharing data with Facebook anyway
 
-WhatsApp has indeed been sharing data with Facebook all this while. Ever since the change in their terms some four or five years ago, WhatsApp has shared data with Facebook. But it worked a little differently. Until now, users had a say on whether they want their data shared with Facebook or not. We had thirty days to change our minds when they introduced this new policy. I for one declined data sharing with Facebook because I saw no good coming of it.
+WhatsApp has indeed been sharing data with Facebook all this while. Ever since the change in their terms some four or five years ago, WhatsApp has shared data with Facebook. But it worked a little differently. Until now, users had a say in whether they want their data shared with Facebook or not. We even had thirty days to change our minds when they introduced this new policy. I for one declined data sharing with Facebook because I saw no good coming of it.
 
-New sign-ups to WhatsApp got a thirty-day window as well, to decide whether they wanted WhatsApp to share data with Facebook. Up until now, we could say 'No'.
+New sign-ups to WhatsApp got a thirty-day window as well, to decide whether they wanted WhatsApp to share data with Facebook.
+
+Up until now, we could say, 'No'.
 
 Now, Facebook says, 'Well, too bad. If you want to continue using WhatsApp, you _must_ allow it to share data with Facebook.'
 
@@ -92,6 +94,16 @@ While WhatsApp shared data with Facebook since 2016 or so, this is different in 
 1. WhatsApp will now share financial data with Facebook, including the transaction amount.
 2. Users cannot opt out of the data sharing.
 
+## Is it not easier to delete my Facebook account
+
+At this point, that may be an alternative. But remember that WhatsApp collects a lot of 'data linked to you'. We do not know how the platform will use this data yet. Given the practices of the parent company, I for one, am not holding my breath.
+
+Whether you have a Facebook account or not, the point now is that WhatsApp will use the Facebook infrastructure. For now, it will share data and perhaps do nothing else with the platform. But you still have your name and phone number stored with WhatsApp, and as per the new agreement, Facebook will track your financial information, including your shipping address. Facebook can tie all this into a single identifier. Without a Facebook account, Facebook now has your name, phone number and your address, along with what you buy, how frequently you buy and whom you buy from. Congratulations, you now have a Facebook account (but you cannot log into it to manage it).
+
+To me, that is a losing proposition and a bigger concern. I would much rather have an account that I can manage (in whatever little way possible).
+
+And what I cannot manage is a WhatsApp account, because it offers no data controls---not yet, anyway. With your WhatsApp and Facebook account linked, you _may_ be able to manage _some_ of your data.
+
 ## In conclusion
 
 As software engineers, we look for avenues to improve people's lives. As advocates of free (as in speech) and open software, we do not like this "take it or leave it" attitude; we always choose the latter because we know we can do better.
@@ -100,7 +112,7 @@ Secondly, users’ data is no company's commodity. The user must have a right to
 
 This is not about showing a company its place. This is about taking control of your data and data about you. Weigh the value you receive in return for your data. If the deal is not good enough, walk out. Do not hold on to toxic relationships.
 
-We have a handful of alternatives for such services out there. Privacy does come at a cost. Living in the open, exposed to the elements does not need any money; you need the ability to survive. If you need clothes and a shelter to protect your privacy and what you value most, you must pay for it. Experience tells us that we can trust no single business with what we value, because businesses are here for business, and their priorities may be different from yours. This is why I support Free/Libre and Open Source Software ({{< smallcaps FLOSS >}}). The community drives them. Most of these run on donations and grants. Here are some privacy-friendly alternatives I use on a regular basis:
+We have a handful of alternatives for such services out there. Privacy does sometimes come at a cost. Living in the open, exposed to the elements does not need any money; you need the ability to survive. If you need clothes and a shelter to protect your privacy and what you value most, you must pay for it. Experience tells us that we can trust no single business with what we value, because businesses are here for business, and their priorities may be different from yours. This is why I support Free/Libre and Open Source Software ({{< smallcaps FLOSS >}}). The community drives them. Most of these run on donations and grants. Here are some privacy-friendly alternatives I use on a regular basis:
 
 1. [Pop!_OS](https://pop.system76.com/) as my notebook OS (open source)
 2. [ProtonMail](https://protonmail.com/) for email (open source)
