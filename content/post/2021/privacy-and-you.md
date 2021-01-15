@@ -72,6 +72,28 @@ This may change in the future. In other words, we will confirm Facebook's doubts
 
 Second is your contacts and whom you interact with. This information can help Facebook create a cohort. And anyone who has used any form of analytics can tell you how valuable cohorts are. These are microcosms of similar thoughts and behaviours. In short, this is valuable data.
 
+---
+
+Update (13/01/2021): WhatsApp put out a tweet stating that WhatsApp _does not_ log whom you interact with, or share your contacts with Facebook. To be fair, it may be true that they don’t share this with Facebook ... yet. But as per the privacy policy, you allow WhatsApp to collect your contacts and data about whom you interact with.
+
+First, communication log:
+
+> Automatically Collected Information
+>
+> - Usage And Log Information. We collect information about your activity on our Services, like service-related, diagnostic, and performance information. This includes information about your activity (including how you use our Services, your Services settings, how you interact with others using our Services (including when you interact with a business), and the time, frequency, and duration of your activities and interactions), log files, and diagnostic, crash, website, and performance logs and reports.
+>
+> ---WhatsApp Privacy Policy
+
+Next, contact upload:
+
+> Information You Provide
+>
+> - Your Connections. You can use the contact upload feature and provide us, if permitted by applicable laws, with the phone numbers in your address book on a regular basis, including those of users of our Services and your other contacts. If any of your contacts aren’t yet using our Services, we’ll manage this information for you in a way that ensures those contacts cannot be identified by us.
+>
+> —WhatsApp Privacy Policy
+
+---
+
 Does Facebook not already know whom you interact with the most? It has Messenger, it knows what you post, who likes your posts the most, whose posts you like the most and so on. It knows with whom you agree and disagree.
 
 In reality, these are different worlds. I need not explain this; I will ask a simple question: Are those that interact with your posts or those whose posts you interact with the same people that you message on a regular basis? To me, that is a no. I have a set of close friends some of who do not even have Facebook accounts. Even if they did, some seldom log onto Facebook, others are those who see my posts and text me.
