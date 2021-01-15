@@ -74,21 +74,17 @@ Second is your contacts and whom you interact with. This information can help Fa
 
 ---
 
-Update (13/01/2021): WhatsApp put out a tweet stating that WhatsApp _does not_ log whom you interact with, or share your contacts with Facebook. To be fair, it may be true that they don’t share this with Facebook ... yet. But as per the privacy policy, you allow WhatsApp to collect your contacts and data about whom you interact with.
+Update (13/01/2021): WhatsApp put out a tweet stating that it _does not_ log whom you interact with, or share your contacts with Facebook. To be fair, it may be true that they don’t share this with Facebook ... yet. But as per the privacy policy, you allow WhatsApp to collect your contacts and data about whom you interact with.
 
 First, communication log:
 
-> Automatically Collected Information
->
-> - Usage And Log Information. We collect information about your activity on our Services, like service-related, diagnostic, and performance information. This includes information about your activity (including how you use our Services, your Services settings, how you interact with others using our Services (including when you interact with a business), and the time, frequency, and duration of your activities and interactions), log files, and diagnostic, crash, website, and performance logs and reports.
+> Usage And Log Information. We collect information about your activity on our Services, like service-related, diagnostic, and performance information. This includes information about your activity (including how you use our Services, your Services settings, how you interact with others using our Services (including when you interact with a business), and the time, frequency, and duration of your activities and interactions), log files, and diagnostic, crash, website, and performance logs and reports.
 >
 > ---WhatsApp Privacy Policy
 
 Next, contact upload:
 
-> Information You Provide
->
-> - Your Connections. You can use the contact upload feature and provide us, if permitted by applicable laws, with the phone numbers in your address book on a regular basis, including those of users of our Services and your other contacts. If any of your contacts aren’t yet using our Services, we’ll manage this information for you in a way that ensures those contacts cannot be identified by us.
+> Your Connections. You can use the contact upload feature and provide us, if permitted by applicable laws, with the phone numbers in your address book on a regular basis, including those of users of our Services and your other contacts. If any of your contacts aren’t yet using our Services, we’ll manage this information for you in a way that ensures those contacts cannot be identified by us.
 >
 > —WhatsApp Privacy Policy
 
