@@ -74,7 +74,7 @@ Second is your contacts and whom you interact with. This information can help Fa
 
 ---
 
-Update (13/01/2021): WhatsApp put out a tweet stating that it _does not_ log whom you interact with, or share your contacts with Facebook. To be fair, it may be true that they don’t share this with Facebook ... yet. But as per the privacy policy, you allow WhatsApp to collect your contacts and data about whom you interact with.
+Update (13/01/2021): WhatsApp put out a tweet stating that it _does not_ log whom you interact with, or share your contacts with Facebook. To be fair, it may be true that they don’t share this with Facebook ... yet. But as per the privacy policy, you allow WhatsApp to collect your contacts (of course, without this, the app will show messages against phone numbers instead of names, and information like “this person is not in your contacts” would be inaccurate) and data about whom you interact with.
 
 First, communication log:
 
