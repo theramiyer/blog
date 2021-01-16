@@ -123,7 +123,7 @@ One of the points put forth by some on the Internet was how Facebook, Facebook M
 
 {{< figure src="http://blogfiles.ramiyer.me/2021/images/whatsapp-fb-insta.jpeg" alt="Information that Facebook family of apps collect" caption="Information that Facebook family of apps collect | Credit: [Zak Doffman](https://www.forbes.com/sites/zakdoffman/2021/01/12/you-can-use-whatsapp-after-facebook-apple-imessage-and-signal-backlash-but-change-this/?sh=64166ced798f)" >}}
 
-True, Faceboook, Facebook Messenger and Instagram are way out of line. But I still disagree with that WhatsApp is benign. Remember that while Facebook's other apps do collect way more information compared to WhatsApp, going forward, WhatsApp is going to be the nitrous booster to the ad engine that Facebook is, by getting your business interactions.
+True, Facebook, Facebook Messenger and Instagram are way out of line. But I still disagree with that WhatsApp is benign. Remember that while Facebook's other apps do collect way more information compared to WhatsApp, going forward, WhatsApp is going to be the nitrous booster to the ad engine that Facebook is, by getting your business interactions.
 
 Google seems much better, doesn't it? Here is something for you to think about:
 
