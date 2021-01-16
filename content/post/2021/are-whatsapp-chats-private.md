@@ -129,6 +129,6 @@ Google seems much better, doesn't it? Here is something for you to think about:
 
 Apple made it mandatory for app makers to use their privacy labels to tell users what data they collect from users’ phones. Facebook complied but complained---[created a lot of noise](https://techcrunch.com/2020/12/16/facebook-apple-small-business). Google went silent. Google apps on the Apple app store have not received updates in a month---not one Google-made app has received an update in a month.
 
-As for me, I uninstalled Google and Facebook apps, WhatsApp being a temporary exception, because if I have to reinstall it for some reason, I will have to accept the new privacy policy, which I will not. I would rather wait until the end of the month, and utilise the platform to campaign against it, while I can.
+As for me, I have not had Google and Facebook apps for weeks now, WhatsApp being a temporary exception, because if I have to reinstall it for some reason, I will have to accept the new privacy policy, which I will not. I would rather wait until the end of the month, and utilise the platform to campaign against it, while I can.
 
 This awakening about privacy might change the way we look at smartphones, and somehow, that is heartening.
