@@ -25,6 +25,8 @@ This was perhaps in response to the rumble around the world, and the backlash th
 
 {{< youtube BSKZ1LrpfFI 116 140 >}}
 
+{{< toc >}}
+
 My [previous post]({{< ref privacy-and-you.md >}}) already talks about what this new privacy policy means for you. In this post, I will tell you what this response of WhatsApp's means for you.
 
 ## WhatsApp's response to the rumble
