@@ -1,5 +1,5 @@
 ---
-title: "Private WhatsApp chats are private"
+title: "Are WhatsApp chats private"
 subtitle: "Understanding WhatsApp’s response"
 date: 2021-01-14
 description: |
@@ -37,11 +37,11 @@ The big one.
 
 What {{< smallcaps NDTV >}} India showed is perhaps what most people think this is about. But no, WhatsApp is right in saying that it cannot read your private messages---it cannot read your _private_ messages. Under the hood, WhatsApp uses Signal's protocol to transfer messages, which ensures end-to-end encryption. But, of course, since WhatsApp has not made its code open source, independent security specialists cannot verify if this is the case.
 
-Assuming that WhatsApp is being honest about the protocol it uses, messages that you send to your friends and family are safe, including those that you send in groups.
+Assuming that WhatsApp is being honest about the protocol it uses---which I think is the case---messages that you send to your friends and family are safe, including those that you send in groups.
 
 Then where is the problem?
 
-This is not about your private messages. This is about business messages. [In my previous post]({{< ref privacy-and-you.md >}}), I wrote about WhatsApp for Business, which also has an {{< smallcaps API >}}, which businesses can use to send you messages. This is in cases where a business has a large number of customers, and a team manages customer communication, or in cases where the business needs to automate messaging, such as delivering account updates to you.
+This is _not about your private messages_. This is about business messages. [In my previous post]({{< ref privacy-and-you.md >}}), I wrote about WhatsApp for Business, which also has an {{< smallcaps API >}} that businesses can use to send you messages. This is in cases where a business has a large number of customers, and a team manages customer communication, or in cases where the business needs to automate messaging, such as delivering account updates to you.
 
 WhatsApp's privacy policy says that businesses can choose to share even the messages (as in the message text) with WhatsApp (which WhatsApp can now in turn share with Facebook).
 
