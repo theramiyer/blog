@@ -1,5 +1,5 @@
 ---
-title: "The WhatsApp Boo Boo"
+title: "Private WhatsApp chats are private"
 subtitle: "Understanding WhatsApp’s response"
 date: 2021-01-14
 description: |
@@ -21,7 +21,7 @@ On the 13th of January, WhatsApp put out a tweet in which they said they wanted 
 6. You can set your messages to disappear.
 7. You can download your data.
 
-This was perhaps in response to the rumble around the world, and the backlash that WhatsApp received. Some news channels in our country added to this fire, with what I hope was a mere misunderstanding.
+This was perhaps in response to the rumble around the world, and the backlash that WhatsApp received. Perhaps a response what to some news channels in our country aired. Something like this:
 
 {{< youtube BSKZ1LrpfFI 116 140 >}}
 
