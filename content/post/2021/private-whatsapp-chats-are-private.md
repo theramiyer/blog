@@ -117,7 +117,7 @@ Although, of course, you have the option to not use WhatsApp for shopping. But a
 
 ### The major revelation
 
-One of the points put forth by some on the Internet was how Facebook, Facebook Messenger and Instagram were collecting way more data than necessary to provide their services. One Zak Doffman posted the Apple App Store privacy labels on Twitter:
+One of the points put forth by some on the Internet was how Facebook, Facebook Messenger and Instagram were collecting way more data than necessary to provide their services. Zak Doffman posted their Apple App Store privacy labels on Twitter:
 
 {{< figure src="http://blogfiles.ramiyer.me/2021/images/whatsapp-fb-insta.jpeg" alt="Information that Facebook family of apps collect" caption="Information that Facebook family of apps collect | Credit: [Zak Doffman](https://www.forbes.com/sites/zakdoffman/2021/01/12/you-can-use-whatsapp-after-facebook-apple-imessage-and-signal-backlash-but-change-this/?sh=64166ced798f)" >}}
 
