@@ -46,15 +46,15 @@ We started our return journey at about 08:45, after the fifteen-minute pit stop.
 
 Now, it was time to pay back for the gravity assistance down the Pipeline Road. The terrain felt merciless; the upward incline of the Pipeline Road, combined with gravity, sapped every last bit of energy in me: in spite of eating a yoga bar, two bananas and a few grams of chikki. Thanks to my high metabolic rate, nothing less than 350&nbsp;kcal of intake per 20&nbsp;km was acceptable. So I did another pit stop, ditching the others, to buy another banana. Unfortunately, it wasn't ripe enough (so not enough glucose), but I couldn't eat more than one at a time for the fear of bloating. I also refilled my water bottle (I'd finished 1.5&nbsp;litres in little swigs, in just 32&nbsp;km).
 
-![The long Pipeline Road](http://blogfiles.ramiyer.me/2018/images/2018-09-23-5339.JPG)
+![The long Pipeline Road](https://blogfiles.ramiyer.me/2018/images/2018-09-23-5339.JPG)
 
 When I entered urban Bangalore from around Turahalli, a part of me wanted to stop once I was near home. The other part wanted me to go all the way to the {{< smallcaps "BOTS" >}} store. I bought a bar of Snickers at a local store and ate it while riding. Bad idea. The bar was too sweet for me to finish in one go. It made me feel like wanting to throw up. I kept my cool and waded through the Bangalore traffic---that cannot see you if you're riding a bicycle---and reached the store. Lunch was served. I could not pedal back home; I was too tired for it. I took a cab home.
 
-![Talk about encouragement](http://blogfiles.ramiyer.me/2018/images/2018-09-23-5340.JPG)
+![Talk about encouragement](https://blogfiles.ramiyer.me/2018/images/2018-09-23-5340.JPG)
 
 At home, I did a few simple post-ride stretching exercises to ease the tension on my muscles. I took a shower to cool down. Even after the shower (and in fact, until midnight), I felt very warm, as though I was running a fever. I knew this was normal after a strenuous workout---I've experienced it earlier---but not for that long. At about midnight, I had an episode of perspiration, after which, my skin temperature felt normal.
 
-![At the Finish Line](http://blogfiles.ramiyer.me/2018/images/2018-09-23-5335.JPG)
+![At the Finish Line](https://blogfiles.ramiyer.me/2018/images/2018-09-23-5335.JPG)
 
 The next morning when I woke up, I felt a mild pain in the thighs; nothing more. So, in the end, it all worked out very well. Had I been an experienced road biker like the rest, and not committed the few blunders that I did, I may have enjoyed the ride even more. Here are some of the points that I think are lessons I've learnt so far:
 
