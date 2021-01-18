@@ -89,6 +89,11 @@ enableRobotsTXT = true
 
 EnableHyphenation = true
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      WithFootnoteBacklinkHTML = &#x2191;
+
 [sitemap]
     changefreq = "weekly"
     priority = 0.5
