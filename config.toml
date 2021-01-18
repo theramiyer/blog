@@ -92,7 +92,7 @@ EnableHyphenation = true
 [markup]
   [markup.goldmark]
     [markup.goldmark.extensions]
-      WithFootnoteBacklinkHTML = &#x2191;
+      WithFootnoteBacklinkHTML = '&#x2191;'
 
 [sitemap]
     changefreq = "weekly"
