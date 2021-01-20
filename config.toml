@@ -96,7 +96,7 @@ EnableHyphenation = true
 [markup]
   [markup.goldmark]
     [markup.goldmark.extensions]
-      WithFootnoteBacklinkHTML = "&#x2191;&#xFE0E;"
+      linkify = false
 
 [sitemap]
     changefreq = "weekly"
