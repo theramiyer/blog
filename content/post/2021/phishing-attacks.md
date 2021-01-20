@@ -74,8 +74,10 @@ Let us practice this. Hover over [https://blog.ramiyer.me/](<https://en.wikipedi
 
 Also, here are examples of a couple of deceptive links:
 
-- `https://account‌.outlook‌.com‌.libna‌.ml`
-- `https://amazon‌.in‌.forgotpassword‌.com`
+```text
+- https://account‌.outlook‌.com‌.libna‌.ml
+- https://amazon‌.in‌.forgotpassword‌.com
+```
 
 Notice how similar they look to `amazon.in` and `account‌.outlook‌.com`.
 
