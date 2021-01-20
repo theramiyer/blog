@@ -60,7 +60,7 @@ Most email providers of today, including Gmail, show the email address within th
 
 Always check this before you interact with emails.
 
-Some scammers also use domain names (the part after `@` in the email address) that look like their legitimate counterparts, for example, `grnail.com` instead of `gmail.com`, or `paypa1.in` instead of `paypal.in`. Some use subdomains like `microsoft.com.123-lsd.com`---this email is not coming from Microsoft, but from some `123-lsd.com`. The sans-serif fonts used by these services make it difficult to discern an l from I, and scammers use this to their benefit. Some even use more techniques like `pay.pal.com`, which is technically a subdomain of `pal.com`, and may have nothing to do with PayPal. Others may use a hyphen or an underscore to separate the words in the domain name, like `pay_pal.com`. The possibilities are a little short of endless.
+Some scammers also use domain names (the part after `@` in the email address) that look like their legitimate counterparts, for example, `grnail.com` instead of `gmail.com`, or `paypa1.in` instead of `paypal.in`. Some use subdomains like `microsoft‌.com.123-lsd.com`---this email is not coming from Microsoft, but from some `123-lsd.com`. The sans-serif fonts used by these services make it difficult to discern an l from I, and scammers use this to their benefit. Some even use more techniques like `pay.pal.com`, which is technically a subdomain of `pal.com`, and may have nothing to do with PayPal. Others may use a hyphen or an underscore to separate the words in the domain name, like `pay_pal.com`. The possibilities are a little short of endless.
 
 ### Links may not be what they seem
 
@@ -74,10 +74,10 @@ Let us practice this. Hover over [https://blog.ramiyer.me/](<https://en.wikipedi
 
 Also, here are examples of a couple of deceptive links:
 
-- `https://account.outlook.com.libna.ml`
-- `https://amazon.in.forgotpassword.com`
+- `https://account‌.outlook‌.com‌.libna‌.ml`
+- `https://amazon‌.in‌.forgotpassword‌.com`
 
-Notice how similar they look to `amazon.in` and `account.outlook.com`.
+Notice how similar they look to `amazon.in` and `account‌.outlook‌.com`.
 
 ### Remote content
 
