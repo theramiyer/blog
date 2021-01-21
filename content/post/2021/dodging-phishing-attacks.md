@@ -1,5 +1,5 @@
 ---
-title: "Phishing attacks"
+title: "Dodging phishing attacks"
 subtitle: "A practical guide to protection from the most common email scams"
 date: 2021-01-17T08:02:54+05:30
 description: |
