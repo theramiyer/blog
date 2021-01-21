@@ -39,6 +39,10 @@ As much as I hate Facebook's attitude towards privacy, a handful of the blog pos
 
 Read [Instagram's Data Policy](https://help.instagram.com/519522125107875) for more information.
 
+## Share buttons
+
+The share buttons (Facebook, Twitter, LinkedIn and WhatsApp) do not process your social media data on this site. They use the sharer {{< smallcaps URL >}} of the respective service with details about the post (post title, post {{< smallcaps URL >}}, post summary, etc.) as input parameters. All processing happens on the destination site. In other words, the share buttons do not track you until you click them. Once you click them, the destination site may track you. As such, this site collects no information from you using the share buttons.
+
 ---
 
 All claims about not tracking you hold good as long as the [privacy features of Hugo](https://gohugo.io/about/hugo-and-gdpr/) and those of the services work as expected. These do not come with any warranty; they are beyond my control.
