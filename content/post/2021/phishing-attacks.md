@@ -111,7 +111,7 @@ Another common technique attackers use is telling you that your mailbox is full,
 
 Of late, the simplicity of logon pages that the likes of Microsoft and Google use has led to attackers making such attacks more frequent. Scammers create spoof pages, ask you to enter your username and password, collect the details and redirect you to a legitimate Google or Microsoft help article upon clicking "Submit". The easiest way to have [_some_ protection](<https://www.wired.com/story/chrome-yubikey-phishing-webusb/>) against such attacks is to use [devices like a Yubikey](https://amzn.to/3ivASil)[^yubikey]. But that is not for everyone (at least not in India, because these devices do not come cheap, but if you can afford one, go for it).
 
-[^yubikey]: Buying the Yubikey using the link will help my friends at [Meraki Post](https://instagram.com/merakipostofficial/) gain a small commission at _zero added cost_ to you.
+[^yubikey]: Buying the Yubikey using the affiliate link above will get my friends at [Meraki Post](https://instagram.com/merakipostofficial/) a small commission at _zero added cost_ to you. This helps cover costs.
 
 ### Watch the urgency
 
@@ -135,7 +135,7 @@ Unsolicited
 
 ### Government emails
 
-Some phishing emails seem to come from government agencies, asking for tax information, or giving a link to file tax returns. But such emails come either from public email services (Gmail, Outlook, Yahoo) or non-government domains. As such, legitimate emails from Indian Central or State government agencies use a `gov.in` or an `nic.in` address. That said, some of our government offices do---unwittingly---use a public email address sometimes. Be careful with such emails. Know that any government notifications (other than {{< smallcaps "8 PM" >}} speeches) do give you enough time to act upon them, such as filing tax returns. No government organisation in India works on a notice of minutes or hours.
+Some phishing emails seem to come from government agencies, asking for tax information, or giving a link to file tax returns. But such emails come either from public email services (Gmail, Outlook, Yahoo) or non-government domains. As such, legitimate emails from Indian Central or State government agencies use a `gov.in` or an `nic.in` address. That said, some of our government offices do---unwittingly---use a public email address sometimes. Be careful with such emails. Know that you will have enough time to act upon any government notification (other than {{< smallcaps "8 PM" >}} speeches), such as filing tax returns. No government organisation in India works with a notice of minutes or hours.
 
 ### Padlock is not a sure shot
 
