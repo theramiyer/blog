@@ -115,7 +115,7 @@ Of late, the simplicity of logon pages that the likes of Microsoft and Google us
 
 ### Watch the urgency
 
-Most phishing attacks show a sense of urgency: "Do this within the next 16 hours". When the stakes are high, you do not stop to think or research when the stakes are high; instead, you dive right in. I have seen employees fall victims to what they think is an email from the {{< smallcaps CEO >}} asking for gift cards bought for the season, or a supplier saying that their account has changed and that they did not receive the last payment, asking the team to transfer the money "by {{< smallcaps EOD >}}" to the new account to avoid legal issues.
+Most phishing attacks show a sense of urgency: "Do this within the next 16 hours". When the stakes are high, you do not stop to think or research; instead, you dive right in. I have seen employees fall victims to what they think is an email from the {{< smallcaps CEO >}} asking for gift cards bought for the season, or a supplier saying that their account has changed and that they did not receive the last payment, asking the team to transfer the money "by {{< smallcaps EOD >}}" to the new account to avoid legal issues.
 
 As a side, once an executive from Purchase contacted us saying that she found the tone used in the email a little unusual, and asked us to check the authenticity of the email (a phishing attempt, indeed, using domain spoofing). She had spotted this using her intuition. We even sent technical recommendations to the supplier to prevent this in the future.
 
