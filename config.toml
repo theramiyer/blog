@@ -5,7 +5,7 @@ theme = "typographical"
 
 [params]
   description = "For what it’s worth"
-  enableTypographicalHyphenation = true
+  enableTypographicalHyphenation = false
   enableDevanagari = true
   enableSharing = true
   EnableAutoAttribution = true
