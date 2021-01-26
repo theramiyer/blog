@@ -30,8 +30,8 @@ deploy to production:
   only:
     - master
   script:
+    - aws s3 sync ./public/ s3://$S3_BUCKET/ --delete --cache-control "max-age=31556952" --exclude "*" --include "js/hyphenopoly/patterns/" --content-encoding gzip --content-type application/wasm
     - aws s3 sync ./public/ s3://$S3_BUCKET/ --delete --cache-control "max-age=31556952" --exclude "*" --include "css/*" --include "js/*" --exclude js/hyphenopoly/patterns/en-gb.wasm --include "fonts/*"
-    - aws s3 sync ./public/js/hyphenopoly/patterns/ s3://$S3_BUCKET --delete --cache-control "max-age=31556952" --content-encoding gzip --content-type application/wasm
     - aws s3 sync ./public/ s3://$S3_BUCKET/ --delete --exclude "css/*" --exclude "js/*" --exclude "fonts/*"
     - aws cloudfront create-invalidation --distribution-id $CLOUDFRONT_ID  --paths "/*"
   artifacts:
