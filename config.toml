@@ -50,6 +50,7 @@ theme = "typographical"
   url = "https://ramiyer.me"
   twitter = "iamramiyer"
   facebook = "iamramiyer"
+  patreon = "ramiyer"
 
 [menu]
   [[menu.main]]
