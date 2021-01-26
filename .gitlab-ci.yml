@@ -13,9 +13,9 @@ build for production:
     - master
   script:
     - hugo
-    - $WASM_FILE='public/js/hyphenopoly/patterns/en-gb.wasm'
+    - WASM_FILE='public/js/hyphenopoly/patterns/en-gb.wasm'
     - gzip $WASM_FILE
-    - $GZIP_FILE='public/js/hyphenopoly/patterns/en-gb.wasm.gz'
+    - GZIP_FILE='public/js/hyphenopoly/patterns/en-gb.wasm.gz'
     - mv $GZIP_FILE $WASM_FILE
     - find public/ -type f ! -iname 'index.html' ! -iname '404.html' -iname '*.html' -print0 | while read -d $'\0' f; do mv "$f" "${f%.html}"; done
   artifacts:
