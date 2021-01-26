@@ -12,7 +12,7 @@ build for production:
   only:
     - master
   script:
-    - hugo
+    - hugo --minify
     - WASM_FILE='public/js/hyphenopoly/patterns/en-gb.wasm'
     - gzip $WASM_FILE
     - GZIP_FILE='public/js/hyphenopoly/patterns/en-gb.wasm.gz'
