@@ -2,7 +2,8 @@
 title: "Let Us Talk COVID Vaccine"
 subtitle: "its merits, marketing and controversies"
 date: 2021-01-23T08:02:35+05:30
-description: 
+description: |
+    Vaccines have become highly politicised. Saying anything in favour of them or against them is bound to unleash the wrath of those of the opposite pole. But this does not have to be about one or another. And in this post, we will look at it from all aspects.
 tags:
 draft: true
 ---
