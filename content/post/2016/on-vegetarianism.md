@@ -24,10 +24,10 @@ infringe upon anyone else’s liberty.
 
 ## What this post is
 
-* This post has been created to address a few arguments (and/or questions and/or myths) people have about vegetarians
+* This post has been created to address a few arguments/questions/myths people have about vegetarians
 and vegetarianism.
 * Some vegetarians are vegetarians simply because they were told to, or just subconsciously felt they should be
-vegetarian. This post is also to talk about the ideology behind vegetarianism for them—to understand why we are
+vegetarian. This post is also to talk about the idea behind vegetarianism for them—to understand why we are
 vegetarians.
 
 So here are a few of the questions addressed. Let’s begin!
@@ -37,7 +37,7 @@ So here are a few of the questions addressed. Let’s begin!
 > Are vegan and vegetarian the same?
 
 Nope. Veganism is a more thoughtful (and more difficult) form of vegetarianism. There are a few slabs of _food
-orientation_, if it may be called so (LOL). I’ll list the most common ones here:
+orientation_, if it may be called so. I’ll list the most common ones here:
 
 * Fruitarian
 * Vegan
@@ -46,22 +46,22 @@ orientation_, if it may be called so (LOL). I’ll list the most common ones her
 * Ovo-lacto-vegetarian
 * Non-vegetarian
 
-**Fruitarians** are those who eat only fruits and vegetables plucked out of plants or trees, without harming the plant
+*Fruitarians* are those who eat only fruits and vegetables plucked out of plants or trees, without harming the plant
 or tree in any way. They don’t eat things that are technically branches, roots or stem or any part of the plant life,
 plucking of which harms it in any way. So a fruitarian would not eat potatoes or onions or garlic. And they live on the
 _product_ of the plant or tree, and not on a part of them. Apples, tomatoes, cucumber, etc. are eaten by fruitarians.
 Fruitarians do not consume milk or dairy products either.
 
-**Vegans** eat all parts of plants including their product, hide, stem, branches, leaves … But they don’t consume milk
+*Vegans* eat all parts of plants including their product, hide, stem, branches, leaves … But they don’t consume milk
 or milk products. Nor do they consume things such as honey. Their ideology is that animals should be left to live
 without any sort of disturbance. So a cow’s milk is for its calf, and humans should not take that away from them.
 
-**Lacto-vegetarians** consume all plants, plant parts and plant products, and consume dairy products. I am a
-lacto-vegetarian. **Ovo-vegetarians** are those who consume egg (more explanation on why they are still vegetarian,
+*Lacto-vegetarians* consume all plants, plant parts and plant products, and consume dairy products. I am a
+lacto-vegetarian. *Ovo-vegetarians* are those who consume egg (more explanation on why they are still vegetarian,
 later). They do not consume milk or milk products. Needless to say, everybody other than fruitarians consume every part
-of plants or trees. **Ovo-lacto-vegetarianism** can now be easily understood.
+of plants or trees. *Ovo-lacto-vegetarianism* can now be easily understood.
 
-**Non-vegetarians** are those who consume food consumed by all forms of vegetarians, and consume meat as well, except
+*Non-vegetarians* are those who consume food consumed by all forms of vegetarians, and consume meat as well, except
 human flesh.
 
 Now that the definitions are clear. Let’s move further.
@@ -100,7 +100,7 @@ To avoid stepping on the ethical mat, fruitarians, vegans and lacto-vegetarians 
 > Vegetarians eat bread. Bread has yeast. Yeast is bacteria. Bacteria are living beings. So bread contains living
 beings.
 
-Excellent. And so does buttermilk. And every organic eatable in this world. But then if you think about it, they’re not
+Excellent. Except one change: yeast is fungus. Anyway, buttermilk also contains living beings (bacteria). And every organic eatable in this world. But then if you think about it, they’re not
 complex organisms, they do not have a nervous system, they cannot process feelings, they cannot feel pain.
 
 > How is mushroom vegetarian?
@@ -136,7 +136,7 @@ easier to process. So yes, human beings are, without a doubt, omnivores.
 
 ## Wrapping up
 
-No one way of lifestyle is better than the other. It’s a matter of preference, and personal ideology. But does that mean
+No one way of lifestyle is better than the other. It’s a matter of personal preference. But does that mean
 it should not be taken seriously? No.
 
 Most people feel very strongly about these things—I do. Let’s understand that there’s quite some thought behind someone
