@@ -1,0 +1,159 @@
+---
+title: "Food and Sustainability"
+subtitle:
+date: 2021-02-04T21:19:23+05:30
+description:
+tags:
+draft: true
+---
+
+About five years ago, we had a little “discussion” at work, in which I basically got trolled for being a vegetarian. I was so angry that I wrote down a post on [why I am a vegetarian]({{< ref "on-vegetarianism.md" >}}) and why everyone else was wrong in thinking what they were thinking. A day later, I changed the post to a much milder one, because, I felt that the original post may have come across as too strong, seeming a bit too aggressive, bordering on angry. That was not the purpose of the post.
+
+The post then goes on to talk about the different “food orientations”, answers frequently asked questions and explains why some of us are vegetarians. I continue to be a vegetarian, but as with everything on this blog, I have changed my stance with some of the thoughts and ideas. Also, to me, vegetarianism is now beyond not harming sentient beings.
+
+{{< toc >}}
+
+## Something to address first
+
+I should have done this in the other post, but here: Some fellow vegetarians make statements like, 'Non-vegetarians have no compassion. How can they be so inhuman?' The answer is that first of all, they are not inhuman. I drink milk. I have been drinking bovine milk for three decades now. I know the animals undergo a lot of exploitation, but I have never made the connection between the glass of milk in my hand and the suffering of the cow out there.
+
+In the same way, most non-vegetarians I know would not stand the killing of an animal. We all have non-vegetarian friends who are compassionate towards, say, dogs and elephants; they may play with (clean) piglets and what not. But most do not make the connection between the chicken leg piece on their plate and the bird on the slaughter table.
+
+## The story
+
+A couple of years ago, I watched a video in which the host mentioned in passing, how he had stopped eating meat because of the amount of water it consumes. I did not think of it much back then. But over the last year or so, I have come across a lot more facts about meat eating. I thought I would write about them. It started with the idea of "vegan" meat that I read about while browsing—I think—Reddit. First, I found it funny: why would someone want to do that? But let us look at it step-by-step.
+
+I am an Indian. Milk is an inseparable part of our culture. India probably has the largest vegetarian population in the world[^lar-veg-pop], with 38% of the population identifying as vegetarians. If you consider the allegation that some identified themselves as vegetarians because of societal pressures, and even cut this number by half, India still has the largest vegetarian population in the world.
+
+[^lar-veg-pop]: Countries with the highest rates of vegetarianism ([WorldAtlas](https://www.worldatlas.com/articles/countries-with-the-highest-rates-of-vegetarianism.html))
+
+But that means nothing to sustainability.
+
+Confused?
+
+## Contributions of the cow
+
+We are a culture that cannot do without dairy.
+
+I grew up in Gujarat. Anand Milk Union Limited (or {{< smallcaps AMUL >}}) has always been a matter of pride. Amul has led the country in dairy production for decades, which means a regular employment and source of income for about 3.6 million dairy farmers who collectively own the co-operative body that manages it. I quote Prof. Gulati mentioning this as an example of sustainable economic growth for farmers in [a previous post]({{< ref "farmer-protests.md" >}}).
+
+Over years, we have grown more and more dependent on milk and dairy products. You cannot imagine a regular Indian household without _ghee_ in the kitchen. The white revolution in India makes for case studies in economic development for farmers. Amul is perhaps the largest food company in India, and one of the largest in the world. Most other states have co-operative societies replicating the Amul model. India makes 394 grams of milk per person, per day[^394g-milk] as of 2019 (meaning, we manage to produce 187.7 million metric tonnes of milk a day).
+
+[^394g-milk]: Milk production and per capita availability of milk in India ([National Dairy Development Board](https://www.nddb.coop/sites/default/files/statistics/Mp%20India-ENG-2019.pdf))
+
+This is all great, but let us look at the other side of this story.
+
+## Meat and India
+
+India is the largest exporter of bovine meat in the world[^lar-meat-exp]. In 2019 we had a total livestock population of 535.8 million[^livestock-population], of which 302.3 million were bovines.
+
+[^livestock-population]: Livestock Population in India by Species (Million numbers) ([National Dairy Development Board](https://www.nddb.coop/sites/default/files/statistics/LS%20pop.-ENG-2019.pdf))
+
+[^lar-meat-exp]: India’s beef exports rise under Modi govt despite Hindu vigilante campaign at home ([ThePrint](https://theprint.in/economy/indias-beef-exports-rise-under-modi-govt-despite-hindu-vigilante-campaign-at-home/210164/))
+
+I have lived in urban India since 2007. And most of my non-vegetarian friends eat chicken and fish. I know a mere handful that eat beef, most of who are from Kerala. In general, the urban Indians I know consume more white meat than red meat. Slaughtering of cows is a serious *social* offence in India.
+
+To feed the increasing meat eating population in India, we must stick to poultry and fish. The total poultry population in India (including chicken, ducks and other birds) as of 2019 was 851.8 million. Poultry makes 50.06% of India's meat production[^ani-hus-stat] (as of 2019). Bovine meat is almost half of this, ⅘ of which is buffalo meat. The production of meat is growing at the rate of ~6% per year, according to the same report.
+
+[^ani-hus-stat]: Basic Animal Husbandry Statistics - 2019 ([Department of Animal Husbandry and Dairying](https://dahd.nic.in/sites/default/filess/BAHS%20%28Basic%20Animal%20Husbandry%20Statistics-2019%29_0.pdf), GoI)
+
+In other words, we have hundreds of millions of cows and buffaloes for milk, and hundreds of millions of birds for meat, which brings us to:
+
+## The cost of livestock and poultry
+
+You can imagine me cracking my knuckles here.
+
+We begin by talking water. Chicken drink water. They eat grain which needs water to cultivate. Processing chicken needs water—cleaning the place where they grow, for cleaning the bird after slaughtering, and so on. We cannot recycle this antibiotic-laden water with blood and other "wastes" dissolved in it. We slaughtered 2.813 billion (281.3 crore) birds and 15 million (1.5 crore) bovines in 2018-19. This does not include the birds and animals that died before slaughter (due to diseases and other reasons).
+
+Assuming that we used 1 litre of water per bird per day, and that each bird lived about 45 days, each bird consumed 45 litres of water in its lifetime. Multiplying this by the number of birds slaughtered that year gives 126.59 billion litres of water. The reality, though, is different (drinking itself uses up 400 ml). Here are the usages of water by process[^poultry-water], for birds:
+
+[^poultry-water]: India's meat industry growing rapidly, but ... ([FirstPost](https://www.firstpost.com/india/indias-meat-industry-growing-rapidly-but-depleting-a-third-of-worlds-fresh-water-reserves-4360065.html))
+
+1. Drinking (400 ml of water per day per bird)
+2. Irrigation for bird feed (1000 litres of water per kilogram)
+3. Cooling the broiler houses
+4. Clearing the excreta and feathers
+5. Use in electric baths which needs frequent change to discard bird urine and feces
+6. Boilers used to scald the bird for feather removal
+7. Cold water baths used to lock the moisture after scalding
+8. Removal of internal organs
+9. Cleaning and sanitation
+
+Processing of the carcass alone takes 35 litres of water. The estimate is a direct or indirect use of 4,325 litres of water _per kilogram_ of chicken.
+
+We produced 4.061 million tonnes of poultry meat in the year 2018-19, which, by the calculation above, consumed 17.564 trillion litres (or 17.564 km³) of water. To give you a perspective, that is twice the amount of water the largest man-made lake in the world, Nagarjuna Sagar dam can store, and almost 1.4 times the capacity of the largest dam in the country.
+
+When we get to the bovines, the number is 20,045 litres of water per kilogram of meat. Which means, in total, to produce 1.872 million tonnes of meat, we used 37.530 trillion litres (or km³) of water, which is thrice the capacity of the largest dam in our country.
+
+But wait, we do not eat beef!
+
+Well, the story is worse in our case. How? For starters, we derived that amount of water by calculating the meat from ~15 million bovines. But the actual population of bovines in India is 302.3 million. Bovines do not get killed within a year like birds do. They live much longer. Each bovine uses up about 11 times as much water as a human in any given time span. Which means that if we give all the water that bovines consume to humans, we could support 3.325 billion humans.
+
+And I said our story is worse, because we are the world's largest exporter of beef. By exporting beef, we are exporting all that water.
+
+Of course, to be fair, some of that water does get recycled.
+
+And when coupled with the decline in water availability from 5,000 m³ per annum in 1950 to 2,000 now and a projected 1,500 by 2025[^water-pred], we would be better off channelling water to the right places.
+
+[^water-pred]: Agriculture ([India Water Portal](https://www.indiawaterportal.org/topics/agriculture))
+
+### The feed cost
+
+The next is the food these animals eat. A a non-lactating cow generally eats 2% of its weight (which is about 12 kilograms of forage) per day. A lactating cow eats an added 50% of its milk production as grain (for example, if a cow gives 5 litres of milk, it eats an added 2.5 kg of grain). Cows eat hay and vegetable wastes, which is not an infringement on human food. Also, we cannot fully consider the 20,045 litres of water, because we would have used a good chunk of that water any way, to grow our food.
+
+While the exact numbers are unavailable, we know that about 70% of bovines’ food is from fodder. The rest 30% is grain and pulses. Assuming that a cow eats an average 12 kilograms of food a day, about 3.5 kilograms of it are grains. Multiply that by the bovine population, we get 52,500 tonnes of grain every day. All our cows and buffaloes combined produce about 187.7 million litres of milk a day, which adds another 93,850 tonnes of grain a day as feed. All these animals in our country, combined, eat 146,350 tonnes of grain (or 1.463 lac tonnes of grain) a day.
+
+But then, a report based on {{< smallcaps FAS >}} New Delhi estimates based on information from trade sources shows that India uses a total of 38 ­– 42 million tonnes of feed[^fas-report]. Corn, wheat and other coarse grains constitute 21.3 – 23 million tonnes. Another point the report brings to attention is the potential to import feed ingredients from the international market. The feed industry is growing at a rate of 5 – 7 percent per year, almost in line with the meat consumption.
+
+[^fas-report]: India: Grain and Feed Annual ([{{< smallcaps "USDA FAS" >}}](https://apps.fas.usda.gov/newgainapi/api/report/downloadreportbyfilename?filename=Grain%20and%20Feed%20Annual_New%20Delhi_India_3-29-2019.pdf))
+
+Add to this bird feed, which is a 70% concentrate of grains and pulses, across the total poultry population, and again, you have a large amount of food that goes into feeding the birds.
+
+### The environmental cost
+
+Let us begin with the amount of manure a cow can produce. A cow can drink up to 130 litres of water in a day[^cow-water]. It can produce about 18 litres of urine a day, and about 30 kg of dung. Again, multiply that by the number of bovine creatures we have, and we are looking at about 4.5 million tonnes of dung a day. 'But what is the big deal? Haven't we traditionally used manure as fertilisers and what not?'
+
+[^cow-water]: How Much Manure Does a Cow Produce Daily? ([Reference](https://www.reference.com/pets-animals/much-manure-cow-produce-daily-f92138ade239a692))
+
+We have, but the scale is the key here. What was the population of our country when we started using these methods? What was the bovine population of our country when we started these systems? What is it today? In simple terms, back in 1920, we had a population of 1 billion people across the globe. In the next 100 years, it went to 1.5 billion. And in the next hundred years, it multiplied almost 5 times and reached 7 billion. This is the human population alone.
+
+To feed milk to this large population, we bred milch animals. Their population also grew at that scale. And the amount of green house gases (methane, nitrous oxide, ammonia, hydrogen sulphide, etc.) emitted into the atmosphere grew at the same rate, and today, continues to grow—in India—at the rate of 5 – 7% per annum. These gases are much more potent than carbon monoxide and dioxide (methane retains about a hundred times the heat as carbon dioxide over a five-year period). This happens when the animals eat food they cannot digest. This causes the bacteria living in their digestive tract to digest them, producing methane as a bi-product. A mere 3 million cows may not have mattered.
+
+Next, researchers from Texas Tech found that all their air samplers placed around feedlots recorded samples of antibiotics. 60% of the upwind samplers and 30% of the downwind samplers tested positive for tetracycline antibiotics, which is contributing to antibiotic resistance in bacteria. Because these bacteria are now becoming resistant to these antibiotics, we are finding it hard to treat diseases such as urinary tract infection.
+
+Some environmental organisations estimate that _half_ of all green house gas emissions come from farm animals alone.
+
+## Is vegetarianism all that healthy
+
+Not in today's world. But all this makes me think that perhaps vegetarianism is healthier and more sustainable than using animals for food.
+
+An interesting statement I came across was that eating animals is an inefficient way to nutrition. Let me explain.
+
+Cattle and buffaloes are large animals and they eat a lot of food. They grow, of course, but that growth when seen in terms of nutrient delivery, is inefficient. If you slaughtered a buffalo that weighs 300 kg, the amount of flesh you would get is perhaps about a hundred kilograms. But the amount of food that it ate throughout its life is much more than that.
+
+Instead, if you removed the animal from the equation, and gave the same amount of food to humans, you can feed at least ten humans. I know that while an oversimplification, the statement is not far from the truth.
+
+Am I suggesting that we get rid of animals? No. All I say is that it does not make sense to breed animals for food.
+
+## But what about protein
+
+What about protein? I have been a vegetarian throughout my life. And I am not protein-deficient. I look thin, but that is:
+
+1. Perception
+2. High metabolism
+
+It has nothing to do with my protein intake. That plants are by nature deficient in protein is a myth. We have protein-rich plant-based foods, as there are foods rich in other nutrients. I need about 65 grams of protein per day, to maintain my weight. The last time I lost weight was in 2014, because of dengue. I regained my weight in about six months after that. And my body fat percentage is within limits, and so is my {{< smallcaps BMI >}}.
+
+But of course, I have been drinking milk. Changing to a non-dairy diet may lead to changes in these parameters, but with the current scale of demand and supply, I do not think that milk and dairy products lead to as much protein absorption as advertised. Because you must always lose something to gain something.
+
+Am I suggesting that we never use scientific methods to increase productivity? No, but I do say that any scientific method is about the cost-to-benefit ratio. (And unscientific methods are, well, unscientific.)
+
+## Summary
+
+Again, this post is not to say that one way of life is better than the other. The vegetarian (perhaps the purely-plant-based) way is more sustainable in our current world. Can you quit eating meat? Probably not; I cannot fully quit dairy products yet. And almost every Indian vegetarian is also contributing to the issues mentioned above. Measuring India with the same scale as other countries is not right, because our strengths and weaknesses are different; the variables we deal with are different from most other countries in the world.
+
+Having said that, what may have been a sustainable culture a millennium ago or a couple of centuries ago may not be the right way to go either. A lot has changed during this time. Green house gas emissions from 60,000 cows may not have been much three hundred years ago, because we did not have the number of vehicles and factories that we have today. Our country may not have been so populous back then. As these variables change, we must tweak our lives to match them.
+
+Sustainability is important. No other species can understand this. And protecting ourselves along with our surroundings is our responsibility.
+
+And no, I do not subscribe to {{< smallcaps PETA >}} or any activist organisation.
