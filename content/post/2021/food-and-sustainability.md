@@ -154,7 +154,7 @@ Am I suggesting that we never use scientific methods to increase productivity? N
 
 ## Summary
 
-Again, this post is not to say that one way of life is better than the other. The vegetarian (perhaps the purely-plant-based) way is more sustainable in our current world. Can you quit eating meat? Probably not; I cannot fully quit dairy products yet. And almost every Indian vegetarian is also contributing to the issues mentioned above. Measuring India with the same scale as other countries is not right, because our strengths and weaknesses are different; the variables we deal with are different from most other countries in the world.
+Again, this post is not to say that one way of life is better than the other. The vegetarian (perhaps the purely-plant-based) way is more sustainable in our current world. Can you quit eating meat? Probably not; I cannot fully quit dairy products yet. And almost every Indian vegetarian is also contributing to the issues mentioned above. Measuring India with the same scale as other countries is not right, because our strengths and weaknesses are different; the variables we deal with are different from most other countries in the world. Not to mention the economic impact moving away from animal-based food will have on millions of our farmers.
 
 Having said that, what may have been a sustainable culture a millennium ago or a couple of centuries ago may not be the right way to go either. A lot has changed during this time. Green house gas emissions from 60,000 cows may not have been much three hundred years ago, because we did not have the number of vehicles and factories that we have today. Our country may not have been so populous back then. As these variables change, we must tweak our lives to match them.
 
