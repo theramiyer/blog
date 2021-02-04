@@ -4,7 +4,6 @@ subtitle:
 date: 2021-02-04T21:19:23+05:30
 description:
 tags:
-draft: true
 ---
 
 About five years ago, we had a little “discussion” at work, in which I basically got trolled for being a vegetarian. I was so angry that I wrote down a post on [why I am a vegetarian]({{< ref "on-vegetarianism.md" >}}) and why everyone else was wrong in thinking what they were thinking. A day later, I changed the post to a much milder one, because, I felt that the original post may have come across as too strong, seeming a bit too aggressive, bordering on angry. That was not the purpose of the post.
