@@ -3,6 +3,7 @@ author: ram
 date: "2016-08-17T04:34:00Z"
 tags:
 - opinion
+- food
 title: On vegetarianism
 ---
 
