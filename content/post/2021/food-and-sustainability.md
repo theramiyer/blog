@@ -174,7 +174,7 @@ The change cannot be sudden. But at the same time, we must also remember that pu
 
 This _must not_ be an either-or. Awareness and moderation is what we need.
 
-As for those who go for meat for the taste and texture, the likes of _Impossible Foods_ and _Beyond Meat_ are already making vegan alternatives, and apparently, they are also available in some parts of India[^vogue-mock-meat]. I am yet to see them on grocery shelves, but this is interesting. We have Indian companies making such food as well, but I could not find enough information to post about them.
+As for those who go for meat for the taste and texture, the likes of _Impossible Foods_ and _Beyond Meat_ are already making vegan alternatives, and apparently, they are also available in some parts of India[^vogue-mock-meat]. I am yet to see them on grocery shelves, but this is interesting. We have Indian companies making such food as well, but I could not find enough information about them to post.
 
 [^vogue-mock-meat]: Everything you need to know about the vegetarian “meat” wave hitting the grocery shelves ([Vogue India](https://www.vogue.in/culture-and-living/content/all-you-need-to-know-about-the-vegetarian-mock-meat))
 
