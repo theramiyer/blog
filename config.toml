@@ -8,7 +8,6 @@ theme = "typographical"
   enableTypographicalHyphenation = true
   enableDevanagari = true
   enableSharing = true
-  EnableAutoAttribution = true
   fbAppId = "1004129106665557"
   fbAccessToken = "c0ccefea32b8675b177da298022b672c"
   applePodcastsId = "id1448518505"
