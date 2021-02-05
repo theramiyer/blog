@@ -282,8 +282,6 @@ He says that the Central government still has consulted with the State governmen
 
 ## What now
 
-I think I can now give my view given that we have the bigger picture.
-
 We see that the concept of {{< smallcaps MSP >}} was a necessary step at the time when we had scarcity of food grains. But that is perhaps now leading to a slow destruction in return for lower market risk. The times have changed from 1890s and 1960s. Also, we are no more a purely-socialistic economy. The world is not the same as that of the 1960s. We as a country have moved towards globalisation. We are not the protectionist economy of the past; we are a global market player of consequence. Because we are now part of the free market, we must drive our production _based on demand_.
 
 While price support was necessary back when we introduced it---and it worked well at the time---we must now move towards _income support_ for the farmers to keep farming sustainable. Telangana, for instance, has done this. Other States followed soon after.
@@ -304,17 +302,35 @@ Those governing must also understand that the first step towards trust is transp
 
 And is this how you bring a reform---by steam-rolling? In a co-operative federal system, you do not slap people around; you balance power. The ruling party had a respectable politician with them; they should perhaps read up about him.
 
+---
+
+Update 05 February 2021: After looking at how the officials and the government agencies handled the farmer protests and how the officials tried to silence dissenting voices, it makes you wonder: are the intentions truly good?
+
+Second, are we going in the right direction? No country is perfect. International media criticises everyone. If we have good intentions and value transparency, we would accept our error, apologise to those affected, and move on. This obsession over image makes one assume absence of substance.
+
+It makes one think there is malice.
+
+Putting in place five or six layers of security systems and personnel, blocking or harassing journalists who tried to report, slapping irrelevant cases on them, cutting off Internet access, police threatening checking of social media accounts for "anti-national" content makes one feel that something is wrong.
+
+What is wrong with us?
+
+One tweet from a pop singer rattles the entire system? Filing {{< smallcaps FIR >}} against an activist for a "toolkit" (which in reality is a shared document)? How much more absurd is this going to get? Where are we going with this kind of behaviour?
+
+Why such insecurity?
+
+---
+
 Now, to something interesting:
 
 ## Making informed decisions
 
-People and parties in power make comments like 'too much democracy' because of the fear that anybody can sway people either way, because people are too ill-informed. Keeping you ill-informed makes lives of some easier. This is also the insecurity of the populist, who, unintentionally, is also questioning his/her own victory in elections, by questioning the intellect of people.
+People and parties in power make comments like 'too much democracy' because of the fear that anybody can sway people either way, because people are too ill-informed. Keeping you ill-informed makes lives of some easier. This is also the insecurity of the populist, who, unintentionally, is also questioning his / her own victory in elections, by questioning the intellect of people.
 
 Be that as it may, outsourcing governance does not work. And there is no such thing as a "benevolent dictator". In a democracy, we must keep awake, because at the end of the day, good governance is also a citizen's responsibility. If we do not know what is good for us and we do not know what to ask for, we will keep hitting the roads in protest. Because sometimes, we must also gauge the intelligence and the intentions of those we vote into power---one way or another.
 
 As for these farm laws, the government should man up, face the farmer and show some sincerity by speaking about the government's problem, and _offer_ solutions instead of imposing them. Remove all political middlemen---make it a straight communication; not from a citadel, but on the ground in front of the farmer. Because they are farmers. Show some respect---they are among those doing a thankless job. Also, citizens including our farmers, can understand the government's problems.
 
-They are doing what they are doing because of a trust deficit. While the problem of surpluses is real, the government cannot overcome it by imposition.
+They are doing what they are doing because of a trust deficit. And one does not build trust this way. While the problem of surpluses is real, the government cannot overcome it by imposition.
 
 Trust us; we have always been transparent and accommodating.
 
