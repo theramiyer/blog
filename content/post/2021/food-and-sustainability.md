@@ -152,15 +152,29 @@ But of course, I have been drinking milk. Changing to a non-dairy diet may lead 
 
 Am I suggesting that we never use scientific methods to increase productivity? No, but I do say that any scientific method is about the cost-to-benefit ratio. (And unscientific methods are, well, unscientific.)
 
-## Summary
+## The flip side
 
 Again, this post is not to say that one way of life is better than the other. The vegetarian (perhaps the purely-plant-based) way is _more sustainable_ in our current world.
 
 Can you quit eating meat? Probably not; I cannot fully quit dairy products yet. And almost every Indian vegetarian is also contributing to the issues mentioned above because of the dairy element. Measuring India with the same scale as other countries is not right, because our strengths and weaknesses are different; the variables we deal with are different from most other countries in the world.
 
-But the fact that this is too big a change, is true globally. More so because those who did not eat meat because they could not afford it now do; apart from meat becoming more affordable, people’s income has also increased. Animal farming is also a source of income for millions of farmers. Switching away from animal products will lead to massive unemployment. Rural income will get affected. From the consumer standpoint, the cost per unit of nutrients (whether protein or micronutrients) is lower in dairy and meat. Nutritious vegetarian food is more expensive than meat, in a way.
+This is too big a change. More so because those who did not eat meat owing to affordability, now do; apart from meat becoming more affordable, people’s income has also increased.
 
-Having said that, what may have been a sustainable culture a millennium ago or a couple of centuries ago may not be the right way to go either. A lot has changed during this time. Green house gas emissions from 60,000 cows may not have been much three hundred years ago, because we did not have the number of vehicles and factories that we have today. Our country may not have been so populous back then. As these variables change, we must tweak our lives to match them.
+Animal farming is also a source of income for millions of farmers. Switching away from animal products will lead to massive unemployment[^bbc-vegan]. Rural income will get affected.
+
+[^bbc-vegan]: What would happen if the world suddenly went vegetarian? ([{{< smallcaps BBC >}}](https://www.bbc.com/future/article/20160926-what-would-happen-if-the-world-suddenly-went-vegetarian))
+
+From the consumer standpoint, the _cost per unit of nutrients_ (whether protein or micronutrients) is lower in dairy and meat. In other words, while price per unit weight of animal products is higher than their vegan counterparts, the nutrient density in meat offsets the price, making nutritious vegetarian food slightly more expensive than meat. Because a typical healthy vegetarian eats more legumes, vegetables and fruits and coarse grain than refined grain like rice---and larger servings of the former. Of course, in long term, this would lead to better health and reduced medical expenditure. But in countries like ours, the poor have some healthcare benefits from the government, but food security revolves around merely filling the stomach than filling it with _good_ food.
+
+## Summary
+
+What may have been a sustainable culture a millennium ago or a couple of centuries ago may not be the right way to go either. A lot has changed during this time. Green house gas emissions from 60,000 cows may not have been much three hundred years ago, because we did not have the number of vehicles and factories that we have today. Our country may not have been so populous back then. As these variables change, we must tweak our lives to match them.
+
+The change cannot be sudden. But at the same time, we must also remember that putting off the change would impact us more. The key is starting small and being consistent. We must pick one piece at a time, and work for alternatives while making a small change. For example, increase the availability of millets by 30,000 tonnes a year, and decrease the availability of meat by 15,000 tonnes a year. The market will catch up to this change. The society and the economic setup can adapt to this.
+
+As for those who go for meat for the taste and texture, the likes of _Impossible Foods_ and _Beyond Meat_ are already making vegan alternatives, and apparently, they are also available in some parts of India[^vogue-mock-meat]. I am yet to see them on grocery shelves, but this is interesting.
+
+[^vogue-mock-meat]: Everything you need to know about the vegetarian “meat” wave hitting the grocery shelves ([Vogue India](https://www.vogue.in/culture-and-living/content/all-you-need-to-know-about-the-vegetarian-mock-meat))
 
 Sustainability is important. No other species can understand this. And protecting ourselves along with our surroundings is our responsibility.
 
