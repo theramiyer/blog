@@ -172,6 +172,8 @@ What may have been a sustainable culture a millennium ago or a couple of centuri
 
 The change cannot be sudden. But at the same time, we must also remember that putting off the change would impact us more. The key is starting small and being consistent. We must pick one piece at a time, and work for alternatives while making a small change. For example, increase the availability of millets by 30,000 tonnes a year, and decrease the availability of meat by 15,000 tonnes a year. The market will catch up to this change. The society and the economic setup can adapt to this.
 
+More importantly, this _must not_ be an either-or. Awareness and moderation is what we need.
+
 As for those who go for meat for the taste and texture, the likes of _Impossible Foods_ and _Beyond Meat_ are already making vegan alternatives, and apparently, they are also available in some parts of India[^vogue-mock-meat]. I am yet to see them on grocery shelves, but this is interesting.
 
 [^vogue-mock-meat]: Everything you need to know about the vegetarian “meat” wave hitting the grocery shelves ([Vogue India](https://www.vogue.in/culture-and-living/content/all-you-need-to-know-about-the-vegetarian-mock-meat))
