@@ -2,7 +2,8 @@
 title: "Food and Sustainability"
 subtitle:
 date: 2021-02-04T21:19:23+05:30
-description:
+description: |
+    About five years ago, I had made a post about vegetarianism, from the philosophical standpoint. In this post, we talk about the other---economic, social, environmental, etc.---aspects of food itself that have pracitcal implications, backed by data, almost making it an "all you need to know about food sustainability" post. You will get an understanding of your footprint whether you are a vegetarian or a non-vegetarian.
 tags:
 - food
 - environment
@@ -121,7 +122,7 @@ Let us begin with the amount of manure a cow can produce. A cow can drink up to 
 
 We have, but the scale is the key here. What was the population of our country when we started using these methods? What was the bovine population of our country when we started these systems? What is it today? In simple terms, back in 1820, we had a population of 1 billion people across the globe. In the next 100 years, it went to 1.5 billion. And in the next hundred years, it multiplied almost 5 times and reached 7 billion. This is the human population alone.
 
-To feed milk to this large population, we bred milch animals. Their population also grew at that scale. And the amount of green house gases (methane, nitrous oxide, ammonia, hydrogen sulphide, etc.) emitted into the atmosphere grew at the same rate, and today, continues to grow—in India—at the rate of 5 – 7% per annum. These gases are much more potent than carbon monoxide and dioxide (methane retains about a hundred times the heat as carbon dioxide over a five-year period). This happens when the animals eat food they cannot digest. This causes the bacteria living in their digestive tract to digest them, producing methane as a bi-product. A mere 3 million cows may not have mattered.
+To feed milk to this large population, we bred milch animals. Their population also grew at that scale. And the amount of green house gases (methane, nitrous oxide, ammonia, hydrogen sulphide, etc.) emitted into the atmosphere grew at the same rate, and today, continues to grow—in India—at the rate of 5 – 7% per annum. These gases are much more potent than carbon monoxide and dioxide (methane retains about a hundred times the heat as carbon dioxide over a five-year period). This happens when the animals eat food they cannot digest. This causes the bacteria living in their digestive tract to digest them, producing methane as a by-product. A mere 3 million cows may not have mattered, but what is their population today?
 
 Next, researchers from Texas Tech found that all their air samplers placed around feedlots recorded samples of antibiotics. 60% of the upwind samplers and 30% of the downwind samplers tested positive for tetracycline antibiotics, which is contributing to antibiotic resistance in bacteria. Because these bacteria are now becoming resistant to these antibiotics, we are finding it hard to treat diseases such as urinary tract infection.
 
@@ -135,9 +136,9 @@ An interesting statement I came across was that eating animals is an inefficient
 
 Cattle and buffaloes are large animals and they eat a lot of food. They grow, of course, but that growth when seen in terms of nutrient delivery, is inefficient. If you slaughtered a buffalo that weighs 300 kg, the amount of flesh you would get is perhaps about a hundred kilograms. But the amount of food that it ate throughout its life is much more than that.
 
-Instead, if you removed the animal from the equation, and gave the same amount of food to humans, you can feed at least ten humans. I know that while an oversimplification, the statement is not far from the truth.
+Instead, if you removed the animal from the equation, and gave the same amount of food to humans, you can feed at least ten humans. While an oversimplification, the statement is not far from the truth.
 
-Am I suggesting that we get rid of animals? No. All I say is that it does not make sense to breed animals for food.
+Am I suggesting that we get rid of animals? No. All I say is that breeding animals for food is inefficient.
 
 ## But what about protein
 
@@ -158,26 +159,26 @@ Again, this post is not to say that one way of life is better than the other. Th
 
 Can you quit eating meat? Probably not; I cannot fully quit dairy products yet. And almost every Indian vegetarian is also contributing to the issues mentioned above because of the dairy element. Measuring India with the same scale as other countries is not right, because our strengths and weaknesses are different; the variables we deal with are different from most other countries in the world.
 
-This is too big a change. More so because those who did not eat meat owing to affordability, now do; apart from meat becoming more affordable, people’s income has also increased.
+Switching away from meat is too big a change. Animal farming is a source of income for millions of farmers. Switching away from animal products will lead to massive unemployment[^bbc-vegan]. Rural income will get affected the most. Imagine the scale when about 60% of our workforce depends on agriculture, directly or indirectly[^agri-workforce].
 
-Animal farming is also a source of income for millions of farmers. Switching away from animal products will lead to massive unemployment[^bbc-vegan]. Rural income will get affected.
+[^agri-workforce]: India at a glance ([{{< smallcaps FAO >}} in India](http://www.fao.org/india/fao-in-india/india-at-a-glance/en/))
 
 [^bbc-vegan]: What would happen if the world suddenly went vegetarian? ([{{< smallcaps BBC >}}](https://www.bbc.com/future/article/20160926-what-would-happen-if-the-world-suddenly-went-vegetarian))
 
-From the consumer standpoint, the _cost per unit of nutrients_ (whether protein or micronutrients) is lower in dairy and meat. In other words, while price per unit weight of animal products is higher than their vegan counterparts, the nutrient density in meat offsets the price, making nutritious vegetarian food slightly more expensive than meat. Because a typical healthy vegetarian eats more legumes, vegetables and fruits and coarse grain than refined grain like rice---and larger servings of the former. Of course, in long term, this would lead to better health and reduced medical expenditure. But in countries like ours, the poor have some healthcare benefits from the government, but food security revolves around merely filling the stomach than filling it with _good_ food.
+From the consumer standpoint, the _cost per unit of nutrients_ (whether protein or micronutrients) is lower in dairy and meat. In other words, while price per unit weight of animal products may be higher than their vegan counterparts, the nutrient density in meat offsets the price, making nutritious vegetarian food slightly more expensive than meat. Because a typical healthy vegetarian eats more legumes, vegetables and fruits and coarse grain than, say, rice---and larger servings of the former. Of course, in long term, this would lead to better health and reduced medical expenditure. But in countries like ours, the poor have some healthcare benefits from the government, but food security revolves around merely filling the stomach than filling it with _good_ food.
 
 ## Summary
 
-What may have been a sustainable culture a millennium ago or a couple of centuries ago may not be the right way to go either. A lot has changed during this time. Green house gas emissions from 60,000 cows may not have been much three hundred years ago, because we did not have the number of vehicles and factories that we have today. Our country may not have been so populous back then. As these variables change, we must tweak our lives to match them.
+What may have been a sustainable culture a millennium ago or a couple of centuries ago may not be the right way to go today. A lot has changed during this time. Green house gas emissions from 60,000 cows may not have been much three hundred years ago, because we did not have the number of vehicles and factories that we have today. Our country may not have been so populous back then. As these variables change, we must tweak our lives to match them.
 
-The change cannot be sudden. But at the same time, we must also remember that putting off the change would impact us more. The key is starting small and being consistent. We must pick one piece at a time, and work for alternatives while making a small change. For example, increase the availability of millets by 30,000 tonnes a year, and decrease the availability of meat by 15,000 tonnes a year. The market will catch up to this change. The society and the economic setup can adapt to this.
+The change cannot be sudden. But at the same time, we must also remember that putting off the change would impact us more. The key is starting small and being consistent. We must pick one piece at a time, and work for alternatives while making a small change. For example, increase the availability of millets by 30,000 tonnes a year, and decrease the availability of meat by 15,000 tonnes a year. The market will catch up with this change. The society and the economic setup can adapt to this as well.
 
 This _must not_ be an either-or. Awareness and moderation is what we need.
 
-As for those who go for meat for the taste and texture, the likes of _Impossible Foods_ and _Beyond Meat_ are already making vegan alternatives, and apparently, they are also available in some parts of India. I am yet to see them on grocery shelves, but this is interesting. We have Indian companies making such food as well[^vogue-mock-meat], but I could not find enough information about them to post.
+As for those who go for meat for the taste and texture, the likes of _Impossible Foods_ and _Beyond Meat_ are already making vegan alternatives, and apparently, they are also available in some parts of India. I am yet to see them on grocery shelves, but this is interesting. We have Indian companies making such food as well[^vogue-mock-meat], but neither could I find enough information about them, nor have I tried them to be able to post.
 
 [^vogue-mock-meat]: Everything you need to know about the vegetarian “meat” wave hitting the grocery shelves ([Vogue India](https://www.vogue.in/culture-and-living/content/all-you-need-to-know-about-the-vegetarian-mock-meat))
 
-Sustainability is important. No other species can understand this. And protecting ourselves along with our surroundings is our responsibility.
+Sustainability is important. No other species can understand this. And protecting ourselves along with our surroundings is _our_ responsibility.
 
 And no, I do not subscribe to {{< smallcaps PETA >}} or any activist organisation.
