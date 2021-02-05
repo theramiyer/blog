@@ -2,7 +2,8 @@
 title: "Food and Sustainability"
 subtitle:
 date: 2021-02-04T21:19:23+05:30
-description:
+description: |
+    About five years ago, I had made a post about vegetarianism, from the philosophical standpoint. In this post, we talk about the other---economic, social, environmental, etc.---aspects of food itself that have pracitcal implications, backed by data, almost making it an "all you need to know about food sustainability" post. You will get an understanding of your footprint whether you are a vegetarian or a non-vegetarian.
 tags:
 - food
 - environment
