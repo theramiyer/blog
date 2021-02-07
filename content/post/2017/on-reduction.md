@@ -11,8 +11,8 @@ title: On Reduction
 This post is one among three in the series:
 
 1. On Reduction
-2. [On Sub-nationalism]({{< ref "on-sub-nationalism" >}})
-3. [On Unification]({{< ref "on-unification" >}})
+2. [On Sub-nationalism]({{< relref "on-sub-nationalism" >}})
+3. [On Unification]({{< relref "on-unification" >}})
 
 Historian and columnist Ramchandra Guha did an hour-long talk on how nationalism is a nineteenth-century European phenomenon, and how Indian nationalism was founded on the exact opposite principles.
 
@@ -52,4 +52,4 @@ OK, not really. But let's look at what made India such a great subcontinent in t
 
 What we need to understand here is that the attitude of openness that we've carried through millennia is what made us survive for millennia. This automatically makes our new attitude of conformity counterintuitive.
 
-I'm almost nearing the word limit here, so let's stop here and [continue in the next post]({{< ref "on-sub-nationalism" >}})?
+I'm almost nearing the word limit here, so let's stop here and [continue in the next post]({{< relref "on-sub-nationalism" >}})?

@@ -5,7 +5,7 @@ tags:
 title: The World of Automation Today (Part 2)
 ---
 
-In the [previous post]({{< ref "the-world-of-automation-today-part-1" >}}) in the series, we saw an overview of what we've done over at our blog to handle team communication. I did not give a complete listing or an in-depth idea of how we've enabled team communication using Slack. It was purposeful, considering that the series is just an overview of what automation can help us achieve, or what are the small ways we can start at implementing automation.
+In the [previous post]({{< relref "the-world-of-automation-today-part-1" >}}) in the series, we saw an overview of what we've done over at our blog to handle team communication. I did not give a complete listing or an in-depth idea of how we've enabled team communication using Slack. It was purposeful, considering that the series is just an overview of what automation can help us achieve, or what are the small ways we can start at implementing automation.
 
 However, it's noteworthy that offloading all of the communication to Slack was indeed a relief from setting up and managing a boatload of communication that can happen, when you're a group of people, managing something from different locations. The last time the entire crew met was perhaps sometime in the beginning of 2016. And after that, we performed a complete overhaul of the site, and almost everything we own as the group, and we didn't have to meet even once.
 
@@ -21,4 +21,4 @@ Travis&nbsp;CI came to the rescue. Travis&nbsp;CI is a _Continuous Integration_ 
 
 Next, we wanted to be notified every time content was pushed, or a build succeeded or failed. Slack, again! We created a new tech channel, added the Travis and the GitHub bots to it, configured them to notify us of updates to the repo as well as about the build sessions. Now, we receive a notification from Travis&nbsp;CI every morning after a build, with its final status, as well as a notification every time someone pushes content to the repo.
 
-The next part of it is about the social interactions, which we shall discuss in the [next post]({{< ref "the-world-of-automation-today-part-3" >}}).
+The next part of it is about the social interactions, which we shall discuss in the [next post]({{< relref "the-world-of-automation-today-part-3" >}}).

@@ -7,12 +7,12 @@ tags:
 title: On Unification
 ---
 
-So far, we saw how we are not the kind to be identified by "one", but are based on [some core identities]({{< ref "on-sub-nationalism" >}}). Let us proceed further to understand a little more on how things changed and why. It would help us go towards better understanding of the situation.
+So far, we saw how we are not the kind to be identified by "one", but are based on [some core identities]({{< relref "on-sub-nationalism" >}}). Let us proceed further to understand a little more on how things changed and why. It would help us go towards better understanding of the situation.
 
 This post is one among three in the series:
 
-1. [On Reduction]({{< ref "on-reduction" >}})
-2. [On Sub-nationalism]({{< ref "on-sub-nationalism" >}})
+1. [On Reduction]({{< relref "on-reduction" >}})
+2. [On Sub-nationalism]({{< relref "on-sub-nationalism" >}})
 3. On Unification
 
 Many of those who have understood the basis of Hindi point out that the modern day Hindi is a standardisation/unification of several dialects---such as Awadhi, Braj, Maithili, Maghi/Magadhi, Bundeli, Kauravi, etc.---into Khariboli, which was reprocessed to become Hindustani, which was later Sanskritised to make the "official Hindi" of the Indian Administration of today. The process was slow, and was spread over centuries, but it happened.

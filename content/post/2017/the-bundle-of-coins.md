@@ -10,7 +10,7 @@ common to Pongal every year. However, there’s been a new addition to the tradi
 _Jallikkattu_, terming it a torture and injustice to animals.
 
 People who already know me, know that I’m against animal torture, which is also [why I’m a
-vegetarian]({{< ref "on-vegetarianism" >}}). And I’m the kind of vegetarian who doesn’t even wear wool
+vegetarian]({{< relref "on-vegetarianism" >}}). And I’m the kind of vegetarian who doesn’t even wear wool
 or leather.
 
 Now, as goes my personal way of posting stuff, I’m going to steer clear of politics, conspiracy theories, personal

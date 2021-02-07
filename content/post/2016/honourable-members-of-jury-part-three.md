@@ -7,7 +7,7 @@ tags:
 title: ‘Honourable members of the jury…’ (part three)
 ---
 
-As I already mentioned in the [last post]({{< ref "honourable-members-of-jury-part-two" >}}), I’d like to end this series of posts on a positive note about my experience at Bhavan’s Rajaji Vidyashram. The first thing I’d like to talk about is the two good sessions I was part of:
+As I already mentioned in the [last post]({{< relref "honourable-members-of-jury-part-two" >}}), I’d like to end this series of posts on a positive note about my experience at Bhavan’s Rajaji Vidyashram. The first thing I’d like to talk about is the two good sessions I was part of:
 
 1.  This house would restrict the media reporting of violent crimes to reduce miscarriages of justice
 2.  This house would use the funds collected by the religious institutions as insurance for ‘Acts of God’

@@ -141,7 +141,7 @@ We focus on innovation. Manufacturing is one thing; that alone is not sustainabl
 
 ### As enterprises
 
-For enterprises, this is a challenge. 14% of all our imports (by value) come from China. We don’t have a measure of the quantity of each of the goods. Assuming even 70% of these imports make up unfinished goods or components required for manufacture of goods, stopping these imports will hit the enterprises by reducing the available base materials, or forcing the enterprises to buy more expensive alternatives. For more information on the ripple effect, read my [previous post on the matter]({{< ref "can-we-be-free-of-chinese-goods.md" >}}).
+For enterprises, this is a challenge. 14% of all our imports (by value) come from China. We don’t have a measure of the quantity of each of the goods. Assuming even 70% of these imports make up unfinished goods or components required for manufacture of goods, stopping these imports will hit the enterprises by reducing the available base materials, or forcing the enterprises to buy more expensive alternatives. For more information on the ripple effect, read my [previous post on the matter]({{< relref "can-we-be-free-of-chinese-goods.md" >}}).
 
 What we would need here is for the enterprises to work together and along with the system to gradually transition to using local-made components and raw materials. This process could take years if our economic system does not change.
 

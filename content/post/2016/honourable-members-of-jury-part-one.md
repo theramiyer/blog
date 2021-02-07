@@ -80,4 +80,4 @@ I absolutely loved my experience during sessions 2 and 3.
 
 More about sessions 1, 4 and 5 to come soon. And no, no complaints about how this was organised. This is about the
 sessions themselves, and how, as humans, we miss some points when it comes to debating. But again, not now;
-[soon]({{< ref "honourable-members-of-jury-part-two" >}}).
+[soon]({{< relref "honourable-members-of-jury-part-two" >}}).

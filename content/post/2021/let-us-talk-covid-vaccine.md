@@ -18,7 +18,7 @@ As usual, the subject has divided the public as pro-vaccine and anti-vaccine. Ea
 
 ## The types of vaccines
 
-Your immunity neutralises a virus using different mechanisms, which you can read about in a [previous post]({{< ref "covid-and-credibility.md#the-case-of-asymptomatic-transmission" >}}). A {{< smallcaps COVID >}} vaccine behaves like a virus in your body by triggering a similar immune response, but without causing damage the way the virus would. What the vaccine does defines its type:
+Your immunity neutralises a virus using different mechanisms, which you can read about in a [previous post]({{< relref "covid-and-credibility.md#the-case-of-asymptomatic-transmission" >}}). A {{< smallcaps COVID >}} vaccine behaves like a virus in your body by triggering a similar immune response, but without causing damage the way the virus would. What the vaccine does defines its type:
 
 1. A cold virus vaccine uses an attenuated form of the virus to trigger an immune response. The virus either has its genetic material destroyed, or weakened so that it can replicate but not cause illness.
 2. A protein vaccine uses a fragment of the virus’ protein substructure to trigger an immune response from the body. But this is often a weak response, and needs booster shots to boost the response.
