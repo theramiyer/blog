@@ -58,7 +58,7 @@ India is the largest exporter of bovine meat in the world[^lar-meat-exp]. In 201
 
 I have lived in urban India since 2007. And most of my non-vegetarian friends eat chicken and fish. I know a mere handful that eat beef, most of who are from Kerala. In general, the urban Indians I know consume more white meat than red meat. Slaughtering of cows is a serious *social* offence in India.
 
-To feed the increasing meat eating population in India, we must stick to poultry and fish. The total poultry population in India (including chicken, ducks and other birds) as of 2019 was 851.8 million. Poultry makes 50.06% of India's meat production[^ani-hus-stat] (as of 2019). Bovine meat is almost half of this, ⅘ of which is buffalo meat. The production of meat is growing at the rate of ~6% per year, according to the same report.
+To feed the increasing meat eating population in India, we must stick to poultry and fish. The total poultry population in India (including chicken, ducks and other birds) as of 2019 was 851.8 million. Poultry makes 50.06% of India's meat production[^ani-hus-stat] (as of 2019). Bovine meat is almost half of this. The production of meat is growing at the rate of ~6% per year, according to the same report.
 
 [^ani-hus-stat]: Basic Animal Husbandry Statistics - 2019 ([Department of Animal Husbandry and Dairying](https://dahd.nic.in/sites/default/filess/BAHS%20%28Basic%20Animal%20Husbandry%20Statistics-2019%29_0.pdf), GoI)
 
