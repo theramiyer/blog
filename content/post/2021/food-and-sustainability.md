@@ -20,7 +20,7 @@ The post then goes on to talk about the different “food orientations”, answe
 
 ## Something to address first
 
-I should have done this in the other post, but here: Some fellow vegetarians make statements like, 'Non-vegetarians have no compassion. How can they be so inhuman?' The answer is that first of all, they are not inhuman. I drink milk. I have been drinking bovine milk for three decades now. I know the animals undergo a lot of exploitation, but I have never made the connection between the glass of milk in my hand and the suffering of the cow out there.
+I should have done this in the other post, but here: Some fellow vegetarians make statements about non-vegetarians having no compassion, or them being "inhuman". This has sort of become a fashion in some quarters. First of all, eating meat is not inhuman. Second, let us address the misunderstanding: I drink milk. I have been drinking bovine milk for three decades now. I know that the animals undergo a lot of exploitation, but I have _never made the connection_ between the glass of milk in my hand and the suffering of the cow out there.
 
 In the same way, most non-vegetarians I know would not stand the killing of an animal. We all have non-vegetarian friends who are compassionate towards, say, dogs and elephants; they may play with (clean) piglets and what not. But most do not make the connection between the chicken leg piece on their plate and the bird on the slaughter table.
 
