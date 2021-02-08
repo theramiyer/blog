@@ -12,7 +12,7 @@ tags:
 - farming
 ---
 
-About five years ago, we had a little “discussion” at work, in which I basically got trolled for being a vegetarian. I was so angry that I wrote down a post on [why I am a vegetarian]({{< relref "on-vegetarianism.md" >}}) and why everyone else was wrong in thinking what they were thinking. A day later, I changed the post to a much milder one, because:
+About five years ago, we had a little “discussion” at work, in which I basically got trolled for being a vegetarian. I was so angry that I wrote down a post on [why I am a vegetarian]({{< ref "on-vegetarianism.md" >}}) and why everyone else was wrong in thinking what they were thinking. A day later, I changed the post to a much milder one, because:
 
 > I felt that the original post may have come across as too strong, seeming a bit too aggressive, bordering on angry. That was not the purpose of the post.
 
@@ -40,7 +40,7 @@ Confused?
 
 We are a culture that cannot do without dairy.
 
-I grew up in Gujarat. Anand Milk Union Limited (or {{< smallcaps AMUL >}}) has always been a matter of awe for me. Amul has led the country in dairy production for decades, which means a regular employment and source of income for about 3.6 million dairy farmers who collectively own the co-operative body that manages it. I quote Prof. Gulati mentioning this as an example of sustainable economic growth for farmers in [a previous post]({{< relref "farmer-protests.md" >}}).
+I grew up in Gujarat. Anand Milk Union Limited (or {{< smallcaps AMUL >}}) has always been a matter of awe for me. Amul has led the country in dairy production for decades, which means a regular employment and source of income for about 3.6 million dairy farmers who collectively own the co-operative body that manages it. I quote Prof. Gulati mentioning this as an example of sustainable economic growth for farmers in [a previous post]({{< ref "farmer-protests.md" >}}).
 
 Over years, we have grown more and more dependent on milk and dairy products. You cannot imagine a regular Indian household without _ghee_ in the kitchen. The white revolution in India makes for case studies in economic development for farmers. Amul is perhaps the largest food company in India, and one of the largest in the world. Most other states have co-operative societies replicating the Amul model. India makes 394 grams of milk per person, per day{{< sidenote 394g-milk >}}_Milk production and per capita availability of milk in India_ ([National Dairy Development Board](https://www.nddb.coop/sites/default/files/statistics/Mp%20India-ENG-2019.pdf)){{< /sidenote >}} as of 2019 (meaning, we manage to produce 187.7 million metric tonnes of milk a day).
 

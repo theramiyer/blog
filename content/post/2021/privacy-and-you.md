@@ -141,4 +141,4 @@ We have a handful of alternatives for such services out there. Privacy does some
 
 If you do try any of these out, and like them, please also consider supporting the open source ones either financially or through contribution to code or documentation.
 
-Like [I have been saying]({{< relref "better-online-privacy-part-ii.md" >}}), it does not make sense to get rid of the Big Five ({{< smallcaps GAFAM >}}), but we sure can reduce their control over the data about us. Also, none of the above asked me or paid me anything to list them out.
+Like [I have been saying]({{< ref "better-online-privacy-part-ii.md" >}}), it does not make sense to get rid of the Big Five ({{< smallcaps GAFAM >}}), but we sure can reduce their control over the data about us. Also, none of the above asked me or paid me anything to list them out.

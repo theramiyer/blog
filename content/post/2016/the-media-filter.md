@@ -18,7 +18,7 @@ frustration, slammed the newspaper on the floor. Mind you, it’s not some rando
 subscribe to the largest-selling English daily of South India. Most of you have, by now, probably guessed the name. Be
 that as it may, I was unhappy.
 
-> {{< smallcaps "Update" >}} : As part of "growing up", I have come to realise the importance of journalism, and its [role in showing the negative]({{< relref "time-to-rethink-print-media.md#the-business" >}}). My stand on the issue has changed. I am glad this did not pick up (not that I tried beyond making this post anyway), and I hope this trend does not pick up either. The media must be a critic. We need it.
+> {{< smallcaps "Update" >}} : As part of "growing up", I have come to realise the importance of journalism, and its [role in showing the negative]({{< ref "time-to-rethink-print-media.md#the-business" >}}). My stand on the issue has changed. I am glad this did not pick up (not that I tried beyond making this post anyway), and I hope this trend does not pick up either. The media must be a critic. We need it.
 
 Immediately, pulling out my beloved notebook, I did some Google search on relevant terms—I wanted to create a custom
 newspaper. Yes, too ambitious; too, too ambitious. But what had to be done, had to be done; and _someone_ had to do

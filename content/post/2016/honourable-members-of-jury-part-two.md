@@ -7,7 +7,7 @@ tags:
 title: ‘Honourable members of the jury…’ (part two)
 ---
 
-In my [previous post]({{< relref "honourable-members-of-jury-part-one" >}}), I spoke about three debate sessions that could’ve been better. For reference, let me list down the three
+In my [previous post]({{< ref "honourable-members-of-jury-part-one" >}}), I spoke about three debate sessions that could’ve been better. For reference, let me list down the three
 sessions:
 
 1. This house would revoke all support provided by the government to the religious groups in the spirit of true
@@ -118,4 +118,4 @@ appreciate, its intricacy.
 So that was about the bad debating sessions.
 
 I believe in ending things on a brighter note. So [another
-post]({{< relref "honourable-members-of-jury-part-three" >}}) would follow, which would talk about the good stuff I experienced in those two days. Until then, take care.
+post]({{< ref "honourable-members-of-jury-part-three" >}}) would follow, which would talk about the good stuff I experienced in those two days. Until then, take care.

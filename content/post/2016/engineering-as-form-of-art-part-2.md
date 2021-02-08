@@ -7,7 +7,7 @@ tags:
 title: Engineering as a form of art (Part 2)
 ---
 
-In continuation to my [last post]({{< relref "engineering-as-form-of-art-part-1" >}}
+In continuation to my [last post]({{< ref "engineering-as-form-of-art-part-1" >}}
 
 If the story around the TeX world is to be believed, Prof. Dr Donald Knuth, a computer scientist and a mathematician,
 was publishing the third edition of his book. He had gotten a sample of his book from his publisher. His publisher had

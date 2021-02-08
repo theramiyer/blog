@@ -34,7 +34,7 @@ Let us go through the different types of cookies, though, so that the term itsel
 
 ### Session cookies
 
-Session cookies store information for the web session you are running at the moment. For instance, unless I have removed Google Analytics from this site (which you can read about in my [privacy policy]({{< relref "/page/privacy.md" >}})), a session cookie is what Google stores to tell me someone visited my site, and how long you spent on which page(s). No, I cannot personally identify you---I cannot even tell the difference between you and your cat that loves your keyboard. I care about others’ privacy as much as I care about mine if not more.
+Session cookies store information for the web session you are running at the moment. For instance, unless I have removed Google Analytics from this site (which you can read about in my [privacy policy]({{< ref "/page/privacy.md" >}})), a session cookie is what Google stores to tell me someone visited my site, and how long you spent on which page(s). No, I cannot personally identify you---I cannot even tell the difference between you and your cat that loves your keyboard. I care about others’ privacy as much as I care about mine if not more.
 
 The point is, once you close your browser session, these cookies get discarded.
 
@@ -90,4 +90,4 @@ And need I say anything about Facebook?
 
 Not that I personally have a problem with the conventional way. The problem is, I use Linux at home; the market of desktop linux is depressingly small, which makes me a minority anyway. Add other browser parameters to it and making my browser not unique becomes impractical.
 
-The idea is to find an approach that works, and at the same time, is practical. We will [look at that in the next post]({{< relref "better-online-privacy-part-ii.md" >}}).
+The idea is to find an approach that works, and at the same time, is practical. We will [look at that in the next post]({{< ref "better-online-privacy-part-ii.md" >}}).

@@ -77,7 +77,7 @@ Let us get something straight:
 1. Nepotism has always existed in Bollywood. And everywhere else. Whether you fight it or not, the market will make sure the untalented know their place.
 2. In what is the 'lingo' of our generation, 'bounce' means 'to leave'. It has nothing to do with banking instruments.
 3. _Hook-up, Marry, Kill_ is a stupid game. The jobless play it, the more jobless watch others play, and nobody connects it to real life.
-4. Commercially available cannabidiol, although controlled, is legal in India. A no-brainer[^ca252b48]. And weed is not the sole source of it.
+4. Commercially available cannabidiol, although controlled, is legal in India. A no-brainer. And weed is not the sole source of it.
 5. The police were wrong in not registering an {{< smallcaps FIR >}}. This is not debatable.
 6. You cannot talk to dead people's souls. Nobody can.
 7. The press must also respect people's privacy. The press are not above the law. As per law, you cannot trespass on someone's private property. Irrespective of whom it belongs to---accused, convicted or whoever.
@@ -86,5 +86,3 @@ Let us get something straight:
 10. If you are a true patriot, you must care about your fellow citizens (notice the plural form). Millions of fellow citizens are suffering for reasons that are in complete control of those in power. Irrespective of party or ideology. This is not merely an act of God. If it were, God favoured a nation that claims there is no God.
 
 Think about it for a moment.
-
-[^ca252b48]: [No-brainer](https://www.google.com/search?q=define+no-brainer): something that requires or involves little or no mental effort. (Google)

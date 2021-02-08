@@ -41,7 +41,7 @@ Before we go any further, let me mention that this is merely a compilation of th
 
 ## A brief about the three laws
 
-If you remember, back in September, we had spoken about how the [Rajya Sabha had cleared agriculture bills]({{< relref "democracies-fail#opposition-to-balance" >}}) in the absence of the opposition parties; the opposition parties had "boycotted" the Rajya Sabha proceedings because of how the Speaker had cleared the three bills through voice vote amidst vocal opposition.
+If you remember, back in September, we had spoken about how the [Rajya Sabha had cleared agriculture bills]({{< ref "democracies-fail#opposition-to-balance" >}}) in the absence of the opposition parties; the opposition parties had "boycotted" the Rajya Sabha proceedings because of how the Speaker had cleared the three bills through voice vote amidst vocal opposition.
 
 Thanks to Faye D'Souza[^what-are-farm-laws] and Meghnad[^farm-laws-nl] for the great layperson explainers on what these laws are. Without getting into the details, here is what they mean:
 
