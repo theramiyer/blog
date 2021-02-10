@@ -6,6 +6,7 @@ theme = "typographical"
 [params]
   description = "For what it’s worth"
 # enableTypographicalHyphenation = true
+  enableAutoAttribution = true
   enableDevanagari = true
   enableSharing = true
   fbAppId = "1004129106665557"
