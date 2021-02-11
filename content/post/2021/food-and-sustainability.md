@@ -16,7 +16,7 @@ About five years ago, we had a little “discussion” at work, in which I basic
 
 > I felt that the original post may have come across as too strong, seeming a bit too aggressive, bordering on angry. That was not the purpose of the post.
 
-The post talks about the different “food orientations”, answers frequently asked questions and explains why some of us are vegetarians. I continue to be a vegetarian, but as with everything on this blog, I have changed my stance with some of the thoughts and ideas. Also, to me, vegetarianism is now beyond not harming sentient beings.
+The post talked about the different “food orientations”, answered frequently asked questions and explained why some of us are vegetarians. I continue to be a vegetarian, but as with everything on this blog, I have changed my stance with some of the thoughts and ideas. Also, to me, vegetarianism is now beyond not harming sentient beings.
 
 {{< toc >}}
 
