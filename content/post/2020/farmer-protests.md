@@ -290,13 +290,13 @@ And is this how you bring a reform---by steam-rolling? In a co-operative federal
 
 ---
 
-Update 05 February 2021: After looking at how the officials and the government agencies handled the farmer protests and how the officials tried to silence dissenting voices, it makes you wonder: are the intentions truly good?
+Update 05 February 2021: After looking at how the officials and the government agencies handled the farmer protests and how the officials tried to silence dissenting voices, it makes you wonder about the intentions.
 
-Second, are we going in the right direction? No country is perfect. International media criticises everyone. If we have good intentions and value transparency, we would accept our error, apologise to those affected, and move on. This obsession over image makes one assume absence of substance.
+Second, are we going in the right direction? No country is perfect. International media criticises everyone. If we have good intentions and value transparency, we would accept our error, apologise to those affected, and move on. This obsession over "the image" makes one assume absence of substance.
 
 It makes one think there is malice.
 
-Putting in place five or six layers of security systems and personnel, blocking or harassing journalists who tried to report, slapping irrelevant cases on them, cutting off Internet access, police threatening checking of social media accounts for "anti-national" content makes one feel that something is wrong.
+Putting in place five or six layers of security systems and armed personnel, blocking or harassing journalists who tried to report, slapping irrelevant cases on them, cutting off Internet access, police threatening checking of social media accounts for "anti-national" content makes one feel that something is wrong.
 
 What is wrong with us?
 
@@ -318,7 +318,7 @@ As for these farm laws, the government should man up, face the farmer and show s
 
 They are doing what they are doing because of a trust deficit. And one does not build trust this way. While the problem of surpluses is real, the government cannot overcome it by imposition.
 
-Trust us; we have always been transparent and accommodating.
+Unlike the powers that be, the citizens have always been transparent and accommodating.
 
 Also, now that we are talking about informed decisions, if you thought that the new laws affect no one other than the farmers of Punjab and Haryana, think again. True, farmers of other states have been dealing with private players. But these laws change the environment across the country, in a fundamental way, including preventing the farmers from going to the court.
 
@@ -326,4 +326,4 @@ Also, while true that the private dairy players have not exploited the farmers, 
 
 > Past performance is not indicative of future returns.
 
-I am not questioning the learned experts who have been in the field longer than I have been alive, but merely saying that nobody has addressed these queries on a public platform; the farmer is perhaps unaware of these points as well. Perhaps those in favour of this reform are right, perhaps the corporations will not exploit the farmers and indeed build a lasting positive relationship with the farmers. But is the government making such a field available? Who is talking about the nitty-gritties of this issue?
+I am not questioning the learned experts who have been in the field longer than I have been alive, but merely saying that nobody has addressed these queries on a public platform; the farmer is perhaps unaware of these points as well. Perhaps those in favour of this reform are right, perhaps the corporations will not exploit the farmers and indeed build a lasting positive relationship with the farmers. But is the government making such a field available? Who is talking about the nitty-gritties of this issue? Rather, why is the government not talking about them?
