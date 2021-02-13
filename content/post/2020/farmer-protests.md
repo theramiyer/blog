@@ -43,15 +43,11 @@ Before we go any further, let me mention that this is merely a compilation of th
 
 If you remember, back in September, we had spoken about how the [Rajya Sabha had cleared agriculture bills]({{< ref "democracies-fail#opposition-to-balance" >}}) in the absence of the opposition parties; the opposition parties had "boycotted" the Rajya Sabha proceedings because of how the Speaker had cleared the three bills through voice vote amidst vocal opposition.
 
-Thanks to Faye D'Souza[^what-are-farm-laws] and Meghnad[^farm-laws-nl] for the great layperson explainers on what these laws are. Without getting into the details, here is what they mean:
+Thanks to Faye D'Souza{{< sidenote "what-are-farm-laws" >}}_Farmers Protest Explained_ (Faye D'Souza, [YouTube](https://www.youtube.com/watch?v=eVa-fzdqC6g)){{< /sidenote >}} and Meghnad{{< sidenote "farm-laws-nl" >}}_What are the Farm Bills and how will they affect farmers?_ (NL Cheatsheet, [YouTube](https://www.youtube.com/watch?v=s8EfuRDc2hw)){{< /sidenote >}} for the great layperson explainers on what these laws are. Without getting into the details, here is what they mean:
 
 1. Farmers can sell their produce outside of the {{< smallcaps APMC >}} _mandis_.
 2. The private sector players can now enter into contract with farmers---before production---asking the farmers for a specific crop.
 3. Anyone is now allowed to store---or stockpile---any amount of food (including essential commodities).
-
-[^what-are-farm-laws]: [Farmers Protest Explained | Faye D'Souza](https://www.youtube.com/watch?v=eVa-fzdqC6g)
-
-[^farm-laws-nl]: [What are the Farm Bills and how will they affect farmers? | NL Cheatsheet](https://www.youtube.com/watch?v=s8EfuRDc2hw)
 
 ## The protests
 
@@ -74,9 +70,7 @@ Now, we will look at what one of the sides---the farmers and the farmer bodies--
 
 ### Government claims
 
-The Central government claims that there is a lot of corruption and leaning towards monopoly in the {{< smallcaps APMC >}} system, which is affecting farmers. These laws remove the dependency on the _mandis_, and the farmers can now take home more money, which, they say, is in line with their policy to double the farmers’ income by 2022. To quote the government's stand[^sca1819]:
-
-[^sca1819]: [Standing Committee on Agriculture (2018--2019) report](http://164.100.47.193/lsscommittee/Agriculture/16_Agriculture_62.pdf)
+The Central government claims that there is a lot of corruption and leaning towards monopoly in the {{< smallcaps APMC >}} system, which is affecting farmers. These laws remove the dependency on the _mandis_, and the farmers can now take home more money, which, they say, is in line with their policy to double the farmers’ income by 2022. To quote the government's stand:{{< sidenote sca1819 >}}Standing Committee on Agriculture (2018--2019) ([report](http://164.100.47.193/lsscommittee/Agriculture/16_Agriculture_62.pdf)){{< /sidenote >}}
 
 > Commonly observed lacunae in implementation of {{< smallcaps APMC >}} Act are as under—
 > 
@@ -122,9 +116,7 @@ Now, they would flood the entire market when they bring their produce to it. Thi
 
 The farmers, even now, enter into contracts with sugar mills and others in the food processing industry. The farmers say that when the produce is surplus, the corporations bring out reasons not to buy the produce, like, 'Well, this potato is too small; we cannot buy it,' or complain about pesticide residue, whereas during times of shortages, they buy these potatoes. In other words, the farmer is at the receiving end.
 
-In India, 86% farmers own less than two hectares of land[^farm-land-size] as per Agriculture Census (2015--16). These farmers cannot make a large profit. These farmers are dependent on the availability of tools, seeds, fertilisers, pesticides, farm equipment like tractors, etc., because they cannot afford to have their own. Given the low potential for profit and dependence on these factors, the non-availability of {{< smallcaps MSP >}} would bring a lot of unknown in the life of the small farmer. While {{< smallcaps MSP >}} itself was no profit, corporates arm-twisting them would make life worse for the farmers. Like one of the protesters said, 'The current system made us ill, the new system will land us in the {{< smallcaps ICU >}}.' This is probably the answer to the usual Ms Loudmouth who said, 'If the existing system was so good that you are protesting the new one, why were there such a lot of farmer suicides?'
-
-[^farm-land-size]: [What the agriculture census shows about land holdings in India](https://www.thehindu.com/sci-tech/agriculture/indian-farms-getting-smaller/article25113177.ece)
+In India, 86% farmers own less than two hectares of land {{< sidenote farm-land-size >}}_What the agriculture census shows about land holdings in India_ ([The Hindu](https://www.thehindu.com/sci-tech/agriculture/indian-farms-getting-smaller/article25113177.ece)){{< /sidenote >}} as per Agriculture Census (2015--16). These farmers cannot make a large profit. These farmers are dependent on the availability of tools, seeds, fertilisers, pesticides, farm equipment like tractors, etc., because they cannot afford to have their own. Given the low potential for profit and dependence on these factors, the non-availability of {{< smallcaps MSP >}} would bring a lot of unknown in the life of the small farmer. While {{< smallcaps MSP >}} itself was no profit, corporates arm-twisting them would make life worse for the farmers. Like one of the protesters said, 'The current system made us ill, the new system will land us in the {{< smallcaps ICU >}}.' This is probably the answer to the usual Ms Loudmouth who said, 'If the existing system was so good that you are protesting the new one, why were there such a lot of farmer suicides?'
 
 ### The meetings
 
@@ -156,9 +148,7 @@ The farmers say, 'The government is ready to give a written assurance of {{< sma
 
 The farmers ask if the government had no bad intentions, why did they restrict the farmers from approaching the courts and direct them to government officials instead?
 
-If you remember, this law came during the time of shortage of onions. The government banned exports of onions, in favour of local consumption. Back when the protests began, Vivek Kaul had written a piece[^export-onions], where he said:
-
-[^export-onions]: [Why Farmers Are Protesting Against Laws Which Will ‘Supposedly’ Help Them](https://vivekkaul.com/2020/09/21/why-farmers-are-protesting-against-laws-which-will-supposedly-help-them/)
+If you remember, this law came during the time of shortage of onions. The government banned exports of onions, in favour of local consumption. Back when the protests began, Vivek Kaul had written a piece,{{< sidenote export-onions >}}_Why Farmers Are Protesting Against Laws Which Will ‘Supposedly’ Help Them_ ([Vivek Kaul](https://vivekkaul.com/2020/09/21/why-farmers-are-protesting-against-laws-which-will-supposedly-help-them/)){{< /sidenote >}} where he said:
 
 > The politicians suddenly want farmers to trust corporates and the market process, after spending decades abusing them. This is not going to happen suddenly, especially in an environment where there is big fear of large corporates taking over many other areas of business. All this is happening precisely at a time when the government has banned the export of onions. The messaging just isn’t right, given that if the government trusted the market process, it wouldn’t have banned the export of onions.
 
@@ -184,9 +174,7 @@ No, I am not going to discuss the ordinance about stubble burning---you cannot c
 
 Wait, what?
 
-Understand this. India is the largest exporter of rice[^rice-export] in the world. We export 12 million tonnes of rice every year. The problem with rice is that each kilogram of rice needs 5,000 litres of water, going by Prof. Ashok Gulati's words. And India is exporting so much rice because it must; we are producing so much. Why are we producing so much? Well.
-
-[^rice-export]: [Amid Ladakh standoff, China turns to India for rice for first time in decades](https://www.hindustantimes.com/business-news/china-buys-rice-from-india-for-first-time-in-decades-as-supplies-tighten-says-trade-officials/story-pveRQyJ9R2pD0fzo2oVSPP.html)
+Understand this. India is the largest exporter of rice{{< sidenote rice-export >}}_Amid Ladakh standoff, China turns to India for rice for first time in decades_ ([Hindustan Times](https://www.hindustantimes.com/business-news/china-buys-rice-from-india-for-first-time-in-decades-as-supplies-tighten-says-trade-officials/story-pveRQyJ9R2pD0fzo2oVSPP.html)){{< /sidenote >}} in the world. We export 12 million tonnes of rice every year. The problem with rice is that each kilogram of rice needs 5,000 litres of water, going by Prof. Ashok Gulati's words. And India is exporting so much rice because it must; we are producing so much. Why are we producing so much? Well.
 
 Mr Gupta says, 'You get free water, free power (to pump out the water), and at harvest, Food Corporation of India buys the produce from you at a fixed price---easy crop.' He said, against the buffer stock need of 10.25 million tonnes of rice, India held (back then) 27.6 million tonnes.
 
@@ -224,9 +212,7 @@ But as years passed and farmers of the other states learned the new techniques a
 
 Another observation is that farmers of Punjab and Haryana, because they have such a great support for their wheat and paddy crops, are _moving away from other crops_ that do not fetch them even the {{< smallcaps MSP >}}---as observed before, crops like maize sell at half the {{< smallcaps MSP >}}. Why would a farmer put in all the effort to grow maize when he does not fetch enough to make a solid return?
 
-What happens, though, is that because the farmer is switching to wheat and rice for good returns, he is not growing other crops like oilseeds. A {{< smallcaps NITI >}} Aayog paper points out[^niti-paper]:
-
-[^niti-paper]: [Raising Agricultural Productivity and Making Farming Remunerative for Farmers](https://niti.gov.in/sites/default/files/2019-07/RAP3.pdf)
+What happens, though, is that because the farmer is switching to wheat and rice for good returns, he is not growing other crops like oilseeds. A {{< smallcaps NITI >}} Aayog paper points out:{{< sidenote niti-paper >}}_Raising Agricultural Productivity and Making Farming Remunerative for Farmers_ ([{{< smallcaps NITI >}} Aayog](https://niti.gov.in/sites/default/files/2019-07/RAP3.pdf)){{< /sidenote >}}
 
 > Even if India doubles its current level of oilseed production, the import dependence will remain at 40 per cent level. The situation is worse in pulses. Per capita intake and availability of pulses in the country has declined to two-third since early 1960s. During the 50 years between 1964--65 and 2014--15, per capita production of pulses declined from 25 kg to 13.6 kg. Even imports, which constitute about one-fifth of domestic demand, have failed to arrest decline in the availability of pulses in the country.
 
