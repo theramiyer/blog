@@ -22,7 +22,9 @@ The post talked about the different “food orientations”, answered frequently
 
 ## Something to address first
 
-I should have done this in the other post, but here: Some fellow vegetarians make statements about non-vegetarians having no compassion, or them being "inhuman". First of all, eating meat is not inhuman. Next, let us address the misunderstanding: I drink milk. I have been drinking bovine milk for three decades now. I know that the animals undergo a lot of exploitation, but I have _never made the connection_ between the glass of milk in my hand and the suffering of the cow out there.
+I should have done this in the other post, but here: Some fellow vegetarians make statements about non-vegetarians having no compassion, or them being "inhuman". First of all, eating meat is not inhuman. Next, let us address the misunderstanding:
+
+I drink milk. I have been drinking bovine milk for three decades now. I know that the animals undergo a lot of exploitation, but I have _never made the connection_ between the glass of milk in my hand and the suffering of the cow out there.
 
 In the same way, most non-vegetarians I know would not stand the killing of an animal. We all have non-vegetarian friends who are compassionate towards, say, dogs and elephants; they may play with (clean) piglets and what not. But most do not make the connection between the chicken leg piece on their plate and the bird on the slaughter table.
 
@@ -30,7 +32,7 @@ In the same way, most non-vegetarians I know would not stand the killing of an a
 
 A couple of years ago, I watched a video in which the host mentioned in passing, how he had stopped eating meat because of the amount of water it consumed. I did not think of it much back then. But over the last year or so, I have come across a lot more facts about meat eating. It started with the idea of "vegan" meat that I read about while browsing—I think—Reddit. First, I found it funny: why would anyone want to do that? But there was more to it than I thought.
 
-I am an Indian. Milk is an inseparable part of our culture. India probably has the largest vegetarian population in the world,{{< sidenote lar-veg-pop >}}_Countries with the highest rates of vegetarianism_ ([WorldAtlas](https://www.worldatlas.com/articles/countries-with-the-highest-rates-of-vegetarianism.html)){{< /sidenote >}} with 38% of the population identifying as vegetarians. If you consider the allegation that some identified themselves as vegetarians because of societal pressures, and even cut this number by half, India would still the largest vegetarian population in the world.
+India probably has the largest vegetarian population in the world,{{< sidenote lar-veg-pop >}}_Countries with the highest rates of vegetarianism_ ([WorldAtlas](https://www.worldatlas.com/articles/countries-with-the-highest-rates-of-vegetarianism.html)){{< /sidenote >}} with up to 38% of the population identifying as vegetarians. If you consider the allegation that some identified themselves as vegetarians because of societal pressures, and even cut this number by half, India would still the largest vegetarian population in the world.
 
 While they say vegetarianism is more sustainable, India's vegetarian population means nothing to sustainability.
 
@@ -104,17 +106,17 @@ Let us begin with the amount of manure a cow can produce. A cow can drink up to 
 
 We have, but the scale is the key here. What was the population of our country when we started using these methods? What was the bovine population of our country when we started these systems? What is it today? In simple terms, back in 1820, we had a population of 1 billion people across the globe. In the next 100 years, it went to 1.5 billion. And in the next hundred years, it multiplied almost 5 times and reached 7 billion. This is the human population alone.
 
-To feed milk to this large population, we bred milch animals. Their population also grew at that scale. And the amount of green house gases (methane, nitrous oxide, ammonia, hydrogen sulphide, etc.) emitted into the atmosphere grew at the same rate, and today, continues to grow—in India—at the rate of 5 – 7% per annum. These gases are much more potent than carbon monoxide and dioxide (methane retains about a hundred times the heat as carbon dioxide over a five-year period). This happens when the animals eat food they cannot digest. This causes the bacteria living in their digestive tract to digest them, producing methane as a by-product. A mere 3 million cows may not have mattered, but what is their population today?
-
-Next, researchers from Texas Tech found that all their air samplers placed around feedlots recorded samples of antibiotics. 60% of the upwind samplers and 30% of the downwind samplers tested positive for tetracycline antibiotics, which is contributing to antibiotic resistance in bacteria. Because these bacteria are now becoming resistant to these antibiotics, we are finding it hard to treat diseases such as urinary tract infection.
+To feed milk to this large population, we bred milch animals. Their population also grew at that scale. And the amount of green house gases (methane, nitrous oxide, ammonia, hydrogen sulphide, etc.) emitted into the atmosphere grew at the same rate, and today, continues to grow—in India—at the rate of 5 – 7% per annum. These gases are much more potent than carbon monoxide and dioxide (methane retains about a hundred times the heat as carbon dioxide over a five-year period). Farm animals throw out methane when they eat food they cannot digest. This causes the bacteria living in their digestive tract to digest them, producing methane as a by-product. A mere 3 million cows may not have mattered, but what is their population today?
 
 Some environmental organisations estimate that _half_ of all green house gas emissions come from farm animals alone.
+
+Next, researchers from Texas Tech found that all their air samplers placed around feedlots recorded samples of antibiotics. 60% of the upwind samplers and 30% of the downwind samplers tested positive for tetracycline antibiotics, which is contributing to antibiotic resistance in bacteria. Because these bacteria are now becoming resistant to these antibiotics, we are finding it hard to treat diseases such as urinary tract infection.
 
 ## Is vegetarianism all that healthy
 
 Not in today's world. But this makes me think that perhaps vegetarianism is healthier and certainly more sustainable than using animals for food.
 
-An interesting statement I came across was that eating animals is an inefficient way to nutrition. Let me explain:
+An interesting statement I came across was that eating animals is an _inefficient_ way to nutrition:
 
 Cattle and buffaloes are large animals and they eat a lot of food. They grow, of course, but that growth when seen in terms of nutrient delivery, is inefficient. If you slaughtered a buffalo that weighs 300 kg, the amount of flesh you would get is perhaps about a hundred kilograms. But the amount of food that it ate throughout its life is much more than that.
 
@@ -126,7 +128,7 @@ Am I suggesting that we get rid of animals? No. All I say is that breeding anima
 
 What about protein? I have been a vegetarian throughout my life. And I am not protein-deficient.
 
-That plants are by nature deficient in protein, is a myth. We have protein-rich plant-based foods, as there are foods rich in other nutrients. I need about 65 grams of protein per day, to maintain my weight. The last time I lost weight was in 2014, because of dengue. I regained my weight in about six months after that. And my body fat percentage is within limits, and so is my {{< smallcaps BMI >}}.
+That plants are by nature deficient in protein, is a myth. We have protein-rich plant-based foods, as there are foods rich in other nutrients. I need about 65 grams of protein per day, to maintain my weight. The last time I lost weight was in 2014, because of dengue. I regained my weight in about six months after that.
 
 But of course, I have been drinking milk. Changing to a non-dairy diet may lead to changes in these parameters, but with the current scale of demand and supply, I do not think that milk and dairy products lead to as much protein absorption as advertised. Because you must always lose something to gain something---in this case, that is losing nutrition density for quantity. And this is nothing that plant-based foot cannot replace.
 
@@ -134,7 +136,7 @@ Am I suggesting that we never use scientific methods to increase productivity? N
 
 ## The flip side
 
-Again, this post is not to say that one way of life is better than the other. The vegetarian (perhaps the purely-plant-based) way is _more sustainable_ in our current world.
+Again, this post is not to say that one way of life is better than the other. The vegetarian (perhaps the purely-plant-based) way is _more sustainable in our current world_.
 
 Can you quit eating meat? Probably not; I cannot fully quit dairy products yet. And almost every Indian vegetarian is also contributing to the issues mentioned above because of the dairy element. Measuring India with the same scale as other countries is not right, because our strengths and weaknesses are different; the variables we deal with are different from most other countries in the world.
 
