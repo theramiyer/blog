@@ -10,6 +10,7 @@ tags:
 - socialism
 - freedom
 - education
+- whatsapp university
 title: Is the JNU protest justified
 ---
 

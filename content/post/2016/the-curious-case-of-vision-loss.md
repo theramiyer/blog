@@ -1,7 +1,8 @@
 ---
 author: ram
 date: "2016-07-03T22:31:00Z"
-tags: null
+tags: 
+- whatsapp university
 title: The curious case of vision loss
 ---
 

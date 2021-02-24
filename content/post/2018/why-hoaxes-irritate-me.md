@@ -2,7 +2,8 @@
 date: "2018-05-22T00:00:00Z"
 tags:
 - opinion
-title: The Story of the Hoaxes
+- whatsapp university
+title: The Story of Hoaxes
 ---
 
 Of late, there have been a boatload of hoaxes floating around the Internet. Adding to the chaos primarily is WhatsApp, quickly followed by Facebook and the various other social networks. Instagram used to be the haven for original content, which has now been contaminated by these pictures and videos as well.

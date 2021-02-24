@@ -3,6 +3,7 @@ author: ram
 date: "2015-02-11T12:33:00Z"
 tags:
 - opinion
+- whatsapp university
 title: Fighting oneself over oneself!
 ---
 
