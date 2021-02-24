@@ -38,7 +38,7 @@ In other words, if the police charge someone under an {{< smallcaps "IPC" >}} se
 
 ## Justice
 
-True justice is when the different wings of the system follow the due process, sentence the convict to a punishment, and the convict goes through the punishment. The police or the people do not have the right to announce a punishment, much less take such an action. I am not the one saying it. This is what we gave ourselves on the 26<sup>th</sup> of January, 1950.
+True justice is when the different wings of the system follow the due process, sentence the convict to a punishment, and the convict goes through the punishment. The police or the people do not have the right to announce a punishment, much less take such an action. I am not the one saying it. This is what we gave ourselves on the {{< raw >}}26<sup>th</sup>{{< /raw >}} of January, 1950.
 
 Popular beliefs and fan-worthy movies are merely that; they do not dictate how we function as a republic (again, lowercase r). When someone (or a law-enforcement agency) take the law in their own hands, the act is revenge, not justice. Of course, one may be comfortable with us calling this as an act of revenge. 'So what?', they may say. But that is not as per law. What happens when you commit such an act? It could be murder. And a murder is punishable in the court of law.
 
