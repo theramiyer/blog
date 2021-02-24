@@ -5,6 +5,7 @@ tags:
 - science
 - covid-19
 - mythbuster
+- whatsapp university
 ---
 
 One week is a long time sometimes. I have been waiting for some five days to make this post. On Tuesday that I received a message in one of the WhatsApp groups that I am part of, questioning the credibility of the {{< smallcaps WHO >}}.

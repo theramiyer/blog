@@ -5,7 +5,6 @@ tags:
 - tips
 - mythbuster
 - lifestyle
-- whatsapp
 - whatsapp university
 title: How to survive a heart attack when alone
 ---

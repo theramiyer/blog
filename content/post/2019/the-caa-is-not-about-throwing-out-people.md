@@ -12,6 +12,7 @@ tags:
 - constitution
 - protests
 - religion
+- whatsapp university
 title: The CAA is not about throwing out people
 ---
 
