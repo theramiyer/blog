@@ -10,7 +10,7 @@ My weekends over the last month have been really great. There was this one durin
 
 One movie I watched during this time was _Bhopal: A Prayer for Rain_. The movie, thanks to dilution with the story of Rajpal Yadav's sister's wedding, didn't manage to impress. The next day, in search of some more reality, I turned to a documentary by {{< smallcaps "BBC" >}}. (Before some jingoist calls me an anti-national because I prefer a {{< smallcaps "BBC" >}} documentary over a Hollywood movie... Well... Point made!)
 
-During supper on Tuesday, I opened the topic for discussion among my fellows who are unfortunate to have me around all the time; let's call them my brothers and sister. After dodging political references---first tactfully, and later, 'Shall we not politicise this?'---I let the discussion run wild, when it took a turn that I did not expect. One of my brothers mentioned how a family had saved themselves from the entire tragedy.
+During dinner on Tuesday, I opened the topic for discussion among my fellows who are unfortunate to have me around all the time; let's call them my brothers and sister. After dodging political references---first tactfully, and later, 'Shall we not politicise this?'---I let the discussion run wild, when it took a turn that I did not expect. One of my brothers mentioned how a family had saved themselves from the entire tragedy.
 
 I remembered that from the documentary: A man telephoned the Medical Officer at Carbide and told her about the leak. The lady aired her instructions, such as, "Close the doors and the windows, and cover them with damp towels." Before I could complete the thought, I was told that the family had a good amount of Neem and Peepal twigs. I stopped thinking.
 
