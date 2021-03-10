@@ -9,14 +9,32 @@ tags:
 - farming
 - science
 - development
-draft: true
 ---
 
 The last pieces addressed the merits of organic farming (and looked at how much merit they carry in reality). But there also are some scientific methods that help with storing, preserving and serving food to the end consumer. We look at those in this piece.
 
 This is the fourth of the five-part series on organic food. To jump to any topic on the subject, use the list below:
 
-
+- [The traditional farming methods]({{< ref "the-organic-utopia-i#the-traditional-farming-methods" >}})
+- [How food works]({{< ref "the-organic-utopia-i#how-food-works" >}})
+- [The case of reduced nutrition]({{< ref "the-organic-utopia-i#the-case-of-reduced-nutrition" >}})
+- [Enter: Organic Farming]({{< ref "the-organic-utopia-i#enter-organic-farming" >}})
+- [The sustainability argument]({{< ref "the-organic-utopia-i#the-sustainability-argument" >}})
+- [Customer benefits]({{< ref "the-organic-utopia-i#customer-benefits" >}})
+- [It isn't as simple]({{< ref "the-organic-utopia-i#it-isn-t-as-simple" >}})
+- [Organic tastes better]({{< ref "the-organic-utopia-ii#organic-tastes-better" >}})
+- [Organic has lower pesticide residue]({{< ref "the-organic-utopia-ii#organic-has-lower-pesticide-residue" >}})
+- [Organic has higher nutritional value]({{< ref "the-organic-utopia-ii#organic-has-higher-nutritional-value" >}})
+- [Organic is more eco-friendly]({{< ref "the-organic-utopia-iii#organic-is-more-eco-friendly" >}})
+- [Genetic Modification](#genetic-modification)
+- [Food irradiation](#food-irradiation)
+- [Does organic have no real merits](#does-organic-have-no-real-merits)
+- [What does it mean for us, the consumers](#what-does-it-mean-for-us-the-consumers)
+- [Way forward in sustainability]({{< ref "the-organic-utopia-v#way-forward-in-sustainability" >}})
+- [When to buy organic]({{< ref "the-organic-utopia-v#when-to-buy-organic" >}})
+- [When not to worry about organic]({{< ref "the-organic-utopia-v#when-not-to-worry-about-organic" >}})
+- [What about the reduced nutrition]({{< ref "the-organic-utopia-v#what-about-reduced-nutrition" >}})
+- [Summing up]({{< ref "the-organic-utopia-v#summing-up" >}})
 
 ## Genetic modification
 

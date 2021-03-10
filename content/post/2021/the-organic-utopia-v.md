@@ -9,14 +9,32 @@ tags:
 - farming
 - science
 - development
-draft: true
 ---
 
 In the previous pieces of this series, we addressed most of the claims and merits of both the methods of agriculture. We even addressed the polarisation. But when it comes to sustainability, how do we proceed? And in simple terms, if we had to, how do we pick one over the other?
 
 This is the fifth of the five-part series on organic food. To jump to any topic on the subject, use the list below:
 
-
+- [The traditional farming methods]({{< ref "the-organic-utopia-i#the-traditional-farming-methods" >}})
+- [How food works]({{< ref "the-organic-utopia-i#how-food-works" >}})
+- [The case of reduced nutrition]({{< ref "the-organic-utopia-i#the-case-of-reduced-nutrition" >}})
+- [Enter: Organic Farming]({{< ref "the-organic-utopia-i#enter-organic-farming" >}})
+- [The sustainability argument]({{< ref "the-organic-utopia-i#the-sustainability-argument" >}})
+- [Customer benefits]({{< ref "the-organic-utopia-i#customer-benefits" >}})
+- [It isn't as simple]({{< ref "the-organic-utopia-i#it-isn-t-as-simple" >}})
+- [Organic tastes better]({{< ref "the-organic-utopia-ii#organic-tastes-better" >}})
+- [Organic has lower pesticide residue]({{< ref "the-organic-utopia-ii#organic-has-lower-pesticide-residue" >}})
+- [Organic has higher nutritional value]({{< ref "the-organic-utopia-ii#organic-has-higher-nutritional-value" >}})
+- [Organic is more eco-friendly]({{< ref "the-organic-utopia-iii#organic-is-more-eco-friendly" >}})
+- [Genetic Modification]({{< ref "the-organic-utopia-iv#genetic-modification" >}})
+- [Food irradiation]({{< ref "the-organic-utopia-iv#food-irradiation" >}})
+- [Does organic have no real merits]({{< ref "the-organic-utopia-iv#does-organic-have-no-real-merits" >}})
+- [What does it mean for us, the consumers]({{< ref "the-organic-utopia-iv#what-does-it-mean-for-us-the-consumers" >}})
+- [Way forward in sustainability](#way-forward-in-sustainability)
+- [When to buy organic](#when-to-buy-organic)
+- [When not to worry about organic](#when-not-to-worry-about-organic)
+- [What about the reduced nutrition](#what-about-reduced-nutrition)
+- [Summing up](#summing-up)
 
 ## Way forward in sustainability
 

@@ -9,7 +9,6 @@ tags:
 - farming
 - science
 - development
-draft: true
 ---
 
 Over the last decade or so, we have seen the buzz about organic food amplify. Hundreds of stores have sprung up in our urban neighbourhoods, which tout the traditionally grown food that is more nutritious, apart from being safer than the "conventional" food. But is organic food more nutritious, tastier and safer than conventionally grown food?
@@ -22,26 +21,26 @@ As usual, I will link to all the sources of my research, so that you can refer f
 
 This is the first of the five-part series on organic food. To jump to any topic on the subject, use the list below:
 
-- The traditional farming methods
-- How food works
-- The case of reduced nutrition
-- Enter: Organic Farming
-- The sustainability argument
-- Customer benefits
-- It isn't as simple
-- Organic tastes better
-- Organic has lower pesticide residue
-- Organic has higher nutritional value
-- Organic is more eco-friendly
-- Genetic Modification
-- Food irradiation
-- Does organic have no real merits
-- What does it mean for us, the consumers
-- Way forward in sustainability
-- When to buy organic
-- When not to worry about organic
-- What about the reduced nutrition
-- Summing up
+- [The traditional farming methods](#the-traditional-farming-methods)
+- [How food works](#how-food-works)
+- [The case of reduced nutrition](#the-case-of-reduced-nutrition)
+- [Enter: Organic Farming](#enter-organic-farming)
+- [The sustainability argument](#the-sustainability-argument)
+- [Customer benefits](#customer-benefits)
+- [It isn't as simple](#it-isn-t-as-simple)
+- [Organic tastes better]({{< ref "the-organic-utopia-ii#organic-tastes-better" >}})
+- [Organic has lower pesticide residue]({{< ref "the-organic-utopia-ii#organic-has-lower-pesticide-residue" >}})
+- [Organic has higher nutritional value]({{< ref "the-organic-utopia-ii#organic-has-higher-nutritional-value" >}})
+- [Organic is more eco-friendly]({{< ref "the-organic-utopia-iii#organic-is-more-eco-friendly" >}})
+- [Genetic Modification]({{< ref "the-organic-utopia-iv#genetic-modification" >}})
+- [Food irradiation]({{< ref "the-organic-utopia-iv#food-irradiation" >}})
+- [Does organic have no real merits]({{< ref "the-organic-utopia-iv#does-organic-have-no-real-merits" >}})
+- [What does it mean for us, the consumers]({{< ref "the-organic-utopia-iv#what-does-it-mean-for-us-the-consumers" >}})
+- [Way forward in sustainability]({{< ref "the-organic-utopia-v#way-forward-in-sustainability" >}})
+- [When to buy organic]({{< ref "the-organic-utopia-v#when-to-buy-organic" >}})
+- [When not to worry about organic]({{< ref "the-organic-utopia-v#when-not-to-worry-about-organic" >}})
+- [What about the reduced nutrition]({{< ref "the-organic-utopia-v#what-about-reduced-nutrition" >}})
+- [Summing up]({{< ref "the-organic-utopia-v#summing-up" >}})
 
 ## The traditional farming methods
 
