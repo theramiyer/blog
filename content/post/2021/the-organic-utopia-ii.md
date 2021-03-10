@@ -11,7 +11,7 @@ tags:
 - development
 ---
 
-In the previous piece of this series, we looked at the basics of how food works, and what we look for in food. We look at a couple of claims that organic proponents make. In this article, we look at three of the claims, and test their validity based on the evidence we have.
+In the previous piece of this series, we looked at the basics of how food works, and what we look for in food. We get an overview of the claims that organic proponents make. In this piece, we look at three of the claims in more depth, and test their validity based on the evidence we have.
 
 This is the second of the five-part series on organic food. To jump to any topic on the subject, use the list below:
 
@@ -46,7 +46,7 @@ To add a twist to this, we give you two apples, again, you cannot tell the diffe
 
 Scientists conducted studies as simple as this, and more complex ones, but could not find any difference in taste between organic and conventional produce.
 
-One of the references to taste was something I found on National Geographic,{{< sidenote org-taste >}}_Organic Foods Are Tastier and Healthier, Study Finds_ ([National Geographic](https://www.nationalgeographic.com/culture/article/organic-foods-are-tastier-and-healthier-study-finds)){{< /sidenote >}} which cites a study published in the British Journal for Nutrition. But I think the study has conflict of interests written all over it.{{< sidenote benbrook >}}Benbrook ... had 100% of his research cited in this meta-review financed by the organic industry. ([Genetic Literacy Project](https://gmo.geneticliteracyproject.org/FAQ/are-organic-foods-healthier-than-conventional-foods/)){{< /sidenote >}} Now, there is nothing inherently wrong in a lobby on organic food funding the research, but if you have the key members of the study taking up critical positions in the most prominent lobby group, one cannot help but look for an independent analysis. And in cases as simple as this, the absence of evidence despite more than one independent analyses, does say something.
+One of the references to taste was something I found on National Geographic,{{< sidenote org-taste >}}_Organic Foods Are Tastier and Healthier, Study Finds_ ([National Geographic](https://www.nationalgeographic.com/culture/article/organic-foods-are-tastier-and-healthier-study-finds)){{< /sidenote >}} which cites a study published in the British Journal for Nutrition. But I think the study has conflict of interests written all over it.{{< sidenote benbrook >}}Benbrook ... had 100% of his research cited in this meta-review financed by the organic industry. ([Genetic Literacy Project](https://gmo.geneticliteracyproject.org/FAQ/are-organic-foods-healthier-than-conventional-foods/)){{< /sidenote >}} Now, there is nothing inherently wrong in a lobby on organic food funding the research, but if you have the key members of the study taking up critical positions in the most prominent lobby group, one cannot help but look for an independent analysis. And in cases as simple as this, the absence of evidence despite more than one independent analyses done, does say something.
 
 One of the arguments{{< sidenote better-taste >}}Should You Buy Organic? ([LiveScience](https://www.livescience.com/22966-should-you-buy-organic.html)){{< /sidenote >}} for the possibility that consumers claim organic food tastes better is that organic farmers tend to get their produce to the consumers sooner. One of the reasons to reach the food to the consumer sooner is the high probability of spoilage. In all, though, this is good for the consumer.
 
@@ -64,9 +64,9 @@ Regardless, the levels found in food are a fraction of the upper safety limits. 
 
 Another issue is with complacence. People tend to think that "natural" pesticides are not harmful---because they are natural after all; how can anything natural be harmful? The reality is different.
 
-Organic food protects itself from pests is by natural chemical warfare. The plants produce chemicals to ward off pests, most of which are antioxidants. Organic food items have shown much higher levels of antioxidants. But is that enough to call them a _health benefit_? We are not sure.
+Organic food protects itself from pests by natural chemical warfare. The plants produce chemicals to ward off pests, most of which are antioxidants. Organic food items have shown much higher levels of antioxidants. But is that enough to call them a _health benefit_? We are not sure.
 
-For instance, if I told you that a certain organic variety of organic water melon contained 2000 milligrams of dihydrogen monoxide---a chemical critical for human survival and bodily functions---per kilogram, what would you think of it?
+For instance, if I told you that a certain organic variety of watermelon contained 2000 milligrams of dihydrogen monoxide---a chemical critical for human survival and bodily functions---per kilogram, what would you think of it?
 
 The statement merely means that the specific organic variety of watermelon had 2 grams of water more than conventional watermelon, per kilogram of the watermelon. Is that a substantive health benefit?
 
@@ -80,7 +80,7 @@ Having said that, I would echo Rachel Carlson in that pesticide use is good, pro
 
 ## Organic has higher nutritional value
 
-One of the forerunners in this claim are some organic milk producers in India. Globally, the claim among organic advocates has been the higher levels of Omega-3 fatty acids. But the scientific community criticised this.{{< sidenote omega-critic >}}_Got (Healthier) Milk? How Activist Scientists And Journalists Bungled Report On Organic Foods_ ([Forbes](https://www.forbes.com/sites/jonentine/2013/12/19/got-healthier-milk-how-activist-scientists-and-journalists-bungled-a-report-on-organic-foods/?sh=638a8065574c)){{< /sidenote >}} Also, to note, this is a Benbrook study (yes, the same one you read about above).
+One of the forerunners in this claim are some organic milk producers in India. Globally, the claim among organic advocates has been the higher levels of Omega-3 fatty acids. But the scientific community criticised this as flawed.{{< sidenote omega-critic >}}_Got (Healthier) Milk? How Activist Scientists And Journalists Bungled Report On Organic Foods_ ([Forbes](https://www.forbes.com/sites/jonentine/2013/12/19/got-healthier-milk-how-activist-scientists-and-journalists-bungled-a-report-on-organic-foods/?sh=638a8065574c)){{< /sidenote >}} Also, to note, this is a Benbrook study (yes, the same one you read about before).
 
 Another study that found wide circulation in the organic community was a 2018 study published in the Journal of the American Medical Association, which concluded:
 

@@ -17,8 +17,6 @@ As usual, the answer is not binary.
 
 A friend of mine texted one evening about the craze about organic food. This is a friend that gets nuance, open to discussion. I thought this was a good topic to write about; I hope this answers her questions, and also helps others who are looking for information about organic food.
 
-As usual, I will link to all the sources of my research, so that you can refer further if it interests you.
-
 This is the first of the five-part series on organic food. To jump to any topic on the subject, use the list below:
 
 - [The traditional farming methods](#the-traditional-farming-methods)
@@ -44,7 +42,7 @@ This is the first of the five-part series on organic food. To jump to any topic 
 
 ## The traditional farming methods
 
-The concept of organic farming is not new to India, for obvious reasons. We were an agrarian family ourselves, until my grandfather's generation. I have heard of the methods that they used, to get better yields, ranging from what they fed to the cattle to how they made natural fertiliser out of remnants from plants, compost, etc.
+The concept of organic farming is not new to India, for obvious reasons. We were an agrarian family ourselves, until my grandfather's generation. I have heard of the methods that they used, to get better yields, ranging from what they fed to the cattle to how they made natural fertiliser out of plant remains, compost, etc.
 
 And then the methods changed, although gradually.
 
@@ -84,9 +82,9 @@ Also, synthetic nitrogen fertilisers are energy expensive. Often, this energy co
 
 ## Customer benefits
 
-The big one, and one of the most interest to you, perhaps.
+The big one, and perhaps one that interests you the most.
 
-The foremost benefit of going organic is pesticide residue. Over the recent years, the presence of pesticides and chemicals in food has come into spotlight. From talks to films, we have a solid---despite the risk of the negative connotation the word may have---narrative about the harmful effects of the chemicals in our food, ranging from pesticide residues, to presence of preservatives and heavy metals in our food.
+The foremost benefit of going organic is pesticide residue. Over the recent years, the presence of pesticides and chemicals in food has come into spotlight. From talks to films, we have a solid---despite the risk of the negative connotation the word may have---narrative about the harmful effects of the chemicals in our food, ranging from pesticide residues, to presence of preservatives and heavy metals.
 
 Organic farming does not allow use of chemical pesticides. Instead, it relies on other bio-pesticides. One of the methods is use of birds and animals that prey on pests. Those switching to organic also mention that organic food tastes better than conventional food. And everywhere we look today, we see the 'better taste' banner wrapped around anything organic.
 
@@ -106,4 +104,4 @@ And as most of us maintain, the natural way is better, closer to nature.
 
 ## It isn't as simple
 
-Of course, the simplest explanation is the most popular. But is not necessarily accurate. Which means, we would need to look at other aspects before we come to a conclusion. Polarisation using simplistic arguments have seldom (if at all) helped humanity on the long run.
+Of course, the simplest explanation is the most popular. But is not necessarily accurate. Which means, we would need to look at other aspects before we come to a conclusion. Polarisation using simplistic arguments have seldom (if at all) helped humanity in the long run.

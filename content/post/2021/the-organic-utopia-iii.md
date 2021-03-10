@@ -55,7 +55,7 @@ Why do we need fertilisers?
 
 We have a large population (of humans and animals) to feed. The needs are specific: staples, fruits and vegetables, along with other food items. For reasons mentioned in [_Food and Sustainability_]({{< ref "food-and-sustainability" >}}) and [_Farmer Protests_]({{< ref "farmer-protests" >}}), we have resorted to monoculture. This means that the soil loses its nutrients, which makes us add fertilisers to it, so that the crop can get the necessary nutrients.
 
-Even otherwise, the soil does not have enough of these nutrients to enable us to grow crops, which means that the use of fertilisers also increases the yield.
+Even otherwise, the soil does not have enough of these nutrients to enable us to grow crops.
 
 When we go the organic way, we cannot use chemical fertilisers. We must resort to methods such as:
 
@@ -81,7 +81,7 @@ But let us first address the fertiliser problem. Fertilisers, like we saw a mome
 
 No.
 
-Plants cannot use pure nitrogen molecules because they cannot break the triple covalent bond that nitrogen atoms share. They need molecules that contain nitrogen atoms, which they can then separate and recombine to form compounds necessary for them. Two processes can do this:
+Plants cannot use pure nitrogen molecules because they cannot break the triple covalent bond that nitrogen atoms share. They need nitrogen compounds, which they can then separate and recombine to form compounds necessary for them. Two processes can do this:
 
 1. Bacteria in the soil that decompose organic matter such as animal and plant waste
 2. The Haber--Bosch process
@@ -105,10 +105,10 @@ The organic proponents oppose the idea of using chemically treated waste, or sus
 1. different from sludge
 2. not laden with harmful chemicals
 
-Biosolids are the product of treated sewage sludge. The sludge goes through a series of mechanical and chemical processes, after which the bodies that run the plants call it safe for use. Not using biosolids is as good as wasting it. Human excrement or otherwise, once treated, the sludge is no more sludge. We have certification levels for them, and we heavily regulate them. India has a set of standards for treated biosolids, and allows their restricted use in organic farming. But this is not the case everywhere.
+Biosolids are the product of treated sewage sludge. The sludge goes through a series of mechanical and chemical processes, after which the bodies that run the plants call it safe for use. Not using biosolids is as good as wasting it. Human excrement or otherwise, once treated, the sludge is no more sludge. We have certification levels for them, and we heavily regulate them. India has a set of standards for treated biosolids, and allows their restricted use in organic farming.
 
-The use is "restricted" because every piece of land and its ecosystem is different. We must analyse the soil to establish a nutrient baseline and apply biosolids accordingly. Also, we have regulations on how far from a water body the land should be, to use biosolids, what the usage windows are (for example, no cattle rearing for thirty days since application, no application within thirty days before harvest, etc.) to ensure safety.
+The use is "restricted" because every piece of land and its ecosystem is different. We must analyse the soil to establish a nutrient baseline and apply biosolids accordingly. Also, we have regulations on how far from a water body the land should be, what the usage windows are (for example, no cattle rearing for thirty days since application, no application within thirty days before harvest, etc.) to ensure safety.
 
-When done right, they improve nutrient retention, soil tilth, friability, water infiltration and retention, soil structure, ion exchange capacity and biodiversity. A major plus biosolids have is the reduction in carbon emissions. Think of how well they would offset the carbon footprint.
+When done right, biosolids improve nutrient retention, soil tilth, friability, water infiltration and retention, soil structure, ion exchange capacity and biodiversity. A major plus biosolids have is the reduction in carbon emissions. Think of how well they would offset the carbon footprint.
 
 Although, again, this does not give us a full picture of this discussion. For completeness, we must also look at a couple of prohibitions in the organic method.

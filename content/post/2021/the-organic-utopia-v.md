@@ -49,35 +49,35 @@ Sikkim is the first state to go all organic, but has their experience been great
 > When chemicals were allowed, I could grow 280 to 300 kg of pulses and now, after 4 years, I barely manage to grow 80 to 85 kg. This year, I am expecting a slight improvement with a yield of around 100 kg.
 > --- Revathy Sharma, Farmer, Sikkim
 
-Of course, this is not to blame the organic methods, but that the transition from conventional to organic needs a lot of support, including from the government. The officials, though, have not shown will in supporting these measures:
+Of course, this is not to blame the organic methods. The transition from conventional to organic needs a lot of support, including from the government. The officials, though, have not shown will in supporting these measures:
 
 > Kapil Shah, founder of Jatan Trust in Gujarat ... rues that the problem lies in the mindset of the bureaucracy as most people in the agriculture department come from a conventional agriculture background and do not understand organic farming.
 
-This is the other pole. Again, unhealthy and unsustainable. Also, the organic farmers in Sikkim receive little support from the government when it comes to regulations. For example, the State does not restrict food that comes from outside, because it says it needs more food than is locally produced, to cater to the tourists that come to Sikkim. This kills the market for the local farmers, because even the locals buy food that comes from West Bengal, which is cheaper than the locally grown organic food.
+This is the other pole. Again, unhealthy and unsustainable. Also, the organic farmers in Sikkim receive little support from the government when it comes to regulations. For example, the State does not restrict food that comes from outside, because it says it needs more food than is locally produced, to cater to the tourists that come to Sikkim. This kills the market for the local farmers, because even the locals buy the conventionally grown food that comes from West Bengal, which is cheaper than the locally grown organic food.
 
-This begs the question, is it better to buy local, no matter whether organic or not? Because one reality is that some of the standards set by {{< smallcaps FSSAI >}} even for conventionally grown food is so high, that it does not matter if the food is "organic" or not. My take on this would be go for locally made food, whatever is in season. This achieves two purposes:
+This begs the question, is it better to buy local, no matter whether organic or not? Because one reality is that some of the standards set by {{< smallcaps FSSAI >}} even for conventionally grown food is so high, that it does not matter if the food is "organic" or not. My take on this would be go for locally made food, whatever is in season. This achieves three purposes:
 
 1. You do not use energy to run a greenhouse
 2. You support local farmers and the produce
 3. You get fresh produce
 
-If the local farmers see enough support from the local buyer community and establish a regular cycle, they would not need to preserve their produce for longer, which would mean reduction in the use of pesticides.
+If the local farmers see enough support from the local buyer community and establish a regular cycle, they would not need to preserve their produce for longer, which would mean reduction in the use of preservatives.
 
 ## When to buy organic
 
-For the sake of completeness, let us also address this question: When do you buy organic?
+For completeness, let us also address this question: When do you buy organic?
 
-We now have a general picture of how conventional farming works. Conventionally grown food has a higher chance (chance, not necessarily quantity) of pesticide residue, no question there. In that case, you have a higher chance of pesticide exposure in case of concentrates. When you buy fruit concentrates or condensed vegetales or baby food, go for organic.
+We now have a general picture of how conventional farming works. Conventionally grown food has a higher chance (chance, not necessarily quantity) of pesticide residue, no question there. In that case, you have a higher chance of pesticide exposure in case of _concentrates_. When you buy fruit concentrates or condensed vegetables or baby food, go for organic.
 
-A non-profit organic research organisation called the Environmental Working Group creates a list called _Dirty Dozen_. Follow the list to know which food items have a high pesticide residue. Some of this residue does not get washed away, in which case, it makes sense to go organic for them.
+A non-profit organic research organisation called the Environmental Working Group creates a list called _The Dirty Dozen_. Follow the list to know which food items have a high pesticide residue. Some of this residue does not get washed away, in which case, it makes sense to go organic for them.
 
-If antibiotic-resistant bacteria concerns you (it should), go for organic poultry and meat---for merely that reason. Remember from above that organic red meat does not make it magically healthy.
+If antibiotic-resistant bacteria concerns you (it should), go for organic poultry and meat---for merely that reason. Remember from above that organic red meat does not make it a healthier alternative to conventional red meat.
 
 ## When not to worry about organic
 
 I would say, in most cases. But specifically, do not worry about pesticide residue in case of thick-skinned vegetalbes and fruits, and those vegetables and fruits whose outer layer you peel off, like cabbage and lettuce. Which means, you need not worry about pesticide residue in bananas, papaya, watermelon, and so on, because they have a thick skin and you peel it off anyway. The idea of not worrying about pesticide residue in thick-skinned produce is that by peeling off the skin, you get rid of most of the residue.
 
-In any case, thoroughly wash all vegetables and fruits in water. Even though the pesticide residue has been undetectable, the enforcement of regulation in locally sold produce has been spotty, which makes one question the "undetectable" claim in India. Does that mean that organic is by default better? Again, how are we vouching for the non-spottiness of the enforcement of the regulation of unorganised local sale of organic produce? (Boy, what a lot of ‘of’s!)
+In any case, thoroughly wash all vegetables and fruits in water. Even though the pesticide residue has been undetectable, the enforcement of regulation in locally sold produce has been spotty, which makes one question the "undetectable" claim in India. Does that mean that organic is by default better? Again, who is vouching for the non-spottiness of the enforcement of the regulation of unorganised local sale of organic produce?
 
 ## What about the reduced nutrition
 
