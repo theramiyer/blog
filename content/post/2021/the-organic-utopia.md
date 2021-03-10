@@ -158,13 +158,13 @@ Here are the major actors in the environmental impact in this context:
 
 We have already covered pesticides in detail. Let us jump to fertilisers.
 
-Fertilisers mainly supplement nitrogen, phosphorous and potassium in the soil. Of course, we have other variants of fertilisers that have specific use, but the most commonly used ones are {{< smallcaps NPK >}} fertilisers. Among these, nitrogen plays perhaps the most important role.
+Fertilisers mainly supplement nitrogen, phosphorous and potassium in the soil. Of course, we have other variants of fertilisers that have specific use, but the most commonly used ones are {{< smallcaps NPK >}} fertilisers. Plants need these for amino acids, creating the cell membrane and even the {{< smallcaps DNA >}}. Among these elements, nitrogen plays the most important role.
 
 Why do we need fertilisers?
 
 We have a large population (of humans and animals) to feed. The needs are specific: staples, fruits and vegetables, along with other food items. For reasons mentioned in [_Food and Sustainability_]({{< ref "food-and-sustainability" >}}) and [_Farmer Protests_]({{< ref "farmer-protests" >}}), we have resorted to monoculture. This means that the soil loses its nutrients, which makes us add fertilisers to it, so that the crop can get the necessary nutrients.
 
-The use of fertilisers also increases the yield.
+Even otherwise, the soil does not have enough of these nutrients to enable us to grow crops, which means that the use of fertilisers also increases the yield.
 
 When we go the organic way, we cannot use chemical fertilisers. We must resort to methods such as:
 
