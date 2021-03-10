@@ -1,7 +1,7 @@
 ---
 title: "The Organic Utopia (Part II)"
 subtitle: "reviewing the claims"
-date: 2021-02-24T20:51:56+05:30
+date: 2021-03-07
 description: |
   Those "in favour of" organic food make important claims about organic food. Most of them have to do with taste and nutritional value. We look at those aspects in this article.
 tags:

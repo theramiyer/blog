@@ -1,7 +1,7 @@
 ---
 title: "The Organic Utopia (Part IV)"
 subtitle: "getting a perspective"
-date: 2021-02-24T20:51:56+05:30
+date: 2021-03-09
 description: |
   Organic farming prohibits methods like food irradiation and genetic modification. Why? Or if it were not prohibited, why would we use these methods? We look at some of those points in this piece.
 tags:

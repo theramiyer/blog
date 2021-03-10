@@ -1,7 +1,7 @@
 ---
 title: "The Organic Utopia (Part V)"
 subtitle: "the way forward"
-date: 2021-02-24T20:51:56+05:30
+date: 2021-03-10
 description: |
   When it comes to sustainability, how do we proceed? And in simple terms, if we had to, how do we pick organic or the conventional?
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "The Organic Utopia (Part III)"
 subtitle: "addressing the elephant in the room"
-date: 2021-02-24T20:51:56+05:30
+date: 2021-03-08
 description: |
   We consider organic farming as a more eco-friendly variant of farming. The simple reason is that the methods are from back in time when the air was cleaner and the planet greener. But do we have the full picture? We address the question in this piece.
 tags:

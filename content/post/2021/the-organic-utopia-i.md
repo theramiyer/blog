@@ -1,7 +1,7 @@
 ---
 title: "The Organic Utopia (Part I)"
 subtitle: "making a case for organic food"
-date: 2021-02-24T20:51:56+05:30
+date: 2021-03-06
 description: |
     Amidst the noise around organic food, cleaning supplies and what not, we try to make sense of why—or if—one should go for organic food.
 tags:
