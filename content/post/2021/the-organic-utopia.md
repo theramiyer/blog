@@ -216,11 +216,19 @@ The organic proponents oppose the idea of using chemically treated waste, or sus
 
 Biosolids are the product of treated sewage sludge. The sludge goes through a series of mechanical and chemical processes, after which the bodies that run the plants call it safe for use. Not using biosolids is as good as wasting it. Human excrement or otherwise, once treated, the sludge is no more sludge. We have certification levels on them, and we heavily regulate them. India has a set of standards for treated biosolids, and allows their restricted use in organic farming. But this is not the case everywhere.
 
-The use is "restricted" because every piece of land and its ecosystem is different. We must analyse the soil to establish a baseline and apply biosolids accordingly. Also, we have regulations on how far from a water body the land should be, to use biosolids, what the usage windows are (for example, no cattle rearing for thirty days since application, no application within thirty days before harvest, etc.) to ensure safety.
+The use is "restricted" because every piece of land and its ecosystem is different. We must analyse the soil to establish a nutrient baseline and apply biosolids accordingly. Also, we have regulations on how far from a water body the land should be, to use biosolids, what the usage windows are (for example, no cattle rearing for thirty days since application, no application within thirty days before harvest, etc.) to ensure safety. No pathogen survives for over thirty days in the soil, which is the reason for that window.
 
 When done right, they improve nutrient retention, soil tilth, friability, water infiltration and retention, soil structure, ion exchange capacity and biodiversity.
 
 ## Genetic modification
+
+When we talk genetic modification or food irradiation, we think of giving plants superpowers. What if, some day, these powers came to bite us?
+
+The reality is a little different, though. Genetic modification is not about giving wings to plants, but something more basic, like making them capable of protecting themselves. To be clear genetic modification if one form or another has been part of agriculture for hundreds of years if not thousands. One of the processes has been artificial selection, which we have been doing to crops like corn and banana for centuries. We have other processes like cross breeding of plants, which also we’ve done for a long time. And organic does not specifically disallow those practices. What it does disallow is anything done in a lab.
+
+In reality, genetic modification is sometimes a better alternative to pesticides. How? Because we can genetically modify seeds to have genes that make it pest resistant, for example. This way, you would not have to spray pesticides on it. If you do not spray pesticides—targeted or otherwise—you are protecting the biodiversity in that area, removing chances of pesticides residue and ultimately, making the food healthier. 
+
+Does genetic engineering mean adding properties of, say, naphtha within the genes of, say, rice? Far from it. 
 
 ## Food irradiation
 
