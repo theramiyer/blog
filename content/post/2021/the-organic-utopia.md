@@ -319,6 +319,12 @@ I would say, in most cases. But specifically, do not worry about pesticide resid
 
 In any case, thoroughly wash all vegetables and fruits in water. Even though the pesticide residue has been undetectable, the enforcement of regulation in locally sold produce has been spotty, which makes one question the "undetectable" claim in India. Does that mean that organic is by default better? Again, how are we vouching for the non-spottiness of the enforcement of the regulation of unorganised local sale of organic produce? (Boy, what a lot of ‘of’s!)
 
+## What about the reduced nutrition
+
+Ah, almost forgot.
+
+## Summing up
+
 Is organic environmentally, humanly, or economically ethical? You should have an answer to that question by now.
 
 But let me re-state: The question is not whether organic or conventional. The point is to look at the "organic manifesto" and look at what it stands for. It stands for ecological sustainability, biodiversity, ethical farming, food safety, and all those great ideas. But "Organic" the marketing system, is---sorry to say this---a leech on all those great ideas, because by taking simplistic approaches of perceived legacy, it does more harm than good.
