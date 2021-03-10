@@ -3,6 +3,7 @@ title: "The Organic Utopia"
 subtitle: "everything you need to know about organic food"
 date: 2021-02-24T20:51:56+05:30
 description: |
+    Amidst the noise around organic food, cleaning supplies and what not, we try to make sense of why—or if—one should go for organic food.
 tags:
 - food
 - farming
@@ -321,7 +322,9 @@ In any case, thoroughly wash all vegetables and fruits in water. Even though the
 
 ## What about the reduced nutrition
 
-Ah, almost forgot.
+Ah, almost forgot. Rather than I explain, watch Derek Muller explain it:
+
+{{< youtube Yl_K2Ata6XY >}}
 
 ## Summing up
 
