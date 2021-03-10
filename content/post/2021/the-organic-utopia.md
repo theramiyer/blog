@@ -81,6 +81,8 @@ And as most of us maintain, the natural way is better, closer to nature.
 
 'Right, meaning, if the prices were the same as conventionally grown produce, would there be no reason not to switch to organic?'
 
+{{< figure src="https://blogfiles.ramiyer.me/2021/images/organic-price.webp" caption="Difference in price between 'conventional' and organic food" >}}
+
 ## It isn't as simple
 
 Of course, the simplest explanation is the most popular. But is not necessarily accurate. Which means, we would need to look at other aspects before we come to a conclusion. Polarisation using simplistic arguments have seldom (if at all) helped humanity on the long run.
@@ -201,11 +203,11 @@ At the same time, does that make conventional farming better? Look at the amount
 
 Wait, at least organic processes like composting are not releasing any green house gases. In theory, we could convert all our terraces to organic farming grounds and make the whole world go organic. All green, right? Wrong. Composting releases its share of green house gases.{{< sidenote shock-ghg >}}_The Shocking Carbon Footprint of Compost_ ([Applied Mythology](https://appliedmythology.blogspot.com/2013/01/the-shocking-carbon-footprint-of-compost.html)){{< /sidenote >}} The carbon footprint from that is so large that we cannot call it "green" from any perspective.
 
-What now?
+What then?
 
 Fuel cells. These are one of the solutions proposed, and research is in progress. The aim is to produce ammonia using renewable sources of energy like wind{{< sidenote ammonia-puck >}}_Ammonia—a renewable fuel made from sun, air, and water—could power the globe without carbon_ ([ScienceMag](https://www.sciencemag.org/news/2018/07/ammonia-renewable-fuel-made-sun-air-and-water-could-power-globe-without-carbon)){{< /sidenote >}} which we can then use as fertiliser.
 
-Another observation was that over 80% of the nitrogen we put into the soil does not get consumed by people.{{< sidenote nitro-waste >}}A Sustainable Agriculture? ([Dædalus, September 28, 2015](https://www.mitpressjournals.org/doi/10.1162/DAED_a_00355#fn49)){{< /sidenote >}}
+Another observation was that over 80% of the nitrogen we put into the soil does not get consumed by people.{{< sidenote nitro-waste >}}A Sustainable Agriculture? ([Dædalus, September 28, 2015](https://www.mitpressjournals.org/doi/10.1162/DAED_a_00355#fn49)){{< /sidenote >}} Is this something that needs a review? Can we optimise nitrogen use---organic or otherwise?
 
 Lastly, use of biosolids.
 
@@ -214,11 +216,11 @@ The organic proponents oppose the idea of using chemically treated waste, or sus
 1. different from sludge
 2. not laden with harmful chemicals
 
-Biosolids are the product of treated sewage sludge. The sludge goes through a series of mechanical and chemical processes, after which the bodies that run the plants call it safe for use. Not using biosolids is as good as wasting it. Human excrement or otherwise, once treated, the sludge is no more sludge. We have certification levels on them, and we heavily regulate them. India has a set of standards for treated biosolids, and allows their restricted use in organic farming. But this is not the case everywhere.
+Biosolids are the product of treated sewage sludge. The sludge goes through a series of mechanical and chemical processes, after which the bodies that run the plants call it safe for use. Not using biosolids is as good as wasting it. Human excrement or otherwise, once treated, the sludge is no more sludge. We have certification levels for them, and we heavily regulate them. India has a set of standards for treated biosolids, and allows their restricted use in organic farming. But this is not the case everywhere.
 
-The use is "restricted" because every piece of land and its ecosystem is different. We must analyse the soil to establish a nutrient baseline and apply biosolids accordingly. Also, we have regulations on how far from a water body the land should be, to use biosolids, what the usage windows are (for example, no cattle rearing for thirty days since application, no application within thirty days before harvest, etc.) to ensure safety. No pathogen survives for over thirty days in the soil, which is the reason for that window.
+The use is "restricted" because every piece of land and its ecosystem is different. We must analyse the soil to establish a nutrient baseline and apply biosolids accordingly. Also, we have regulations on how far from a water body the land should be, to use biosolids, what the usage windows are (for example, no cattle rearing for thirty days since application, no application within thirty days before harvest, etc.) to ensure safety.
 
-When done right, they improve nutrient retention, soil tilth, friability, water infiltration and retention, soil structure, ion exchange capacity and biodiversity.
+When done right, they improve nutrient retention, soil tilth, friability, water infiltration and retention, soil structure, ion exchange capacity and biodiversity. A major plus biosolids have is the reduction in carbon emissions. Think of how well they would offset the carbon footprint.
 
 ## Genetic modification
 
@@ -226,14 +228,101 @@ When we talk genetic modification or food irradiation, we think of giving plants
 
 The reality is a little different, though. Genetic modification is not about giving wings to plants, but something more basic, like making them capable of protecting themselves. To be clear genetic modification if one form or another has been part of agriculture for hundreds of years if not thousands. One of the processes has been artificial selection, which we have been doing to crops like corn and banana for centuries. We have other processes like cross breeding of plants, which also we’ve done for a long time. And organic does not specifically disallow those practices. What it does disallow is anything done in a lab.
 
-In reality, genetic modification is sometimes a better alternative to pesticides. How? Because we can genetically modify seeds to have genes that make it pest resistant, for example. This way, you would not have to spray pesticides on it. If you do not spray pesticides—targeted or otherwise—you are protecting the biodiversity in that area, removing chances of pesticides residue and ultimately, making the food healthier. 
+In reality, genetic modification is sometimes a better alternative to pesticides. How? Because we can genetically engineer seeds to have genes that make it pest resistant, for example. This way, you would not have to spray pesticides on it. If you do not spray pesticides—targeted or otherwise—you are protecting the biodiversity in that area, removing chances of pesticides residue and ultimately, making the food healthier.
 
-Does genetic engineering mean adding properties of, say, naphtha within the genes of, say, rice? Far from it. 
+Does genetic engineering mean adding properties of, say, soap within the genes of, say, rice? Far from it. Genetic modification, like one of the videos I watched on the subject said, is perhaps a misnomer. This is not about making rice soapy. Genetic modification picks a specific gene in an organism that gives it a strength. The gene is then---in oversimplified terms---placed within the cells of a specific seed. The seed then gets this strength.
+
+But this process is not as simple as it sounds. The seed would need to go through cycles of growth: grow into a plant, make the fruit, and thus the seeds, and then repeat the process over and over. The scientists test the seeds after every stage to look for changes in its genes, and ensure it will give the intended results and nothing more. This process often takes years of testing and development.
+
+From an ecological standpoint, this drastically reduces the amount of toxins that go into the environment.
 
 ## Food irradiation
+
+We will slightly brush upon this topic, because while this is interesting, its implications are not all that good in the end. And no, this has nothing to do with human beings turning Hulk.
+
+Food irradiation is a regular practice today. The scientists use Gamma rays from elements like Cobalt-60 and Caesium-137, or electron beams or X-rays to irradiate food. This process kills pathogens in the food and helps preserve the food better, while avoiding diseases. There have been cases of spices containing high levels of pathogen like Salmonella and E. Coli. Irradiation would kill these pathogen.
+
+These are ionising radiations (well within limits tolerable to humans), applied to food, which destroy the {{< smallcaps DNA >}} of the pathogen and neutralise them.
+
+Does the radiation stay in the food? No. Does it make the food radioactive? No. The concentrations are too small to be able to do anything like that. The {{< smallcaps FDA >}}, the {{< smallcaps WHO >}}, the {{< smallcaps CDC >}} have all evaluated the safety of irradiation and endorse it. In India, our own {{< smallcaps BARC >}} (Bhabha Atomic Research Centre, not the TV rating agency) endorses food irradiation, and the {{< smallcaps FSSAI >}} has guidelines for it.
+
+But this has its downsides. Irradiation would certainly remove pathogens from the food, but in the act, increase its shelf life longer than the food takes to lose its nutrient value. It also would mask any unsanitary conditions in which the food processing happened.
 
 ## Does organic have no real merits
 
 Organic farming does have its benefits. For instance, the concept of cover crops helps with soil erosion. We have all learnt that the release of nitrogen from manure is a slow process. This means that the nitrogen run-off from fields would be rather low, which would not harm water bodies with algal blooms.
 
 Antibiotic-resistant bacteria is another major concern, and organic wins here hands down.
+
+Also, if you look at crop rotation from a broader perspective, it does not allow any particular pest to become used to the environment. No single pest would stay on for the presence of food, because it will not find a perennial supply---the crop keeps changing.
+
+But as we saw above, organic has its downsides as well. It cannot, given the state of agriculture today, support the scale.
+
+## What does it mean for us, the consumers
+
+I agree with the Sadhguru on this: There is no such thing as "organic" farming. But not in the way he probably meant it. Organic or no organic is unnecessary polarisation; a dirty one at that, because it appeals to the basic instincts,{{< sidenote bas-ins >}}Nothing inherently wrong with basic instincts themselves, but I would be wary of anyone appealing to them, because they make manipulation almost effortless.{{< /sidenote >}} like buying organic "feels" right. Science does not work like that. Science works on evidence, facts and figures.
+
+The point should not be "organic or not organic", but "whatever works best". The problem is, how do you define "best"? One way forward is analysing the cost-to-benefit ratio. And cost does not mean economic cost alone, but ecological, ethical, and so on.
+
+Take for example the use of fertilisers. In conventional cultivation, farmers have the option of "spoon feeding" nutrients, wherein they add water-soluble fertilisers in the irrigation water on an as-needed basis. Doing this in the organic system is expensive.
+
+Another example could be of the environmental cost of running a greenhouse farm. While it makes some fruits and vegetables available off season, it consumes enormous amounts of energy generated from fossil fuels. This is not what ecological ethics stand for.
+
+Organic has its ethical benefits, but also has ethical pitfalls. For example, the system allows a farmer to treat his cattle with antibiotic if the animals fall ill. But once treated with antibiotics, the farmer cannot stamp the milk produced by those animals as organic. What would the farmer do, forgo his organic label or let the animal suffer? Or worse, lose his integrity, treat the animal with antibiotic and continue to label its milk as organic, until someone finds out?
+
+This whole "organic" scene also introduces complacence. For example, I hear people in my own extended family make statements like, 'Oh, don't give him sugar, he's diabetic. Give him jaggery instead.' Why? Jaggery is natural, perhaps even branded organic. But, jaggery or sugar, in the end, they are both chemically sugar, which will break down into glucose and show up in the blood. Jaggery may have its health benefits in the form of micronutrients, but is as harmful to a diabetic as refined sugar. Also, in case it still is unclear, organic sugar is as bad as regular sugar. Organic does not make anything unhealthy magically healthy.
+
+The tendency also is to think organic is natural. In most cases, it may be. In reality, "organic" is a marketing term. Natural means that the food does not contain artificial colours or flavours, or preservatives, even. But the materials used to make the product may not be of organic origin. The same is true the other way around as well.
+
+Another example for why organic does not equate to ethical is a point I made in [_Food and Sustainability_]({{< ref "food-and-sustainability" >}}): eating organic meat. Organic meat is as harsh on the environment as regular meat, if not more.{{< sidenote eco-columbia >}}_Is Organic Food Really Better for the Environment?_ ([Earth Institute, Columbia University](https://blogs.ei.columbia.edu/2019/10/22/organic-food-better-environment/)){{< /sidenote >}} Again, no, I am not promoting vegetarianism (read the post, and you will know), but merely pointing out the wrong equations people jump to.
+
+## Way forward in sustainability
+
+Carrying on from the last point, we want to be able to grow more food with the existing land infrastructure. We do not want to fell more trees and deforest land so we can grow more grain. Rather than look at "organic" or "non-organic", go for what is good for humanity _and_ our environment. For example, in one case, an analysis in a research found that some organic hay crops surpassed conventional yields in the US.{{< sidenote organic-hay >}}_Commercial Crop Yields Reveal Strengths and Weaknesses for Organic Agriculture in the United States_ ([PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0161673)){{< /sidenote >}} While we may not be able to fully replicate it here in India, this is a good point: Organic farming, with some of its ecological benefits, has surpassed conventional farming in yield. Go for it!
+
+India has the largest number of organic farmers in the world, and is one of the largest global contributors to organic produce. Our standards are high enough that the consumers respect it. We have our organic certification programmes; two of them: One under the National Programme for Organic Production ({{< smallcaps NPOP >}}) and Participatory Guarantee System ({{< smallcaps PGS >}}). You can find out more by visiting [Jaivik Bharat](https://jaivikbharat.fssai.gov.in/), {{< smallcaps FSSAI >}}.
+
+But let us also look at the other side of the story.
+
+Sikkim is the first state to go all organic, but has their experience been great since? No.{{< sidenote sikkim100 >}}_Sikkim is 100% organic! Take a second look_ ([DownToEarth](https://www.downtoearth.org.in/news/agriculture/organic-trial-57517)){{< /sidenote >}}
+
+> When chemicals were allowed, I could grow 280 to 300 kg of pulses and now, after 4 years, I barely manage to grow 80 to 85 kg. This year, I am expecting a slight improvement with a yield of around 100 kg.  
+> --- Revathy Sharma, Farmer, Sikkim
+
+Of course, this is not to blame the organic methods, but that the transition from conventional to organic needs a lot of support, including from the government. The officials, though, have not shown will in supporting these measures:
+
+> Kapil Shah, founder of Jatan Trust in Gujarat ... rues that the problem lies in the mindset of the bureaucracy as most people in the agriculture department come from a conventional agriculture background and do not understand organic farming.
+
+This is the other pole. Again, unhealthy and unsustainable. Also, the organic farmers in Sikkim receive little support from the government when it comes to regulations. For example, the State does not restrict food that comes from outside, because it says it needs more food than is locally produced, to cater to the tourists that come to Sikkim. This kills the market for the local farmers, because even the locals buy food that comes from West Bengal, which is cheaper than the locally grown organic food.
+
+This begs the question, is it better to buy local, no matter whether organic or not? Because one reality is that some of the standards set by {{< smallcaps FSSAI >}} even for conventionally grown food is so high, that it does not matter if the food is "organic" or not. My take on this would be go for locally made food, whatever is in season. This achieves two purposes:
+
+1. You do not use energy to run a greenhouse
+2. You support local farmers and the produce
+3. You get fresh produce
+
+If the local farmers see enough support from the local buyer community and establish a regular cycle, they would not need to preserve their produce for longer, which would mean reduction in the use of pesticides.
+
+## When to buy organic
+
+For the sake of completeness, let us also address this question: When do you buy organic?
+
+We now have a general picture of how conventional farming works. Conventionally grown food has a higher chance (chance, not necessarily quantity) of pesticide residue, no question there. In that case, you have a higher chance of pesticide exposure in case of concentrates. When you buy fruit concentrates or condensed vegetales or baby food, go for organic.
+
+A non-profit organic research organisation called the Environmental Working Group creates a list called _Dirty Dozen_. Follow the list to know which food items have a high pesticide residue. Some of this residue does not get washed away, in which case, it makes sense to go organic for them.
+
+If antibiotic-resistant bacteria concerns you (it should), go for organic poultry and meat---for merely that reason. Remember from above that organic red meat does not make it magically healthy.
+
+## When not to worry about organic
+
+I would say, in most cases. But specifically, do not worry about pesticide residue in case of thick-skinned vegetalbes and fruits, and those vegetables and fruits whose outer layer you peel off, like cabbage and lettuce. Which means, you need not worry about pesticide residue in bananas, papaya, watermelon, and so on, because they have a thick skin and you peel it off anyway. The idea of not worrying about pesticide residue in thick-skinned produce is that by peeling off the skin, you get rid of most of the residue.
+
+In any case, thoroughly wash all vegetables and fruits in water. Even though the pesticide residue has been undetectable, the enforcement of regulation in locally sold produce has been spotty, which makes one question the "undetectable" claim in India. Does that mean that organic is by default better? Again, how are we vouching for the non-spottiness of the enforcement of the regulation of unorganised local sale of organic produce? (Boy, what a lot of ‘of’s!)
+
+Is organic environmentally, humanly, or economically ethical? You should have an answer to that question by now.
+
+But let me re-state: The question is not whether organic or conventional. The point is to look at the "organic manifesto" and look at what it stands for. It stands for ecological sustainability, biodiversity, ethical farming, food safety, and all those great ideas. But "Organic" the marketing system, is---sorry to say this---a leech on all those great ideas, because by taking simplistic approaches of perceived legacy, it does more harm than good.
+
+The way forward is to look at the best available methods to achieve the goals that the organic vision paints. This means, using technology such as fuel cells that make ammonia to get processable nitrogen into the soil, use of targeted pesticides that do not harm the biodiversity, not using unnecessary antibiotics or growth hormones on animals, reducing land use by intensive farming of rotational crops, preventing deforestation, income support for farmers, and so on.
+
+What is the point of going around making green symbols on paper produced by felling trees?
