@@ -36,6 +36,13 @@ This is the second of the five-part series on organic food. To jump to any topic
 - [What about the reduced nutrition]({{< ref "the-organic-utopia-v#what-about-reduced-nutrition" >}})
 - [Summing up]({{< ref "the-organic-utopia-v#summing-up" >}})
 
+To jump to the parts themselves, use the links below:
+
+- [Part I: Making a case for organic food]({{< ref "the-organic-utopia-i" >}})
+- [Part III: Addressing the elephant in the room]({{< ref "the-organic-utopia-iii" >}})
+- [Part IV: Getting a perspective]({{< ref "the-organic-utopia-iv" >}})
+- [Part V: The way forward]({{< ref "the-organic-utopia-v" >}})
+
 ## Organic tastes better
 
 While we hear that organic food tastes better, no scientific study could conclusively claim this to be true. While that does not mean that the claim is false, the chances of it being true are close to none.
@@ -95,3 +102,9 @@ In all, the evidence on concentration of nutrient is not conclusive in any sense
 > On the basis of a systematic review of studies of satisfactory quality, there is no evidence of a difference in nutrient quality between organically and conventionally produced foodstuffs. The small differences in nutrient content detected are biologically plausible and mostly relate to differences in production methods.
 
 Another important claim we hear is that organic farming is eco-friendly. How true is that?
+
+Read further:
+
+- [Part III: Addressing the elephant in the room]({{< ref "the-organic-utopia-iii" >}})
+- [Part IV: Getting a perspective]({{< ref "the-organic-utopia-iv" >}})
+- [Part V: The way forward]({{< ref "the-organic-utopia-v" >}})

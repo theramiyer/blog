@@ -40,6 +40,13 @@ This is the first of the five-part series on organic food. To jump to any topic 
 - [What about the reduced nutrition]({{< ref "the-organic-utopia-v#what-about-reduced-nutrition" >}})
 - [Summing up]({{< ref "the-organic-utopia-v#summing-up" >}})
 
+To jump to the parts themselves, use the links below:
+
+- [Part II: Reviewing the claims]({{< ref "the-organic-utopia-ii" >}})
+- [Part III: Addressing the elephant in the room]({{< ref "the-organic-utopia-iii" >}})
+- [Part IV: Getting a perspective]({{< ref "the-organic-utopia-iv" >}})
+- [Part V: The way forward]({{< ref "the-organic-utopia-v" >}})
+
 ## The traditional farming methods
 
 The concept of organic farming is not new to India, for obvious reasons. We were an agrarian family ourselves, until my grandfather's generation. I have heard of the methods that they used, to get better yields, ranging from what they fed to the cattle to how they made natural fertiliser out of plant remains, compost, etc.
@@ -105,3 +112,10 @@ And as most of us maintain, the natural way is better, closer to nature.
 ## It isn't as simple
 
 Of course, the simplest explanation is the most popular. But is not necessarily accurate. Which means, we would need to look at other aspects before we come to a conclusion. Polarisation using simplistic arguments have seldom (if at all) helped humanity in the long run.
+
+Read further:
+
+- [Part II: Reviewing the claims]({{< ref "the-organic-utopia-ii" >}})
+- [Part III: Addressing the elephant in the room]({{< ref "the-organic-utopia-iii" >}})
+- [Part IV: Getting a perspective]({{< ref "the-organic-utopia-iv" >}})
+- [Part V: The way forward]({{< ref "the-organic-utopia-v" >}})

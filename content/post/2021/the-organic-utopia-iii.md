@@ -36,6 +36,13 @@ This is the third of the five-part series on organic food. To jump to any topic 
 - [What about the reduced nutrition]({{< ref "the-organic-utopia-v#what-about-reduced-nutrition" >}})
 - [Summing up]({{< ref "the-organic-utopia-v#summing-up" >}})
 
+To jump to the parts themselves, use the links below:
+
+- [Part I: Making a case for organic food]({{< ref "the-organic-utopia-i" >}})
+- [Part II: Reviewing the claims]({{< ref "the-organic-utopia-ii" >}})
+- [Part IV: Getting a perspective]({{< ref "the-organic-utopia-iv" >}})
+- [Part V: The way forward]({{< ref "the-organic-utopia-v" >}})
+
 ## Organic is more eco-friendly
 
 The sustainability part! Let us first look at how farming affects our environment. In a [previous article]({{< ref "food-and-sustainability" >}}), I talk about the environmental impact of our food. In this article, let us concentrate on the growing of food alone.
@@ -112,3 +119,8 @@ The use is "restricted" because every piece of land and its ecosystem is differe
 When done right, biosolids improve nutrient retention, soil tilth, friability, water infiltration and retention, soil structure, ion exchange capacity and biodiversity. A major plus biosolids have is the reduction in carbon emissions. Think of how well they would offset the carbon footprint.
 
 Although, again, this does not give us a full picture of this discussion. For completeness, we must also look at a couple of prohibitions in the organic method.
+
+Read further:
+
+- [Part IV: Getting a perspective]({{< ref "the-organic-utopia-iv" >}})
+- [Part V: The way forward]({{< ref "the-organic-utopia-v" >}})

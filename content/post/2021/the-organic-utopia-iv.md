@@ -36,6 +36,13 @@ This is the fourth of the five-part series on organic food. To jump to any topic
 - [What about the reduced nutrition]({{< ref "the-organic-utopia-v#what-about-reduced-nutrition" >}})
 - [Summing up]({{< ref "the-organic-utopia-v#summing-up" >}})
 
+To jump to the parts themselves, use the links below:
+
+- [Part I: Making a case for organic food]({{< ref "the-organic-utopia-i" >}})
+- [Part II: Reviewing the claims]({{< ref "the-organic-utopia-ii" >}})
+- [Part III: Addressing the elephant in the room]({{< ref "the-organic-utopia-iii" >}})
+- [Part V: The way forward]({{< ref "the-organic-utopia-v" >}})
+
 ## Genetic modification
 
 When we talk genetic modification or food irradiation, we think of giving plants superpowers. What if, some day, these powers came to bite us?
@@ -91,3 +98,7 @@ The tendency also is to think that organic is natural. In most cases, it may be.
 Another example for why organic does not equate to ethical is a point I made in [_Food and Sustainability_]({{< ref "food-and-sustainability" >}}): eating organic meat. Organic meat is as harsh on the environment as regular meat, if not more.{{< sidenote eco-columbia >}}_Is Organic Food Really Better for the Environment?_ ([Earth Institute, Columbia University](https://blogs.ei.columbia.edu/2019/10/22/organic-food-better-environment/)){{< /sidenote >}} Again, no, I am not promoting vegetarianism (read the post, and you will know), but merely pointing out the wrong equations people draw.
 
 What do we do next? Which one do we pick?
+
+Read further:
+
+- [Part V: The way forward]({{< ref "the-organic-utopia-v" >}})

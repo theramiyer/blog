@@ -36,6 +36,13 @@ This is the fifth of the five-part series on organic food. To jump to any topic 
 - [What about the reduced nutrition](#what-about-reduced-nutrition)
 - [Summing up](#summing-up)
 
+To jump to the parts themselves, use the links below:
+
+- [Part I: Making a case for organic food]({{< ref "the-organic-utopia-i" >}})
+- [Part II: Reviewing the claims]({{< ref "the-organic-utopia-ii" >}})
+- [Part III: Addressing the elephant in the room]({{< ref "the-organic-utopia-iii" >}})
+- [Part IV: Getting a perspective]({{< ref "the-organic-utopia-iv" >}})
+
 ## Way forward in sustainability
 
 Carrying on from the last point, we want to be able to grow more food with the existing land infrastructure. We do not want to fell more trees and deforest land so we can grow more grain. Rather than look at "organic" or "non-organic", go for what is good for humanity _and_ our environment. For example, in one case, an analysis in a research found that some organic hay crops surpassed conventional yields in the US.{{< sidenote organic-hay >}}_Commercial Crop Yields Reveal Strengths and Weaknesses for Organic Agriculture in the United States_ ([PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0161673)){{< /sidenote >}} While we may not be able to fully replicate it here in India, this is a good point: Organic farming, with some of its ecological benefits, has surpassed conventional farming in yield. Go for it!
