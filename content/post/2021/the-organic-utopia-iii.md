@@ -112,13 +112,15 @@ The organic proponents oppose the idea of using chemically treated waste, or sus
 1. different from sludge
 2. not laden with harmful chemicals
 
-Biosolids are the product of treated sewage sludge. The sludge goes through a series of mechanical and chemical processes, after which the bodies that run the plants call it safe for use. Not using biosolids is as good as wasting it. Human excrement or otherwise, once treated, the sludge is no more sludge. We have certification levels for them, and we heavily regulate them. India has a set of standards for treated biosolids, and allows their restricted use in organic farming.
+Biosolids are the product of treated sewage sludge. The sludge goes through a series of mechanical and chemical processes, in treatment plants, after which the organisational bodies that run the plants call it safe for use. Not using biosolids is as good as wasting it. Human excrement or otherwise, once treated, the sludge is no more sludge. And no more dangerous. We have certification levels for them, and we heavily regulate them. India has a set of standards for treated biosolids, and allows their restricted use in organic farming.
 
-The use is "restricted" because every piece of land and its ecosystem is different. We must analyse the soil to establish a nutrient baseline and apply biosolids accordingly. Also, we have regulations on how far from a water body the land should be, what the usage windows are (for example, no cattle rearing for thirty days since application, no application within thirty days before harvest, etc.) to ensure safety.
+The use is "restricted" because every piece of land and its ecosystem is different. We must analyse the soil to establish a nutrient baseline and apply biosolids accordingly, based on the nutrient concentration in them. Also, we have regulations on how far from a water body the land should be, what the usage windows are (for example, no cattle rearing for thirty days since application, no application within thirty days before harvest, etc.) to ensure safety.
 
 When done right, biosolids improve nutrient retention, soil tilth, friability, water infiltration and retention, soil structure, ion exchange capacity and biodiversity. A major plus biosolids have is the reduction in carbon emissions. Think of how well they would offset the carbon footprint.
 
-Although, again, this does not give us a full picture of this discussion. For completeness, we must also look at a couple of prohibitions in the organic method.
+Can a farmer collect human waste, process it themselves and apply it in their fields? No. The pathogen present in human excrement are unsafe, in general. Waste processing centres handle these with their biochemical or biomechanical processes to bring the levels within safe limits.
+
+Of course, this does not give us a full picture of this discussion. For completeness, we must also look at a couple of prohibitions in the organic method.
 
 Read further:
 
