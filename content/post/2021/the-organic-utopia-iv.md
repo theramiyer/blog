@@ -11,7 +11,7 @@ tags:
 - development
 ---
 
-The last pieces addressed the merits of organic farming (and looked at how much merit they carry in reality). But there also are some scientific methods that help with storing, preserving and serving food to the end consumer. We look at those in this piece.
+Previously, in this series, we addressed the merits of organic farming (and looked at how much merit they carry in reality). But there also are some scientific methods that help with storing, preserving and serving food to the end consumer. We look at those in this piece.
 
 This is the fourth of the five-part series on organic food. To jump to any topic on the subject, use the list below:
 

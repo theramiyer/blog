@@ -11,7 +11,7 @@ tags:
 - development
 ---
 
-In the last two pieces in this series, we saw why one chooses to buy organic, and reviewed some of the claims that the proponents of organic food make. But this picture is incomplete without perhaps the most important aspect of the practice, from a broader point of view.
+So far in this series, we have seen why one chooses to buy organic, and reviewed some of the claims that the proponents of organic food make. But this picture is incomplete without perhaps the most important aspect of the practice, from a broader point of view.
 
 This is the third of the five-part series on organic food. To jump to any topic on the subject, use the list below:
 

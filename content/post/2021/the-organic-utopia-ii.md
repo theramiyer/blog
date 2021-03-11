@@ -11,7 +11,7 @@ tags:
 - development
 ---
 
-In the previous piece of this series, we looked at the basics of how food works, and what we look for in food. We get an overview of the claims that organic proponents make. In this piece, we look at three of the claims in more depth, and test their validity based on the evidence we have.
+Previously in this series, we looked at the basics of how food works, and what we look for in food. We get an overview of the claims that organic proponents make. In this piece, we look at three of the claims in more depth, and test their validity based on the evidence we have.
 
 This is the second of the five-part series on organic food. To jump to any topic on the subject, use the list below:
 

@@ -11,7 +11,7 @@ tags:
 - development
 ---
 
-In the previous pieces of this series, we addressed most of the claims and merits of both the methods of agriculture. We even addressed the polarisation. But when it comes to sustainability, how do we proceed? And in simple terms, if we had to, how do we pick one over the other?
+So far, in this series, we have addressed most of the claims and merits of both the methods of agriculture. We even addressed the polarisation: organic vs conventional. But how do we proceed keeping sustainability in mind? And in simple terms, if we had to, how do we pick one over the other?
 
 This is the fifth of the five-part series on organic food. To jump to any topic on the subject, use the list below:
 
