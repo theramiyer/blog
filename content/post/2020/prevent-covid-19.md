@@ -111,7 +111,7 @@ Also remember that taking too much vitamin C can lead to kidney stones.
 
 Vitamin D does not help cure the disease, but it prevents worsening of the situation in two ways[^1fa7f00b]:
 
-1. Boosts your immune system.
+1. Makes your immune system healthy.
 2. Prevents the immune system from overreacting and jamming the lungs with fluid---this fluid build-up is a major cause for death in case of {{< smallcaps "COVID-19" >}}.
 
 You do not need supplements; standing in the morning sun for about fifteen minutes should suffice.

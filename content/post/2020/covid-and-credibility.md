@@ -153,6 +153,8 @@ Sometimes, when the lymphatic system kicks in, and is unable to track down every
 
 In other words, the response that the immune system gives to the virus, kills us before the virus does.
 
+Now think about whether you want to “boost” your immunity.
+
 ## Asymptomatic and pre-symptomatic manifestations
 
 In an article that I read[^5], Dr Beda Stadler calls it a "joke" to think that an asymptomatic person could infect a healthy individual. That is one perspective. In science, we do not take anyone's word for it. The {{< smallcaps WHO >}}'s documentation does not exclude the possibility that asymptomatic people can pass on the disease[^6].
