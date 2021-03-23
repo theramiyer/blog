@@ -1,7 +1,7 @@
 ---
 title: "Let Us Talk COVID Vaccine"
 subtitle: "its merits, marketing and controversies"
-date: 2021-01-23T08:02:35+05:30
+date: 2021-03-18T08:02:35+05:30
 description: |
     Vaccines have become highly politicised. Saying anything in favour of them or against them is bound to unleash the wrath of those of the opposite pole. But this does not have to be about one or another. And in this post, we will look at it from all aspects.
 tags:
@@ -31,7 +31,7 @@ A {{< smallcaps COVID >}} vaccine behaves like a virus in your body by triggerin
 3. Nucleic vaccines use the virus’ {{< smallcaps DNA >}} or {{< smallcaps RNA >}} to work. Vaccines developed by Pfizer and Moderna use a smaller strand of the {{< smallcaps RNA >}}, called Messenger-{{< smallcaps RNA >}} (or m-{{< smallcaps RNA >}}) to dictate the production of antigens, which in turn triggers an immune response.
 4. A viral vector also dictates the production of antigens, but uses a harmless variant of the target virus---for instance, a virus that affects pigs and not humans, but has a similar structure and triggers similar antigen production as the target. This behaviour also triggers an immune response, even though the virus cannot harm humans.
 
-Both, Bharat Biotech's _Covaxin_ and the AstraZenica's _Covishield_ are the cold virus vaccines, but different in their workings. The former has a full {{< smallcaps SARS >}}-CoV-2 but with inactivated genes which disables the replication of the virus while keeping the spike proteins intact. The spike proteins try to bind with our cells and that triggers an immune response. [This New York Times article](https://www.nytimes.com/interactive/2021/health/bharat-biotech-covid-19-vaccine.html) has a beautiful pictorial representation of the working of Covaxin.
+Both, Bharat Biotech's _Covaxin_ and the AstraZenica's _Covishield_ are cold virus vaccines, but different in their workings. The former has a full {{< smallcaps SARS >}}-CoV-2 but with inactivated genes which disables the replication of the virus while keeping the spike proteins intact. The spike proteins try to bind with our cells and that triggers an immune response. [This New York Times article](https://www.nytimes.com/interactive/2021/health/bharat-biotech-covid-19-vaccine.html) has a beautiful pictorial representation of the working of Covaxin.
 
 Covisheild is the viral vector variant. This vaccine uses an adenovirus (a virus that causes flu-like illness) that affects chimpanzees, which has the same spike protein structure as the {{< smallcaps SARS >}}-CoV-2. Covishield shares similarities with Covaxin in using the spike protein to trigger an immune response. Our immunity can then use the same identification-and-response mechanism to tackle a live {{< smallcaps SARS >}}-CoV-2 attack.
 
@@ -48,3 +48,19 @@ Once cleared for human trials, these are the three stages:
 Stage 3 is where a good vaccine shines. Imagine at Stage 1, out of a hundred participants, nobody showed any serious issues. This does not mean that the vaccine is a hundred percent safe. Why? Because the sample size is too small. This sample size in no way represents the whole of humanity. Also, in most cases, Stage 1 employs healthy individuals. Stage 2 is not too different from Stage 1; healthy individuals get chosen for Stage 2 as well, but from a probability standpoint, Stage 2 is a better representative of humanity than Stage 1, but still not good enough, because the combinations that human health issues create is an enormous number---in millions: people with diabetes but no hypertension, people with cancer and hypertension, people having bone marrow issues, but no other co-morbidities, and so on.
 
 Stage 3 is where unhealthy individuals also receive the vaccine. And this is critical. Remember this; we will revisit this point.
+
+Vaccines may go for stage 4 trials as well. The more you try, the more you study the responses, the better your data is, which makes the chances of improvement better.
+
+## The complexity in global rollout
+
+Not all humans are biologically the same. Different people living in different conditions, exposed to their own shares of pathogen, living different lifestyles make for a diverse population. We can see this in the rate at which different peoples develop differing levels of complications. From over 90% asymptomatic cases to high mortality rates, not everyone responds the same way to the virus.
+
+To worsen this, viruses mutate.
+
+
+
+## Is Covaxin safe
+
+## Coronil
+
+## Other "immunity boosters"
