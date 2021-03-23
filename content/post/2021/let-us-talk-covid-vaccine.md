@@ -16,9 +16,15 @@ As usual, the subject has divided the public as pro-vaccine and anti-vaccine. Ea
 
 {{< toc >}}
 
+## How a vaccine works
+
+Before we understand vaccines, we need to understand how our body works against a pathogen. Our immunity neutralises a virus using different mechanisms, which you can read about in a [previous post]({{< ref "covid-and-credibility.md#the-case-of-asymptomatic-transmission" >}}). If you have not yet read that post, read the section and come back here.
+
+Our immunity is critical to the working of a vaccine. In simple terms, vaccines trick our body into thinking that a load of live virus is in the system. Our body sees this as a threat and starts working to protect itself by neutralising the invasion. In the process it learns about the different aspects of the pathogen: its characteristics, strengths and weaknesses, its workings, and so on, so that it can handle this better the next time (identify the pathogen sooner, which chemicals to release, what physical properties to use and so on. In some cases, the memory of this invasion (including the physical and chemical properties of the pathogen) lasts for a long time; in others, a short while. Flu is generally the latter case (and to make matters worse, there are hundreds—or probably thousands—of strains of the influenza virus).
+
 ## The types of vaccines
 
-Your immunity neutralises a virus using different mechanisms, which you can read about in a [previous post]({{< ref "covid-and-credibility.md#the-case-of-asymptomatic-transmission" >}}). A {{< smallcaps COVID >}} vaccine behaves like a virus in your body by triggering a similar immune response, but without causing damage the way the virus would. What the vaccine does defines its type:
+A {{< smallcaps COVID >}} vaccine behaves like a virus in your body by triggering a similar immune response, but without causing damage the way the virus would. What the vaccine does defines its type:
 
 1. A cold virus vaccine uses an attenuated form of the virus to trigger an immune response. The virus either has its genetic material destroyed, or weakened so that it may replicate but not cause illness.
 2. A protein vaccine uses a fragment of the virus’ protein substructure to trigger an immune response from the body. But this is often a weak response, and needs booster shots to boost the response.

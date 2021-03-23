@@ -276,13 +276,13 @@ Of course, if Punjab or Haryana stopped producing wheat and paddy, it will affec
 
 This also means that the government must take account of how much of what it needs to replenish its reserves. The government must buy no more than this and, it could perhaps use the money that it used to buy surpluses with, towards reform packages or incentives so that the farmers diversify more and reduce our dependence on imports.
 
-Having said this, the farmers’ anxiety is legitimate. There can nee no debate here.
+Having said this, the farmers’ anxiety is legitimate. There can be no debate here.
 
-The track record of this government in implementation of ideas and reforms has been opaque and thoughtless. Most of the sweeping moves (fondly known as "masterstrokes") have ended up hurting more than benefiting.
+The track record of this government in implementation of ideas and reforms has been opaque, thoughtless and in general, abysmal. Most of the sweeping moves (fondly known as "masterstrokes") have ended up hurting more than benefiting.
 
 While the general move towards capitalism is welcome, the regulatory framework plays a critical role in capitalistic economies. Governments of capitalistic economies have a solid framework of checks and balances. How are you checking unfair hoarding and price manipulation? How are you protecting the farmer from exploitation? How are you ensuring that the farmer does not lose his land, profession or dignity? What makes you think there will be no corruption with the new system; how do you ensure fair play?
 
-This is not to say that the government should interfere with businesses or that the farmer should depend on the government for his life; the framework in which the businesses operate must be strong enough to balance the two parties. Building and maintaining this healthy business framework is the responsibility of the government as the non-partisan powerful entity. The farmers’ fear that the current government is favourable to the corporations is not unfounded.
+This is not to say that the government should interfere with businesses or that the farmer should depend on the government for his life; the framework in which the businesses operate must be strong enough to balance the two parties. Building and maintaining this healthy business framework is the responsibility of the government as the powerful non-partisan entity. The farmers’ fear that the current government is favourable to the corporations is not unfounded.
 
 Those governing must also understand that the first step towards trust is transparency. You cannot go about doing your own thing in stealth and ask everyone to trust you. Instead of pushing narratives, the government should have put some efforts into communication. In the right way. 'This is good for you; trust me.' is not the way to go in our country. There must be a 'because', followed by why you think your move is good. You must allow open debating. The problem is, in our country, we have created this environment of dirty politics where no thought gets through. Having said that, you cannot throw the '_Bāp se sawāl kartā hai?_' card at the citizens---you are not the _bāp_ to begin with.
 
@@ -300,7 +300,7 @@ Putting in place five or six layers of security systems and armed personnel, blo
 
 What is wrong with us?
 
-One tweet from a pop singer rattles the entire system? Filing {{< smallcaps FIR >}} against an activist for a "toolkit" (which in reality is a shared document)? How much more absurd is this going to get? Where are we going with this kind of behaviour?
+One tweet from a pop singer rattles the entire system? Filing {{< smallcaps FIR >}} against an activist for a "toolkit" (which, technically, is a shared digital document)? How much more absurd is this going to get? Where are we going with this kind of behaviour?
 
 Why such insecurity?
 
