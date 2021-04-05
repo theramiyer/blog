@@ -11,7 +11,7 @@ tags:
 draft: true
 ---
 
-Elections are ongoing for five of our State Assemblies: Tamilnadu, Kerala, Assam, West Bengal and Puducherry (pronounced: पुदुच्चेरि, not पुडुचेर्रि). I have not followed the elections in West Bengal, Assam or Puducherry, but have been watching the progress in Tamilnadu and Kerala. And this post is about Tamilnadu.
+Elections are ongoing for five of our State Assemblies: Tamilnadu, Kerala, Assam, West Bengal and Puducherry (पुदुच्चेरि, not पुडुचेर्रि). I have not followed the elections in West Bengal, Assam or Puducherry, but have been watching the progress in Tamilnadu and Kerala. And this post is about Tamilnadu.
 
 One of the claims that one of the contesting parties is making is about the price rise. They say that the prices have shot up, and that their party---if it comes to power---would work to regulate the prices. And I thought I would share my comments about it. I will keep it short.
 
