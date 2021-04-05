@@ -2,7 +2,8 @@
 title: "Can Governments Control Prices"
 subtitle: "differentiating reality from eyewash"
 date: 2021-03-31T19:22:39+05:30
-description:
+description: |
+  As Tamilnadu goes to poll on the 6th of April 2021, we take a look at one of the promises made by one of the contesting parties: control price rise. Can governments live up to such a promise made in political manifestos?
 tags:
 - government
 - politics
