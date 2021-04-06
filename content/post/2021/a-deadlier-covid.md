@@ -50,9 +50,9 @@ It saddens me that we all fall prey to sensational WhatsApp forwards. And the fa
 >
 > Please take care and stay safe !
 
-I am going to ignore the language in that message, and look at the content. First of all, I will tell you what I agree with: we must continue to take precautions, wear a mask, avoid crowded places, wash hands, etc. This point is not even debatable. Ten on ten for that.
+I am going to ignore the language in that message, and look at the content. I will tell you what I agree with: we must continue to take precautions, wear a mask, avoid crowded places, wash hands, etc. This point is not even debatable. Ten on ten for that.
 
-But that is where the useful information in the message ends. We have no way of verifying if the message indeed came from the {{< smallcaps CMC >}} Vellore group (I hope it did not). At best, this message looks like a word salad of terms like "domiciled", "nasopharyngeal" and "respiratory distress".
+But that is where the useful information in the message ends. Let us even keep aside the fact that we have no way of verifying if the message did indeed come from the {{< smallcaps CMC >}} Vellore Doctors’ group (I hope it did not). At best, this message looks like a word salad of terms like "domiciled", "nasopharyngeal" and "respiratory distress".
 
 Second, the virus is not 'back'; the virus has been here for over a year. Of course, it has undergone mutations. Viruses undergoing mutations should never come as a surprise. It happens all the time, which is why we have such a large number of mutations (or 'variants' or 'strains') of, say, the influenza virus. 
 
