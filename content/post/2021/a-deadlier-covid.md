@@ -9,7 +9,6 @@ tags:
 - whatsapp university
 - mythbuster
 - health
-draft: true
 ---
 
 It saddens me that we all fall prey to sensational WhatsApp forwards. And the fact that people I love and respect send this---and may take offence at my fact-checking the claims---worsens the feeling. This evening, I saw the following message in two of the groups that I am member of:
