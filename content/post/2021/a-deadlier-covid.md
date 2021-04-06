@@ -13,7 +13,7 @@ tags:
 
 It saddens me that we all fall prey to sensational WhatsApp forwards. And the fact that people I love and respect send this---and may take offence at my fact-checking the claims---worsens the feeling. This evening, I saw the following message in two of the groups that I am member of:
 
-> **From CMC Vellore Doctors' Group 👇👇👇** 👇
+> From CMC Vellore Doctors' Group 👇👇👇 👇
 >
 > The virus is back, this time with more energy, tactics and camouflage.
 >
@@ -39,7 +39,7 @@ It saddens me that we all fall prey to sensational WhatsApp forwards. And the fa
 > Be careful, avoid crowded places, wear a face mask, wash our hands often.
 >
 >
-> **WAVE** more deadly than the first. So we have to be very careful and **take every precaution.**
+> WAVE more deadly than the first. So we have to be very careful and take every precaution.
 >
 > Please become an alert communicator among friends and family ...
 >
