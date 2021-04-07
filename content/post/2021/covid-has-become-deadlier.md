@@ -1,5 +1,5 @@
 ---
-title: "A Deadlier Covid"
+title: "COVID has become deadlier"
 subtitle: "a WhatsApp University circular claims"
 date: 2021-04-06T23:47:37+05:30
 description: |
@@ -9,6 +9,8 @@ tags:
 - whatsapp university
 - mythbuster
 - health
+aliases:
+- '/a-deadlier-covid/'
 ---
 
 It saddens me that we all fall prey to sensational WhatsApp forwards. And the fact that people I love and respect send this---and may take offence at my fact-checking the claims---worsens the feeling. This evening, I saw the following message in two of the groups that I am member of:
