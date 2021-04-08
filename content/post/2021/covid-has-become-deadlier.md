@@ -84,4 +84,4 @@ Remember that in general, the chances of your immune response to the infection k
 
 That said, do take all the necessary precautions. You do not need a sensational message to teach you sense, nor do you need a nanny to watch over you. You are a responsible person.
 
-Now, I urge you to be an _informed_ communicator among your friends and family. Share this information as much as you want (and can). Use the social media buttons below (no, [these buttons do not track you](/privacy/)).
+Now, I urge you to be an _informed_ communicator among your friends and family. Share this information as much as you want (and can). Use the social media buttons below (no, [these buttons do not track you](/privacy/#share-buttons)).
