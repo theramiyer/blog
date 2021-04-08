@@ -35,7 +35,7 @@ Read [Instagram's Data Policy](https://help.instagram.com/519522125107875) for m
 
 ## Share buttons
 
-The share buttons (Facebook, Twitter, LinkedIn and WhatsApp) do not process your social media data on this site. They use the sharer {{< smallcaps URL >}} of the respective service with details about the post (post title, post {{< smallcaps URL >}}, post summary, etc.) as input parameters. All processing happens on the destination site. In other words, the share buttons do not track you until you click them. Once you click them, the destination site may track you. As such, this site collects no information from you using the share buttons.
+The share buttons (Facebook, Twitter, LinkedIn and WhatsApp) _do not_ process your social media data on this site. They use the sharer {{< smallcaps URL >}} of the respective service with _details about the post_ (post title, post {{< smallcaps URL >}}, post summary, etc.) as input parameters. All processing happens on the destination site/service. In other words, the share buttons do not track you until you click them. Once you click them, the destination site may track you. As such, this site collects no information from you using the share buttons.
 
 ---
 
