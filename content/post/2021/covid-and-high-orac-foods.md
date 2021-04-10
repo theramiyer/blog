@@ -138,6 +138,6 @@ Am I saying that these spices will not help? No. Please make this mixture if you
 
 Do not rely plainly on such "சுருக்கு வழிகள்" (shortcuts).
 
-Also, share this post with your friends and family, so that they are aware. (Use the buttons below for ease.) If you have any WhatsApp messages that you would like me to dissect, let me know on Twitter at [@iamramiyer](https://twitter.com/iamramiyer).
+Also, share this post with your friends and family, so that they are aware. (Use the buttons below for ease.) If you have any WhatsApp messages that you would like me to validate, let me know on Twitter at [@iamramiyer](https://twitter.com/iamramiyer).
 
 And most importantly, take care.
