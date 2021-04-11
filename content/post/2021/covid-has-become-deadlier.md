@@ -3,8 +3,8 @@ title: "COVID has become deadlier"
 subtitle: "a WhatsApp University circular claims"
 date: 2021-04-06T23:47:37+05:30
 episode:
-    spotify: 1BO4AhbFLEpkGmbB5mxrhY
-    apple:
+    spotify: "1BO4AhbFLEpkGmbB5mxrhY"
+    apple: "1000516644531"
     google:
 description: |
     A new message claiming to be from the CMC Vellor Doctors’ group is doing the rounds on WhatsApp. Is it another sensational message or a sensible one? Is the newer variant of COVID-19 more fatal?
