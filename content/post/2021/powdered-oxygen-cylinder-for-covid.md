@@ -1,6 +1,8 @@
 ---
-title: "COVID and high ORAC foods"
-subtitle: powdered oxygen cylinder from WhatsApp University
+title: "Powdered oxygen cylinder for COVID"
+subtitle: from WhatsApp University, with love
+aliases:
+- covid-and-high-orac-foods
 date: 2021-04-10T18:36:47+05:30
 episode:
     spotify: 5EL0rBj5T7WdNI35OTgPe5
