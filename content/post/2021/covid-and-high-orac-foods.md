@@ -1,12 +1,18 @@
 ---
-title: "Covid and high ORAC foods"
-subtitle: demystifying another acronym
+title: "COVID and high ORAC foods"
+subtitle: powdered oxygen cylinder from WhatsApp University
 date: 2021-04-10T18:36:47+05:30
 description: |
     A message on WhatsApp University claims that adding some spices to your tea increases your body's oxygen absorption to reverse the ill effects of COVID. Let us look at it scientifically.
 category: WhatsApp University
+image: https://blogfiles.ramiyer.me/2021/images/tea-and-masala.jpg
 tags:
 - whatsapp university
+- food
+- health
+- science
+- covid-19
+- mythbuster
 ---
 
 WhatsApp is on fire these days. Another forward popped up a couple of days ago, which was a Tamil message. I have added a translation along with the message:
@@ -47,7 +53,7 @@ Here is the English translation:
 
 > \- BST HEALTH
 >
-> They say that the level of oxygen in our body must be 98 – 100 (percent), and that you need oxygen support if it drops below 43 (percent).
+> They say that the level of oxygen in our body must be 98 – 100, and that you need oxygen support if it drops below 43.
 >
 > There is a measurement called {{< smallcaps ORAC >}}, or, Oxygen Radical Absorption Capacity. We should consume foods high in oxygen level according to this scale:
 >
@@ -75,13 +81,15 @@ Here is the English translation:
 >
 > Please share this with your friends and family.
 >
-> Instead of spending a lot of money in an instant (for the treatment), following the recipe above---which uses substances that we use on a regular basis---would give our bodies the necessary oxygen in our morning tea. Why not follow 'Prevention is better than cure'?
+> Instead of spending a lot of money in an instant (for the treatment), if we followed the recipe above---which uses substances that we use on a regular basis---our bodies will get the necessary oxygen in our morning tea. Why not follow 'Prevention is better than cure'?
 >
 > This message is for awareness.
 
 Let me start by saying that like most "health tips" on WhatsApp, this is perhaps well-intended. But {{< smallcaps ORAC >}} stands for Oxygen Radical Absorbance (not Absorption) Capacity, and this has _nothing_ to do with how much oxygen our bodies can absorb.
 
 The premise of this forward is like linking 'irony' to 'ironing' because both the words begin with "iron".
+
+{{< figure src="https://blogfiles.ramiyer.me/2021/images/tea-and-masala.jpg" alt="Teapot and spices" caption="Courtesy: [Aditya Joshi](https://unsplash.com/@adijoshi11)" >}}
 
 Okay, if {{< smallcaps ORAC >}} is not about the oxygen absorption capacity of our body, then what is it? Before we begin to understand this, we must know what metabolism, oxidation and free radicals are.
 
@@ -134,11 +142,13 @@ No, I am saying that the two processes are not related in that way at all. The a
 
 or
 
-> … would give our bodies the necessary oxygen in our morning tea.
+> … our body will get the necessary oxygen in … tea.
 
 No, we do not get our oxygen supply from tea. We get our oxygen supply by breathing air. A healthy level of haemoglobin in the blood will ensure availability of oxygen for cell activity. Cleaner lungs will ensure availability of larger surface areas to aid the transfer of oxygen to your red blood cells. Of course, another WhatsApp forward to vacuum clean lungs will not surprise me, but your falling for it will. Because the fact that you are reading this post means you are smarter than that.
 
 The lungs of a person hit by {{< smallcaps COVID >}} may get inflamed because of the infection and the body's reaction to it. This could impair the air sacs’ ability to transfer the oxygen to the blood. Or, some parts of the lungs may get filled with fluid, which will block the air from entering the air sacs, which, again, will impair the ability of the body to absorb oxygen. These, and other such factors lead to a drop in the oxygen saturation in the blood. Eating antioxidant-rich foods do not help by absorbing oxygen as a proxy. That is not how the human body works.
+
+Also notice how the forward conveniently forgets to add % to 98 and 100, and builds the narrative that taking in spices with six-digit {{< smallcaps ORAC >}} values will fulfil our body's oxygen needs, which is merely 98 to 100. "Oxygen cylinder in powdered form!" Flawed calculation and logic.
 
 Am I saying that these spices will not help? No. Please make this mixture if you like, add it to your tea and enjoy it by all means. But do not let this message lead to complacence. Following {{< smallcaps COVID >}}-appropriate behaviour, keeping an eye on symptoms, and consulting with a doctor when you feel ill, will increase your chances of survival.
 
