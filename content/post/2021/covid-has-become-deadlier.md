@@ -52,6 +52,10 @@ It saddens me that we all fall prey to sensational WhatsApp forwards. And the fa
 >
 > Please take care and stay safe !
 
+{{< raw >}}
+<iframe src="https://anchor.fm/ramiyer/embed/episodes/COVID-has-become-deadlier--claims-a-WhatsApp-University-circular-eum64h" width="100%" height="auto" frameborder="0" scrolling="no"></iframe>
+{{< /raw >}}
+
 I am going to ignore the language in that message, and look at the content. I will tell you what I agree with: we must continue to take precautions, wear a mask, avoid crowded places, wash hands, etc. This point is not even debatable. Ten on ten for that.
 
 But that is where the useful information in the message ends. Let us even keep aside the fact that we have no way of verifying if the message did indeed come from the {{< smallcaps CMC >}} Vellore Doctors’ group (I hope it did not). At best, this message looks like a word salad of terms like "domiciled", "nasopharyngeal" and "respiratory distress".

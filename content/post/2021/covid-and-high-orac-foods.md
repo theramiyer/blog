@@ -4,7 +4,6 @@ subtitle: powdered oxygen cylinder from WhatsApp University
 date: 2021-04-10T18:36:47+05:30
 description: |
     A message on WhatsApp University claims that adding some spices to your tea increases your body's oxygen absorption to reverse the ill effects of COVID. Let us look at it scientifically.
-category: WhatsApp University
 image: https://blogfiles.ramiyer.me/2021/images/tea-and-masala.jpg
 tags:
 - whatsapp university
@@ -68,12 +67,12 @@ Here is the English translation:
 >
 > Okay, is there a shortcut to incorporate these into our diet? Here is the recipe! Please write it down and follow it:
 >
-> 1. 100g of carom seeds
-> 2. 50g of fennel seeds
-> 3. 5g of cloves
-> 4. 5g of cinnamon
-> 5. 10g of dry ginger
-> 6. 10g of cardamom
+> - 100 g of carom seeds
+> - 50 g of fennel seeds
+> - 5 g of cloves
+> - 5 g of cinnamon
+> - 10 g of dry ginger
+> - 10 g of cardamom
 >
 > Dry roast these ingredients, powder them and store them in a glass container. Adding one teaspoon per two cups of your morning and evening tea would make your regular tea, masala tea.
 >
@@ -84,6 +83,8 @@ Here is the English translation:
 > Instead of spending a lot of money in an instant (for the treatment), if we followed the recipe above---which uses substances that we use on a regular basis---our bodies will get the necessary oxygen in our morning tea. Why not follow 'Prevention is better than cure'?
 >
 > This message is for awareness.
+
+<iframe src="https://anchor.fm/ramiyer/embed/episodes/COVID-has-become-deadlier--claims-a-WhatsApp-University-circular-eum64h" height="auto" width="100%" frameborder="0" scrolling="no"></iframe>
 
 Let me start by saying that like most "health tips" on WhatsApp, this is perhaps well-intended. But {{< smallcaps ORAC >}} stands for Oxygen Radical Absorbance (not Absorption) Capacity, and this has _nothing_ to do with how much oxygen our bodies can absorb.
 
@@ -117,22 +118,22 @@ Right, so, we need antioxidants in our body to balance out the free radicals. Th
 
 To measure the antioxidant capacity of foods, scientists developed a system of finding out the in-vitro (or, "in the glass"---in other words, "in the lab") antioxidant activity of a given food item. The measure of this activity is Oxygen Radical Absorbance Capacity. In the lab, they "challenge" a material vulnerable to oxidation (in the presence of a food item), with an oxidising agent, and see how well the food item resists oxidation of the vulnerable substance. As a simple example, let us say that you kept a thin, little sheet of iron in a test tube, placed some cloves and blew in steam mixed with atmospheric air. You then measured how well the cloves resisted the oxidation of the iron sheet. Of course, this is an oversimplified experiment---the actual experiments could be much more elaborate and use a more sophisticated method.
 
-One important point to remember, though, is that this is a lab test. It does not necessarily translate directly to the antioxidant activity in the body (or, "in-vivo"). Measuring their in-vivo activity is not possible with the current technology (which was the reason the scientists developed the in-vitro system of measurement). Superfoodly keeps an updated list of these food items with their {{< smallcaps ORAC >}} values.{{< sidenote superfoodly >}}ORAC Values: Antioxidant Values of Foods & Beverages ([Superfoodly](https://www.superfoodly.com/orac-values/)){{< /sidenote >}} Also, last I checked, this score is for 100g of these substances. Which means, you would need to convert these values to your typical serving.
+One important point to remember, though, is that this is a lab test. It does not necessarily translate directly to the antioxidant activity in the body (or, "in-vivo"). Measuring their in-vivo activity is not possible with the current technology (which was the reason the scientists developed the in-vitro system of measurement). Superfoodly keeps an updated list of these food items with their {{< smallcaps ORAC >}} values.{{< sidenote superfoodly >}}ORAC Values: Antioxidant Values of Foods & Beverages ([Superfoodly](https://www.superfoodly.com/orac-values/)){{< /sidenote >}} Also, last I checked, this score is for 100 g of these substances. Which means, you would need to convert these values to your typical serving.
 
 Upon converting the {{< smallcaps ORAC >}} values for the quantity of these items as mentioned in the recipe (as per the data on Superfoodly, as on the date of writing this post), this is what you would get:
 
 | Substance    | Quantity |         ORAC score | Resultant ORAC value |
 | ------------ | -------- | -----------------: | -------------------: |
-| Carom seeds  | 100g     |            unknown |              unknown |
-| Fennel seeds | 50g      |            unknown |              unknwon |
-| Cloves       | 5g       |             290283 |             14514.15 |
-| Cinnamon     | 5g       |             131420 |                 6571 |
-| Dry ginger   | 10g      |              39041 |               3904.1 |
-| Cardamom     | 10g      |               2764 |                276.4 |
+| Carom seeds  | 100 g     |            unknown |              unknown |
+| Fennel seeds | 50 g      |            unknown |              unknwon |
+| Cloves       | 5 g       |             290283 |             14514.15 |
+| Cinnamon     | 5 g       |             131420 |                 6571 |
+| Dry ginger   | 10 g      |              39041 |               3904.1 |
+| Cardamom     | 10 g      |               2764 |                276.4 |
 
-This gives us 25265.65 per 180g of this powder. Assuming that the roasting of these do not vaporise the antioxidants present in the aromatic compounds of these spices, and going by that we would use 5g of these per day, the {{< smallcaps ORAC >}} score of the amount of this powder, per day, would be 701.824. That is the same as 100g of raw carrots.
+This gives us 25265.65 per 180 g of this powder. Assuming that the roasting of these do not vaporise the antioxidants present in the aromatic compounds of these spices, and going by that we would use 5 g of these per day, the {{< smallcaps ORAC >}} score of the amount of this powder, per day, would be 701.824. That is the same as 100 g of raw carrots.
 
-Or 50g of whole grain bread.
+Or 50 g of whole grain bread.
 
 Ironically, these foods absorb off oxygen free radicals to _prevent_ oxidation, while the primary purpose of our lungs is to _oxidise_ the haemoglobin in our blood. Am I saying that taking in antioxidant-rich foods will reduce our body's capacity to oxidise blood?
 
