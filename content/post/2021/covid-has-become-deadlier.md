@@ -2,6 +2,10 @@
 title: "COVID has become deadlier"
 subtitle: "a WhatsApp University circular claims"
 date: 2021-04-06T23:47:37+05:30
+episode:
+    spotify: 1BO4AhbFLEpkGmbB5mxrhY
+    apple:
+    google:
 description: |
     A new message claiming to be from the CMC Vellor Doctors’ group is doing the rounds on WhatsApp. Is it another sensational message or a sensible one? Is the newer variant of COVID-19 more fatal?
 tags:
@@ -52,9 +56,7 @@ It saddens me that we all fall prey to sensational WhatsApp forwards. And the fa
 >
 > Please take care and stay safe !
 
-{{< raw >}}
-<iframe src="https://anchor.fm/ramiyer/embed/episodes/COVID-has-become-deadlier--claims-a-WhatsApp-University-circular-eum64h" width="100%" height="auto" frameborder="0" scrolling="no"></iframe>
-{{< /raw >}}
+{{< spotify >}}
 
 I am going to ignore the language in that message, and look at the content. I will tell you what I agree with: we must continue to take precautions, wear a mask, avoid crowded places, wash hands, etc. This point is not even debatable. Ten on ten for that.
 

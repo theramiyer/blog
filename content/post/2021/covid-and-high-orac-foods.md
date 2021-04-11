@@ -2,6 +2,10 @@
 title: "COVID and high ORAC foods"
 subtitle: powdered oxygen cylinder from WhatsApp University
 date: 2021-04-10T18:36:47+05:30
+episode:
+    spotify: 5EL0rBj5T7WdNI35OTgPe5
+    apple:
+    google:
 description: |
     A message on WhatsApp University claims that adding some spices to your tea increases your body's oxygen absorption to reverse the ill effects of COVID. Let us look at it scientifically.
 image: https://blogfiles.ramiyer.me/2021/images/tea-and-masala.jpg
@@ -84,7 +88,7 @@ Here is the English translation:
 >
 > This message is for awareness.
 
-<iframe src="https://anchor.fm/ramiyer/embed/episodes/COVID-has-become-deadlier--claims-a-WhatsApp-University-circular-eum64h" height="auto" width="100%" frameborder="0" scrolling="no"></iframe>
+{{< spotify >}}
 
 Let me start by saying that like most "health tips" on WhatsApp, this is perhaps well-intended. But {{< smallcaps ORAC >}} stands for Oxygen Radical Absorbance (not Absorption) Capacity, and this has _nothing_ to do with how much oxygen our bodies can absorb.
 
