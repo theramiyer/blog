@@ -87,7 +87,7 @@ Okay, if {{< smallcaps ORAC >}} is not about the oxygen absorption capacity of o
 
 Metabolism is a process by which our body sustains life: in simple terms, our body converts sugar and fat molecules into energy, it converts food to fundamental blocks like nucleic acid, and throws away wastes generated from such processes.
 
-Chemical processes combine reactants to make products. Some reactions produce by-products as well. Free radicals are, in simple terms, short-lived by-products. (Short-lived, because they are unstable.) In oversimplified terms, these free radicals could be "incomplete" atoms or molecules---these are looking for electrons to become stable. Free radicals could be of different types. The most common ones in human beings are _oxygen_ free radicals. These free radicals remain "free" for a fraction of a second, but their sheer number makes them dangerous. When looking for other atoms or molecules to bind with, they may end up altering our {{< smallcaps DNA >}}, which leads to cell damage.
+Chemical processes combine reactants to make products. Some reactions produce by-products as well. Free radicals are, in simple terms, short-lived by-products. (Short-lived, because they are unstable.) In oversimplified terms, these free radicals could be "incomplete" atoms or molecules---these are looking for electrons to become stable. Free radicals could be of different types. The most common ones in human beings are _oxygen_ free radicals. These free radicals remain "free" for a fraction of a second, but their sheer number makes them dangerous. When looking for other atoms or molecules to bind with, they may end up altering our {{< smallcaps DNA >}}, which leads to cell damage or mutation.
 
 Our body, by design, can handle free radicals using its own enzyme systems. These are our own antioxidants. These natural antioxidants that our body creates balances the oxidant free radicals.
 
@@ -97,7 +97,7 @@ That is where this gets interesting. In chemistry, we have oxidation reactions a
 
 You see how this is going farther and farther away from coronavirus. But hang in there and read on.
 
-In other words, an oxidant is a chemical molecule that "steals" an electron, leading to an oxidation reaction. In chemistry, we call this process an increase in the oxidation state (or gaining of oxygen).
+In other words, an oxidant is a chemical molecule that "steals" an electron, leading to an oxidation reaction. In chemistry, we call this process an increase in the oxidation state (or “gaining of oxygen”).
 
 For example, rusting of iron is an oxidation reaction, and spraying WD-40 on rusted iron is a reduction reaction.
 
@@ -130,11 +130,17 @@ Ironically, these foods absorb off oxygen free radicals to _prevent_ oxidation, 
 
 No, I am saying that the two processes are not related in that way at all. The antioxidant properties of these spices have nothing to do with our blood's ability to absorb oxygen.
 
-And no, you do not get your oxygen supply from your tea. You get your oxygen supply by breathing air. A healthy level of haemoglobin in your blood will ensure availability of oxygen for cell activity. Cleaner lungs will ensure availability of larger surface areas to aid the transfer of oxygen to your red blood cells. Of course, another WhatsApp forward to vacuum clean lungs will not surprise me, but your falling for it will. Because the fact that you are reading this post means you are smarter than that.
+> … டீ யில் கலந்து பருகினால் நம் உடலுக்கு தேவையான Oxygen கிடைத்து விடுமே.
 
-The lungs of a person hit by {{< smallcaps COVID >}} may get inflamed because of the infection and the body's reaction to it. This could impair the air sacs’ ability to transfer the oxygen to the blood. Or, some parts of the lungs may get filled with fluid, which will block the air from entering the air sacs, which, again, will impair the ability of the blood to absorb oxygen. These, and other such factors lead to a drop in the oxygen saturation in the blood. Eating antioxidant-rich foods do not help by absorbing oxygen as a proxy. That is not how the human body works.
+or
 
-Am I saying that these spices will not help? No. Please make this mixture if you like, add it to your tea and enjoy it by all means. But do not let this message lead to complacence. Following {{< smallcaps COVID >}}-appropriate behaviour, keeping an eye on symptoms, and consulting with a doctor when you feel ill, will help you defeat the infection.
+> … would give our bodies the necessary oxygen in our morning tea.
+
+No, we do not get our oxygen supply from tea. We get our oxygen supply by breathing air. A healthy level of haemoglobin in the blood will ensure availability of oxygen for cell activity. Cleaner lungs will ensure availability of larger surface areas to aid the transfer of oxygen to your red blood cells. Of course, another WhatsApp forward to vacuum clean lungs will not surprise me, but your falling for it will. Because the fact that you are reading this post means you are smarter than that.
+
+The lungs of a person hit by {{< smallcaps COVID >}} may get inflamed because of the infection and the body's reaction to it. This could impair the air sacs’ ability to transfer the oxygen to the blood. Or, some parts of the lungs may get filled with fluid, which will block the air from entering the air sacs, which, again, will impair the ability of the body to absorb oxygen. These, and other such factors lead to a drop in the oxygen saturation in the blood. Eating antioxidant-rich foods do not help by absorbing oxygen as a proxy. That is not how the human body works.
+
+Am I saying that these spices will not help? No. Please make this mixture if you like, add it to your tea and enjoy it by all means. But do not let this message lead to complacence. Following {{< smallcaps COVID >}}-appropriate behaviour, keeping an eye on symptoms, and consulting with a doctor when you feel ill, will increase your chances of survival.
 
 Do not rely plainly on such "சுருக்கு வழிகள்" (shortcuts).
 
