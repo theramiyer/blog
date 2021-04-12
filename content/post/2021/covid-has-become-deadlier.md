@@ -56,7 +56,9 @@ It saddens me that we all fall prey to sensational WhatsApp forwards. And the fa
 >
 > Please take care and stay safe !
 
-{{< spotify >}}
+{{< apple >}}
+
+{{< podcast >}}
 
 I am going to ignore the language in that message, and look at the content. I will tell you what I agree with: we must continue to take precautions, wear a mask, avoid crowded places, wash hands, etc. This point is not even debatable. Ten on ten for that.
 
