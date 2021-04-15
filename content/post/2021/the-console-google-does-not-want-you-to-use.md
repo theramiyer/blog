@@ -4,6 +4,7 @@ subtitle: "because your privacy kills their business"
 date: 2021-04-14T08:41:15+05:30
 description: |
     Google, Facebook and other ad companies need every bit of information about you to show you relevant ads. But what if data gets breached? Or sold? You can have slightly better control of your data. We start with Google.
+image: "https://blogfiles.ramiyer.me/2021/images/jammu-kashmir-india.png"
 tags:
 - privacy
 - internet
