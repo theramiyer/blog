@@ -11,13 +11,13 @@ tags:
 - social
 ---
 
-Facebook was a target at the beginning of this year, when they decided to tweak their privacy policy. It turned out to be a disastrous PR move, which they later realised that they had not worded properly. I wrote a couple of posts: one about the [change in policy itself]({{< ref "privacy-and-you" >}}), and another, about [privacy and messaging using WhatsApp]({{< ref "are-whatsapp-chats-private" >}}).
+Facebook was a target at the beginning of this year, when they decided to tweak their privacy policy. It turned out to be a disastrous PR move. Although they reversed it, we are already seeing a better-worded version of the update. I wrote a couple of posts: one about [how the change affects your privacy]({{< ref "privacy-and-you" >}}), and another, about [whether WhatsApp chats are at all private]({{< ref "are-whatsapp-chats-private" >}}).
 
-Facebook has a data collection strategy perhaps different from its peers, but is not alone in the game---the other big name is Google. Google uses a different strategy, though. First, let us go back to a statement I had made:
+Facebook may have a different data collection strategy than its peers, but is not alone in the game---the other big name is Google. But before we look at Google’s strategy, let us go back to a statement I had made:
 
 > This is not about showing a company its place. This is about taking control of your data and data about you. Weigh the value you receive in return for your data. If the deal is not good enough, walk out. Do not hold on to toxic relationships.
 
-Google gives you a lot of value in return. You have Google services ranging from a fantastic search engine to the most popular mobile operating system. Google aces almost every space it steps into.{{< sidenote google-ace >}}... and sustains: which excludes products like Blogger, Orkut, Google Plus, Feedburner, etc.{{< /sidenote >}} I mean:
+Google gives you a lot of value in return. You have Google services ranging from a fantastic search engine to the most popular mobile operating system. Google aces almost every space it steps into.{{< sidenote google-ace >}}... and actively develops: which excludes products like Blogger, Orkut, Google Plus, Feedburner, etc.{{< /sidenote >}} I mean:
 
 1. Google Search
 2. YouTube
@@ -30,13 +30,13 @@ Google gives you a lot of value in return. You have Google services ranging from
 9. Google Analytics
 10. Google Keep
 
-These top-ten products are ubiquitous! In fact, when I started de-Googling my life, I found it hard to move away from these products. I have almost succeeded, except I still use YouTube (and cannot see myself moving away from it). I am sure you will be hard-pressed to find alternatives to these products (which is why I listed out the [alternatives that I use]({{< ref "privacy-and-you#in-conclusion" >}})).
+These top-ten products are ubiquitous! In fact, when I started de-Googling my life, I found it hard to move away from these products. I have almost succeeded, except I still use YouTube (and do not see myself moving away from it). I am sure you will be hard-pressed to find alternatives to these products (which is why I listed out the [alternatives that I use]({{< ref "privacy-and-you#in-conclusion" >}})).
 
-I feel, Facebook, as a family of products, is not as much value. Yes, WhatsApp is ubiquitous. And Facebook does help us interact with a lot of those whom we lose contact with over time. But are virtual interactions valuable enough? What I mean is, such a product is indeed useful, but is it enough value compared to what you pay as data?
+I feel, Facebook, as a family of products, is not as much value. Yes, everybody has WhatsApp. And Facebook does help us interact with a lot of those whom we lose contact with over time. But are virtual interactions valuable enough? I mean, such a product is indeed useful, but is it enough value compared to what you pay as data?
 
-That is not to say that Google products are worth your data, but Google products are much better value than Facebook products. You need to take control of your data on Google as well.
+That is not to say that Google products are worth your data, but Google products are much better value than Facebook products. That said, you must take control of your data on Google as well.
 
-Companies like Google and Facebook collect your data so that they can show you advertisements that are most relevant to you. Why? Because businesses pay these companies, and expect return of investment. For example, imagine that you sell cell phones of a certain "class". Imagine that your phone costs about ₹60,000. Would it make sense for you to show advertisements to a high school student, who is a child in a regular middle class family? Would it make sense to sell a dating service to a 90-year-old? Not that a 90-year-old cannot date, but what is the probability of a 90-year-old dating? The money paid by the dating service to an advertiser to show that ad to the 90-year-old went to waste. No business wants that---you would not want that as a business.
+Companies like Google and Facebook collect your data so that they can show you advertisements that are most relevant to you. Why? Because businesses pay these companies, and expect return of investment. For example, imagine that you sell cell phones that cost over ₹60,000. Would it make sense for you advertise them to a high school student, who is a child in a family whose monthly family income is ₹50,000? Would it make sense to sell a dating service to a 90-year-old? (Not that a 90-year-old cannot date, but what is the probability of a 90-year-old dating?) The money paid by the dating service to an advertiser to show that ad to the 90-year-old went to waste. No business wants that---you would not want that as a business.
 
 But why is this a problem? They find out whether you would like a certain product or service, and show you an advertisement for the product or service. You see a relevant ad, which is useful to you; the service showing you a relevant ad fulfils its responsibility, and the business that paid for the ad got business. Is that not a win-win-win? Yes, but this is the 'Golden Path' (or the 'Happy Path' that people at my workplace like to call it).
 
