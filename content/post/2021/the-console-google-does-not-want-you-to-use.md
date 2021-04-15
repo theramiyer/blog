@@ -51,9 +51,9 @@ Why does Google filter search results despite being one of the two largest adver
 
 But the problem that this filtering creates is bigger. By attempting to exclude content you may not like, Google does not give you the entire picture.
 
-For example, when you google "Kashmir" on Google Maps from India, Google may show you the border a certain way, compared to googling the same phrase from, say, England. Look at the example below: the image on the left is from India, and the one on the right is from the US (thanks, {{< smallcaps VPN >}}). Move the slider and watch the International Border to the north.
+For example, when you google "Kashmir" on Google Maps from India, Google may show you the border a certain way, compared to googling the same phrase from, say, England. Look at the example below: the image on the left is from India, and the one on the right is from the US (thanks, {{< smallcaps VPN >}}). Move the slider and watch the International Border.
 
-{{< before-after "https://blogfiles.ramiyer.me/2021/images/jammu-kashmir-india.png" "https://blogfiles.ramiyer.me/2021/images/jammu-kashmir-us.png" "Kashmir as seen on Google Maps from India" "Kashmir as seen on Google Maps from the US" "Kashmir as seen from India and the US" >}}
+{{< before-after "https://blogfiles.ramiyer.me/2021/images/kashmir-google-maps-india.webp" "https://blogfiles.ramiyer.me/2021/images/kashmir-google-maps-us.webp" "Kashmir as seen on Google Maps from India" "Kashmir as seen on Google Maps from the US" "Kashmir as seen from India and the US" >}}
 
 Seeing a map of India that excluded the Pakistan-occupied Kashmir and China-occupied Kashmir shook me. I had, thus far, lived in the blissful assumption that while China and Pakistan laid claims on the state, India still held control. And Google continued to confirm my view.
 
