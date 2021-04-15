@@ -9,7 +9,6 @@ tags:
 - internet
 - google
 - social
-draft: true
 ---
 
 Facebook was a target at the beginning of this year, when they decided to tweak their privacy policy. It turned out to be a disastrous PR move, which they later realised that they had not worded properly. I wrote a couple of posts: one about the [change in policy itself]({{< ref "privacy-and-you" >}}), and another, about [privacy and messaging using WhatsApp]({{< ref "are-whatsapp-chats-private" >}}).
