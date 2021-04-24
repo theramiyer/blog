@@ -9,7 +9,9 @@ tags:
 
 India is among the world leaders in vaccination. Also called the _Pharmacy of the World_, India is the largest manufacturer of vaccines. The public has been no different; you will find most of us wanting to get vaccinated. Polio vaccines are an example, where all children born in India get vaccinated through the extensive vaccination programmes that the government runs.
 
-The aim of this post is to help you decide if you should go for vaccination or not. I am no one to tell you one way or another. I will tell you facts in the simplest terms possible, and you decide whether you want to get vaccinated or not.  
+The aim of this post is to help you decide if you should go for vaccination or not. I am no one to tell you one way or another. I will tell you facts in the simplest terms possible, and you decide whether you want to get vaccinated or not.
+
+{{< toc >}}
 
 ## The types of vaccines
 
