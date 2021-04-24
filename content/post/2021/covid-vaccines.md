@@ -1,11 +1,10 @@
 ---
 title: "COVID Vaccines"
 subtitle: "in simple terms"
-date: 2021-04-24T08:02:35+05:30
+date: 2021-04-22T08:02:35+05:30
 description: |
     Vaccines have become highly politicised. Saying anything in favour of them or against them is bound to unleash the wrath of those of the opposite pole. But this does not have to be about one or another. And in this post, we will look at it from all aspects.
 tags:
-draft: true
 ---
 
 India is among the world leaders in vaccination. Also called the _Pharmacy of the World_, India is the largest manufacturer of vaccines. The public has been no different; you will find most of us wanting to get vaccinated. Polio vaccines are an example, where all children born in India get vaccinated through the extensive vaccination programmes that the government runs.
