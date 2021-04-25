@@ -7,7 +7,7 @@ date: 2021-04-10T18:36:47+05:30
 episode:
     spotify: "5EL0rBj5T7WdNI35OTgPe5"
     apple: "1000516677363"
-    google:
+    google: "MTFhMWQwY2QtODc3OS00YzE1LTllMTYtODg4MzgxMzZkZGVh"
 description: |
     A message on WhatsApp University claims that adding some spices to your tea increases your body's oxygen absorption to reverse the ill effects of COVID. Let us look at it scientifically.
 image: https://blogfiles.ramiyer.me/2021/images/tea-and-masala.jpg
