@@ -64,13 +64,15 @@ To compare, the odds of your dying by a blood clot because of a {{< smallcaps CO
 
 ## Actor Vivek died one day after taking the vaccine
 
-A handful of my friends asked about this when I put up a status message asking those above 45 to get vaccinated. Let us look at two aspects of this situation. First, the psychological. Celebrity deaths get widely reported, and so do speculations. In cases where the government pushes through vaccine approvals, unmindful of the legal grey areas, the effect gets amplified---because all deaths even remotely connected to the vaccination get reported. This is necessary to make the government answer, but this is a double-edged sword:
+A handful of my friends asked about this when I put up a status message asking those above 45 to get vaccinated. Let us look at two aspects of this situation. First, the psychological. Celebrity deaths get widely reported, and so do speculations. In cases where the government pushes through vaccine approvals, unmindful of the legal grey areas, the effect gets amplified, because all deaths even remotely connected to the vaccination get reported. While necessary to make the government answer, this act is a double-edged sword:
 
 Humans have a bias called _Availability Heuristic_. The brain, when trying to take a decision, takes a shortcut to immediate examples, and bases the conclusion on them. The second bias we have is the _Negative Bias_, where our memory retains negative feelings, expressions and memories for longer than the positive ones. When you combine the two, our brains take the shortest route available to the negative examples.
 
 Second, the biological. What Vivek had was a 100% block in one of the vessels of his coronary artery. An angioplasty helps in most such cases. But as the blockage progresses, the chances of a stent helping reduce. A case of a 100% block was serious.
 
 These blocks do not develop in a day; they develop over decades. The Health Secretary of Tamilnadu made a similar statement.{{< sidenote vivek-death >}}Actor Vivek’s cardiac arrest not linked with COVID-19 vaccine, says TN Health Secy ([The News Minute](https://www.thenewsminute.com/article/actor-vivek-s-cardiac-arrest-not-linked-covid-19-vaccine-says-tn-health-secy-147278)){{< /sidenote >}}
+
+Talk to your doctor about your apprehension. They can clear your queries and guide you.
 
 ## Should you take Covaxin or Covishield
 
