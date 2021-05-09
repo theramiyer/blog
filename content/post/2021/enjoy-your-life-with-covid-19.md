@@ -82,7 +82,7 @@ Working with such messages is tricky, because they have some truth in them. Let 
 
 > We may have to live with C19 for months or years. Don’t deny or panic. Don’t make your life a misery. Let’s learn to live with this reality.
 
-C19: what a cool way to say {{< smallcaps COVID-19 >}}! In general, this is true. We have no reason to panic, nor should you deny the fact that there is the pandemic. All those who publicly showed the virus their arrogance suffered from the infection (metaphorically speaking). Some even succumbed to it.
+C19: what a cool way to say {{< smallcaps COVID-19 >}}! In general, this is true. We have no reason to panic, nor should you deny the fact that there is the pandemic. All those who publicly showed the virus their arrogance suffered from the infection (figuratively speaking). Some even succumbed to it.
 
 Having said that, let me also say that I have a friend who has been volunteering here in Bangalore since April 2020, and has not caught the virus yet. He says that he got himself tested for the antibodies; he had no antibodies against the virus, which could mean he’s never had the infection. Thirteen months of close contact with {{< smallcaps COVID >}}-positive patients, and he has not caught the infection, for a simple reason: He wears a mask when out and about, and wears {{< smallcaps PPE >}} when handling patients and mortal remains over hours.
 
