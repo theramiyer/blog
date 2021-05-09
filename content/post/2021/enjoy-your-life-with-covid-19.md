@@ -66,11 +66,13 @@ Here goes what I read:
 >
 > Very good article, must be read by everyone.
 
-Before we talk about this message, I want to state that _some of the points_ mentioned are true. Second, we have still not fully understood this virus---we know a lot now, but not everything. (It does not matter which great sage claims what, or whether someone predicted this thousands, hundreds or tens of years ago.) This is a "new" virus, and we learn something new about it every month if not every week.
+First, the disclaimer: I’m not a medical or paramedical professional. What you are about to read is _not_ medical advice. You will see a collection of tweets from an expert in the field—the tweets are advice from a professional. This post is for the purpose of general information and awareness.
 
-Dr Faheem Younus (who happens to be from our neighbouring country) is a respectable figure in his field. He actively tweets about {{< smallcaps COVID-19 >}}. And I looked for these tweets on his timeline (you can do an [advanced search](https://twitter.com/search-advanced) yourself). I think the creator of the message paraphrased the doctor, and in my view, that is where the problem lies.
+Before we talk about this message, I want to state that _some of the points_ mentioned in it are true. Second, we have still not fully understood this virus---we know a lot, but not everything. (It does not matter which great sage claims what, or whether someone predicted this thousands, hundreds or tens of years ago.) This is a "new" virus, and we learn something new about it every month if not every week.
 
-Dr Younus has been vocal about not being paranoid. He advocates use of masks, and other safety measures listed for {{< smallcaps COVID-19 >}}. What this message does is take it a couple of notches up and talk about complete liberalisation of the protocol in closing.
+Dr Faheem Younus (who happens to be from our neighbouring country) is a respectable figure in his field. He actively tweets about {{< smallcaps COVID-19 >}}. And I collected these tweets from his timeline. I think the creator of the message paraphrased the doctor, and in my view, that is where the problem lies.
+
+Dr Younus has been vocal about not being paranoid. He advocates use of masks, and other {{< smallcaps COVID >}}-appropriate behaviour. What this forwarded message does is take it a couple of notches up and talk about complete liberalisation of the protocol in closing.
 
 That is not the way to go.
 
@@ -92,13 +94,13 @@ In other words, he has learnt to live with this reality.
 
 > You can’t destroy the C19 virus that has penetrated the cell walls, by drinking liters of hot water – you’ll just be going to the bathroom more often.
 
-True. Those who claim that steam and hot water can _kill the virus_ are wrong. Steam may help with some symptoms, but it does nothing to prevent or kill the virus.
+True. Those who claim that steam and hot water can _kill the virus_ are wrong. Steam may help alleviate some symptoms, but it does nothing to prevent or kill the virus.
 
 ## On the best method of protection
 
 > Washing your hands and maintaining a physical distance is your best method of protection.
 
-True in that washing hands helps (“The best”? Well, how about calling it "a best practice”?). Until we are all vaccinated, personal protection is the way to go. In fact, Dr Younus says:
+True in that washing hands is a best practice. Until we are all vaccinated, personal protection is the way to go. In fact, Dr Younus says:
 
 {{< tweet 1324362475245109253 >}}
 
@@ -106,7 +108,7 @@ True in that washing hands helps (“The best”? Well, how about calling it "a 
 
 > If you do not have a C19 patient at home, there is no need to disinfect your home.
 
-I found the following tweet from him:
+Here is what he had tweeted:
 
 {{< tweet 1239710943568973827 >}}
 
@@ -150,8 +152,6 @@ The idea here is to not panic. Also, in case of India, the percentages are diffe
 
 Again, I do not shower every time I get back home---from, say, the store---these days. I used to do that back in April and May 2020, but our understanding of the virus has evolved since.
 
-The point here is the exposure. I think that changing clothes after returning from outside is probably a good idea, more so when I have spent hours outside. But this is not a necessity, because, the virus living on surfaces is one thing, your getting infected from that is another.
-
 {{< tweet 1241812333359398915 >}}
 
 ## Airborne or not
@@ -166,23 +166,26 @@ A study done about the virus’ airborne nature in close environments said, in f
 
 {{< youtube "xFvC8HMMgm0" "1396" "1795" >}}
 
-The easiest way to prevent infection and protecting others apart from ourselves is wearing a mask. Listen to the doctor’s more recent advice:
+The easiest way to prevent infection and protecting others apart from ourselves is wearing a mask.
+
+Remember, this is science. Science works on evidence. And observations and protocols may change based on new evidence. The doctor is right in that the virus is not airborne in the sense of getting carried around to long distances. If you hear Dr Rakesh Mishra in the video above, he says that those performing the experiment could detect the virus as far as 20 feet from the subject in a closed room. But was this virus viable? May be. Does this mean the virus is airborne? Technically, yes. Practically, it depends on the environment.
+
+Listen to the doctor’s more recent advice:
 
 {{< tweet 1383718885040410628 >}}
+
 
 ## On taking a walk in the park
 
 > The air is clean, you can walk to parks and public places (just keep your physical distance for protection)
 
-Take this with a bit of caution.
-
 I did find a tweet related to this from the doctor:
 
 {{< tweet 1244145852773515264 >}}
 
-But the tweet is from March 2020. According to newer findings, _the virus is airborne_. But based on what I understand, taking a walk in the park is still safe, given conditions like a small number of people, great air circulation, people wearing masks, etc.
+But the tweet is from March 2020. According to newer findings, _the virus is airborne_ (read above). But based on what I understand, taking a walk in the park is still safe, given conditions like a small number of people, great air circulation, people wearing masks, etc.
 
-Caution is necessary. Talk to your doctor to know more. I am neither a medical professional, nor a specialist in this area. Based on what I have understood from the doctors I have spoken to, taking a walk in the park is safe; transmission that way is highly unlikely, provided you handle your personal protection.
+Caution is necessary. Talk to your doctor to know more. Based on what I have understood from the doctors I have spoken to, taking a walk in the park is safe; transmission that way is highly unlikely, provided you handle your personal protection.
 
 Again, watch the video clip above, you will understand.
 
@@ -202,7 +205,7 @@ And soaps are better than sanitizers.
 
 > You don’t have to worry about your food orders. But you can heat everything in the microwave, if you want.
 
-Well, not those words (not "everything" either), but:
+Well, not those words (not "everything" anyway), but:
 
 {{< tweet 1244149254442098688 >}}
 
@@ -210,7 +213,7 @@ Well, not those words (not "everything" either), but:
 
 > The possibility of bringing the C19 home in your shoes is like being struck by lightning twice a day. I’ve worked against viruses for 20 years – drop infections don’t spread like that!
 
-I found an almost-verbatim tweet by him:
+Here is an almost-verbatim tweet by him:
 
 {{< tweet 1244150646846173184 >}}
 
@@ -218,7 +221,7 @@ I found an almost-verbatim tweet by him:
 
 > You can’t be protected from viruses by consuming vinegar, sugarcane juice and ginger! It’s just for immunity not medicine.
 
-Nope. I do not think he said this; I do not think he suggested ginger for immunity, because:
+Nope. I do not think he said this; I do not think he ever suggested ginger for immunity, because:
 
 {{< tweet 1291307520603172864 >}}
 
@@ -230,15 +233,15 @@ Nope. I do not think he said this; I do not think he suggested ginger for immuni
 
 Wrong.
 
-Impossible that a doctor of his credibility would say this. Also, no, wearing a mask {{< smallcaps "DOES NOT" >}} interfere with your breathing or oxygen levels.{{< sidenote mask-workout >}}If you are looking to do any cardiovascular exercises ("cardio") or anything that requires heavy breathing, talk to your doctor about what you should do.{{< /sidenote >}} I wore a mask for _28 hours_ straight (even while sleeping) when I had to spend a day in the hospital. I had a machine monitoring my vitals. Oxygen saturation in my blood was between 99 and 100% throughout.
+Impossible that a doctor of his credibility would say this. Also, no, wearing a mask {{< smallcaps "DOES NOT" >}} interfere with your breathing or oxygen levels.{{< sidenote mask-workout >}}If you are looking to do any cardiovascular exercises ("cardio") or anything that requires heavy breathing, talk to your doctor about what you should do.{{< /sidenote >}} I wore a mask for _28 hours_ straight (even while sleeping) when I had to spend a day in the hospital. I had a machine monitoring my vitals. Oxygen saturation in my blood was between 98% and 100% throughout.
 
 Do not believe me? Here, this is what Dr Younus has to say:
 
 {{< tweet 1276225846609666049 >}}
 
-And no, I did not find a tweet of his that says that wearing a mask interferes with oxygen levels.
+And no, I did not find a tweet of his that says that wearing a mask interferes with oxygen levels. One never will.
 
-Also, I have never had to remove my mask while climbing stairs. (I tried five floors at a stretch.) Sure, your situation may be different. If you feel breathless, stop to take rest; do not remove your mask. Talk to your doctor if you have an abnormal breathing condition.
+Also, I have never had to remove my mask while climbing stairs. (I tried five floors at a stretch.) Sure, everyone is different. If you feel breathless, stop to take rest; do not remove your mask. Talk to your doctor if you suffer from breathing abnormalities.
 
 ## Wearing gloves
 
@@ -253,7 +256,7 @@ Yes, I could find this tweet. As expected.
 > Immune system gets very weak by always living in a sterile environment. Even if we are taking immune-boosting supplements / medicines, please regularly leave your house to the park / beach or anywhere else.
 > Immunity is increased by EXPOSURE TO PATHOGENS, not by sitting at home and consuming fried/spicy/sweet foods & fizzy drinks.
 
-I sense malice in this statement. And of course, I could not find this tweet. But I found something interesting:
+I sense recklessness in this statement. And of course, I could not find this tweet. But I found something interesting:
 
 {{< tweet 1269332316540801024 >}}
 
@@ -265,13 +268,13 @@ If you are in haste, remember that _"boosted" immunity can kill you_, skip the r
 
 Healthy immunity is when your body is able to detect a pathogen, react aptly, and clean up your body with zero to mild discomfort, without causing harm to you. An unhealthy immunity are of two kinds, broadly: deficient immunity and untrained immunity.
 
-Your body needs nutrients to function. Immunity is part of your bodily functions, and that needs adequate nutrition. If you are deficient in, say, vitamins or minerals, your immunity gets hit as well. This leads to a higher probability of your suffering from our succumbing to a disease. Diseases that are not known to kill humans could kill you if you have a nutrient deficiency. "Boosting immunity" may work in this case, by giving your body the right dosage of the right nutrient. If your body does not have any deficiency, taking a multivitamin pills will not help you. At best, your body will throw out the excess. Otherwise, this seemingly harmless "immunity boosting" could lead to complications.{{< sidenote methi >}}Too much turmeric, methi, vitamin D — Doctors fight new emergencies driven by Covid fear ([ThePrint](https://theprint.in/health/too-much-turmeric-methi-vitamin-d-doctors-fight-new-emergencies-driven-by-covid-fear/495557/)){{< /sidenote >}}
+Your body needs nutrients to function. Immunity is part of your bodily functions, and that needs adequate nutrition. If you are deficient in, say, vitamins or minerals, your immunity gets hit as well. This leads to a higher probability of your suffering from or succumbing to a disease. Diseases that are not known to kill humans could kill you if you have a nutrient deficiency. "Boosting immunity" may work in this case, by giving your body the right dosage of the right nutrient. If your body does not have any deficiency, taking multivitamin pills will not help you. At best, your body will throw out the excess. Otherwise, this seemingly harmless "immunity boosting" could lead to complications.{{< sidenote methi >}}Too much turmeric, methi, vitamin D — Doctors fight new emergencies driven by Covid fear ([ThePrint](https://theprint.in/health/too-much-turmeric-methi-vitamin-d-doctors-fight-new-emergencies-driven-by-covid-fear/495557/)){{< /sidenote >}}
 
-Untrained immunity is the second broad category in unhealthy immunity. This is like equipping children with artillery guns, mines and nuclear missiles, and making them guard our frontiers. In this case, your body has all the nutrients it needs, it has the capacity to produce antibodies, but the detection system is haywire, or the trigger works wrongly, etc. Auto-immunity is one of the examples of this.
+Untrained immunity is the second broad category in unhealthy immunity. This is like equipping children with guns, and making them guard something. In this case, your body has all the nutrients it needs, it has the capacity to produce antibodies, but the detection system is haywire, or the trigger works wrongly, etc. Auto-immunity is one of the examples of this.
 
 Auto-immunity causes your immunity to detect phantom infections, or to trigger unnecessarily, flooding the circulatory system with proteins and other chemicals meant to fight an infection, which could end up damaging your organs.
 
-Yes, exposure to pathogens does train your immunity over time. And yes, living in a sterile environment may cause your immunity memory to "forget" the signatures of some of the pathogens, but that does not mean you voluntarily expose yourself to pathogen, because, it could lead to unexpected results (ahem), cause extreme fatigue to your immunity and harm your body in general.
+Yes, exposure to pathogens does train your immunity over time. And yes, living in a sterile environment may cause your immunity memory to "forget" the signatures of some of the pathogens, but that does not mean you voluntarily expose yourself to pathogen, because, it could lead to unexpected results (ahem), fatigue your immunity and harm your body in general.
 
 The best, scientifically proven way to train your immunity is vaccination.
 
