@@ -158,7 +158,7 @@ Again, I do not shower every time I get back home---from, say, the store---these
 
 > The C19 virus does not fly through the air. This is a respiratory drop infection that requires close contact.
 
-_The virus is airborne._ And I am not saying it; experts have said this before, and the US Centres for Disease Control ({{< smallcaps CDC >}}){{< sidenote cdc-airborne >}}The virus is an airborne threat, the C.D.C. acknowledges. ([The New York Times](https://www.nytimes.com/2021/05/07/health/coronavirus-airborne-threat.html)){{< /sidenote >}} and the {{< smallcaps WHO >}} {{< sidenote who-airborne >}}WHO Finally Admits Coronavirus Is Airborne. It’s Too Late ([Forbes](https://www.forbes.com/sites/jvchamary/2021/05/04/who-coronavirus-airborne/?sh=75d18a764472)){{< /sidenote >}} agree (at last). But “airborne” here does not mean “getting carried around by the air”. The scientific language is a little unusual for most of us, but in closed environments, the virus tends to _hang_ in the air for a long period of time.
+_The virus is airborne._ Experts have said this before, and the US Centres for Disease Control ({{< smallcaps CDC >}}){{< sidenote cdc-airborne >}}The virus is an airborne threat, the C.D.C. acknowledges. ([The New York Times](https://www.nytimes.com/2021/05/07/health/coronavirus-airborne-threat.html)){{< /sidenote >}} and the {{< smallcaps WHO >}} {{< sidenote who-airborne >}}WHO Finally Admits Coronavirus Is Airborne. It’s Too Late ([Forbes](https://www.forbes.com/sites/jvchamary/2021/05/04/who-coronavirus-airborne/?sh=75d18a764472)){{< /sidenote >}} agree. But “airborne” here does not mean “getting carried around by the air”. The scientific language is a little unusual for most of us, but in closed environments, the virus tends to _hang_ in the air for a long period of time.
 
 The best defence against this is wearing a mask, and wearing it properly---fully covering your nose and mouth. Wearing a mask will _reduce the chances_ of your catching the virus. The viral load matters in case of {{< smallcaps COVID-19 >}}. The higher the amount of the virus you inhale, the higher are your chances of getting a severe disease.
 
@@ -168,9 +168,9 @@ A study done about the virus’ airborne nature in close environments said, in f
 
 The easiest way to prevent infection and protecting others apart from ourselves is wearing a mask.
 
-Remember, this is science. Science works on evidence. And observations and protocols may change based on new evidence. The doctor is right in that the virus is not airborne in the sense of getting carried around to long distances. If you hear Dr Rakesh Mishra in the video above, he says that those performing the experiment could detect the virus as far as 20 feet from the subject in a closed room. But was this virus viable? May be. Does this mean the virus is airborne? Technically, yes. Practically, it depends on the environment.
+Remember, this is science. Science works on evidence. And observations and protocols may change based on new evidence. What the doctor means by “not airborne” is that the virus does not get carried around to long distances and remain viable. If you hear Dr Rakesh Mishra in the video above, he says that those performing the experiment could “detect the virus as far as 20 feet from the subject in a closed room”. Does this mean the virus is airborne? Technically, yes. Practically, it depends on the environment.
 
-Listen to the doctor’s more recent advice:
+Take the doctor’s more recent advice instead:
 
 {{< tweet 1383718885040410628 >}}
 
@@ -183,9 +183,9 @@ I did find a tweet related to this from the doctor:
 
 {{< tweet 1244145852773515264 >}}
 
-But the tweet is from March 2020. According to newer findings, _the virus is airborne_ (read above). But based on what I understand, taking a walk in the park is still safe, given conditions like a small number of people, great air circulation, people wearing masks, etc.
+But the tweet is from March 2020. According to newer findings, _the virus is airborne_ (read above). Although, based on what I understand, taking a walk in the park is still safe, given conditions like a small number of people, great air circulation, people wearing masks, etc.
 
-Caution is necessary. Talk to your doctor to know more. Based on what I have understood from the doctors I have spoken to, taking a walk in the park is safe; transmission that way is highly unlikely, provided you handle your personal protection.
+Caution is necessary. Talk to your doctor to know more. Based on what I have understood from the doctors I have spoken to, transmission while walking in the park is highly unlikely, provided you handle your personal protection.
 
 Again, watch the video clip above, you will understand.
 
@@ -233,7 +233,7 @@ Nope. I do not think he said this; I do not think he ever suggested ginger for i
 
 Wrong.
 
-Impossible that a doctor of his credibility would say this. Also, no, wearing a mask {{< smallcaps "DOES NOT" >}} interfere with your breathing or oxygen levels.{{< sidenote mask-workout >}}If you are looking to do any cardiovascular exercises ("cardio") or anything that requires heavy breathing, talk to your doctor about what you should do.{{< /sidenote >}} I wore a mask for _28 hours_ straight (even while sleeping) when I had to spend a day in the hospital. I had a machine monitoring my vitals. Oxygen saturation in my blood was between 98% and 100% throughout.
+Impossible that a doctor of his calibre would say this. Also, no, wearing a mask {{< smallcaps "DOES NOT" >}} interfere with your breathing or oxygen levels.{{< sidenote mask-workout >}}If you are looking to do any cardiovascular exercises ("cardio") or anything that requires heavy breathing, talk to your doctor about what you should do.{{< /sidenote >}} I wore a mask for _28 hours_ straight (even while sleeping) when I had to spend a day in the hospital. I had a machine monitoring my vitals. Oxygen saturation in my blood was between 98% and 100% throughout.
 
 Do not believe me? Here, this is what Dr Younus has to say:
 
@@ -256,7 +256,7 @@ Yes, I could find this tweet. As expected.
 > Immune system gets very weak by always living in a sterile environment. Even if we are taking immune-boosting supplements / medicines, please regularly leave your house to the park / beach or anywhere else.
 > Immunity is increased by EXPOSURE TO PATHOGENS, not by sitting at home and consuming fried/spicy/sweet foods & fizzy drinks.
 
-I sense recklessness in this statement. And of course, I could not find this tweet. But I found something interesting:
+This statement is reckless. And of course, I could not find this tweet. But I found something interesting:
 
 {{< tweet 1269332316540801024 >}}
 
@@ -266,7 +266,7 @@ Anyway, exposure to pathogens is one way to better immunity (which is also the p
 
 If you are in haste, remember that _"boosted" immunity can kill you_, skip the rest, and go back to WhatsApp University. If you dislike half-baked knowledge, read on:
 
-Healthy immunity is when your body is able to detect a pathogen, react aptly, and clean up your body with zero to mild discomfort, without causing harm to you. An unhealthy immunity are of two kinds, broadly: deficient immunity and untrained immunity.
+Healthy immunity is when your body is able to detect a pathogen, react aptly, and clean up with zero to mild discomfort, without causing harm to you. Unhealthy immunity can be of two kinds, broadly: deficient immunity and untrained immunity.
 
 Your body needs nutrients to function. Immunity is part of your bodily functions, and that needs adequate nutrition. If you are deficient in, say, vitamins or minerals, your immunity gets hit as well. This leads to a higher probability of your suffering from or succumbing to a disease. "Boosting immunity" may work in this case, by giving your body the right dosage of the right nutrient (talk to a doctor). If your body does not have any deficiency, taking multivitamin pills will not help you. At best, your body will throw out the excess. Otherwise, this seemingly harmless "immunity boosting" could lead to complications.{{< sidenote methi >}}Too much turmeric, methi, vitamin D — Doctors fight new emergencies driven by Covid fear ([ThePrint](https://theprint.in/health/too-much-turmeric-methi-vitamin-d-doctors-fight-new-emergencies-driven-by-covid-fear/495557/)){{< /sidenote >}}
 
