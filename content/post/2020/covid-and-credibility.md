@@ -112,6 +112,18 @@ Like it or not, the virus is out now. The disease has affected millions, as [htt
 
 {{< figure src="https://blogfiles.ramiyer.me/2020/images/2020-07-19+08-53-43.png" caption="CovidByNumbers home page" >}}
 
+---
+
+Update (11 May 2021): Grain of salt, but [a detailed article by Nicholas Wade](https://nicholaswade.medium.com/origin-of-covid-following-the-clues-6f03564c038) points at the _higher plausibility_ of the virus having escaped the Wuhan Institute of Virology, rather than having originated in nature.
+
+While I still stand by that holding China responsible---no matter how right or wrong---will be of no consequence to _the current pandemic_, the article does indeed raise legitimate red flags on the regulation and possible future funding of experiments involving farming of highly infectious viruses in the lab. It also throws light on the possible bad judgement (assuming no malice until proven otherwise) on part of the authorities holding positions of high responsibility, including the {{< smallcaps WHO >}} and the {{< smallcaps NIH >}}.
+
+What stands out in the article is the fact that leaving science in the hands of those with a political agenda is detrimental to humanity: be it opaque governments, scientists who have a lot to lose by speaking up, or any governmental or non-governmental body that does not respect regulations or uses loopholes to achieve its goals.
+
+And until I get plausible evidence for intentional bio-warfare, it will continue to be on the back-burner. Not that it matters to anyone.
+
+---
+
 ## We don't know
 
 In science, more important than knowing something is knowing what we don't know about it. In case of {{< smallcaps SARS >}}-CoV-2, a lot is unknown. And knowing these aspects of the virus will take time. Today, we have a certain understanding of the virus, much better than what we had three months ago. This understanding could be better three years from now, because more evidence would have emerged by then.
