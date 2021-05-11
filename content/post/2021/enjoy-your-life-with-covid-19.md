@@ -128,9 +128,11 @@ And I found this tweet.
 
 {{< tweet 1241812327151910914 >}}
 
-My folks were paranoid about ordering food from outside. But being a Bangalorean, avoiding street food is impossible for me. Once, we ordered some _chāt_ while working on our volunteering report at my friend's place, and did not die:
+My folks were paranoid about ordering food from outside. But being a Bangalorean, avoiding street food is impossible for me. Once, we ordered some _chāt_ while working on our volunteering report at my friend's place, and were fine:
 
 {{< figure src="https://blogfiles.ramiyer.me/2021/images/street-food.jpg" alt="My friends and I religiously hogging some chāt." caption="My friends and I religiously hogging some chāt. (We had removed our masks for a little while because we _knew_ that the terrace of my friend's house was safe.)" >}}
+
+We have been ordering food since. At home. All good. The disease has not spread through food so far.
 
 ## On the sense of smell
 
