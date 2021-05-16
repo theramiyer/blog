@@ -219,7 +219,7 @@ Typically, a "wave" refers to the increase and decrease in the number of cases i
 
 Mutation cause newer waves. One of the possible explanations for the wave in India is the B.1.617 variant. Other factors include human interactions, interactions with animals where the animals are the vectors for the disease, seasonal changes, etc.
 
-{{< figure src="https://blogfiles.ramiyer.me/2021/images/covid-waves-india.png" alt="COVID-19 waves in India" caption="COVID-19 waves in India" >}}
+{{< figure src="https://blogfiles.ramiyer.me/2021/images/covid-waves-india.png" alt="COVID-19 waves in India \| Source: covid19india.org" caption="COVID-19 waves in India \| Source: covid19india.org" >}}
 
 In our case, events like weddings and other gatherings helped spread the disease. The major events were the _Kumbh Mela_ and the massive election rallies. People from across the country went for the _Kumbh Mela_, got infected and took the disease back to their respective villages.{{< sidenote kumbh >}}In India’s surge, a religious gathering attended by millions helped the virus spread ([The Washington Post](https://www.washingtonpost.com/world/2021/05/08/india-coronavirus-kumbh-mela/)){{< /sidenote >}} The elections were the other super-spreaders; the Election Commission of India attracted a fair share of criticism from high courts in the country.
 
