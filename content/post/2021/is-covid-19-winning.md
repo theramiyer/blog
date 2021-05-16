@@ -13,8 +13,6 @@ The virus hit too close to home. I lost my uncle; my father lost a brother. This
 
 The brothers and their families are mourning Uncle's passing in their respective homes, sharing consoling words over digitised lines. I understand his family's anxiety, their struggle to find what was necessary, and their frantic calls for help, most of which echoed within their skulls, without a voice.
 
-_Om Śānti._
-
 Of course, this makes me angry. At the "system" led by the Executive, which we have magnanimously accepted and nurtured over the decades. What has changed today is that we now defend it.
 
 We need to change this situation. We need to win over the pandemic. And for that, we must start by looking in the mirror.
@@ -57,7 +55,7 @@ Remember: asking for proof is not rejection of claim. Emotional handling of such
 
 I do not know about Uttar Pradesh and Delhi, but Bengaluru has been facing blow after blow over the last month. We have a shortage of beds, medicines and oxygen cylinders. I do not mean that those in need of bed are not getting a bed, but that they face long delays; some of them do not make it. What saddens me also is that people are having to look for oxygen cylinders on their own. I personally called about sixty suppliers for a friend's mother-in-law; not one had a positive response. If Bengaluru is having such a crisis, I find it hard to imagine the state of places where medical facilities are not even as good as Bengaluru.
 
-What helps here is a social justice system, like how we have in Tamilnadu and Kerala. I have friends and family in both the States, and they can tell you about how well the States manage public health. Are they perfect? Far from it. Are they better at it than most other States in the country? Yes.
+What helps here is a social justice system, like how we have in Tamilnadu and Kerala. I have friends and family in both the States, and they can tell you about how well the States manage public health. Are they perfect? Far from it—in fact, they are faltering at the moment. Are they better at it than most other States in the country? Yes.
 
 Secondly, the problem of oxygen is primarily logistical. We have States that produce surplus oxygen, we have refineries, the metal extraction industry and what not, who have the capacity to generate medical oxygen. How we get it to the needy is the challenge. In general, most States and the Centre have done abysmal work in managing the actual crisis; they instead resorted to managing the headlines.
 
