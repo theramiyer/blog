@@ -59,19 +59,19 @@ I do not know about Uttar Pradesh and Delhi, but Bengaluru has been facing blow 
 
 What helps here is a social justice system, like how we have in Tamilnadu and Kerala. I have friends and family in both the States, and they can tell you about how well the States manage public health. Are they perfect? Far from it. Are they better at it than most other States in the country? Yes.
 
-Secondly, the problem of oxygen is logistical. We have States that produce surplus oxygen, we have refineries, the metal extraction industry and what not, who have the capacity to generate medical oxygen. How we get it to the needy is the challenge. In general, most States and the Centre have done abysmal work in managing the actual crisis; they instead resorted to managing the headlines.
+Secondly, the problem of oxygen is primarily logistical. We have States that produce surplus oxygen, we have refineries, the metal extraction industry and what not, who have the capacity to generate medical oxygen. How we get it to the needy is the challenge. In general, most States and the Centre have done abysmal work in managing the actual crisis; they instead resorted to managing the headlines.
 
 I get their point: They do not want to sap the morale of people by letting them see the grim picture, but does that mean we deny? A little bit of humility and a lot of honesty would have worked much better. Accept it: one did nothing for "seventy years"; another's promise of fixing everything has not worked in the last seven years. Our medical infrastructure is nowhere near enough. Ask any globally renowned public health expert. Cut the bull crap of the entire world conspiring against us already.
 
 We need to learn true leadership. The first chapter says, "Stop hiding behind shiny headlines."
 
-The second issue with denying shortages is that the countries that want to help us, get the wrong message. And people are not stupid; when they look at the large number of friend nations that are sending help (which, ironically, the same media outlets that claim 'no shortage' run news shows about), they will add one and one. The whole concept of this narrative building has serious flaws:
+The second issue with denying shortages is that the countries that want to help us, get the wrong message. And people are not stupid; when they look at the large number of friend nations sending help (which, ironically, the same media outlets that claim 'no shortage' run news shows about), they will add one and one. The whole concept of this narrative building has serious flaws:
 
 Citizens would ask, 'If we have no shortage, why are friend nations sending in so much aid?' The friend nations would ask, 'If India does not have shortages, why are we sending aid to India? Can we redirect them to other countries that need them?'
 
 People who say that India has never sought help from any other nation since 2005 are right. But we are in an unprecedented situation. If friend nations do not help each other, how will we survive as humanity? Do we want to go down as that forgotten nation that perished because of pride? That is not an example a _Viśvagurū_ sets.
 
-India is more than capable of helping other friend nations. At the moment, we need to tend our wounds. The sooner we do it, the sooner we will stand back up on our feet.
+India is more than capable of helping other friend nations. At the moment, though, we need to tend our wounds. The sooner we do it, the sooner we will stand back up on our feet.
 
 I get it: China is flexing its muscles and showing to other friend nations that India is going through a rough patch (to put it nicely). But at this moment, denying the issue will make China's narrative stronger, and make people question India's integrity. In time, when we are back on our feet, we can counter this narrative without much effort, because India has substance. We must trust our capability and do the right thing.
 
@@ -97,8 +97,16 @@ Once those in need of treatment get medical help, they will be back to being pro
 
 Perhaps before we do the previous, we must also stop the spread. Here are the reasons we want to concentrate on that:
 
-- If the number of new infections does not decrease, the health system will continue to operate under stress. This does a lot of harm than good: the professionals get fatigued, because seeing people suffer and die hits them more. Doctors and nurses who have seen people recover and go home smiling are now seeing deaths and darkness. They break down. They may not show it on camera or on your face, but when they catch a moment of privacy, they break down.
-- Every infection is an opportunity for millions of mutations. Natural selection ensures a one-in-x-billion successful mutations, but a quadrillion mutations will lead to, say, four successful, significant mutations. More details will follow.
+- If the number of new infections does not decrease, the health system will continue to operate under stress. This does a lot of harm than good: the professionals get fatigued, because seeing people suffer and die hits them more. Doctors and nurses who have seen people recover and go home smiling are now seeing deaths and darkness. They break down. They may not show it on camera or on your face, but when they catch a moment of solitude, they break down.
+- Every infection is an opportunity for millions of mutations. Natural selection ensures a one-in-x-billion successful mutations, but a quadrillion mutations will lead to, say, one successful, significant mutation. More details will follow.
+
+How can we stop the spread? By understanding how the infection spreads. It spreads when two people or more, at least one of them infected, meet in close proximity without a mask. They exhale, talk, sneeze or cough, releasing aerosol viable virus. The healthy individual inhales this and gets infected.
+
+Everybody showing symptoms has the disease, but it does not mean everyone who has the disease shows symptoms. I do not get the point of measuring temperature at entrances of malls, cinemas and hospitals—they do not account for the pre-symptomatic individuals. For all we know, millions of pre-symptomatic individuals are going around under the assumption that they are fine, all the while spreading the infection around.
+
+What do we do about this? Wear a mask. Specifically, those who are spreading the virus must wear masks, so that the virus does not escape their person to infect others.
+
+We must all go under the assumption that we all have the infection. All the time. That is the best way to cut the spread.
 
 spreads when people meet in close proximity, without mask.
 outdoor rallies and other mass gatherings.
