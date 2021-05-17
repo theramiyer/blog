@@ -116,6 +116,10 @@ To me, that is a losing proposition and a bigger concern. I would much rather ha
 
 And what I cannot manage is a WhatsApp account, because it offers no data controls---not yet, anyway. With your WhatsApp and Facebook account linked, you _may_ be able to manage _some_ of your data.
 
+That said, there is no guarantee that Facebook does indeed delete data you ask it to. Which means, yes, deleting your Facebook account may help, but not much because Facebook will get other important data from WhatsApp which it can use to serve ads and do anything else that it does.
+
+The ideal way is to not have either account.
+
 ## In conclusion
 
 As software engineers, we look for avenues to improve people's lives. As advocates of free (as in speech) and open software, we do not like this "take it or leave it" attitude; we always choose the latter because we know we can do better.
