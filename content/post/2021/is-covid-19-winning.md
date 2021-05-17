@@ -152,7 +152,7 @@ _Test Positivity Rate_ is the percentage of tests detecting the virus versus the
 
 A high Test Positivity Rate means that we are missing out a lot of asymptomatic infections, which we would have known had we tested more. It says that the number of actual positive cases is more than we are seeing.
 
-In general, a good time to relax a lockdown is when the available medical resources can handle the case load without stretching itself, and the positivity rate is low. The of course.
+In general, a good time to relax a lockdown is when the available medical resources can handle the case load without stretching itself, and the positivity rate is low. The ideal is zero, of course.
 
 ## On medicines that work
 
