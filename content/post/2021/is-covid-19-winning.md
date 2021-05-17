@@ -148,7 +148,9 @@ But for how long can lockdowns go?
 
 Relaxing lockdowns is tricky. Experts look at two parameters: the number of positive cases and the test positivity rate.
 
-_Test Positivity Rate_ is the percentage of tests detecting the virus versus the total number of tests done. In India, the average test positivity rate is about 7.8%, but it goes as high as 17.9% in some States. This means that on average, one test in thirteen is positive, and at evades, one in six tests is positive. Test positivity rate is a indicator because it shows a high value when a high number of cases are positive, as well as when way the total number of tests done is low.
+_Test Positivity Rate_ is the percentage of tests detecting the virus versus the total number of tests done. In India, the test positivity rate is about 17%. This means that one in six tests is positive. Test positivity rate is a indicator because it shows a high value when a high number of cases are positive, as well as when way the total number of tests done is low.
+
+{{< figure src="https://blogfiles.ramiyer.me/2021/images/india-tpr-15-may-2021.png" alt="Test Positivity Rate, India \| Source: covid19india.org" caption="Test Positivity Rate, India \| Source: covid19india.org" >}}
 
 A high Test Positivity Rate means that we are missing out a lot of asymptomatic infections, which we would have known had we tested more. It says that the number of actual positive cases is more than we are seeing.
 
