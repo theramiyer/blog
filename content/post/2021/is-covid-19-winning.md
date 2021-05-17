@@ -17,7 +17,7 @@ Today is Sunday, and time for me to share what I have learnt about the disease. 
 
 ## A moment for my uncle
 
-The virus hit too close to home. I lost my uncle; my father lost a brother. This is the third {{< smallcaps COVID >}} death in the family. The news devastated us. We could not go to Ahmedabad to hold our cousins as they broke down. We could not be there to find medicines and other supplies for the treatment. My father did not even get to see his brother's mortal remains. Not even virtually.
+The virus hit too close to home. I lost my uncle; my father lost a brother. This is the third {{< smallcaps COVID >}}-related death in the family. The news devastated us. We could not go to Ahmedabad to hold our cousins as they broke down. We could not be there to find medicines and other supplies for the treatment. My father did not even get to see his brother's mortal remains. Not even virtually.
 
 The brothers and their families are mourning Uncle's passing in their respective homes, sharing consoling words over digitised lines. I understand his family's anxiety, their struggle to find what was necessary, and their frantic calls for help, most of which echoed within their skulls, without a voice.
 
