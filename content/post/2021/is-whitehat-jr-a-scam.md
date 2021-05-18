@@ -9,14 +9,14 @@ draft: true
 
 About half a year ago, we saw a lot of noise about an EdTech (Education Technology) company, called WhiteHat Jr. The company had found its way into serious controversy, including claims that the company had misled parents and children, ripped them off of millions of rupees and were home to some questionable conversations.
 
-A friend asked me about this and I did not know how to conclude one way or another. I thought this is something I could try to untangle using a post.
+A friend asked me about this and I did not know how to conclude one way or another. I thought this was something I could try to untangle using a post.
 
-Before we proceed, let me tell you why I think I qualify to talk about this issue (because, apparently, those contesting the claims like the ones I am going to make, ask what credibility those making the claims have)---if you want to think I am a snob, feel free:
+I have seen that those who do not like arguments against the company tend to question—much to my curiosity—‘What do you know that you are talking about it?’
 
-Oh, if you are not questioning my credibility, click here to skip this part.
+Well, this is my home turf. If you want to think I am a snob, feel free. But:
 
 1. I have been in the IT industry for over a decade (I complete eleven years in a couple of months).
-2. My job involves coding (I will explain why I say "involves" in a bit).
+2. My job involves coding (I will explain why I say "involves" later).
 3. I am a post-graduate in Software Engineering.
 4. I am a published author; I have co-authored a book on PowerShell---an open source, cross-platform infrastructure automation framework.
 5. My introduction to programming happened 24 years ago.
@@ -25,38 +25,38 @@ In other words, I think I know what I am talking about.
 
 ## The reason for the controversy
 
-I think it all began when Mr Pradeep Poonia blew the whistle about the company having teachers who did not know what they were teaching, or had gotten trained to teach a specific set of subjects and topics to children (meaning, they did not have in-depth knowledge of the subjects they were teaching). His video claimed that teachers who did not know the difference between Java and JavaScript and that they said they wrote Java in C++; such teachers could not possibly teach children, let alone make them billionaires.
+I think it all began when Mr Pradeep Poonia blew the whistle about the company having teachers who did not know what they were teaching, or had gotten trained to teach a specific set of subjects and topics to children (implying that they did not have in-depth knowledge of the subjects they were teaching). His video claimed that teachers who did not know the difference between Java and JavaScript and that they said they wrote Java in C++; such teachers could not possibly teach children, let alone make them expert coders.
 
 Soon, him and others were picking out advertisements put out by WhiteHat Jr., one of which was:
 
 > 9 year old Wolf Gupta learnt computers to earn Rs 150 cr from Google Video while other kids his age were surfing You-Tube videos. [sic.]  
 > ([Source: Karthik](https://twitter.com/beastoftraal/status/1331074275181174784/photo/1))
 
-And these advertisements did come out. I ignored them on my Facebook timeline and elsewhere, but I see what impact these could have had on people that did not know how the world of software development worked.
+And these advertisements did come out. I ignored them on my Facebook timeline and elsewhere, dismissing them as stupid, but I see what impact these could have had on people that did not know how the world of software development worked.
 
 The primary question raised was on the ethicality of these advertisements.
 
-If one went by the logic that coding can make you rich, India would probably have been the richest country given the millions of coders that we have. But making people understand this, in a society where people think software engineers make millions in the first year of their career, is hard.
+If one went by the logic that coding could make you rich, India would probably have been the richest country given the millions of coders that we have. But making people understand this, in a society where people think software engineers make millions in the first year of their career, is hard.
 
-But this is one side of the story.
+But this is merely one facet.
 
 ## EdTech and India
 
-EdTech---or Educational Technology---is a booming industry. If you have been anywhere near the Internet in the last one year, you will have seen at least a hundred advertisements of MasterClass, SkillShare, Brilliant, and what not. Byju's and the likes run advertisements on TV; you are unlikely to have missed them.
+EdTech---or Educational Technology---is a booming industry. If you have been anywhere near the Internet in the last couple of years, you will have seen at least a hundred advertisements of MasterClass, SkillShare, Brilliant, and what not. Byju's and the likes run advertisements on TV; you are unlikely to have missed them.
 
-India is no stranger to EdTech. The IT world has used EdTech for well over a decade to train employees. Using technology-aided education was easy for the tech giants because they had the infrastructure needed for it, say, half a decade ago. Why, my MTech. classes were all online---the lectures would happen in Chennai and we would virtually join live from Bangalore. Now, with the advancement in technology, EdTech has become accessible to everyone. In fact, thanks to it, our students have had at least a little learning in the last fourteen months.
+India is no stranger to EdTech. And the IT world has used EdTech for well over a decade to train employees. Using technology-aided education was easy for the tech giants because they had the infrastructure needed for it, even a decade ago. Why, my MTech. classes were all online---the lectures would happen in Chennai and we would virtually join live from Bangalore. Now, with the advancement in technology, EdTech has become accessible to everyone. In fact, thanks to it, our students have had at least a little learning in the last fourteen months.
 
 We now know that EdTech is here to stay. WhiteHat Jr. cashed in on it with their aggressive marketing and sales.
 
 ## Learning programming from the Web
 
-But wait, if EdTech has been around for over a decade in the IT industry, then are there no online platforms that teach coding? Or is it restricted to reputed universities that have the capacity to run their classes online?
+But wait, if EdTech has been around for over a decade in the IT industry, then are there no online platforms that teach coding? Or is it restricted to reputed universities that have the capacity to run their classes online? If not, is Pradeep Poonia right in saying that you can find IT-related learning resources for free?
 
-Coursera has been running free courses, including in Computer Science subjects for a long time now. Secondly, the IT community is vibrant. You have freeCodeCamp, code.org, Codecademy, edX, Coursera, etc., that have programmes in which you can learn to code for free.
+Coursera has been running free courses, including in Computer Science subjects for a long time now. Secondly, the IT community is vibrant. You have freeCodeCamp, code.org, Codecademy, edX, Coursera, etc., that have programmes in which you can learn to code for free. Apart from that, most techies blog about their learning and share solutions.
 
-But my view is that saying, 'Well, here, you have an ocean of resources! Go, enjoy yourself!' is utterly useless. Unless you have a direction, you cannot possibly pick up a line and have any success in learning. Even today, nothing beats someone sitting you down and teaching you something. Yes, you can learn from guided tutorials, but that tires your brain faster.
+But my view is that saying, 'Well, here, you have an ocean of resources! Go, enjoy yourself!' is utterly useless. Unless you have a direction, you cannot possibly pick up a line and have any success in learning. Even today, nothing beats someone sitting you down and teaching you something. Yes, you can learn from guided tutorials, but that also tires your brain.
 
-Call me old school, but I have had video-based learning, online tutorials, interactive learning, and live session learning. Live session learning has always worked best. I have trained people as well, and got the same from them: live learning works the best.
+Call me old school, but I have had video-based learning, online tutorials, interactive learning, and live session learning. Live session learning has always worked best. I have trained people as well, and got the same from them: live learning works best.
 
 Am I saying that these petabytes worth of online learning resources are useless? No. All I am saying is that a novice will find live learning much more effective.
 
