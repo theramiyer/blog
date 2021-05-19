@@ -13,7 +13,7 @@ tags:
 
 About half a year ago, an EdTech (Education Technology) start-up, called _WhiteHat Jr_, came into the limelight. The company had found its way into serious controversy, including claims that the company had misled parents and children, ripped them off of millions of rupees and were home to some questionable conversations.
 
-A friend asked me about this and I did not know how to conclude one way or another. I thought I could try to untangle it using a post.
+The subject came up tonight and I did not know how to conclude one way or another. I thought I could try to untangle it using a post.
 
 I have seen that those who do not like arguments against the company tend to question---much to my curiosity---‘What do you know that you are talking about it?’
 
