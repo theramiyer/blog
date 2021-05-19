@@ -116,11 +116,11 @@ Like it or not, the virus is out now. The disease has affected millions, as [htt
 
 Update (11 May 2021): Grain of salt, but [a detailed article by Nicholas Wade](https://science.thewire.in/the-sciences/origins-of-covid-19-who-opened-pandoras-box-at-wuhan-people-or-nature/) points at the _higher plausibility_ of the virus having escaped the Wuhan Institute of Virology, rather than having originated in nature.
 
-While I still stand by that holding China responsible---no matter how right or wrong---will be of no consequence to _the current pandemic_, the article does indeed raise legitimate red flags on the regulation and possible future funding of experiments involving farming of highly infectious viruses in the lab. It also throws light on the possible bad judgement (assuming no malice until proven otherwise) on part of the authorities holding positions of high responsibility, including the {{< smallcaps WHO >}} and the {{< smallcaps NIH >}}.
+While I still stand by that holding China responsible---no matter how right or wrong---will be of no consequence to _the current pandemic_, the article does indeed raise legitimate red flags on the regulation and possible future funding of experiments involving farming of highly infectious viruses in the lab. It also throws light on the possible bad judgement (assuming no malice until proven otherwise) on part of the authorities holding positions of high responsibility, including at the {{< smallcaps WHO >}} and the {{< smallcaps NIH >}}.
 
 What stands out in the article is the fact that leaving science in the hands of those with a political agenda is detrimental to humanity: be it opaque governments, scientists who have a lot to lose by speaking up, or any governmental or non-governmental body that does not respect regulations or uses loopholes to achieve its goals.
 
-And until I get plausible evidence for intentional bio-warfare, I will continue to call it a conspiracy theory. Not that it matters to anyone.
+And until I get reliable evidence for intentional bio-warfare, I will continue to call it a conspiracy theory. Not that it matters to anyone.
 
 ---
 
