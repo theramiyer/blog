@@ -15,16 +15,6 @@ About half a year ago, an EdTech (Education Technology) start-up, called _WhiteH
 
 A friend asked me about this and I did not know how to conclude one way or another. I thought I could try to untangle it using a post.
 
-I have seen that those who do not like arguments against the company tend to question---much to my curiosity---‘What do you know that you are talking about it?’
-
-Well, this is my home turf. If you want to think I am a snob, feel free. But:
-
-1. I have been in the IT industry for over a decade (I complete eleven years in a couple of months).
-2. My job involves coding (I will explain why I say "involves" later).
-3. My introduction to programming happened 24 years ago.
-4. I am a published author; I have co-authored a book on PowerShell---an open source, cross-platform infrastructure automation framework.
-5. I am a post-graduate in Software Engineering.
-
 ## The reason for the controversy
 
 I think it all began when Mr Pradeep Poonia blew the whistle saying the company had teachers who did not know what they were teaching, or had gotten trained to teach a specific set of subjects and topics to children (implying that they did not have in-depth knowledge of the subjects they were teaching). His video claimed that the teachers he spoke to did not know the difference between Java and JavaScript and that they said they wrote Java in C++; such teachers could not possibly teach children, let alone make them expert coders.
@@ -164,7 +154,7 @@ Well, that is a large topic in itself. But I would say that coding is merely a m
 
 When I started to interact with computers, I started with a language called Logo. We learned to control a "turtle" around the screen to draw beautiful patterns using instructions. We learnt how a program is merely a set of instructions executed in a certain order.
 
-Today, we spend the majority of our time staring at the screen for the "Progammer's Inspiration", or attending meetings with different teams to get the requirements, doodling on virtual boards while planning features, thinking about how a novice would use our solution, etc. Coding is a small part of our work day (which is why I said my job "involves" coding).
+Today, we spend the majority of our time staring at the screen for the "Progammer's Inspiration", or attending meetings with different teams to get the requirements, doodling on virtual boards while planning features, thinking about how a novice would use our solution, etc. Coding is a small part of our work day.
 
 And "coding is a universal language like dance is" cracks me up. Coding is as multi-versal as it gets.
 
