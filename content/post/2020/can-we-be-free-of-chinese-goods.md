@@ -15,7 +15,7 @@ title: Can we be free of Chinese goods
 
 Ever since [Prime Minister Modi made his speech](https://www.youtube.com/watch?v=g2I20uFMy3E) on the 12th of May 2020, _Aatmanirbhar_ started trending. My Facebook newsfeed showed countless memes and what not, about boycotting Chinese products. Some even questioned my bravery to be able to say no to {{< smallcaps "Made in China" >}}.
 
-{{< instagram B-6fEYqg8-D >}}
+{{< figure src="https://blogfiles.ramiyer.me/2020/images/say-no-to-made-in-china.jpg" alt="A Say No to Made In China poster from social media" caption="A Say No to Made In China poster [from social media](https://www.facebook.com/PostcardEnglishNews/photos/a.818260655050767/1356674747876019/)" >}}
 
 {{< toc >}}
 
