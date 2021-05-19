@@ -15,10 +15,6 @@ About half a year ago, an EdTech (Education Technology) start-up, called _WhiteH
 
 The subject came up tonight and I did not know how to conclude one way or another. I thought I could try to untangle it using a post.
 
-I have seen that those who do not like arguments against the company tend to question---much to my curiosity---‘What do you know that you are talking about it?’
-
-Well, this is my home turf.
-
 ## The reason for the controversy
 
 I think it all began when Mr Pradeep Poonia blew the whistle saying the company had teachers who did not know what they were teaching, or had gotten trained to teach a specific set of subjects and topics to children (implying that they did not have in-depth knowledge of the subjects they were teaching). His video claimed that the teachers he spoke to did not know the difference between Java and JavaScript and that they said they wrote Java in C++; such teachers could not possibly teach children, let alone make them expert coders.
