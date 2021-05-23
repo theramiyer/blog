@@ -2,9 +2,13 @@
 title: "How to Pick Privacy-friendly Services"
 subtitle: "simple steps to take back your privacy"
 date: 2021-05-22T20:26:34+05:30
-description:
+description: |
+    Everyone talks of privacy, but how do you pick privacy-friendly products and services? This post gives a picture of what the privacy-friendly world looks like, and what to look for in a service—all in simple steps.
 tags:
-draft: true
+- privacy
+- tracking
+- internet
+- open source
 ---
 
 The topic of privacy came up today in a conversation about picking a cloud storage for documents like journals and other writing. Given the fact that services can recognise handwriting, where is a good place to store your notes?
