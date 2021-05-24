@@ -16,11 +16,13 @@ About half a year ago, an EdTech (Education Technology) start-up came into the l
 The subject came up tonight and I did not know how to conclude one way or another. I thought I could try to untangle it using a post.
 
 ---
+
 Update: In a curious coincidence perhaps, someone seems to have gotten Department of Telecommunications to block my domain:
 
 {{< tweet 1396654910641360898 >}}
 
 While I stand by calling out those that do not play by the rules, I also believe that people must know what is right for them. I choose the latter this time; people are smart enough to form their opinions and see what leads to what. Unlike the "intelligent" bots that scour the web. Feel free to judge, but I find the timing of this "blocking" strange.
+
 ---
 
 ## The reason for the controversy
