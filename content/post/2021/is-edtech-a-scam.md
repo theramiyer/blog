@@ -1,5 +1,5 @@
 ---
-title: "Is TechEd a Scam"
+title: "Is EdTech a Scam"
 subtitle: "Looking at the “one-sided” narrative."
 date: 2021-05-17T22:53:22+05:30
 description: |
