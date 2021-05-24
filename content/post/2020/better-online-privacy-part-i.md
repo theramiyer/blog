@@ -34,7 +34,7 @@ Let us go through the different types of cookies, though, so that the term itsel
 
 ### Session cookies
 
-Session cookies store information for the web session you are running at the moment. For instance, unless I have removed Google Analytics from this site (which you can read about in my [privacy policy]({{< ref "/page/privacy.md" >}})), a session cookie is what Google stores to tell me someone visited my site, and how long you spent on which page(s). No, I cannot personally identify you---I cannot even tell the difference between you and your cat that loves your keyboard. I care about others’ privacy as much as I care about mine if not more.
+Session cookies store information for the web session you are running at the moment. For instance, unless I have removed Google Analytics from this site (which you can read about in my [privacy policy]({{< ref "/page/privacy.md" >}})), a session cookie is what Google stores to tell me someone visited my site, and how long you spent on which page(s). No, I cannot personally identify you---I cannot even tell the difference between you and your cat that loves your keyboard. I care about others’ privacy as much as I care about mine if not more. Update: I moved away from Google Analytics. I now use a privacy-respecting solution, called, _Plausible Analytics_.
 
 The point is, once you close your browser session, these cookies get discarded.
 
@@ -70,7 +70,7 @@ Also, in theory, as of now no companies other than Google and Facebook have enou
 
 ## Privacy, the conventional way
 
-Conventionally, we block cookies, or use Private Window (or Incognito Mode, or InPrivate Mode) when we do not want cookies stored and tracked. That should work for most sites, but we also need to remember that Google and Facebook are the largest ad agencies in the world, and while they may not care about us as a person, they still would build a profile of us to serve us most relevant ads so that they get the largest number of click-throughs, and thus, revenue.
+Conventionally, we block cookies, or use Private Window (or Incognito Mode, or InPrivate Mode) when we do not want cookies stored and tracked. That should work for most sites, but we also need to remember that Google and Facebook are the largest ad corporations in the world, and while they may not care about us as a person, they still would build a profile of us to serve us most relevant ads so that they get the largest number of click-throughs, and thus, revenue.
 
 If---if---they share this data with others, the others could use the data for different other purposes. None of these is in our best interests. And while this does seem like a conspiracy theory, any security expert will tell you that I am right (more so because what I am saying rests on the shoulders of such security researchers, who have been in the field for decades).
 

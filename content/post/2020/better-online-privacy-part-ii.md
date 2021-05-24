@@ -29,7 +29,7 @@ The basic idea is to separate {{< smallcaps GAFAM >}} from each other, and the o
 GAFAM
 : Google, Apple, Facebook, Amazon, and Microsoft
 
-These five companies have the largest amount of your data and have the power to process it all. Google, Apple and Microsoft have their operating systems; Apple and Amazon are two of the largest retail forces[^e-tail]; Microsoft, Apple and Google have their browsers and browser platforms; Google and Facebook are the largest ad agencies in the world; Facebook is the largest social network with its ubiquitous apps---Instagram, Facebook, Messenger, WhatsApp; Google, Amazon and Microsoft have the largest cloud services ... in short, these are powerful entities.
+These five companies have the largest amount of your data and have the power to process it all. Google, Apple and Microsoft have their operating systems; Apple and Amazon are two of the largest retail forces[^e-tail]; Microsoft, Apple and Google have their browsers and browser platforms; Google and Facebook are the largest ad corporations in the world; Facebook is the largest social network with its ubiquitous apps---Instagram, Facebook, Messenger, WhatsApp; Google, Amazon and Microsoft have the largest cloud services ... in short, these are powerful entities.
 
 [^e-tail]: [Apple, Not Amazon, Is The Largest Online Retail Force](https://www.forbes.com/sites/danrunkevicius/2020/08/17/apple-not-amazon-is-the-largest-online-retail-force/?sh=be2651f64cb2)
 
@@ -79,6 +79,8 @@ Use a network-level ad-blocker (not browser-level). AdGuard and Pi-Hole are two 
 ## Be careful
 
 Remember which browsers you use for what, and make sure you do not sign into the services not meant to run on that particular browser.
+
+One way I handle this is by setting the browser to open a set of web pages as soon as it launches. It reminds me which sites I use the browser for.
 
 ## Enable data deletion
 
