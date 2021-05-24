@@ -54,7 +54,7 @@ Am I saying that these petabytes worth of online learning resources are useless?
 
 The 1:1 learning model of WhiteHat Jr is a win.
 
-The question then is, 'How competent are their teachers?'
+The question then is: How competent are their teachers?
 
 ## Employment
 
@@ -64,7 +64,7 @@ What the founder says is that their platform has ensured giving jobs to women wh
 
 Opinion, of course, but this seems a little too convenient.
 
-Let me explain. First, not all parents who want to enrol their children know to code. Not all can judge whether a teacher is capable, based on a trial class. If the teacher and the parent get into an argument, the teacher transfers the call to another team, which asks the teacher to drop off the call and close the trial session. Yes, harassment is bad. But is there a legitimate way where the platform actually allows checking the competence of a teacher?
+Let me explain. First, not all parents who want to enrol their children know to code. Not all can judge whether a teacher is capable, based on a trial class. If the teacher and the parent get into an argument, the teacher transfers the call to another team, which asks the teacher to drop off the call and close the trial session. Yes, harassment is bad. But is there a legitimate way in which the platform actually allows checking the competence of a teacher?
 
 Refunds are not the solution to this.
 
