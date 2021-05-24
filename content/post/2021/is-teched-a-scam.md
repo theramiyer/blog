@@ -1,9 +1,9 @@
 ---
-title: "Is WhiteHat Jr a Scam"
+title: "Is TechEd a Scam"
 subtitle: "Looking at the “one-sided” narrative."
 date: 2021-05-17T22:53:22+05:30
 description: |
-    WhiteHat Jr has been in the news for some time now. Are they a scam? Are they ripping off people? Are coding lessons indeed available for free?
+    A TechEd startup has been in the news for some time now. Are they a scam? Are they ripping off people? Are coding lessons indeed available for free?
 tags:
 - business
 - learning
@@ -11,15 +11,23 @@ tags:
 - technology
 ---
 
-About half a year ago, an EdTech (Education Technology) start-up, called _WhiteHat Jr_, came into the limelight. The company had found its way into serious controversy, including claims that the company had misled parents and children, ripped them off of millions of rupees and were home to some questionable conversations.
+About half a year ago, an EdTech (Education Technology) start-up came into the limelight. The company had found its way into serious controversy, including claims that the company had misled parents and children, ripped them off of millions of rupees and were home to some questionable conversations.
 
 The subject came up tonight and I did not know how to conclude one way or another. I thought I could try to untangle it using a post.
+
+---
+Update: In a curious coincidence perhaps, someone seems to have gotten Department of Telecommunications to block my domain:
+
+{{< tweet 1396654910641360898 >}}
+
+While I stand by calling out those that do not play by the rules, I also believe that people must know what is right for them. I choose the latter this time; people are smart enough to form their opinions and see what leads to what. Unlike the "intelligent" bots that scour the web. Feel free to judge, but I find the timing of this "blocking" strange.
+---
 
 ## The reason for the controversy
 
 I think it all began when Mr Pradeep Poonia blew the whistle saying the company had teachers who did not know what they were teaching, or had gotten trained to teach a specific set of subjects and topics to children (implying that they did not have in-depth knowledge of the subjects they were teaching). His video claimed that the teachers he spoke to did not know the difference between Java and JavaScript and that they said they wrote Java in C++; such teachers could not possibly teach children, let alone make them expert coders.
 
-Soon, him and others were picking out advertisements put out by WhiteHat Jr, one of which was:
+Soon, him and others were picking out advertisements put out by the company, one of which was:
 
 > 9 year old Wolf Gupta learnt computers to earn Rs 150 cr from Google Video while other kids his age were surfing You-Tube videos. [sic.]  
 > ([Source: Karthik](https://twitter.com/beastoftraal/status/1331074275181174784/photo/1))
@@ -38,7 +46,7 @@ EdTech---or Educational Technology---is a booming industry. If you have been any
 
 India is no stranger to EdTech. And the IT world has used EdTech for well over a decade to train employees. Using technology-aided education was easy for the tech giants because they had the infrastructure needed for it, even a decade ago. Why, my M.Tech. classes were all online---the lectures would happen in Chennai and we would virtually join live from Bangalore. Now, with the advancement in technology, EdTech has become accessible to everyone. In fact, thanks to it, our students have had at least a little learning in the last fourteen months.
 
-We now know that EdTech is here to stay. WhiteHat Jr cashed in on it with their aggressive marketing and sales.
+We now know that EdTech is here to stay. One company cashed in on it with their aggressive marketing and sales.
 
 ## Learning programming from the Web
 
@@ -52,13 +60,13 @@ Call me old school, but I have had video-based learning, online tutorials, inter
 
 Am I saying that these petabytes worth of online learning resources are useless? No. All I am saying is that a novice will find live learning much more effective.
 
-The 1:1 learning model of WhiteHat Jr is a win.
+The 1:1 learning model of the platform is a win.
 
 The question then is: How competent are their teachers?
 
 ## Employment
 
-One of the claims that someone made on the Web was that the majority of the teachers on WhiteHat Jr were women, and that the moment someone tried to question the teacher too much, they would receive a call warning them of a harassment complaint, reminding them to ensure good behaviour with the women.
+One of the claims that someone made on the Web was that the majority of the teachers on the platform were women, and that the moment someone tried to question the teacher too much, they would receive a call warning them of a harassment complaint, reminding them to ensure good behaviour with the women.
 
 What the founder says is that their platform has ensured giving jobs to women who were not part of the workforce before (for reasons like being the primary caregiver to their children).
 
@@ -74,7 +82,7 @@ Schooling is a regulated system. We have standards in place. Schools undergo ext
 
 Also, schools work in the "open market". You have options available at your disposal. Schools maintain a track record of kinds, and have healthy open competition. A platform cannot trivialise the schooling system by showing some resemblance with teaching.
 
-I am not saying that WhiteHat Jr should not do business. They are free to. And who knows, a couple of decades later, they might be a leader in the space. All that is beyond the point. We cannot apply the 'Do not ask how they got their first million' formula here.
+I am not saying that the company should not do business. They are free to. And who knows, a couple of decades later, they might be a leader in the space. All that is beyond the point. We cannot apply the 'Do not ask how they got their first million' formula here.
 
 The subject of ethics is perhaps too complicated for words.
 
@@ -82,7 +90,7 @@ The subject of ethics is perhaps too complicated for words.
 
 While we are comparing these platforms to schools: You are free to criticise a school, their teaching methods, the student's score, everything.
 
-This has not been the case with WhiteHat Jr:
+This has not been the case with some:
 
 1. WhiteHat Jr founder files Rs 20 cr defamation suit against critic ([The News Minute](https://www.thenewsminute.com/article/whitehat-jr-founder-files-rs-20-cr-defamation-suit-against-critic-138221))
 2. WhiteHat Jr and the curious case of disappearing dissent ([Forbes](https://www.forbesindia.com/article/take-one-big-story-of-the-day/whitehat-jr-and-the-curious-case-of-disappearing-dissent/63627/1))
@@ -118,7 +126,7 @@ Some of these matters are sub judice (meaning, the company has filed some cases,
 
 People like Pradeep Poonia have also claimed that the company has people who scour the Web for criticism and either report such statements asking the social media platforms to take down the posts, or change the questions on platforms like Quora (yes, you can do that on Quora) to something that has no relation to the subject. And surprise, surprise: none of this is illegal. Hello, Terms and Conditions.
 
-The WhiteHat Jr platform also has a clause that forbids you from taking a trial class if you do not intend to enrol your child into the platform. Yes, such a clause is necessary to protect the legitimate interests of a company. But because this is in their terms and conditions, the moment you take a class to verify anything including the competence of the teachers, you are in violation of it. You are free to form your opinion about such a clause. I think discussing that would create a tangent that will not lead to a conclusion related to the platform itself.
+The platform also has a clause that forbids you from taking a trial class if you do not intend to enrol your child into the platform. Yes, such a clause is necessary to protect the legitimate interests of a company. But because this is in their terms and conditions, the moment you take a class to verify anything including the competence of the teachers, you are in violation of it. You are free to form your opinion about such a clause. I think discussing that would create a tangent that will not lead to a conclusion related to the platform itself.
 
 I believe that we need reform in our laws. I think this double-negative of "not illegal" tips the balance against the consumer.
 
@@ -142,7 +150,7 @@ Second, I have seen my teachers go through a lot of trouble to handle their resp
 
 Our schooling system needs reform.
 
-At the same time, we must appreciate the aim of platforms like WhiteHat Jr to help those who cannot work a fixed schedule, find work. In a society like ours, this is a source of self-esteem.
+At the same time, we must appreciate the aim of some platforms like to help those who cannot work a fixed schedule, find work. In a society like ours, this is a source of self-esteem.
 
 As long as those teaching have the necessary qualifications (I am not talking merely about certificates), we should have no problem.
 
