@@ -3,7 +3,7 @@ title: "Sexual Abuse in Schools"
 subtitle: "looking beyond mud-slinging and finger-pointing"
 date: 2021-05-26T20:13:53+05:30
 description: |
-    News broke out about this in PSBB and other schools in Chennai after an alumnus started an Instagram reach-out. Soon, the issue got cluttered. We look at the different aspects of the issue and the way forward.
+    News broke out about sexual harassment of children in PSBB and other schools in Chennai after an alumnus started an Instagram reach-out. Soon, the issue got cluttered. We look at the different aspects of the issue and the way forward.
 tags:
 - social
 - society
