@@ -78,15 +78,15 @@ To recap, the issue is sexual harassment of students by teachers.
 
 ## Complaint and Cognisance
 
-The first statement that the school management made was that they were unaware. In its second statement, they said that no one had given a written complaint about this. The difference is subtle, but significant. Should a school that has "zero tolerance" towards such issues wait for a written complaint? How could the school take a "suo motu" cognisance of this issue now, without getting a written complaint?
+The first statement that the school management made was that they were unaware. In its second statement, they said that no one had given a written complaint about this. The difference is subtle, but significant. Should a school that has "zero tolerance" towards such issues wait for a written complaint? How could the school take "suo motu" cognisance of this issue now, without getting a written complaint?
 
 Or was it indeed suo motu, given that the alumni had indeed written to the management about this after the social media blow-up? Or does it take a social media blow-up for the school to take suo motu cognisance of such issues? Something does not add up.
 
-_Padma Seshadri_ is not alone. Sexual abuse of children is a global problem. Schools are a place where children spend a quarter of their day, which makes schools a haven for predators. Singling out one school and putting pressure on them alone does not help. In the days that followed, students of other prominent schools, such as Chettinad Vidyashram, Kendriya Vidyalaya (CLRI), Sushil Hari School, Sastra University etc., brought out the issues in their schools. If this caught on the way #MeToo did, we would see more students coming out and sharing their experiences.
+_Padma Seshadri_ is not alone. Sexual abuse of children is a global problem. Schools are a place where children spend a quarter of their day, which makes schools a haven for predators. Singling out one school and putting pressure on them alone does not help. In the days that followed, students of other prominent schools, such as Chettinad Vidyashram, Kendriya Vidyalaya (CLRI), Sushil Hari School, Sastra University etc., brought out the issues in their schools and colleges. If this caught on the way #MeToo did, we would see more students coming out and sharing their experiences.
 
 Sure, a handful of these may be "overreactions" or "misunderstandings" or "misplaced retaliation", but what about the rest? Are they all fake?
 
-Paedophiles exist. They have existed for centuries, perhaps. Our society may be realising it now, but other societies---specifically the western ones---are serious about it.
+Paedophiles exist. They have existed for centuries, perhaps. Our society may be realising it now, but other societies---specifically the western ones---are serious about it, and are taking steps in that regard.
 
 'Okay, how do you separate fact from fiction? How do you know which of these allegations are indeed true?'
 
@@ -154,7 +154,7 @@ The child would then try to confide in their parent. But as seen in the cases th
 
 Ask any psychologist and they will tell you the same. (Of course, they will have much more insight into the subject.)
 
-"I called (insert name here)’s parents, and spoke to the children also. They said they saw nothing odd about the teacher." Of course they did not. And this sort of single-call-investigation does not cut it. We are talking about thousands of children. Paedophilia is everywhere, hidden in plain sight.
+"I called (insert name here)’s parents, and spoke to the children also. They said they saw nothing odd about the teacher." Of course they said that. This sort of single-call-investigation does not cut it. We are talking about thousands of children. Paedophilia is everywhere, hidden in plain sight.
 
 ## The legality
 
@@ -170,7 +170,7 @@ Most organisations do not want such issues to escape their walls. Organisations 
 
 When an organisation tries to protect such perpetrators, they become bolder and continue their harassment.
 
-Writing words like 'zero tolerance policy' does nothing to stop these predators. A policy that is on paper and not in action is dead policy.
+Writing words like 'zero tolerance policy' does nothing to stop these predators. A policy that is on paper but not in action is dead policy.
 
 ## The way forward
 
