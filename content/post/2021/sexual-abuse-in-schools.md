@@ -33,7 +33,7 @@ On that note, this specific allegation of sexual abuse is against Mr Rajagopala
 
 What surprised me was one of the alleged messages by a student/alumnus about another teachers in another school of the same group:
 
-> And he used to deal with kids from age 10-14 than older ones. Imagine … What sucks is we didn't even know it was wrong at that point because abusive/toxic/patriarchal behaviour was something even the female teachers practised. Slapping, body shaming, slut shaming for having male friends was normalised.
+> And [another teacher] used to deal with kids from age 10-14 than older ones. Imagine … What sucks is we didn't even know it was wrong at that point because abusive/toxic/patriarchal behaviour was something even the female teachers practised. Slapping, body shaming, slut shaming for having male friends was normalised.
 
 I suppose this person is talking about non-sexual abusive behaviour when they say they did not know such an act was wrong. Because my sister---when she was in the first grade---learnt about "good touch and bad touch" from the school. While this does not absolve the school of its responsibilities, saying that the students _did not know_ what was wrong seems odd.
 
