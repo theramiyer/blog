@@ -11,7 +11,7 @@ Over 1000 words. Go, get yourself a cup of coffee first.
 
 Recently, my friend, Gazala, put up a picture on Instagram—a picture of her Kindle with the screen showing the lock image—the slugs of a typewriter—expressing her desire to get a typewriter for herself, someday.
 
-{{< instagram BEtnVbLt_oR >}}
+{{< figure src="https://blogfiles.ramiyer.me/2018/images/typewriter.jpg" alt="Caption: Out of all the amazing lockscreens kindle has ,this is my most favorite! ! Some day , some day in life I am surely gonna own a fancyass typewriter, until then it's this screen I'd hold on to" caption="Caption: Out of all the amazing lockscreens kindle has ,this is my most favorite! ! Some day , some day in life I am surely gonna own a fancyass typewriter, until then it's this screen I'd hold on to" >}}
 
 And the arse that I am, I posted a comment, ‘As a typographer, I consider a typewriter as the killer of typography. :p’
 

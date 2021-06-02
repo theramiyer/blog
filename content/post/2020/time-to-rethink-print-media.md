@@ -17,7 +17,7 @@ Regardless, for most of us who do not like all the masala and the drama, but car
 
 We temporarily paused our subscription of the print edition in March, in view of the pandemic situation, because some of the members of my family are in the "risk category", so to speak, despite claims that newspapers, in general, are safe[^cd6ef6b4]. I continue with the digital subscription, though. But yesterday, someone shared a couple of pictures in one of the groups I am part of. And that deeply disturbed me, threw me into denial for a while, and then went on to almost causing cognitive dissonance:
 
-{{< instagram CF1FXFBAbAx >}}
+{{< figure src="https://blogfiles.ramiyer.me/2020/images/prc-day-ad.jpg" alt="National Day of PRC advertisement on The Hindu, pixelated on purpose." caption="National Day of PRC advertisement on The Hindu, pixelated on purpose." >}}
 
 [^cd6ef6b4]: [Coronavirus | How safe are newspapers, {{< smallcaps WHO >}} clarifies](https://www.thehindu.com/news/national/how-safe-are-newspapers-who-clarifies/article31156164.ece)
 
