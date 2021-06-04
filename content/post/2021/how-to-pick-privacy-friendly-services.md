@@ -111,6 +111,12 @@ Signal is still great, because it does not store your data on its servers. It ai
 
 The Firefox browser is no stranger. Sure, it does not have the slick user interface that Google Chrome does, but is _one helluva workhorse_. Firefox is fast, fully open source (and community-driven), and in my view, much more transparent to users and privacy-focused than other browsers. Plus, from the web typography standpoint, Firefox is better.
 
+---
+
+Update (04/01/2021): Firefox gets a design overhaul. Looks good!
+
+---
+
 ### Cryptee
 
 Journalling is a private activity. Your journal could reveal a lot about you. And online journalling services could potentially leverage all that data for targeting and advertisement.
