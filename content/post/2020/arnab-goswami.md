@@ -8,11 +8,11 @@ tags:
 - democracy
 ---
 
-A couple of days ago, my aunts and uncles had come over. They are all hardcore supporters of the _Bharatiya Janata Party_ ({{< abbr BJP >}}); they feel that the party is "the true saviour of Hinduism", a religion that the "secular" parties of our country have disregarded---or worse, degraded. Whether Hinduism as a religion needs anybody's protection or not is your personal opinion and mine as much as theirs.
+A couple of days ago, my aunts and uncles had come over. They are all hardcore supporters of the _Bharatiya Janata Party_ (BJP); they feel that the party is "the true saviour of Hinduism", a religion that the "secular" parties of our country have disregarded---or worse, degraded. Whether Hinduism as a religion needs anybody's protection or not is your personal opinion and mine as much as theirs.
 
 These discussions suffer the one-thing-led-to-another syndrome, and in general, these discussions have a pattern. Within minutes, the point of highlight was Mr Arnab Goswami---and his recent arrest.
 
-As you would expect from every {{< abbr BJP >}} loyalist, they flared up against the _Shiv Sena_, calling them "goons" and what not.
+As you would expect from every BJP loyalist, they flared up against the _Shiv Sena_, calling them "goons" and what not.
 
 My brother and I have a general disregard for politicians, but love to play the Devil's Advocate. We listened with patience while they went on about how the police had arrested him for no reason despite giving a statement in the court that they could not find any evidence of any foul play in the death of Mr Anvay Naik.
 
@@ -38,13 +38,13 @@ When my people felt their star anchor attacked, they pounced on us with instance
 
 We had to break it down.
 
-Republic TV and Republic Bharat, both of which Goswami runs, top the respective {{< abbr TRP >}} charts[^trp-charts], and by a long distance---which is the crux. Whether you think the methods that {{< abbr BARC >}} uses are truly indicative of viewership or not, or whether Republic did involve in meddling with the {{< abbr TRP >}} data, there can be no doubt that millions more tune into Republic (and Republic Bharat) during prime time, than other channels.
+Republic TV and Republic Bharat, both of which Goswami runs, top the respective TRP charts[^trp-charts], and by a long distance---which is the crux. Whether you think the methods that BARC uses are truly indicative of viewership or not, or whether Republic did involve in meddling with the TRP data, there can be no doubt that millions more tune into Republic (and Republic Bharat) during prime time, than other channels.
 
 [^trp-charts]: A sample report, and is that why they ran into trouble?: [Republic TV hits back at India Today & Times Now over ratings surge](https://www.bizasialive.com/republic-tv-hits-back-at-india-today-times-now-over-ratings-surge/)
 
-When Goswami says what he says, millions hear it. The majority of them---also in millions---agree with it. In a democratic republic (notice the lowercase 'r'---why do I have a smirk across my face?), that number matters. Had Goswami's channel bottomed the {{< abbr TRP >}} list, it may not have mattered (like [my YouTube channel](//youtube.com/ramiyer)).
+When Goswami says what he says, millions hear it. The majority of them---also in millions---agree with it. In a democratic republic (notice the lowercase 'r'---why do I have a smirk across my face?), that number matters. Had Goswami's channel bottomed the TRP list, it may not have mattered (like [my YouTube channel](//youtube.com/ramiyer)).
 
-Such channels as those of his, have the loudspeaker effect (ahem). And the more you publish the {{< abbr TRP >}} numbers, the louder the effect is, because of conformity bias[^confirmation-bias] (do not confuse it with confirmation bias---cough). And so, what Goswami says, matters. If he understands journalistic principles and ethics and exercises them---thinking beyond his personal gain---it will have a profound effect on not merely journalism, but also on the well-being of people. Perhaps a journalist can have bias, but towards what?
+Such channels as those of his, have the loudspeaker effect (ahem). And the more you publish the TRP numbers, the louder the effect is, because of conformity bias[^confirmation-bias] (do not confuse it with confirmation bias---cough). And so, what Goswami says, matters. If he understands journalistic principles and ethics and exercises them---thinking beyond his personal gain---it will have a profound effect on not merely journalism, but also on the well-being of people. Perhaps a journalist can have bias, but towards what?
 
 [^confirmation-bias]: [Conformity Bias: The Profound power of Group](https://www.mokshamantra.com/conformity-bias-the-profound-power-of-group/)
 

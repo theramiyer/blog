@@ -65,7 +65,7 @@ Regardless, though, how much is what matters here. Like Rachel Carson said:
 
 > The ultimate answer is to use less toxic chemicals so that the public hazard from their misuse is greatly reduced.
 
-Our governments regulate the amount of dangerous chemicals that go into our food. In India, we have {{< abbr FSSAI >}} doing this. While organic and conventional food have pesticide residues, they are well below the standards set. Bioaccumulating pesticides get special attention, because these, over time, can cause serious illness by depositing themselves in our bodies.
+Our governments regulate the amount of dangerous chemicals that go into our food. In India, we have FSSAI doing this. While organic and conventional food have pesticide residues, they are well below the standards set. Bioaccumulating pesticides get special attention, because these, over time, can cause serious illness by depositing themselves in our bodies.
 
 Regardless, the levels found in food are a fraction of the upper safety limits. In other words, we do not have to worry much about them. Toxicity depends on concentration.
 

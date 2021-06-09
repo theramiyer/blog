@@ -10,27 +10,27 @@ Unlock 1.0 sounded like a great move. No doubt, a necessary move. The lockdown 
 
 But the truth still is that the curve did not flatten in its real sense; of course, the exponential growth slowed compared to what it would have been had there been no lockdown. I would still call it a partial win. But as was evident, we could not sustain that way. We decided to unlock, and lock those specific clusters that could be responsible for the spread. Instead of locking the potential targets, we lock the sources. Again, no doubt, a better approach.
 
-But here is the problem: {{< abbr "COVID-19" >}} is often silent.
+But here is the problem: COVID-19 is often silent.
 
 {{< toc >}}
 
 ## Understanding the pathogen
 
-A coronavirus causes {{< abbr "COVID-19" >}}. And a coronavirus is a virus. Stating the obvious, am I? Humour me for a minute.
+A coronavirus causes COVID-19. And a coronavirus is a virus. Stating the obvious, am I? Humour me for a minute.
 
-A virus is not a living being, but a bacteria is. A bacteria is much bigger than a virus. An antibiotic can kill bacteria; it cannot kill a virus. But why are we into "differentiate between a bacteria and virus"? Because there are people out there, claiming that a bacteria caused death by {{< abbr "COVID-19" >}}[^800b055a]; that the doctors could have prevented the deaths by prescribing antibiotics.
+A virus is not a living being, but a bacteria is. A bacteria is much bigger than a virus. An antibiotic can kill bacteria; it cannot kill a virus. But why are we into "differentiate between a bacteria and virus"? Because there are people out there, claiming that a bacteria caused death by COVID-19[^800b055a]; that the doctors could have prevented the deaths by prescribing antibiotics.
 
 ### Transmission
 
 A virus is a non-living thing. A virus, in a sense, is a complex chemical. It attaches to a cell and corrupts it. It naturally follows that a virus cannot move on its own---it has no limbs, no wings. This is where carriers come into play. The technical name for these carriers is 'vectors'. In case of dengue or malaria, the vector is a mosquito. The virus infects a human, a mosquito bites an infected human. The human's blood has the virus, which the mosquito carries to another human, and ends up transferring it to him when biting. The second human is now infected.
 
-In case of dengue, the mosquito is the carrier, and the human is the victim. In case of {{< abbr "COVID-19" >}}, both, the carrier and the victim are human.
+In case of dengue, the mosquito is the carrier, and the human is the victim. In case of COVID-19, both, the carrier and the victim are human.
 
 ### Viability
 
 We say a virus is viable when the virus is capable of infecting, while unattached to a host. Viruses cannot "live". But the material that can infect organisms remains active for a period of time. After this time, the virus disintegrates, and can no more cause any harm. Think of this as its shelf life.
 
-This period is different for different viruses, in different environments. The Smallpox virus can remain viable for years, while the {{< abbr "SARS" >}}-CoV-2 breaks down on a copper surface in hours, while it can stay afloat in the air for up to three hours[^4dd1918c] and continue to be active on plastic surfaces for up to three days.
+This period is different for different viruses, in different environments. The Smallpox virus can remain viable for years, while the SARS-CoV-2 breaks down on a copper surface in hours, while it can stay afloat in the air for up to three hours[^4dd1918c] and continue to be active on plastic surfaces for up to three days.
 
 ### Medium
 
@@ -46,19 +46,19 @@ Are you? Did you know that you touch your face about 370 times in a day[^4fd9043
 
 ### Dosage
 
-The chances of getting {{< abbr "COVID-19" >}} appears dosage-dependent[^d524e45e]. This means that your chances of becoming sick with the infection depends on how much virus has entered your body. If you get a low dose, your chances of infection are low. But the point of a needle could have a billion viruses---they are that small.
+The chances of getting COVID-19 appears dosage-dependent[^d524e45e]. This means that your chances of becoming sick with the infection depends on how much virus has entered your body. If you get a low dose, your chances of infection are low. But the point of a needle could have a billion viruses---they are that small.
 
 ### Incubation
 
 Attention.
 
-Incubation period is the time between the point you contract the virus and the time the symptoms start to appear. This period in case of a {{< abbr "SARS" >}}-CoV-2 infection is high. You do not know you have the disease until symptoms start to appear. This is why they say, the disease is _silent_.
+Incubation period is the time between the point you contract the virus and the time the symptoms start to appear. This period in case of a SARS-CoV-2 infection is high. You do not know you have the disease until symptoms start to appear. This is why they say, the disease is _silent_.
 
 But all that while, you could be expelling the virus while you talk, while you breathe, and while you laugh[^5f6519aa].
 
 ### Immunity
 
-Those who recover from the {{< abbr "SARS" >}}-CoV-2 infection, may show short-term immunity to re-infections. This is because, according to a study, one of the types of antibodies that fight the infection remained in the system for a short period. The levels of these antibodies dropped in two to three months[^f5814369]. The levels of another antibody, one which attacks the spike protein in the virus did not reduce, which could point at long-term immunity.
+Those who recover from the SARS-CoV-2 infection, may show short-term immunity to re-infections. This is because, according to a study, one of the types of antibodies that fight the infection remained in the system for a short period. The levels of these antibodies dropped in two to three months[^f5814369]. The levels of another antibody, one which attacks the spike protein in the virus did not reduce, which could point at long-term immunity.
 
 But again, this does not mean much at the moment; this is a starting point. We have not had the virus for long enough to know about life-long immunity. The working of the human immunity is too complex to make such blanket claims based on the little evidence we have at the moment.
 
@@ -82,7 +82,7 @@ Of course, we are a billion people; we make at least a thousand claims. Answerin
 
 ### But I am 25, I am not at risk
 
-People of all ages have contracted {{< abbr "COVID-19" >}}. Stop listening those who tell you otherwise.
+People of all ages have contracted COVID-19. Stop listening those who tell you otherwise.
 
 The human immune system is immature in children, and worn out in the aged. Statistical observation is that the mortality rate in those under the age of 40 is less than 0.5%[^59da5d72]. But note that this talks nothing about the rate of infection---it talks about mortality. Which means, if you are under 40, your likelihood of dying of the disease is less than 0.5%. But you are not naturally immune to the disease; you become immune after you contract it and defeat it.
 
@@ -103,7 +103,7 @@ Misinformed, blanket statements, based on anecdotal evidence are best avoided.
 
 ### Taking vitamin C to prevent the disease
 
-According to a study, vitamin C helps regulate your immune system when given along with corticosteroids, when treating overwhelming infections[^f0d1527c]. This has no relation to the specific case of {{< abbr "COVID-19" >}}. As of June 27, 2020, no evidence exists to suggest that vitamin C helps in treatment or prevention of {{< abbr "COVID-19" >}}[^1fa7f00b].
+According to a study, vitamin C helps regulate your immune system when given along with corticosteroids, when treating overwhelming infections[^f0d1527c]. This has no relation to the specific case of COVID-19. As of June 27, 2020, no evidence exists to suggest that vitamin C helps in treatment or prevention of COVID-19[^1fa7f00b].
 
 Also remember that taking too much vitamin C can lead to kidney stones.
 
@@ -112,7 +112,7 @@ Also remember that taking too much vitamin C can lead to kidney stones.
 Vitamin D does not help cure the disease, but it prevents worsening of the situation in two ways[^1fa7f00b]:
 
 1. Makes your immune system healthy.
-2. Prevents the immune system from overreacting and jamming the lungs with fluid---this fluid build-up is a major cause for death in case of {{< abbr "COVID-19" >}}.
+2. Prevents the immune system from overreacting and jamming the lungs with fluid---this fluid build-up is a major cause for death in case of COVID-19.
 
 You do not need supplements; standing in the morning sun for about fifteen minutes should suffice.
 
@@ -128,7 +128,7 @@ Hydroxychloroquine and azithromycin?
 
 Under clinical conditions. Neither of these is going to prevent the disease, and you should not self-medicate. The claims about these are either speculative, or the experts are questioning the methods of the studies. In either case, we have no evidence to support any of these claims[^1fa7f00b]. Your doctor knows what is best for you.
 
-For more information about these, refer to the [Coronavirus Resource Center](https://www.health.harvard.edu/diseases-and-conditions/coronavirus-resource-center) of the Harvard Medical School, and the [Mythbuster](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters) series by the {{< abbr "WHO" >}}.
+For more information about these, refer to the [Coronavirus Resource Center](https://www.health.harvard.edu/diseases-and-conditions/coronavirus-resource-center) of the Harvard Medical School, and the [Mythbuster](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters) series by the WHO.
 
 ## How to deal with the situation
 
@@ -163,7 +163,7 @@ Some may see this as an unpopular idea, but by calling your domestic help home, 
 
 At the same time, understand that this is probably their sole means of livelihood. Don't stop paying them. We have asked our domestic help not to come for work, but haven't stopped their pay.
 
-Yes, managing work and household chores is hard. But managing a {{< abbr "COVID" >}}-19 infection is harder.
+Yes, managing work and household chores is hard. But managing a COVID-19 infection is harder.
 
 ### Meeting people
 
@@ -221,11 +221,11 @@ Following these steps will reduce the chances of your contracting the infection.
 
 This is the new normal. We adapt.
 
-[^800b055a]: Fake news: [How Italian doctors disobeyed {{< abbr "WHO" >}} and discovered the secrets of coronavirus](https://web.archive.org/web/20200523172503/https://medium.com/@efogator2019/how-italian-doctors-disobeyed-who-and-discovered-the-secrets-of-coronavirus-9eeb7e0b4310) (archived before page shutdown)
+[^800b055a]: Fake news: [How Italian doctors disobeyed WHO and discovered the secrets of coronavirus](https://web.archive.org/web/20200523172503/https://medium.com/@efogator2019/how-italian-doctors-disobeyed-who-and-discovered-the-secrets-of-coronavirus-9eeb7e0b4310) (archived before page shutdown)
 
-[^4dd1918c]: [Aerosol and Surface Stability of {{< abbr "SARS" >}}-CoV-2 as Compared with {{< abbr "SARS" >}}-CoV-1 (New England Journal of Medicine, March 17, 2020)](https://www.nejm.org/doi/full/10.1056/nejmc2004973)
+[^4dd1918c]: [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1 (New England Journal of Medicine, March 17, 2020)](https://www.nejm.org/doi/full/10.1056/nejmc2004973)
 
-[^5f6519aa]: [{{< abbr "COVID" >}}-19 basics (Harvard Medical School)](https://www.health.harvard.edu/diseases-and-conditions/covid-19-basics)
+[^5f6519aa]: [COVID-19 basics (Harvard Medical School)](https://www.health.harvard.edu/diseases-and-conditions/covid-19-basics)
 
 [^93e7b169]: [Number of critical Covid-19 patients has halved across the country, shows data (Hindustan Times, as of May 11, 2020)](https://www.hindustantimes.com/india-news/number-of-critical-covid-19-patients-has-halved-across-the-country-shows-data/story-kucHQKQkI1TBc0sZO0SleI.html)
 
@@ -237,6 +237,6 @@ This is the new normal. We adapt.
 
 [^f0d1527c]: [Hydrocortisone, Vitamin C, and Thiamine for the Treatment of Severe Sepsis and Septic Shock](https://journal.chestnet.org/article/S0012-3692(16)62564-3/fulltext)
 
-[^1fa7f00b]: [Treatments for {{< abbr "COVID" >}}-19 (Harvard Medical School)](https://www.health.harvard.edu/diseases-and-conditions/treatments-for-covid-19)
+[^1fa7f00b]: [Treatments for COVID-19 (Harvard Medical School)](https://www.health.harvard.edu/diseases-and-conditions/treatments-for-covid-19)
 
 [^d524e45e]: [It’s Not Whether You Were Exposed to the Virus. It’s How Much. (The New York Times, May 29, 2020)](https://www.nytimes.com/2020/05/29/health/coronavirus-transmission-dose.html)

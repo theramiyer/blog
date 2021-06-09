@@ -24,9 +24,9 @@ The message reads (sic):
 >
 > Unfortunately you don’t know if you’ll be able to make it that far.
 >
-> You have been trained in {{< abbr "CPR" >}}, but the guy who taught the course did not tell you how to perform it on yourself.
+> You have been trained in CPR, but the guy who taught the course did not tell you how to perform it on yourself.
 >
-> {{< abbr "HOW TO SURVIVE A HEART ATTACK WHEN ALONE?" >}}  
+> HOW TO SURVIVE A HEART ATTACK WHEN ALONE?  
 > Since many people are alone when they suffer a heart attack without help, the person whose heart is beating improperly and who begins to feel faint, has only
 > about 10 seconds left before losing consciousness.
 >
@@ -47,7 +47,7 @@ The message reads (sic):
 >
 > Rather than sending jokes, please..contribute by forwarding this mail which can save a person’s life….
 >
-> If this message comes around you ……more than once…..please don’t get irritated……U need to be happy that you have many friends who care about you & being reminded of how to tackle….Heart attacks….{{< abbr "AGAIN" >}}…
+> If this message comes around you ……more than once…..please don’t get irritated……U need to be happy that you have many friends who care about you & being reminded of how to tackle….Heart attacks….AGAIN…
 >
 > From:  
 > DR.N Siva  
@@ -57,7 +57,7 @@ But, how much of this is true? How much of what is true is valid in 2019? So, I 
 
 {{< toc >}}
 
-Before we go any further, a legal disclaimer: Understand that I am {{< abbr "NOT" >}} a medical professional. This post is {{< abbr "NOT" >}} medical advice, and comes without warranties (in other words, you are on your own). This is merely a post with general knowledge, and I am not responsible for the good or the bad that happens to you after reading this post and/or following what it says. The same applies to this arbitrary Dr. N. Siva as well---you do not know who he is, or whether he even exists. Treat these things with a grain of salt. Sucks, I know, but nothing is a substitute for a medical professional.
+Before we go any further, a legal disclaimer: Understand that I am NOT a medical professional. This post is NOT medical advice, and comes without warranties (in other words, you are on your own). This is merely a post with general knowledge, and I am not responsible for the good or the bad that happens to you after reading this post and/or following what it says. The same applies to this arbitrary Dr. N. Siva as well---you do not know who he is, or whether he even exists. Treat these things with a grain of salt. Sucks, I know, but nothing is a substitute for a medical professional.
 
 ## What causes a heart attack
 
@@ -84,7 +84,7 @@ It's also possible that you experienced five of these and your doctor, after run
 
 ## What to do when you get these symptoms
 
-Two sentences: Do {{< abbr "NOT" >}} ignore them. Get medical help.
+Two sentences: Do NOT ignore them. Get medical help.
 
 Understand that the best chance of your survival is under medical care. A heart attack is serious, and could be life-threatening.
 
@@ -104,21 +104,21 @@ But there is something called first aid, and these are the steps:
 
 When I read the WhatsApp forward, only a couple of things stuck out as odd (apart from one _major_ flaw). But applying further thought to it brought more to light. Here it is:
 
-First of all, a {{< abbr "CPR" >}} is {{< abbr "NOT" >}} done in case of a heart attack; a {{< abbr "CPR" >}} is for cardiac arrests. And yes, the two are different. The former can lead to the latter, but {{< abbr "CPR" >}} is not a treatment for a heart attack.
+First of all, a CPR is NOT done in case of a heart attack; a CPR is for cardiac arrests. And yes, the two are different. The former can lead to the latter, but CPR is not a treatment for a heart attack.
 
-I repeat: {{< abbr "CPR" >}} is for cardiac arrests, not heart attacks.
+I repeat: CPR is for cardiac arrests, not heart attacks.
 
-I've received emergency response training in first aid (and evacuation and fire fighting). So, I know what I am talking about. And I know for fact that no cardiologist would ever suggest a self-{{< abbr "CPR" >}} for a heart attack. If you don't know what {{< abbr "ABC" >}} means in this context, you're automatically disqualified from handling any {{< abbr "CPR" >}}, let alone self-{{< abbr "CPR" >}}. Is {{< abbr "ABC" >}} some "classified" laypeople first-aider term or something? No. The point is that if you didn't know the first thing about swimming, you wouldn't jump into the ocean to rescue someone drowning in it.
+I've received emergency response training in first aid (and evacuation and fire fighting). So, I know what I am talking about. And I know for fact that no cardiologist would ever suggest a self-CPR for a heart attack. If you don't know what ABC means in this context, you're automatically disqualified from handling any CPR, let alone self-CPR. Is ABC some "classified" laypeople first-aider term or something? No. The point is that if you didn't know the first thing about swimming, you wouldn't jump into the ocean to rescue someone drowning in it.
 
-Now, notice something of importance that the message says: "You have been trained in {{< abbr "CPR" >}}, but the guy who taught the course did not tell you how to perform it on yourself." Notice, 'You have been trained in {{< abbr "CPR" >}}'. This must be understood as, 'If you're not trained in {{< abbr "CPR" >}}, you should not do this.' C{{< abbr "PR" >}} isn't as easy as they show in films; it must be handled with much more seriousness. And it's taxing at some level. But if you asked me if I'd give myself a {{< abbr "CPR" >}} of this kind because I'm trained in {{< abbr "CPR" >}}, no, not based on these instructions. Here is why:
+Now, notice something of importance that the message says: "You have been trained in CPR, but the guy who taught the course did not tell you how to perform it on yourself." Notice, 'You have been trained in CPR'. This must be understood as, 'If you're not trained in CPR, you should not do this.' CPR isn't as easy as they show in films; it must be handled with much more seriousness. And it's taxing at some level. But if you asked me if I'd give myself a CPR of this kind because I'm trained in CPR, no, not based on these instructions. Here is why:
 
-I'm healthy enough to be able to handle a trial run of self-{{< abbr "CPR" >}}, when I'm conscious, so, I tried doing it exactly as instructed in the message. I breathed in, deep, and then coughed as though I'm throwing out stuff from within my chest. I did it once. Twice. Thrice. Four times. Five. I was already panting. Six. Panting harder. Seven. Eight. Nine. Ten. Eleven. And I stopped. Checked my heart rate. And decided never to do this again.
+I'm healthy enough to be able to handle a trial run of self-CPR, when I'm conscious, so, I tried doing it exactly as instructed in the message. I breathed in, deep, and then coughed as though I'm throwing out stuff from within my chest. I did it once. Twice. Thrice. Four times. Five. I was already panting. Six. Panting harder. Seven. Eight. Nine. Ten. Eleven. And I stopped. Checked my heart rate. And decided never to do this again.
 
-Do not attempt self-{{< abbr "CPR" >}} when having a heart attack; without medical supervision, it could kill you. How?
+Do not attempt self-CPR when having a heart attack; without medical supervision, it could kill you. How?
 
-Your normal rate of breathing is roughly fifteen per minute. During a heart attack if you're feeling short of breath, I'd imagine that rate itself would be hard for you to maintain. Depending on how much pain you are in, you may or may not be able to breathe deep or cough "as when peoducing sputum from deep inside the chest". The {{< abbr "CPR" >}} procedure helps restore normal heart rhythm mainly because of the rhythm at which it is performed. And sometimes it may not, but could keep the victim's brain alive. This also means that the procedure is effective only in situations that pertain to the rhythm of the heart.
+Your normal rate of breathing is roughly fifteen per minute. During a heart attack if you're feeling short of breath, I'd imagine that rate itself would be hard for you to maintain. Depending on how much pain you are in, you may or may not be able to breathe deep or cough "as when peoducing sputum from deep inside the chest". The CPR procedure helps restore normal heart rhythm mainly because of the rhythm at which it is performed. And sometimes it may not, but could keep the victim's brain alive. This also means that the procedure is effective only in situations that pertain to the rhythm of the heart.
 
-Yes, consciousness depends on the blood flow, which in turn depends on the rhythm of the heart. But, in case of a heart attack when your heart is already not receiving enough oxygen and is probably finding it difficult to maintain a normal rhythm, do you want to worsen the situation with arrhythmia by misfiring, and possibly die because of it? The instructions talk nothing about the rhythm! Or having you check your heart rate, blood pressure or any of your vitals _before_ performing a self-{{< abbr "CPR" >}}. It says "until help arrives or the heart is felt to be beating normally again". But it doesn't define "normal" here---normal rate, normal rhythm, normal pressure? Normal what? All three? What if your heart begins to fibrillate? Or you exert too much and cause more damage to your heart?
+Yes, consciousness depends on the blood flow, which in turn depends on the rhythm of the heart. But, in case of a heart attack when your heart is already not receiving enough oxygen and is probably finding it difficult to maintain a normal rhythm, do you want to worsen the situation with arrhythmia by misfiring, and possibly die because of it? The instructions talk nothing about the rhythm! Or having you check your heart rate, blood pressure or any of your vitals _before_ performing a self-CPR. It says "until help arrives or the heart is felt to be beating normally again". But it doesn't define "normal" here---normal rate, normal rhythm, normal pressure? Normal what? All three? What if your heart begins to fibrillate? Or you exert too much and cause more damage to your heart?
 
 It also says, "A cardiologist says If everyone who gets this mail kindly send it to 10 people, you can bet that we’ll save at least one life." Not only is the cardiologist (or the validity of the claim of their saying this) unknown, one case might truly benefit out of thousands, but this might also end up killing thousands of those who would've survived if they'd only called and waited for medical help.
 
@@ -136,7 +136,7 @@ Calling for emergency services is a no-brainer. Calling for an ambulance is bett
 
 It's important that you're accurate and crisp on the call with emergency services. All they need is information, and that's all that's worth your effort.
 
-Crushed Aspirin under your tongue absorbs quickly because the area has a rich supply of blood. Absorption of swallowed Aspirin could take about forty minutes. If you are a cardiac patient, your cardiologist must have prescribed Aspirin (e.g. Ecosprin---even Disprin would do) and/or Atrovastatin (e.g. Ecosprin {{< abbr "AV" >}}). Avoiding water is also advised so that you don't choke and worsen the situation while you are probably finding it hard to breathe. Chewing the tablet increases the surface area making absorption significantly faster. Despite this, if you choose to drink water, that should be about two tablespoons.
+Crushed Aspirin under your tongue absorbs quickly because the area has a rich supply of blood. Absorption of swallowed Aspirin could take about forty minutes. If you are a cardiac patient, your cardiologist must have prescribed Aspirin (e.g. Ecosprin---even Disprin would do) and/or Atrovastatin (e.g. Ecosprin AV). Avoiding water is also advised so that you don't choke and worsen the situation while you are probably finding it hard to breathe. Chewing the tablet increases the surface area making absorption significantly faster. Despite this, if you choose to drink water, that should be about two tablespoons.
 
 Medical professionals working on you must know that you've taken the Aspirin. They'll treat you accordingly. Aspirin could interfere with some medicines, and the medics could base their prescriptions on whether you've taken the Aspirin.
 

@@ -58,7 +58,7 @@ During partition and the drafting of the Constitution, the Founding Fathers felt
 
 This meant that at the grass roots level, some of the subjects would be better handled by the states, rather than the Centre. Had politics not interfered, the states may have had more powers than they do today. Not to mention the 42nd Amendment to the Constitution, which transferred subjects the other way around: from the State List to the Concurrent List.
 
-Over time, the governments at the Centre have worked towards transferring more and more powers to the Concurrent List. This indicates an obsession for homogeneity and centralisation, and in the literal sense, is disrespectful of the federal nature of our system. While that being good or bad is another debate, the attitude and the actions that followed, such as considering contributions to {{< abbr "PM CARES" >}} or {{< abbr PMNRF >}} as valid {{< abbr CSR >}}, while not considering contributions made to the state Chief Minister's Relief Funds as valid {{< abbr CSR >}}, has created resentment. While centralisation of tax through {{< abbr GST >}} was a good move for taxpayers, it has resulted in the states not getting their share of the taxes on time, to fund their activities.
+Over time, the governments at the Centre have worked towards transferring more and more powers to the Concurrent List. This indicates an obsession for homogeneity and centralisation, and in the literal sense, is disrespectful of the federal nature of our system. While that being good or bad is another debate, the attitude and the actions that followed, such as considering contributions to PM CARES or PMNRF as valid CSR, while not considering contributions made to the state Chief Minister's Relief Funds as valid CSR, has created resentment. While centralisation of tax through GST was a good move for taxpayers, it has resulted in the states not getting their share of the taxes on time, to fund their activities.
 
 {{< youtube lFreJdJRs_Y >}}
 
@@ -77,7 +77,7 @@ Somebody (Shashi Tharoor? Ramchandra Guha?) said, the reason that the protests a
 
 [^f9e5ede3]: Amid Opposition boycott, Rajya Sabha passes seven bills ([The Hindu](https://www.thehindu.com/news/national/amid-opposition-boycott-rs-passes-seven-bills/article32670933.ece))
 
-From anti-{{< abbr CAA >}} protests to any issue of national importance that you can think of, the Opposition has limited itself to Twitter. Or is all this a little too convenient? "The Opposition does its bit to make this the most efficient government of all time."
+From anti-CAA protests to any issue of national importance that you can think of, the Opposition has limited itself to Twitter. Or is all this a little too convenient? "The Opposition does its bit to make this the most efficient government of all time."
 
 ## Elected autocracy and democracy
 

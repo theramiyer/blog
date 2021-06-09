@@ -34,7 +34,7 @@ Believe it or not, not only are phishing scams everywhere, but even those who ar
 A message in a group chat that I am member of, said that [Nidhi Razdan's Harvard job offer was a sophisticated phishing attack](https://www.ndtv.com/blog/how-i-fell-for-a-phishing-attack-my-story-by-nidhi-razdan-2353395). One of the members of the group commented, 'What kind of senior journalist falls for this?' An opinion piece in a magazine even [called her "gullible"](https://www.outlookindia.com/website/story/opinion-nidhi-razdan-phishing-and-three-hard-lessons/370865).
 
 > But these scams succeed because they look so real.  
-> ---Nidhi Razdan (former Executive Editor at {{< abbr NDTV >}})
+> ---Nidhi Razdan (former Executive Editor at NDTV)
 
 The real world works differently. Anybody could be a victim of such scams---no matter how learned or informed. I do not know much about Razdan, nor do I watch her shows. I cannot judge how good or bad a journalist she is, but having worked with mail exchange for long enough, I can tell you that her falling victim to this scam *does not* make her stupid.
 
@@ -91,7 +91,7 @@ Disable auto-download of remote content and manually download them whenever requ
 
 ### The “via” part
 
-In the screenshot above, the email has come from _Supr Daily_ via onedirect.in. This may be legitimate, and in most cases, your email provider will alert you if it detects any foul play. Most reputed email providers can read {{< abbr SPF >}} records of the domain sending the email, and decide whether this “via” is legitimate or not. Getting into what {{< abbr SPF >}} records are would make this too technical for common people.
+In the screenshot above, the email has come from _Supr Daily_ via onedirect.in. This may be legitimate, and in most cases, your email provider will alert you if it detects any foul play. Most reputed email providers can read SPF records of the domain sending the email, and decide whether this “via” is legitimate or not. Getting into what SPF records are would make this too technical for common people.
 
 In any case, handle any sensitive email with caution.
 
@@ -113,7 +113,7 @@ Of late, the simplicity of logon pages that the likes of Microsoft and Google us
 
 ### Watch the urgency
 
-Most phishing attacks show a sense of urgency: "Do this within the next 16 hours". When the stakes are high, you do not stop to think or research; instead, you dive right in. I have seen employees fall victims to what they think is an email from the {{< abbr CEO >}} asking for gift cards bought for the season, or a supplier saying that their account has changed and that they did not receive the last payment, asking the team to transfer the money "by {{< abbr EOD >}}" to the new account to avoid legal issues.
+Most phishing attacks show a sense of urgency: "Do this within the next 16 hours". When the stakes are high, you do not stop to think or research; instead, you dive right in. I have seen employees fall victims to what they think is an email from the CEO asking for gift cards bought for the season, or a supplier saying that their account has changed and that they did not receive the last payment, asking the team to transfer the money "by EOD" to the new account to avoid legal issues.
 
 As a side, once an executive from Purchase contacted us saying that she found the tone used in the email a little unusual, and asked us to check the authenticity of the email (a phishing attempt, indeed, using domain spoofing). She had spotted this using her intuition. We even sent technical recommendations to the supplier to prevent this in the future.
 
@@ -125,7 +125,7 @@ For example, one of the customers of a client I worked for, pointed out that no 
 
 ### Do not open attachments
 
-Sometimes, an attack bundled into an email may contain attachments; something like `Invoice-2301993f003.PDF.exe`. Note that this is an {{< abbr EXE >}} file, not {{< abbr PDF >}}. In other cases, attachments may indeed be {{< abbr PDF >}} or {{< abbr HTML >}} files, but contain malicious code in them. There have been instances of [malicious code bundled into even {{< abbr JPEG >}} files](<https://www.wired.com/2004/09/malicious-code-hides-in-jpegs/>). As a rule of thumb, do not open attachments that come in unsolicited emails.
+Sometimes, an attack bundled into an email may contain attachments; something like `Invoice-2301993f003.PDF.exe`. Note that this is an EXE file, not PDF. In other cases, attachments may indeed be PDF or HTML files, but contain malicious code in them. There have been instances of [malicious code bundled into even JPEG files](<https://www.wired.com/2004/09/malicious-code-hides-in-jpegs/>). As a rule of thumb, do not open attachments that come in unsolicited emails.
 
 Unsolicited
 : Not asked for
@@ -133,11 +133,11 @@ Unsolicited
 
 ### Government emails
 
-Some phishing emails seem to come from government agencies, asking for tax information, or giving a link to file tax returns. But such emails come either from public email services (Gmail, Outlook, Yahoo) or non-government domains. As such, legitimate emails from Indian Central or State government agencies use a `gov.in` or an `nic.in` address. That said, some of our government offices do---unwittingly---use a public email address sometimes. Be careful with such emails. Know that you will have enough time to act upon any government notification (other than {{< abbr "8 PM" >}} speeches), such as filing tax returns. No government organisation in India works with a notice of minutes or hours.
+Some phishing emails seem to come from government agencies, asking for tax information, or giving a link to file tax returns. But such emails come either from public email services (Gmail, Outlook, Yahoo) or non-government domains. As such, legitimate emails from Indian Central or State government agencies use a `gov.in` or an `nic.in` address. That said, some of our government offices do---unwittingly---use a public email address sometimes. Be careful with such emails. Know that you will have enough time to act upon any government notification (other than 8 PM speeches), such as filing tax returns. No government organisation in India works with a notice of minutes or hours.
 
 ### Padlock is not a sure shot
 
-I know, it sucks. {{< abbr HTTPS >}} (or {{< abbr HTTP >}}, secure) implements a secure connection using a certificate, prompting the browser to show the padlock icon. But a padlock icon by itself merely means, 'This page encrypts content sent to the server.' Such certificates are free, and everyone (including scammers) can get these. These do not verify the _person_ or the _organisation_ that owns the domain or the site. The certificates that the likes of Internet banking sites use, though, are of a different class; they are expensive, and the issuers verify the _organisation_ that they issue these to.
+I know, it sucks. HTTPS (or HTTP, secure) implements a secure connection using a certificate, prompting the browser to show the padlock icon. But a padlock icon by itself merely means, 'This page encrypts content sent to the server.' Such certificates are free, and everyone (including scammers) can get these. These do not verify the _person_ or the _organisation_ that owns the domain or the site. The certificates that the likes of Internet banking sites use, though, are of a different class; they are expensive, and the issuers verify the _organisation_ that they issue these to.
 
 In short, do not let the padlock fool you. A padlock is not a testament to the legitimacy of the domain.
 

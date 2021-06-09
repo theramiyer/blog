@@ -15,7 +15,7 @@ tags:
 title: 'Kashmir and Article 370: Part Two'
 ---
 
-This is the second part of the three-part series on the _Jammu and Kashmir Reorganisation Act, 2019_. If you came here directly, this post alone will not do justice to the situation. [Go back and read Part One.]({{< ref "kashmir-and-article-370" >}}) Reading the series partially will make you judgemental with limited knowledge. This article is available as a [typeset printable {{< abbr "PDF" >}}](https://www.scribd.com/document/422074646/Kashmir-and-Article-370) as well.
+This is the second part of the three-part series on the _Jammu and Kashmir Reorganisation Act, 2019_. If you came here directly, this post alone will not do justice to the situation. [Go back and read Part One.]({{< ref "kashmir-and-article-370" >}}) Reading the series partially will make you judgemental with limited knowledge. This article is available as a [typeset printable PDF](https://www.scribd.com/document/422074646/Kashmir-and-Article-370) as well.
 
 This post talks about the current situation in Jammu and Kashmir. Here are the topics:
 
@@ -45,7 +45,7 @@ The Constituent Assembly of Jammu and Kashmir began forming the Constitution of 
 
 We are a federal parliamentary democratic republic. (A mouthful to say.) In a _federal_ democratic system, each region has its state government, which governs the region, in its own way, by listening to its people. This is the role of the state governments in our country. The central government runs the country as a whole, while the state governments run their respective states. Each state has its governor, who is part of the central government.
 
-This is the reason we have two elections: {{< abbr "MLA" >}} and {{< abbr "MP" >}} elections. The state government has a Legislative Assembly. The {{< abbr "MLA" >}}, or the Member of the Legislative Assembly, is part of the state government. The Members of the Legislative Assembly elect their chief, Chief Minister of the state.
+This is the reason we have two elections: MLA and MP elections. The state government has a Legislative Assembly. The MLA, or the Member of the Legislative Assembly, is part of the state government. The Members of the Legislative Assembly elect their chief, Chief Minister of the state.
 
 During the parliament (or more precisely, the Lok Sabha) elections, registered voters of every constituency elect their MP, (Member of Parliament). The head of these members is the Prime Minister.
 
@@ -59,7 +59,7 @@ Fact is, during the years of formation of the Constitution, three states formed 
 
 ## Political parties of Kashmir
 
-The political parties of Kashmir have their own agendas that keep changing unpredictably, as days pass. The stand taken by the {{< abbr "NDA" >}} government is that the autonomy of Jammu and Kashmir did not help the common men and women of the region. In fact, it worsened the situation for regions such as Leh and Kargil. While the members of the Ladakh region are majority Buddhist, they feel the Muslim majority regions have had the most attention from the politicians of the region. Those in the Ladakh region feel let down.
+The political parties of Kashmir have their own agendas that keep changing unpredictably, as days pass. The stand taken by the NDA government is that the autonomy of Jammu and Kashmir did not help the common men and women of the region. In fact, it worsened the situation for regions such as Leh and Kargil. While the members of the Ladakh region are majority Buddhist, they feel the Muslim majority regions have had the most attention from the politicians of the region. Those in the Ladakh region feel let down.
 
 Also, the political parties have aided the separatist groups as well, either directly or indirectly, on more than one occasion. Based on their agenda, the parties spin the narratives and incite people. But the people of Kashmir often feel that these parties are their hope, that these parties will deliver justice. And the parties have indeed, on occasion.
 

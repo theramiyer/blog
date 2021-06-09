@@ -8,7 +8,7 @@ tags:
 - whatsapp university
 ---
 
-One week is a long time sometimes. I have been waiting for some five days to make this post. On Tuesday that I received a message in one of the WhatsApp groups that I am part of, questioning the credibility of the {{< abbr WHO >}}.
+One week is a long time sometimes. I have been waiting for some five days to make this post. On Tuesday that I received a message in one of the WhatsApp groups that I am part of, questioning the credibility of the WHO.
 
 Speaking of WhatsApp, I gave a talk at work about being a drop-out of the WhatsApp University. Check out the redone home version of the video here if it interests you. If you are into satire, you might enjoy it. I even made some [literature for the university](https://blogfiles.ramiyer.me/2020/files/whatsapp-university.pdf).
 
@@ -16,15 +16,15 @@ Speaking of WhatsApp, I gave a talk at work about being a drop-out of the WhatsA
 
 Coming back to the message, it said:
 
-> Breaking News: The World Health Organization  has taken a complete U turn and said that (asymptomatic) Corona patients neither need to be isolated nor quarantined, nor social distance....and it cannot even transmit from one patient to another....see the video  (What the hell is {{< abbr WHO >}}'s credibility & what has the whole world been doing these 4-5 months!!)
+> Breaking News: The World Health Organization  has taken a complete U turn and said that (asymptomatic) Corona patients neither need to be isolated nor quarantined, nor social distance....and it cannot even transmit from one patient to another....see the video  (What the hell is WHO's credibility & what has the whole world been doing these 4-5 months!!)
 
-What a strong statement that was! Indeed, what is the credibility of the {{< abbr WHO >}}? After all, what has it done? They have been hand-in-glove with China[^1] as they spread the virus all around the world, right?
+What a strong statement that was! Indeed, what is the credibility of the WHO? After all, what has it done? They have been hand-in-glove with China[^1] as they spread the virus all around the world, right?
 
-[^1]: [Trump accuses {{< abbr WHO >}} of being a 'puppet of China'](https://www.bbc.com/news/health-52679329)
+[^1]: [Trump accuses WHO of being a 'puppet of China'](https://www.bbc.com/news/health-52679329)
 
 WhatsApp: the living example of _Chinese Whispers_.
 
-Did the {{< abbr WHO >}} say that the transmission from asymptomatic people is rare? A loaded question. Before we answer that, though, should we not try to understand what an asymptomatic case is? Can {{< abbr COVID-19 >}} be truly asymptomatic? Here is the short clip that circulates with the message:
+Did the WHO say that the transmission from asymptomatic people is rare? A loaded question. Before we answer that, though, should we not try to understand what an asymptomatic case is? Can COVID-19 be truly asymptomatic? Here is the short clip that circulates with the message:
 
 {{< youtube "NQTBlbx1Xjs?start=131&end=137" >}}
 
@@ -32,7 +32,7 @@ Talk about the beauty of a WhatsApp message. Context is unnecessary baggage. Now
 
 Let us talk science. Some sense.
 
-> {{< abbr "WARNING/disclaimer" >}}: Do not take this post as medical advice. I am not a medical or paramedical student or practitioner. I read. I collect information, ask questions and get queries answered. That is how I know what I know; not through formal education in physiology or training in medicine. What I have written here is true to the best of my knowledge, and the evidences as of date support these statements; my posts rest on the massive shoulders of the works of the scientific community. This post is for the purpose of _general knowledge and reasoning_, and should be treated as such.
+> WARNING/disclaimer: Do not take this post as medical advice. I am not a medical or paramedical student or practitioner. I read. I collect information, ask questions and get queries answered. That is how I know what I know; not through formal education in physiology or training in medicine. What I have written here is true to the best of my knowledge, and the evidences as of date support these statements; my posts rest on the massive shoulders of the works of the scientific community. This post is for the purpose of _general knowledge and reasoning_, and should be treated as such.
 
 {{< toc >}}
 
@@ -68,7 +68,7 @@ Now, let's add some context to the statement made by Dr Kerkhove.
 
 Science is not some magic. Science is a process. Unlike religion, which has ready answers to most questions (and God's will for the rest), science works on observation and evidence.
 
-Coronaviruses are not new. Our first discovery of them was generations ago[^first-cov]; {{< abbr SARS >}}-CoV-2 is a new _strain_. We have started with a lot of unknown, because we don't know the virus fully yet. Meaning, we know some members of its family, but we do not know this particular guy. As already mentioned by the community, {{< abbr SARS >}}-CoV-2 does exhibit characteristics of {{< abbr SARS >}}-CoV-1 (or rather, the {{< abbr SARS >}} virus). We know which direction to go, but we do not have the map, so to speak.
+Coronaviruses are not new. Our first discovery of them was generations ago[^first-cov]; SARS-CoV-2 is a new _strain_. We have started with a lot of unknown, because we don't know the virus fully yet. Meaning, we know some members of its family, but we do not know this particular guy. As already mentioned by the community, SARS-CoV-2 does exhibit characteristics of SARS-CoV-1 (or rather, the SARS virus). We know which direction to go, but we do not have the map, so to speak.
 
 [^first-cov]: [History and Recent Advances in Coronavirus Discovery](https://journals.lww.com/pidj/fulltext/2005/11001/history_and_recent_advances_in_coronavirus.12.aspx)
 
@@ -88,7 +88,7 @@ Technology.
 
 Take the case of the model used for the Solar System, for example. Up until a point, the entire world believed that the Earth was at the centre of the universe, and that the Sun and the other planets went around it. This was because at the time, given the technology we had, that is what we could observe. Later, Copernicus proposed that the Sun was in the centre and in fact, the Earth, like the other planets, went around it[^2]. Then Kepler built on the idea, and tried to explain planetary motions. The basis of much of today's understanding about the planetary movements is Kepler's laws.
 
-[^2]: [Planetary Motion: The History of an Idea That Launched the Scientific Revolution ({{< abbr NASA >}})](https://earthobservatory.nasa.gov/features/OrbitsHistory)
+[^2]: [Planetary Motion: The History of an Idea That Launched the Scientific Revolution (NASA)](https://earthobservatory.nasa.gov/features/OrbitsHistory)
 
 Another example is the atomic model proposed by Dalton. One of the statements he had made about atoms was that atoms were indivisible. The world accepted this view until 1897, when J.J. Thompson proved the divisibility of atoms---he proposed the _Pudding Model_. Rutherford disproved the model to introduce the _Planetary Model_ of atom. But that model had its flaws as well. Neils Bohr built on top of the quantum theory and introduced the _Bohr Model_.
 
@@ -98,7 +98,7 @@ In science, we consider sticking to absolutes dangerous. Such behaviour stalls g
 
 On reading the message, I engaged in a discussion in one of the groups. The conversation took a turn towards why there was no analysis done on the root cause, and how no one was holding China responsible. That was geopolitics. That is a different branch altogether. To me, China taking responsibility of spreading the virus is of no consequence at all. Will China resurrect every economy in the world affected by the pandemic, or bring back the dead? If so, I will support the obsession. Otherwise, how we contain the pandemic, and reduce further damage is of real use to me.
 
-Second, someone made a statement about a PhD doctor in Tamilnadu, who gave an interview. The argument said that the statements made by her in the interview were still valid, while the {{< abbr WHO >}} kept changing their stand on the situation. I have watched the interview. The doctor studied coronaviruses. Her statements were not one bit in conflict with those of the {{< abbr WHO >}}'s. No surprise.
+Second, someone made a statement about a PhD doctor in Tamilnadu, who gave an interview. The argument said that the statements made by her in the interview were still valid, while the WHO kept changing their stand on the situation. I have watched the interview. The doctor studied coronaviruses. Her statements were not one bit in conflict with those of the WHO's. No surprise.
 
 ## Obsession with China
 
@@ -106,9 +106,9 @@ I do not like it when people focus too much on the origin of the problem rather 
 
 [^3]: [Trump urges China to reveal all about origin of coronavirus](https://www.thehindu.com/news/international/trump-urges-china-to-reveal-all-about-origin-of-coronavirus/article31513900.ece)
 
-[^4]: [Is there any evidence for lab release theory? ({{< abbr BBC >}})](https://www.bbc.com/news/science-environment-52318539)
+[^4]: [Is there any evidence for lab release theory? (BBC)](https://www.bbc.com/news/science-environment-52318539)
 
-Like it or not, the virus is out now. The disease has affected millions, as [https://covidbynumbers.com/](https://covidbynumbers.com/) shows; in India alone we have crossed the one-million mark. Of what consequence is the investigation of its origins to the handling of the pandemic? Okay, some say, 'Well, China has managed to contain the virus. How did they do it? Because they have the technology to contain the virus; they are not giving it to the rest of the world.' Well, even if we do entertain that line of thought, we must ask ourselves, 'Will China share the treatment methods if at all it has any?' and understand that the {{< abbr WHO >}} is not an intelligence agency. In the world outside of fiction novels, a scientist's job is in science.
+Like it or not, the virus is out now. The disease has affected millions, as [https://covidbynumbers.com/](https://covidbynumbers.com/) shows; in India alone we have crossed the one-million mark. Of what consequence is the investigation of its origins to the handling of the pandemic? Okay, some say, 'Well, China has managed to contain the virus. How did they do it? Because they have the technology to contain the virus; they are not giving it to the rest of the world.' Well, even if we do entertain that line of thought, we must ask ourselves, 'Will China share the treatment methods if at all it has any?' and understand that the WHO is not an intelligence agency. In the world outside of fiction novels, a scientist's job is in science.
 
 {{< figure src="https://blogfiles.ramiyer.me/2020/images/2020-07-19+08-53-43.png" caption="CovidByNumbers home page" >}}
 
@@ -116,7 +116,7 @@ Like it or not, the virus is out now. The disease has affected millions, as [htt
 
 Update (11 May 2021): Grain of salt, but [a detailed article by Nicholas Wade](https://science.thewire.in/the-sciences/origins-of-covid-19-who-opened-pandoras-box-at-wuhan-people-or-nature/) points at the _higher plausibility_ of the virus having escaped the Wuhan Institute of Virology, rather than having originated in nature.
 
-While I still stand by that holding China responsible---no matter how right or wrong---will be of no consequence to _the current pandemic_, the article does indeed raise legitimate red flags on the regulation and possible future funding of experiments involving farming of highly infectious viruses in the lab. It also throws light on the possible bad judgement (assuming no malice until proven otherwise) on part of the authorities holding positions of high responsibility, including at the {{< abbr WHO >}} and the {{< abbr NIH >}}.
+While I still stand by that holding China responsible---no matter how right or wrong---will be of no consequence to _the current pandemic_, the article does indeed raise legitimate red flags on the regulation and possible future funding of experiments involving farming of highly infectious viruses in the lab. It also throws light on the possible bad judgement (assuming no malice until proven otherwise) on part of the authorities holding positions of high responsibility, including at the WHO and the NIH.
 
 What stands out in the article is the fact that leaving science in the hands of those with a political agenda is detrimental to humanity: be it opaque governments, scientists who have a lot to lose by speaking up, or any governmental or non-governmental body that does not respect regulations or uses loopholes to achieve its goals.
 
@@ -126,7 +126,7 @@ And until I get reliable evidence for intentional bio-warfare, I will continue t
 
 ## We don't know
 
-In science, more important than knowing something is knowing what we don't know about it. In case of {{< abbr SARS >}}-CoV-2, a lot is unknown. And knowing these aspects of the virus will take time. Today, we have a certain understanding of the virus, much better than what we had three months ago. This understanding could be better three years from now, because more evidence would have emerged by then.
+In science, more important than knowing something is knowing what we don't know about it. In case of SARS-CoV-2, a lot is unknown. And knowing these aspects of the virus will take time. Today, we have a certain understanding of the virus, much better than what we had three months ago. This understanding could be better three years from now, because more evidence would have emerged by then.
 
 The numbers that epidemiologists have given are truly scary. Perhaps they are wrong, or not. What is important is that the virus is new. Six months is a short time to understand a virus. Epidemiologists base their statements on mathematical modelling building on other similar virus outbreaks. That is all we can do at this point because this is the first time the world is facing _this_ virus.
 
@@ -169,7 +169,7 @@ Now think about whether you want to “boost” your immunity.
 
 ## Asymptomatic and pre-symptomatic manifestations
 
-In an article that I read[^5], Dr Beda Stadler calls it a "joke" to think that an asymptomatic person could infect a healthy individual. That is one perspective. In science, we do not take anyone's word for it. The {{< abbr WHO >}}'s documentation does not exclude the possibility that asymptomatic people can pass on the disease[^6].
+In an article that I read[^5], Dr Beda Stadler calls it a "joke" to think that an asymptomatic person could infect a healthy individual. That is one perspective. In science, we do not take anyone's word for it. The WHO's documentation does not exclude the possibility that asymptomatic people can pass on the disease[^6].
 
 > Absence of evidence is not evidence of absence.
 
@@ -183,36 +183,36 @@ And then, if you listen to the talk of Dr Kherkove and Dr Michael Ryan, you wi
 
 In simple terms, an asymptomatic individual is one whose body "killed" all the virus without so much as a sneeze. In this case, the virus entered the body, tried to bind itself to cells, but the body detected this before the virus could do much. The antibodies entered the blood stream and blocked the virus from further binding. Meanwhile, the T-cells came in, identified the cells that the virus had hijacked, and killed them. The number of cells killed were so less that the tissues generated no pain signals. The whole operation was silent.
 
-Most cases are not this across the world. (With exceptions like Karnataka, where the percentage of _asymptomatic_ cases was a whopping 96%[^10] in June 2020, which later decreased to 62.5%[^11] by the first week of July.) The long incubation period, according to the article[^5], indicates that the immune system is working to get rid of the infection. At some point, the body does raise the temperature or expel phlegm. You begin to show symptoms. In most cases, while testing, a person, even though {{< abbr COVID >}}-positive, may not _yet_ show symptoms. These individuals later develop symptoms. Some people who have a certain level of pain tolerance, may perhaps not remember being ill. Or they may think their temperature is slightly higher than usual because they "feel under the weather". Or in some cases, they are in denial.
+Most cases are not this across the world. (With exceptions like Karnataka, where the percentage of _asymptomatic_ cases was a whopping 96%[^10] in June 2020, which later decreased to 62.5%[^11] by the first week of July.) The long incubation period, according to the article[^5], indicates that the immune system is working to get rid of the infection. At some point, the body does raise the temperature or expel phlegm. You begin to show symptoms. In most cases, while testing, a person, even though COVID-positive, may not _yet_ show symptoms. These individuals later develop symptoms. Some people who have a certain level of pain tolerance, may perhaps not remember being ill. Or they may think their temperature is slightly higher than usual because they "feel under the weather". Or in some cases, they are in denial.
 
 [^10]: [96% of active cases in Karnataka asymptomatic](https://www.thehindu.com/news/national/karnataka/96-of-active-cases-in-state-asymptomatic/article31733903.ece)
 
 [^11]: [Rise in symptomatic cases a positive sign: Karnataka govt, experts](https://timesofindia.indiatimes.com/city/bengaluru/rise-in-symptomatic-cases-a-positive-sign-govt-experts/articleshow/76862663.cms)
 
-In case of a truly asymptomatic individual, the chances of them spreading the infection is "very rare", says the {{< abbr WHO >}}---as it has kept saying for so long. And the {{< abbr WHO >}} is a body that works with experts, aids in research and puts out guidelines for everybody, mainly for those countries that do not have the facilities to conduct extensive research on the subject.
+In case of a truly asymptomatic individual, the chances of them spreading the infection is "very rare", says the WHO---as it has kept saying for so long. And the WHO is a body that works with experts, aids in research and puts out guidelines for everybody, mainly for those countries that do not have the facilities to conduct extensive research on the subject.
 
-That said, based on anecdotal evidence on the ground, an interview with a {{< abbr WHO >}} Chief Scientist[^7] and an {{< abbr NEJM >}} paper[^8], asymptomatic transmissions do seem possible, and do seem to occur.
+That said, based on anecdotal evidence on the ground, an interview with a WHO Chief Scientist[^7] and an NEJM paper[^8], asymptomatic transmissions do seem possible, and do seem to occur.
 
-[^7]: [Both Asymptomatic And Pre-symptomatic People Can Transmit Covid-19: {{< abbr WHO >}} Chief Scientist](https://www.outlookindia.com/website/story/india-news-both-asymptomatic-and-pre-symptomatic-people-can-transmit-covid-19-who-chief-scientist/355781)
+[^7]: [Both Asymptomatic And Pre-symptomatic People Can Transmit Covid-19: WHO Chief Scientist](https://www.outlookindia.com/website/story/india-news-both-asymptomatic-and-pre-symptomatic-people-can-transmit-covid-19-who-chief-scientist/355781)
 
-[^8]: [{{< abbr SARS >}}-CoV-2 Viral Load in Upper Respiratory Specimens of Infected Patients](https://www.nejm.org/doi/full/10.1056/NEJMc2001737)
+[^8]: [SARS-CoV-2 Viral Load in Upper Respiratory Specimens of Infected Patients](https://www.nejm.org/doi/full/10.1056/NEJMc2001737)
 
 To question the credibility of the organisation on the basis of our misunderstanding of a cherry-picked segment of a statement they put out is rather rich. We at least have the responsibility of first getting our facts straight before making a sweeping statement like:
 
-> What the hell is {{< abbr WHO >}}'s credibility
+> What the hell is WHO's credibility
 
 The organisation has always maintained that we are still learning about the virus, and will update their recommendations and policies based on the new evidences that emerge.
 
 Let us not be lazy. This is a time when the science around the virus is evolving. Countries around the world are conducting studies to understand the virus. The methods of prevention may change as new evidences come out. One theory or method may replace another. That does not make everybody else a fool. Science is not a game of Sudoku, in science, there could be more than one solutions, and one may work better than the other based on circumstances.
 
-Presently, keeping ourselves updated with the current information is important for the health and safety of ourselves and our loved ones. Follow my blog (or [my Facebook page](https://fb.me/iamramiyer/)), if you want a wholesome picture of the situation (as wholesome as an engineer can make it), or better yet, follow the {{< abbr WHO >}} (or if you are in India, the {{< abbr ICMR >}}). Dig a little deeper before jumping to conclusions. If you cannot do that, at least don't make hasty conclusions or spread false information. Be wary of the media outlets that involve in headline hunting. Even if no source is trustworthy, we can perhaps rely a little more than the others, on [{{< abbr BBC >}}](https://www.bbc.com/news/coronavirus), and [{{< abbr WHO >}}](https://www.who.int/emergencies/diseases/novel-coronavirus-2019). In India, you could follow the [{{< abbr ICMR >}}](https://twitter.com/icmrdelhi?lang=en), or follow the {{< abbr COVID-19 >}} coverage put together by [The Hindu](https://www.thehindu.com/coronavirus/) and [ThePrint](https://theprint.in/coronavirus-full-coverage/). Ignore high-decibel debates and "experts" that make too much noise. Stay grounded.
+Presently, keeping ourselves updated with the current information is important for the health and safety of ourselves and our loved ones. Follow my blog (or [my Facebook page](https://fb.me/iamramiyer/)), if you want a wholesome picture of the situation (as wholesome as an engineer can make it), or better yet, follow the WHO (or if you are in India, the ICMR). Dig a little deeper before jumping to conclusions. If you cannot do that, at least don't make hasty conclusions or spread false information. Be wary of the media outlets that involve in headline hunting. Even if no source is trustworthy, we can perhaps rely a little more than the others, on [BBC](https://www.bbc.com/news/coronavirus), and [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019). In India, you could follow the [ICMR](https://twitter.com/icmrdelhi?lang=en), or follow the COVID-19 coverage put together by [The Hindu](https://www.thehindu.com/coronavirus/) and [ThePrint](https://theprint.in/coronavirus-full-coverage/). Ignore high-decibel debates and "experts" that make too much noise. Stay grounded.
 
 And for the sake of sanity, please stay away from WhatsApp University.
 
 ## But wait, should I be scared of asymptomatic transmission
 
-You should be _cautious_ of asymptomatic transmission. I have made a [post about preventing the disease]({{< ref "prevent-covid-19.md" >}}); read it. Read the official {{< abbr WHO >}} documentation about the different modes of transmission[^9]. While there is no guarantee that following all the measures will save you from the disease, you will greatly reduce your chances of infection.
+You should be _cautious_ of asymptomatic transmission. I have made a [post about preventing the disease]({{< ref "prevent-covid-19.md" >}}); read it. Read the official WHO documentation about the different modes of transmission[^9]. While there is no guarantee that following all the measures will save you from the disease, you will greatly reduce your chances of infection.
 
-[^9]: [Transmission of {{< abbr SARS >}}-CoV-2: implications for infection prevention precautions](https://www.who.int/news-room/commentaries/detail/transmission-of-sars-cov-2-implications-for-infection-prevention-precautions)
+[^9]: [Transmission of SARS-CoV-2: implications for infection prevention precautions](https://www.who.int/news-room/commentaries/detail/transmission-of-sars-cov-2-implications-for-infection-prevention-precautions)
 
 And relax. Our body has some level of immunity to the disease; if not, wouldn't we be looking at over fourteen million deaths by now?

@@ -19,7 +19,7 @@ We temporarily paused our subscription of the print edition in March, in view of
 
 {{< figure src="https://blogfiles.ramiyer.me/2020/images/prc-day-ad.jpg" alt="National Day of PRC advertisement on The Hindu, pixelated on purpose." caption="National Day of PRC advertisement on The Hindu, pixelated on purpose." >}}
 
-[^cd6ef6b4]: [Coronavirus | How safe are newspapers, {{< abbr WHO >}} clarifies](https://www.thehindu.com/news/national/how-safe-are-newspapers-who-clarifies/article31156164.ece)
+[^cd6ef6b4]: [Coronavirus | How safe are newspapers, WHO clarifies](https://www.thehindu.com/news/national/how-safe-are-newspapers-who-clarifies/article31156164.ece)
 
 When I went out for a fact check, I could find no mentions of this in any of the reputed outlets. My denial continued. And then the member shared a picture clicked and sent to her by her parents who subscribe to the daily in Bangalore. I was defenceless.
 
@@ -53,9 +53,9 @@ This is a vicious cycle. Companies try to find a balance in them. This is where 
 
 The online platform that _The Hindu_ runs is much cleaner. Because I pay for a subscription online, I do not see any advertisement on their platform---web as well as the app. Although I got it for cheaper, because I was an early bird (and took a long subscription at the time), the subscription today is a mere ₹1,199 a year. That is a small price to pay.
 
-I can bet the number of online subscribers is nowhere close to the print subscribers. Print is still where the daily makes its money. The {{< abbr BBC >}} is an example for a platform to not receive advertisement revenue, and run fully on public funding instead. In India, platforms like [Newslaundry](https://www.newslaundry.com/subscription) run on this model. In fact, _Newslaundry_ does not even monetise its YouTube videos. But again, perhaps thousands of people read or watch _Newslaundry_; a small number. Agencies like [The News Minute](https://www.thenewsminute.com/membership) and [ThePrint](https://theprint.in/subscribe/) are starting to lean towards charging for an ad-free experience.
+I can bet the number of online subscribers is nowhere close to the print subscribers. Print is still where the daily makes its money. The BBC is an example for a platform to not receive advertisement revenue, and run fully on public funding instead. In India, platforms like [Newslaundry](https://www.newslaundry.com/subscription) run on this model. In fact, _Newslaundry_ does not even monetise its YouTube videos. But again, perhaps thousands of people read or watch _Newslaundry_; a small number. Agencies like [The News Minute](https://www.thenewsminute.com/membership) and [ThePrint](https://theprint.in/subscribe/) are starting to lean towards charging for an ad-free experience.
 
-I must say, though, that the model that _ThePrint_, _The News Minute_ and even _The Hindu_ have adopted is not the same as that of _Newslaundry_ or the {{< abbr BBC >}}, because the former give what we call the "Freemium" experience, which still means that those who do not pay, will see ads on their platform. And these advertisers may have the leverage to drive narratives, or arm-twist these outlets.
+I must say, though, that the model that _ThePrint_, _The News Minute_ and even _The Hindu_ have adopted is not the same as that of _Newslaundry_ or the BBC, because the former give what we call the "Freemium" experience, which still means that those who do not pay, will see ads on their platform. And these advertisers may have the leverage to drive narratives, or arm-twist these outlets.
 
 ## The summary
 

@@ -19,16 +19,16 @@ The aim of this post is to help you decide if you should go for vaccination or n
 
 ## The types of vaccines
 
-Our immunity neutralises a virus using different mechanisms, which you can read about in a [previous post]({{< ref "covid-and-credibility#the-case-of-asymptomatic-transmission" >}}). A {{< abbr "COVID-19" >}} vaccine behaves like the {{< abbr "COVID-19" >}} virus in your body to trigger an immune response like the real infection would, but without causing damage to the body like the infection would. What the vaccine does defines its type:
+Our immunity neutralises a virus using different mechanisms, which you can read about in a [previous post]({{< ref "covid-and-credibility#the-case-of-asymptomatic-transmission" >}}). A COVID-19 vaccine behaves like the COVID-19 virus in your body to trigger an immune response like the real infection would, but without causing damage to the body like the infection would. What the vaccine does defines its type:
 
 1. A cold virus vaccine uses a weakened form of the virus to trigger an immune response. The virus either has its genetic material destroyed, or weakened so that it can replicate but not cause illness.
 2. A protein vaccine uses a fragment of the virus’ protein substructure to trigger an immune response from the body. But this is often a weak response, and booster shots are more common in protein vaccines than the others.
-3. Nucleic vaccines use the virus’ {{< abbr "DNA" >}} or {{< abbr "RNA" >}} to work. Vaccines developed by Pfizer and Moderna use a smaller strand of the {{< abbr "RNA" >}}, called Messenger-{{< abbr "RNA" >}} (or m-{{< abbr "RNA" >}}) to dictate the production of antigens, which in turn triggers an immune response.
+3. Nucleic vaccines use the virus’ DNA or RNA to work. Vaccines developed by Pfizer and Moderna use a smaller strand of the RNA, called Messenger-RNA (or m-RNA) to dictate the production of antigens, which in turn triggers an immune response.
 4. A viral vector also dictates the production of antigens, but uses a harmless variant of the target virus---for instance, a virus that affects pigs and not humans---but has a similar structure and triggers similar antigen production as the target. This behaviour also triggers an immune response, even though the virus cannot harm humans.
 
-Covaxin has a full {{< abbr "SARS-CoV-2" >}} but with inactivated genes which disables the replication of the virus while keeping the spike proteins intact. The spike proteins try to bind with our cells and that triggers an immune response. [This New York Times article](https://www.nytimes.com/interactive/2021/health/bharat-biotech-COVID-19-vaccine.html) has a beautiful pictorial representation of the working of Covaxin.
+Covaxin has a full SARS-CoV-2 but with inactivated genes which disables the replication of the virus while keeping the spike proteins intact. The spike proteins try to bind with our cells and that triggers an immune response. [This New York Times article](https://www.nytimes.com/interactive/2021/health/bharat-biotech-COVID-19-vaccine.html) has a beautiful pictorial representation of the working of Covaxin.
 
-Covisheild is the viral vector variant. This vaccine uses an adenovirus (a virus that causes flu-like illness) that affects chimpanzees, which has the same spike protein structure as the {{< abbr "SARS-CoV-2" >}}. Covishield shares similarities with Covaxin in using the spike protein to trigger an immune response. Our immunity can then use the same identification-and-response mechanism to tackle {{< abbr "SARS-CoV-2" >}}.
+Covisheild is the viral vector variant. This vaccine uses an adenovirus (a virus that causes flu-like illness) that affects chimpanzees, which has the same spike protein structure as the SARS-CoV-2. Covishield shares similarities with Covaxin in using the spike protein to trigger an immune response. Our immunity can then use the same identification-and-response mechanism to tackle SARS-CoV-2.
 
 ## Vaccine trials
 
@@ -60,7 +60,7 @@ When you do get infected, you are unlikely to have serious symptoms, or for your
 
 First of all, every vaccine has a risk associated with it, like every human activity (or inactivity). 1.5 lac people died of road accidents in 2019.{{< sidenote road-accidents >}}[India had most deaths in road accidents in 2019: Report](https://www.hindustantimes.com/mumbai-news/india-had-most-deaths-in-road-accidents-in-2019-report/story-pikRXxsS4hptNVvf6J2g9O.html){{< /sidenote >}} Considering a population of 130 crore, your chances of dying in a road accident are 112.77 in a million (or 1.13 in 10,000).
 
-To compare, the odds of your dying by a blood clot because of a {{< abbr COVID-19 >}} vaccine are utmost 4 in a million. In other words, your chances of dying of a road accident are at least 28 times more than dying by a vaccine-induced blood clot. Also, the basis of the number of blood clot cases is from the UK, not India; as of 11 April, 2021---basis a March 23 report---India had reported _no such adverse events_.{{< sidenote aiims-clot >}}"Very Rare...": AIIMS Chief On AstraZeneca Vaccine-Linked Clotting ([NDTV](https://www.ndtv.com/india-news/astrazeneca-vaccine-blood-clot-very-rare-aiims-chief-dr-randeep-guleria-on-astrazeneca-vaccine-linked-clotting-2411225)){{< /sidenote >}}
+To compare, the odds of your dying by a blood clot because of a COVID-19 vaccine are utmost 4 in a million. In other words, your chances of dying of a road accident are at least 28 times more than dying by a vaccine-induced blood clot. Also, the basis of the number of blood clot cases is from the UK, not India; as of 11 April, 2021---basis a March 23 report---India had reported _no such adverse events_.{{< sidenote aiims-clot >}}"Very Rare...": AIIMS Chief On AstraZeneca Vaccine-Linked Clotting ([NDTV](https://www.ndtv.com/india-news/astrazeneca-vaccine-blood-clot-very-rare-aiims-chief-dr-randeep-guleria-on-astrazeneca-vaccine-linked-clotting-2411225)){{< /sidenote >}}
 
 ## Actor Vivek died one day after taking the vaccine
 
@@ -76,17 +76,17 @@ Talk to your doctor about your apprehension. They can clear your queries and gui
 
 ## Should you take Covaxin or Covishield
 
-Before getting my parents vaccinated, I got an opinion from two doctors (the second, to convince my mother that my father would continue to be fine after the vaccination)---one from a {{< abbr DNB >}} in General Medicine and Medical Oncology, and the second a {{< abbr DM >}} in Cardiology. They both asked us to go with either. They both take different routes, but arrive at the same destination. They are both highly efficacious and safe.
+Before getting my parents vaccinated, I got an opinion from two doctors (the second, to convince my mother that my father would continue to be fine after the vaccination)---one from a DNB in General Medicine and Medical Oncology, and the second a DM in Cardiology. They both asked us to go with either. They both take different routes, but arrive at the same destination. They are both highly efficacious and safe.
 
 ## Should you wait for the m-RNA vaccines
 
-I was of the impression that an m-RNA vaccine is safer than the dead-virus ones.{{< sidenote dead-virus >}}I realise that "dead virus" is perhaps a misnomer, given that viruses are non-living.{{< /sidenote >}} But having read about the vaccines and listened to eminent medical professionals talk about them, to me, it does not look like the m-{{< abbr RNA >}} vaccines are better enough  to be worth waiting for.
+I was of the impression that an m-RNA vaccine is safer than the dead-virus ones.{{< sidenote dead-virus >}}I realise that "dead virus" is perhaps a misnomer, given that viruses are non-living.{{< /sidenote >}} But having read about the vaccines and listened to eminent medical professionals talk about them, to me, it does not look like the m-RNA vaccines are better enough  to be worth waiting for.
 
-What we have today as Covaxin and Covishield are vaccines developed in tried-and-tested ways. The m-{{< abbr RNA >}} vaccine technology is new. We do not know the long-term effects of these. Not that these vaccines are bad in any way, but there is a lot of unknown. Healthy, young individuals, who are ready to cope with potential long-term adverse effects should choose these for humanity, but as of now, nothing can conclusively say that these are better or worse than the dead virus vaccines.
+What we have today as Covaxin and Covishield are vaccines developed in tried-and-tested ways. The m-RNA vaccine technology is new. We do not know the long-term effects of these. Not that these vaccines are bad in any way, but there is a lot of unknown. Healthy, young individuals, who are ready to cope with potential long-term adverse effects should choose these for humanity, but as of now, nothing can conclusively say that these are better or worse than the dead virus vaccines.
 
 ## Go, get your vaccine
 
-When is a good time to get vaccinated? {{< abbr NOW >}}. (Or _yesterday_, like my American colleagues sometimes say.) I am a sceptic myself. But I am pro-vaccine, because I am a sceptic in the scientific sense. I do not believe in hyper-anything. I detest the hyper-nationalism shown in case of vaccines. I was sceptic of the government not answering valid questions by medical professionals---like how I would go to a lawyer and not a dramatist for legal advice, I listen to medicos and not bureaucrats or politicians on medical topics. "Trusting" political office-bearers to be right with these is a matter of probability.
+When is a good time to get vaccinated? NOW. (Or _yesterday_, like my American colleagues sometimes say.) I am a sceptic myself. But I am pro-vaccine, because I am a sceptic in the scientific sense. I do not believe in hyper-anything. I detest the hyper-nationalism shown in case of vaccines. I was sceptic of the government not answering valid questions by medical professionals---like how I would go to a lawyer and not a dramatist for legal advice, I listen to medicos and not bureaucrats or politicians on medical topics. "Trusting" political office-bearers to be right with these is a matter of probability.
 
 The basis of science is evidence, not faith.
 

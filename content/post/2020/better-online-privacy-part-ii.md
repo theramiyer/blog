@@ -24,7 +24,7 @@ If anyone looked at my dock, they would think I am a browser collector. I use Fi
 
 Browser isolation.
 
-The basic idea is to separate {{< abbr GAFAM >}} from each other, and the others.
+The basic idea is to separate GAFAM from each other, and the others.
 
 GAFAM
 : Google, Apple, Facebook, Amazon, and Microsoft
@@ -90,7 +90,7 @@ Automatic deletion of data is an option available with most major service provid
 
 One way to approach unique fingerprints is to make yourself not-so-unique---evade the browser fingerprinting technique by making yourself more common. But that could be too much of a cost to pay, because then you would have to choose an operating system that the masses run, a browser that the masses run, and take a chance at installing those extensions that the masses install. The price you are paying here is the experience you will have with the operating system and the browser.
 
-The other way is to use a browser and the extensions of your liking but change the fingerprint every now and then. The simplest way to do this is to never maximise your browser, and change the window size frequently. If every session of yours is unique, you will never be "seen again" by a service. But again, as long as you are separating {{< abbr GAFAM >}} and your general browsing, you do not have to worry about this.
+The other way is to use a browser and the extensions of your liking but change the fingerprint every now and then. The simplest way to do this is to never maximise your browser, and change the window size frequently. If every session of yours is unique, you will never be "seen again" by a service. But again, as long as you are separating GAFAM and your general browsing, you do not have to worry about this.
 
 ## Browsing on the phone
 

@@ -18,7 +18,7 @@ title: The CAA is not about throwing out people
 
 Over the last week, I saw protests everywhere. Most groups (not WhatsApp groups) that I am part of had a discussion about the _Citizenship (Amendment) Act_ going. I even surprised some that I was taking the stand I was, given my track record of having ideas contrary to the ruling party's. I find it difficult to explain to people that having rational thoughts is all I do.
 
-Let me get to the point: The {{< abbr "CAA" >}} is not about throwing people out. At all. The {{< abbr "NRC" >}} is a different issue. Like always, you are free to disagree. Start a healthy discussion, though. If you know me personally, you have my number already.
+Let me get to the point: The CAA is not about throwing people out. At all. The NRC is a different issue. Like always, you are free to disagree. Start a healthy discussion, though. If you know me personally, you have my number already.
 
 {{< toc >}}
 
@@ -92,7 +92,7 @@ Article 14 provides for the so-called "reasonable classification"[^7cad2f65]. I
 
 [^7cad2f65]: [Article 14 of the Constitution of India](https://en.wikipedia.org/wiki/Article_14_of_the_Constitution_of_India)
 
-If anything, the {{< abbr "CAA" >}} _relaxes_ the citizenship law, as rightly pointed out by experts. In reality, it says, Muslims coming from these three countries are the _same as any other immigrant_ (such as persecuted Tamils from Sri Lanka), but those from these six communities will have the law relaxed because the amendment presumes that they faced persecution as minorities in Muslim-majority countries.
+If anything, the CAA _relaxes_ the citizenship law, as rightly pointed out by experts. In reality, it says, Muslims coming from these three countries are the _same as any other immigrant_ (such as persecuted Tamils from Sri Lanka), but those from these six communities will have the law relaxed because the amendment presumes that they faced persecution as minorities in Muslim-majority countries.
 
 If you are among those that ask if the government can do this, read Article 11 of the Constitution that lets the Parliament regulate the right of citizenship by law:
 
@@ -120,9 +120,9 @@ This anxiety (and I say this about those that are anxious based on facts, not ev
 
 Most of the protests happening today are in the North-east. Delhi, yes, but even in Delhi, the concentration is not as high as the North-east. And so, everyone talks about Assam and immigration of Bangladeshis to Assam and the other north-eastern regions. The Home Minister says, "_Infiltrators are the nation's problem_; because West Bengal is a border state, the problem is more acute there."
 
-And then, we talk about the {{< abbr "NRC" >}} exercise in Assam. That increases noise.
+And then, we talk about the NRC exercise in Assam. That increases noise.
 
-The reason for {{< abbr "NRC" >}} in Assam was different. First of all, in Assam, the issue was not religion---it never was religion. What {{< abbr "BJP" >}} says does not matter. The tribal people of the Assam region felt that because there was so much influx of people from Bangladesh---both Hindus and Muslims---that their ethnic identity and that of the land was getting eroded. It did not matter to them which religion the immigrants belonged to; all that mattered was _that the immigrants did not belong to Assam_.
+The reason for NRC in Assam was different. First of all, in Assam, the issue was not religion---it never was religion. What BJP says does not matter. The tribal people of the Assam region felt that because there was so much influx of people from Bangladesh---both Hindus and Muslims---that their ethnic identity and that of the land was getting eroded. It did not matter to them which religion the immigrants belonged to; all that mattered was _that the immigrants did not belong to Assam_.
 
 The Assam issue has come up on a large scale at least twice. First, ever since the partition of India and Pakistan, the Hindus had been coming in from East Pakistan (now Bangladesh). These Hindu immigrants came to West Bengal, Tripura, Meghalaya and Assam; Assam had a problem that these immigrants were diluting the ethnicity of the place (even though the border shared between Bangladesh and Assam is smaller than that with West Bengal, Meghalaya or Tripura).
 
@@ -132,23 +132,23 @@ Second was in 1978, when there had to be an election (a re-election, in fact), I
 
 ## The National Register of Citizens (Assam Edition)
 
-The task that remained now was to identify those illegal immigrants, and thus comes the {{< abbr "NRC" >}} (National Register of Citizens). Something that had not happened for three decades after the Assam Accord.
+The task that remained now was to identify those illegal immigrants, and thus comes the NRC (National Register of Citizens). Something that had not happened for three decades after the Assam Accord.
 
 The Supreme Court carried out this exercise, and like Mr Shekhar Gupta says, the exercise "threw surprises". The process identified over 19 lac people in Assam as immigrants from Bangladesh. Perhaps not too big a number, but this is it. The surprise was that the majority of these were Hindus.
 
 Panic!
 
-Not the {{< abbr "BJP" >}} alone, but everyone. Name one political party in 2019 has the "audacity" to throw out over ten lac Hindus from India, saying they are illegal immigrants? None. Not one political party would do that in 2019. Not Congress, not the Left, and most certainly not the {{< abbr "BJP" >}}. If the {{< abbr "BJP" >}} pitched something like that, I would look to the west in the morning to welcome the sun.
+Not the BJP alone, but everyone. Name one political party in 2019 has the "audacity" to throw out over ten lac Hindus from India, saying they are illegal immigrants? None. Not one political party would do that in 2019. Not Congress, not the Left, and most certainly not the BJP. If the BJP pitched something like that, I would look to the west in the morning to welcome the sun.
 
-Now, if you understand what the {{< abbr "CAA" >}} 2019 says, you will know that it goes directly against the Assam Accord of 1985, and the agreement between India and Bangladesh in 1971. It kills the purpose of the Assam Movement. Also, it renders the efforts of the government and the 1,200 crore rupees spent in the {{< abbr "NRC" >}} wasted.
+Now, if you understand what the CAA 2019 says, you will know that it goes directly against the Assam Accord of 1985, and the agreement between India and Bangladesh in 1971. It kills the purpose of the Assam Movement. Also, it renders the efforts of the government and the 1,200 crore rupees spent in the NRC wasted.
 
-The {{< abbr "CAA" >}} was to handle this issue like a hot knife on butter, but ended up being a pneumatic drill (a.k.a. jackhammer) on granite.
+The CAA was to handle this issue like a hot knife on butter, but ended up being a pneumatic drill (a.k.a. jackhammer) on granite.
 
 Again, not your trigger. Do not jump.
 
 ## What happens if I cannot prove my citizenship
 
-At this point, answer to the question is unknown. All we can do is look at Assam, see what is happening and speculate. The government has made no official statement on what the criteria for {{< abbr "NRC" >}} are, or what the process is. We would need to wait.
+At this point, answer to the question is unknown. All we can do is look at Assam, see what is happening and speculate. The government has made no official statement on what the criteria for NRC are, or what the process is. We would need to wait.
 
 ## Are people coming from Bangladesh
 
@@ -160,13 +160,13 @@ Let me address the Home Minister saying that Bangladesh is an theocratic Islamic
 
 [^204f7c64]: [The Constitution of the People‌‌‍’s Republic of Bangladesh](http://bdlaws.minlaw.gov.bd/act-367.html)
 
-Did you see "secularism"? I did. Bangladesh, in 1972 declared itself a secular socialist democratic republic (India added the words "secular" and "socialist" to the Preamble in 1976 through the 42nd Amendment). To get this straight, Bangladesh is a State with Islam as its State Religion, but a secular state that treats other religions as equal. True, there was Martial Law in Bangladesh for some time and that Islamised Bangladesh, but the Supreme Court of Bangladesh later declared all laws passed under the Martial Law as void[^5c801b95]. Their supreme court also prohibited the use of the Sharia Law. That makes Bangladesh a {{< abbr "NOT" >}}-a-theocratic State. If we say that a State enshrining secularism in their constitution does not make a them secular, we should perhaps look in the mirror before making baseless accusations.
+Did you see "secularism"? I did. Bangladesh, in 1972 declared itself a secular socialist democratic republic (India added the words "secular" and "socialist" to the Preamble in 1976 through the 42nd Amendment). To get this straight, Bangladesh is a State with Islam as its State Religion, but a secular state that treats other religions as equal. True, there was Martial Law in Bangladesh for some time and that Islamised Bangladesh, but the Supreme Court of Bangladesh later declared all laws passed under the Martial Law as void[^5c801b95]. Their supreme court also prohibited the use of the Sharia Law. That makes Bangladesh a NOT-a-theocratic State. If we say that a State enshrining secularism in their constitution does not make a them secular, we should perhaps look in the mirror before making baseless accusations.
 
 [^5c801b95]: [Verdict paves way for secular democracy](https://www.thedailystar.net/news-detail-148678)
 
-Second: economic refuge. India was once way better off than Bangladesh, but in 2019 Bangladesh is either equal to or better than India in a good number of economic indicators (Data: The Print[^9057cf45]). While we are at 4.5% {{< abbr "GDP" >}} growth rate, Bangladesh is at 8.1%. India is a mere 17% higher in per-capita {{< abbr "GDP" >}}. But Bangladesh's per-capita income is 60% higher than Assam and almost the same as West Bengal. Bangladesh's female labour participation is at 33%, while India's is 27.2%. Certainly, women from Bangladesh are not dying to come to India for jobs. That is another point for non-Islamism; Bangladesh treats its women better than average Islamic States. And in the end, the Global Hunger Index[^105a8707]: India is at rank 102 and Bangladesh is at 88---ahead of us by 14 positions.
+Second: economic refuge. India was once way better off than Bangladesh, but in 2019 Bangladesh is either equal to or better than India in a good number of economic indicators (Data: The Print[^9057cf45]). While we are at 4.5% GDP growth rate, Bangladesh is at 8.1%. India is a mere 17% higher in per-capita GDP. But Bangladesh's per-capita income is 60% higher than Assam and almost the same as West Bengal. Bangladesh's female labour participation is at 33%, while India's is 27.2%. Certainly, women from Bangladesh are not dying to come to India for jobs. That is another point for non-Islamism; Bangladesh treats its women better than average Islamic States. And in the end, the Global Hunger Index[^105a8707]: India is at rank 102 and Bangladesh is at 88---ahead of us by 14 positions.
 
-[^9057cf45]: [{{< abbr "CAB-NRC" >}}, India-Bangladesh ties, and breaking some popular myths about our friendliest neighbour](https://www.youtube.com/watch?v=gmOfSlxEPBc)
+[^9057cf45]: [CAB-NRC, India-Bangladesh ties, and breaking some popular myths about our friendliest neighbour](https://www.youtube.com/watch?v=gmOfSlxEPBc)
 
 In other words, India is no more an economic eye-candy for people of Bangladesh. There may have been Bangladeshis coming in, in the past, but India is not attractive to them anymore.
 
@@ -224,21 +224,21 @@ Constitutionally, no ([read above](#article-14)). Fundamentally, based on the sp
 
 ## Nationwide NRC
 
-This is what makes the Act malicious. The Home Minister says, 'Understand the chronology. First, the {{< abbr "CAB" >}} will come [into existence]. Then, there will be the {{< abbr "NRC" >}} [exercise].'
+This is what makes the Act malicious. The Home Minister says, 'Understand the chronology. First, the CAB will come [into existence]. Then, there will be the NRC [exercise].'
 
-During the {{< abbr "NRC" >}} exercise, based on our experience, everyone is a suspected non-citizen to begin with. The citizens then establish their citizenship and get included in the registry.
+During the NRC exercise, based on our experience, everyone is a suspected non-citizen to begin with. The citizens then establish their citizenship and get included in the registry.
 
 I would have no problem establishing my citizenship because I have airtight documentation proving my citizenship, right from my birth. I got educated, I know to work with the government functions, my parents and I have ensured to preserve the documents. I have a job in the regulated sector of the economy, I have a bank account with continuous transactions. I have nothing to worry about. But what number of citizens can do this? I do not know. Will a voter ID count as a valid document? My guess is as good as yours.
 
 Back in the day, nobody worried about all this. Nobody had DigiLocker to store the documents. What would those that do not have the documents do? My mother can prove she is the wife of my father, who in turn has enough documentation to prove his citizenship---and this way, she is a still a citizen. But what about others? My mother went to school, got educated, and still, this is the situation. What about the uneducated? Or the illiterate? Perhaps they have the documents, perhaps not. Perhaps the authorities will accept the documentation they have, perhaps not.
 
-All that we say about the {{< abbr "NRC" >}} will be mere speculation; the government has not shared official word on the exercise.
+All that we say about the NRC will be mere speculation; the government has not shared official word on the exercise.
 
-Everyone says, 'Do not look at {{< abbr "CAA" >}} with {{< abbr "NRC" >}}---the two are separate.' I cannot help but look at them together, because Mr Shah said the latter will follow the former, and the goal is to expel "intruders" from the country. Should I read between the lines along with the current narratives? No? All right.
+Everyone says, 'Do not look at CAA with NRC---the two are separate.' I cannot help but look at them together, because Mr Shah said the latter will follow the former, and the goal is to expel "intruders" from the country. Should I read between the lines along with the current narratives? No? All right.
 
-The Amendment, _if_ married to the {{< abbr "NRC" >}}, goes against the _spirit of_ the Constitution of India, not the Constitution itself. This is beyond technicalities.
+The Amendment, _if_ married to the NRC, goes against the _spirit of_ the Constitution of India, not the Constitution itself. This is beyond technicalities.
 
-Do I support the {{< abbr "NRC" >}}?
+Do I support the NRC?
 
 Not now. Not any time soon.
 
@@ -246,21 +246,21 @@ Does it mean I am in favour of illegal immigrants?
 
 No. I am not in favour of anything illegal.
 
-Look, the {{< abbr "NRC" >}} is expensive. 12 billion rupees is no small amount for one state. To find what, 1.9 million immigrants. 6% of the population of Assam. This in a small state---3.09 crore people. The expense would be 52,000 crore if this exercise has to happen across India. (By simple arithmetic, not accounting for the speed of the process and the inflation, other operational difficulties, etc.) Can we afford it financially, more so _at this time_?
+Look, the NRC is expensive. 12 billion rupees is no small amount for one state. To find what, 1.9 million immigrants. 6% of the population of Assam. This in a small state---3.09 crore people. The expense would be 52,000 crore if this exercise has to happen across India. (By simple arithmetic, not accounting for the speed of the process and the inflation, other operational difficulties, etc.) Can we afford it financially, more so _at this time_?
 
-No. The government earns ₹97,637 crore in November 2019 from {{< abbr "GST" >}}[^da06660d]. The average from the last eight months is ₹97,039.625 crore.
+No. The government earns ₹97,637 crore in November 2019 from GST[^da06660d]. The average from the last eight months is ₹97,039.625 crore.
 
-[^da06660d]: [{{< abbr "GST" >}} revenue collection, Ministry of Finance](http://gstcouncil.gov.in/sites/default/files/Press-Dynamic/PIB1594406.pdf)
+[^da06660d]: [GST revenue collection, Ministry of Finance](http://gstcouncil.gov.in/sites/default/files/Press-Dynamic/PIB1594406.pdf)
 
 Is this the most pressing issue in 2019 -- 2020?
 
 No.
 
-Second, do we go tracking down every illegal immigrant and throw them into the detention centres? The Assam {{< abbr "NRC" >}} identified 6% of those evaluated, as illegal immigrants. Assam is a border state. Say, in the rest of India, we find 3% as illegal immigrants. Are there enough detention centres for 4 crore people? Or are we going to build them?
+Second, do we go tracking down every illegal immigrant and throw them into the detention centres? The Assam NRC identified 6% of those evaluated, as illegal immigrants. Assam is a border state. Say, in the rest of India, we find 3% as illegal immigrants. Are there enough detention centres for 4 crore people? Or are we going to build them?
 
 How do we have funds to build detention centres but not healthcare and education? And are we willing to let the government use the tax money we citizens pay to care for illegal immigrants?
 
-Or perhaps there will never be an {{< abbr "NRC" >}}. Good, but still, what was the necessity of this amendment?
+Or perhaps there will never be an NRC. Good, but still, what was the necessity of this amendment?
 
 A friend asked:
 
@@ -268,9 +268,9 @@ A friend asked:
 
 Persecuted minorities can still enter. _Even without the Amendment._
 
-If at all you want to do an {{< abbr "NRC" >}} exercise, wait; work on the infrastructure. I will give you an example: I cannot download my birth certificate online. Why? I have a physical Birth Certificate from Chennai Corporation; Chennai Corporation says everyone born since 1989 can get their birth certificate on their site. I cannot find mine. And I have tried to get in touch to fix it; it has not worked. I have applied for the voter ID, I see the status says approved, but it has been that way for years. I keep getting bounced between offices. No luck.
+If at all you want to do an NRC exercise, wait; work on the infrastructure. I will give you an example: I cannot download my birth certificate online. Why? I have a physical Birth Certificate from Chennai Corporation; Chennai Corporation says everyone born since 1989 can get their birth certificate on their site. I cannot find mine. And I have tried to get in touch to fix it; it has not worked. I have applied for the voter ID, I see the status says approved, but it has been that way for years. I keep getting bounced between offices. No luck.
 
-Nice of you to say that no Indian citizen will go through hardship because of {{< abbr "NRC" >}}. Not all the citizens of India have documents to prove their citizenship. Start regulating the documentation. Make a set of documents mandatory and push citizens to get the documents. Make the process simple. Make the process understandable; understand that not everybody is a Shashi Tharoor. Reduce bureaucracy. Before jets can take off and land, there must be a runway. If the {{< abbr "NRC" >}} gets introduced now, it will be another demomentisation.
+Nice of you to say that no Indian citizen will go through hardship because of NRC. Not all the citizens of India have documents to prove their citizenship. Start regulating the documentation. Make a set of documents mandatory and push citizens to get the documents. Make the process simple. Make the process understandable; understand that not everybody is a Shashi Tharoor. Reduce bureaucracy. Before jets can take off and land, there must be a runway. If the NRC gets introduced now, it will be another demomentisation.
 
 Dear those running the government, think beyond a nice list of citizens. If you take away a citizen's citizenship, they lose their job because the law says so. The regular citizen does not have the time to go to the courts and the tribunals. We have a day job, our companies expect us to be in the office at least 9 hours. This is how we earn our bread and butter. We work shifts, we go through traffic; a regular Bangalorean spends 12 hours for work. If you ask 1.5 crore Bangaloreans to prove their citizenship, then get our documents rejected, go fix the documents and come back, get them rejected again, then approach a tribunal with an appeal ...
 

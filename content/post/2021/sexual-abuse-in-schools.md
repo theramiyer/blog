@@ -12,7 +12,7 @@ tags:
 - justice
 ---
 
-Yesterday, I woke up to the news that students of a top school in Chennai---_Padma Seshadri Bala Bhavan_ (or {{< abbr PSBB >}})---had alleged that a teacher had sexually abused them.{{< sidenote psbb-news >}}PSBB teacher accused of child sexual harassment, school accused of inaction ([The News Minute](https://www.thenewsminute.com/article/psbb-teacher-accused-child-sexual-harassment-school-accused-inaction-149418)){{< /sidenote >}} The piece of news shook me because my cousin studied in the school, and I could personally relate to it. The teacher also taught at the same branch that she studied in. But as usual, the issue received a polarised public response.
+Yesterday, I woke up to the news that students of a top school in Chennai---_Padma Seshadri Bala Bhavan_ (or PSBB)---had alleged that a teacher had sexually abused them.{{< sidenote psbb-news >}}PSBB teacher accused of child sexual harassment, school accused of inaction ([The News Minute](https://www.thenewsminute.com/article/psbb-teacher-accused-child-sexual-harassment-school-accused-inaction-149418)){{< /sidenote >}} The piece of news shook me because my cousin studied in the school, and I could personally relate to it. The teacher also taught at the same branch that she studied in. But as usual, the issue received a polarised public response.
 
 But let us take it piece by piece. The first was that a political group had somehow made this a "thing". In a matter of hours, this issue became more cluttered than what is conductive to a sane investigation.
 
@@ -28,7 +28,7 @@ Also, alleging a teacher sexually harassed someone does not mean the school did.
 
 And when you understand the difference between a position of responsibility and an institution, also know that a person is a person, s/he does not represent a position of responsibility. For example, Mr A R Rahman does not represent music composers, Mr Narendra Modi does not represent prime ministers, Mrs Y G Parthasarathy does not represent deans.
 
-On that note, this specific allegation of sexual abuse is against Mr Rajagopalan. Not {{< abbr PSBB >}} or the teachers of {{< abbr PSBB >}}.
+On that note, this specific allegation of sexual abuse is against Mr Rajagopalan. Not PSBB or the teachers of PSBB.
 
 ## Sexual abuse in general
 
@@ -50,7 +50,7 @@ What matters is that we---as a parent, sibling, friend, teacher, spouse, whoever
 
 {{< youtube HQgcGgDoefw 712 816 >}}
 
-The video above got widely circulated after the incident. For those who do not know the world of Tamil cinema, the woman talking is Sowcar Janaki, a well-known actor. The man is Y G Mahendran, also an actor, son of Y G Parthasarathy and Mrs Y G Parthasarathy (founder of {{< abbr PSBB >}}).
+The video above got widely circulated after the incident. For those who do not know the world of Tamil cinema, the woman talking is Sowcar Janaki, a well-known actor. The man is Y G Mahendran, also an actor, son of Y G Parthasarathy and Mrs Y G Parthasarathy (founder of PSBB).
 
 If Tamil is not among the languages you understand, here is what the video says:
 
@@ -129,7 +129,7 @@ And so comes:
 
 ## The political angle
 
-Soon, Kanimozhi Karunanidhi joined the movement. And some parents alleged that the Dravida Munnetra Kazhagam ({{< abbr DMK >}}) government was retaliating against the school's opposition to a change in syllabus almost a decade ago that the then TN government (led by M Karunanidhi) had proposed. The present allegation was that the {{< abbr DMK >}} government (now led by M K Stalin), was harassing the school. The other allegation was that this was part---in my friend's words, "of a larger scheme"---of spreading a narrative against a certain community. Who better to tell us than Dr Subramamanian Swamy:
+Soon, Kanimozhi Karunanidhi joined the movement. And some parents alleged that the Dravida Munnetra Kazhagam (DMK) government was retaliating against the school's opposition to a change in syllabus almost a decade ago that the then TN government (led by M Karunanidhi) had proposed. The present allegation was that the DMK government (now led by M K Stalin), was harassing the school. The other allegation was that this was part---in my friend's words, "of a larger scheme"---of spreading a narrative against a certain community. Who better to tell us than Dr Subramamanian Swamy:
 
 {{< tweet 1397355696094543873 >}}
 
@@ -159,9 +159,9 @@ Ask any psychologist and they will tell you the same. (Of course, they will have
 
 ## The legality
 
-Two bodies can work with such complaints: The Internal Committee of the school and the Law Enforcement. The Internal Committee comes under Prevention of Sexual Harassment ({{< abbr POSH >}}). This is to ensure protection against sexual harassment, for those above 18 years of age; not children.
+Two bodies can work with such complaints: The Internal Committee of the school and the Law Enforcement. The Internal Committee comes under Prevention of Sexual Harassment (POSH). This is to ensure protection against sexual harassment, for those above 18 years of age; not children.
 
-The Protection of Children from Sexual Offences ({{< abbr POCSO >}}) comes into play in case of children. This Act came into being in 2012, and takes into consideration any sexual offence against children starting when it got enacted. Offences such as those happening at {{< abbr PSBB >}} come under {{< abbr POCSO >}}.
+The Protection of Children from Sexual Offences (POCSO) comes into play in case of children. This Act came into being in 2012, and takes into consideration any sexual offence against children starting when it got enacted. Offences such as those happening at PSBB come under POCSO.
 
 Anyone---including the alumni of the school---can bring such issues to the notice of the management. The management must then file a police complaint in this regard, and start the internal as well as legal proceedings.
 

@@ -3,7 +3,7 @@ title: Privacy
 description: Put plainly, I don't want your data.
 ---
 
-Put bluntly, I couldn't care less about getting data about you. This site uses [Plausible Analytics](https://plausible.io/)---a privacy-friendly and {{< abbr GDPR >}}-compliant analytics service---to track readership; to know some rudimentary metrics about general audience behaviour, like, to see when there is the most amount of activity, and what posts people like to read. While I do not base my content on it, it tells me which posts are easy to read and understand, or what posts people refer. That helps me tweak my writing style and the design of the blog.
+Put bluntly, I couldn't care less about getting data about you. This site uses [Plausible Analytics](https://plausible.io/)---a privacy-friendly and GDPR-compliant analytics service---to track readership; to know some rudimentary metrics about general audience behaviour, like, to see when there is the most amount of activity, and what posts people like to read. While I do not base my content on it, it tells me which posts are easy to read and understand, or what posts people refer. That helps me tweak my writing style and the design of the blog.
 
 Whatever I do track, I do not share with anybody. Tracking on my site is purely for the purposes of my tuning the content to be better.
 
@@ -35,7 +35,7 @@ Read [Instagram's Data Policy](https://help.instagram.com/519522125107875) for m
 
 ## Share buttons
 
-The share buttons (Facebook, Twitter, LinkedIn and WhatsApp) _do not_ process your social media data on this site. They use the sharer {{< abbr URL >}} of the respective service with _details about the post_ (post title, post {{< abbr URL >}}, post summary, etc.) as input parameters. All processing happens on the destination site/service. In other words, the share buttons do not track you until you click them. Once you click them, the destination site may track you. As such, this site collects no information from you using the share buttons.
+The share buttons (Facebook, Twitter, LinkedIn and WhatsApp) _do not_ process your social media data on this site. They use the sharer URL of the respective service with _details about the post_ (post title, post URL, post summary, etc.) as input parameters. All processing happens on the destination site/service. In other words, the share buttons do not track you until you click them. Once you click them, the destination site may track you. As such, this site collects no information from you using the share buttons.
 
 ---
 

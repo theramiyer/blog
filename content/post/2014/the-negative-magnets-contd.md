@@ -22,7 +22,7 @@ There are theories as to why this happens, the first one being "to keep us out o
 
 Primitive humans lived among the wild, and also, did not have access to a lot of learning; most had to learn most of the life skills on their own. So our brains started to categorise the things that gave us a good feeling and those that gave bad feelings. And then the brains started handling each in a different way. Although the positive was appreciated, the negative always took precedence over the positive, because we had to take care of a threat at hand. This also formed the basis of the Prospect Theory. That's the reason we, to the day, prioritise the negative over positive.
 
-Our memory is also designed in a way that it records negative faster and stores it in the long term memory. If we have to compare our brain to the microprocessor, we may say that the negative is stored in the processor cache while the positive in the {{< abbr "RAM" >}} when the computer is running code. {{< abbr "LOL" >}}.
+Our memory is also designed in a way that it records negative faster and stores it in the long term memory. If we have to compare our brain to the microprocessor, we may say that the negative is stored in the processor cache while the positive in the RAM when the computer is running code. LOL.
 
 In practice, the human brain handles each of these in different hemispheres. The left hemisphere handles the positive thoughts and feelings, while the right hemisphere handles the negative. And yes, some people may have a more positive outlook towards life, most tend to tilt towards the negative. Oh and yes, to shift from a negative thought to a positive one takes a lot of effort.
 

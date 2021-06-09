@@ -70,9 +70,9 @@ First, the disclaimer: I’m not a medical or paramedical professional. What you
 
 Before we talk about this message, I want to state that _some of the points_ mentioned in it are true. Second, we have still not fully understood this virus---we know a lot, but not everything. (It does not matter which great sage claims what, or whether someone predicted this thousands, hundreds or tens of years ago.) This is a "new" virus, and we learn something new about it every month if not every week.
 
-Dr Faheem Younus (who happens to be from our neighbouring country) is a respectable figure in his field. He actively tweets about {{< abbr COVID-19 >}}. And I collected these tweets from his timeline. I think the creator of the message paraphrased the doctor, and in my view, that is where the problem lies.
+Dr Faheem Younus (who happens to be from our neighbouring country) is a respectable figure in his field. He actively tweets about COVID-19. And I collected these tweets from his timeline. I think the creator of the message paraphrased the doctor, and in my view, that is where the problem lies.
 
-Dr Younus has been vocal about not being paranoid. He advocates use of masks, and other {{< abbr COVID >}}-appropriate behaviour. What this forwarded message does is take it a couple of notches up and talk about complete liberalisation of the protocol in closing.
+Dr Younus has been vocal about not being paranoid. He advocates use of masks, and other COVID-appropriate behaviour. What this forwarded message does is take it a couple of notches up and talk about complete liberalisation of the protocol in closing.
 
 That is not the way to go.
 
@@ -84,9 +84,9 @@ Working with such messages is tricky, because they have some truth in them. Let 
 
 > We may have to live with C19 for months or years. Don’t deny or panic. Don’t make your life a misery. Let’s learn to live with this reality.
 
-C19: what a cool way to say {{< abbr COVID-19 >}}! In general, this is true. We have no reason to panic, nor should you deny the fact that there is the pandemic. All those who publicly showed the virus their arrogance suffered from the infection (figuratively speaking). Some even succumbed to it.
+C19: what a cool way to say COVID-19! In general, this is true. We have no reason to panic, nor should you deny the fact that there is the pandemic. All those who publicly showed the virus their arrogance suffered from the infection (figuratively speaking). Some even succumbed to it.
 
-Having said that, let me also say that a friend of mine ([whom you can find on Instagram here](https://www.instagram.com/chinmay_nadig/)) has been volunteering here in Bangalore since April 2020, and has not caught the virus yet. He gets himself tested frequently given the possibility of exposure; he has always tested negative so far, nor does he have antibodies against the virus, which could mean he’s never had the infection. Thirteen months of close contact with {{< abbr COVID >}}-positive patients, and he has not caught the infection, for a simple reason: He wears a mask when out and about, and wears {{< abbr PPE >}} when handling patients and mortal remains over hours. That is not to say that he will never get infected (I hope he never does). The point is that personal protection has protected him for thirteen months, despite the constant, close contact with the infected.
+Having said that, let me also say that a friend of mine ([whom you can find on Instagram here](https://www.instagram.com/chinmay_nadig/)) has been volunteering here in Bangalore since April 2020, and has not caught the virus yet. He gets himself tested frequently given the possibility of exposure; he has always tested negative so far, nor does he have antibodies against the virus, which could mean he’s never had the infection. Thirteen months of close contact with COVID-positive patients, and he has not caught the infection, for a simple reason: He wears a mask when out and about, and wears PPE when handling patients and mortal remains over hours. That is not to say that he will never get infected (I hope he never does). The point is that personal protection has protected him for thirteen months, despite the constant, close contact with the infected.
 
 In other words, he has learnt to live with this reality.
 
@@ -142,7 +142,7 @@ Well, the last part is true; I found an almost-verbatim tweet:
 
 {{< tweet 1241812329404211202 >}}
 
-I do not know what "anti-allergies" are. But non-specific here means that losing smell does not _necessarily_ mean that you have {{< abbr COVID-19 >}}. Meaning, anosmia also has other causes. You may want to get tested, though:
+I do not know what "anti-allergies" are. But non-specific here means that losing smell does not _necessarily_ mean that you have COVID-19. Meaning, anosmia also has other causes. You may want to get tested, though:
 
 {{< tweet 1268189928942440450 >}}
 
@@ -160,9 +160,9 @@ Again, I do not shower every time I get back home---from, say, the store---these
 
 > The C19 virus does not fly through the air. This is a respiratory drop infection that requires close contact.
 
-_The virus is airborne._ Experts have said this before, and the US Centres for Disease Control ({{< abbr CDC >}}){{< sidenote cdc-airborne >}}The virus is an airborne threat, the C.D.C. acknowledges. ([The New York Times](https://www.nytimes.com/2021/05/07/health/coronavirus-airborne-threat.html)){{< /sidenote >}} and the {{< abbr WHO >}}{{< sidenote who-airborne >}}WHO Finally Admits Coronavirus Is Airborne. It’s Too Late ([Forbes](https://www.forbes.com/sites/jvchamary/2021/05/04/who-coronavirus-airborne/?sh=75d18a764472)){{< /sidenote >}} agree. But “airborne” here does not mean “getting carried around by the air for kilometres”. The scientific language is a little unusual for most of us, but in closed environments, the virus tends to travel more than a couple of metres and _hang_ in the air for a long period of time.
+_The virus is airborne._ Experts have said this before, and the US Centres for Disease Control (CDC){{< sidenote cdc-airborne >}}The virus is an airborne threat, the C.D.C. acknowledges. ([The New York Times](https://www.nytimes.com/2021/05/07/health/coronavirus-airborne-threat.html)){{< /sidenote >}} and the WHO{{< sidenote who-airborne >}}WHO Finally Admits Coronavirus Is Airborne. It’s Too Late ([Forbes](https://www.forbes.com/sites/jvchamary/2021/05/04/who-coronavirus-airborne/?sh=75d18a764472)){{< /sidenote >}} agree. But “airborne” here does not mean “getting carried around by the air for kilometres”. The scientific language is a little unusual for most of us, but in closed environments, the virus tends to travel more than a couple of metres and _hang_ in the air for a long period of time.
 
-The best defence against this is wearing a mask, and wearing it properly---fully covering your nose and mouth. Wearing a mask will _reduce the chances_ of your catching the virus. The viral load matters in case of {{< abbr COVID-19 >}}. The higher the amount of the virus you inhale, the higher are your chances of getting a severe disease.
+The best defence against this is wearing a mask, and wearing it properly---fully covering your nose and mouth. Wearing a mask will _reduce the chances_ of your catching the virus. The viral load matters in case of COVID-19. The higher the amount of the virus you inhale, the higher are your chances of getting a severe disease.
 
 A study done about the virus’ airborne nature in close environments said, in fact, that the virus can hang in the air in apartment buildings for long. Doctors also advice us to be careful when using public toilets. In such small enclosures, the virus can hang in the air for hours. Watch this video:
 
@@ -235,7 +235,7 @@ Nope. I do not think he said this; I do not think he ever suggested ginger for i
 
 Wrong.
 
-Impossible that a doctor of his calibre would say this. Also, no, wearing a mask {{< abbr "DOES NOT" >}} interfere with your breathing or oxygen levels.{{< sidenote mask-workout >}}If you are looking to do any cardiovascular exercises ("cardio") or anything that requires heavy breathing, talk to your doctor about what you should do.{{< /sidenote >}} I wore a mask for _28 hours_ straight (even while sleeping) when I had to spend a day in the hospital. I had a machine monitoring my vitals. Oxygen saturation in my blood was between 98% and 100% throughout.
+Impossible that a doctor of his calibre would say this. Also, no, wearing a mask DOES NOT interfere with your breathing or oxygen levels.{{< sidenote mask-workout >}}If you are looking to do any cardiovascular exercises ("cardio") or anything that requires heavy breathing, talk to your doctor about what you should do.{{< /sidenote >}} I wore a mask for _28 hours_ straight (even while sleeping) when I had to spend a day in the hospital. I had a machine monitoring my vitals. Oxygen saturation in my blood was between 98% and 100% throughout.
 
 Do not believe me? Here, this is what Dr Younus has to say:
 
@@ -262,7 +262,7 @@ This statement is reckless. And of course, I could not find this tweet. But I fo
 
 {{< tweet 1269332316540801024 >}}
 
-He talks about _this WhatsApp forward_ in this tweet. Also, I found [the same message, attributed to a different doctor.](https://www.richmond-news.com/local-news/fake-list-of-covid-19-wisdom-attributed-to-dr-bonnie-henry-making-rounds-online-3125096) The piece also links to the right {{< abbr AZB >}} article (yes, the one which you did not bother to click).
+He talks about _this WhatsApp forward_ in this tweet. Also, I found [the same message, attributed to a different doctor.](https://www.richmond-news.com/local-news/fake-list-of-covid-19-wisdom-attributed-to-dr-bonnie-henry-making-rounds-online-3125096) The piece also links to the right AZB article (yes, the one which you did not bother to click).
 
 Anyway, exposure to pathogens is one way to better immunity (which is also the popular go-to advice we get from our uncles). But I do not buy the "increasing immunity" story. To me---based on my conversations with doctors---the question is about healthy and unhealthy immunity.
 
@@ -282,11 +282,11 @@ The best, scientifically proven way to train your immunity is vaccination.
 
 ## Summing up
 
-Our knowledge of the virus continues to evolve as time passes. Follow the updates from the [{{< abbr WHO >}}](https://twitter.com/WHO), reputed doctors like [Dr Younus](https://twitter.com/FaheemYounus/), [Eric Topol](https://twitter.com/erictopol); official sources like the [Ministry of Health (GoI)](https://twitter.com/MoHFW_INDIA), [Indian Council of Medical Research ({{< abbr ICMR >}})](https://twitter.com/ICMRDELHI); reliable media outlets like [ThePrint](https://theprint.in/coronavirus-full-coverage/), [The Hindu](https://www.thehindu.com/topic/coronavirus/), [Faye D'Souza](https://twitter.com/fayedsouza), and [Twitter's list of {{< abbr COVID >}} resources](https://twitter.com/i/events/1385596085192691712) among other sources.
+Our knowledge of the virus continues to evolve as time passes. Follow the updates from the [WHO](https://twitter.com/WHO), reputed doctors like [Dr Younus](https://twitter.com/FaheemYounus/), [Eric Topol](https://twitter.com/erictopol); official sources like the [Ministry of Health (GoI)](https://twitter.com/MoHFW_INDIA), [Indian Council of Medical Research (ICMR)](https://twitter.com/ICMRDELHI); reliable media outlets like [ThePrint](https://theprint.in/coronavirus-full-coverage/), [The Hindu](https://www.thehindu.com/topic/coronavirus/), [Faye D'Souza](https://twitter.com/fayedsouza), and [Twitter's list of COVID resources](https://twitter.com/i/events/1385596085192691712) among other sources.
 
 Keep yourselves updated.
 
-If you cannot do that, follow these simple rules that are unlikely to change for {{< abbr COVID-19 >}}:
+If you cannot do that, follow these simple rules that are unlikely to change for COVID-19:
 
 1. Wear a mask; wear it the right way.
 2. Avoid crowds, maintain physical distance.

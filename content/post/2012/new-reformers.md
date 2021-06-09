@@ -6,7 +6,7 @@ tags:
 title: The New Reformers
 ---
 
-Well, it feels good to be back after a while, after some more thought processes and getting to know the world better. This one again is about something that I admire a lot in the Nature – the quality to change! Like how they say, change starts from our nose – it grows every second. {{< abbr "LOL" >}}
+Well, it feels good to be back after a while, after some more thought processes and getting to know the world better. This one again is about something that I admire a lot in the Nature – the quality to change! Like how they say, change starts from our nose – it grows every second. LOL
 
 So is this about change? Yes, this is! This is about change in the typical South-Indian society, but not really confining to it.
 
@@ -24,6 +24,6 @@ Nope. For instance, let’s say, my friend wants to marry a guy, against the soc
 
 What I wanna say is that change is good, change is necessary, change is Nature; but don’t use the disguise of ‘reform’ to do something that is narrow-minded, self-centered and unnecessary…
 
-Whoa...why does it sound ironic to me? {{< abbr "LOL" >}}
+Whoa...why does it sound ironic to me? LOL
 
 \*Agreed that I hate the whole concept of how we screwed ourselves with rules and other stuff as said in <a href="http://crimsoncanines.blogspot.in/2011/12/complication.html" target="_blank">The Complication</a>, I do feel we shouldn't screw around much with it either, now that it's been created :D

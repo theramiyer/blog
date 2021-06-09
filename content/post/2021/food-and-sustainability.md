@@ -42,7 +42,7 @@ Confused?
 
 We are a culture that cannot do without dairy.
 
-I grew up in Gujarat. Anand Milk Union Limited (or {{< abbr AMUL >}}) has always been a matter of awe for me. Amul has led the country in dairy production for decades, which means a regular employment and source of income for about 3.6 million dairy farmers who collectively own the co-operative body that manages it. I quote Prof. Gulati mentioning this as an example of sustainable economic growth for farmers in [a previous post]({{< ref "farmer-protests.md" >}}).
+I grew up in Gujarat. Anand Milk Union Limited (or AMUL) has always been a matter of awe for me. Amul has led the country in dairy production for decades, which means a regular employment and source of income for about 3.6 million dairy farmers who collectively own the co-operative body that manages it. I quote Prof. Gulati mentioning this as an example of sustainable economic growth for farmers in [a previous post]({{< ref "farmer-protests.md" >}}).
 
 Over years, we have grown more and more dependent on milk and dairy products. You cannot imagine a regular Indian household without _ghee_ in the kitchen. The white revolution in India makes for case studies in economic development for farmers. Amul is perhaps the largest food company in India, and one of the largest in the world. Most other states have co-operative societies replicating the Amul model. India makes 394 grams of milk per person, per day{{< sidenote 394g-milk >}}_Milk production and per capita availability of milk in India_ ([National Dairy Development Board](https://www.nddb.coop/sites/default/files/statistics/Mp%20India-ENG-2019.pdf)){{< /sidenote >}} as of 2019 (meaning, we manage to produce 187.7 million metric tonnes of milk a day).
 
@@ -96,7 +96,7 @@ The next is the food these animals eat. A non-lactating cow generally eats 2% of
 
 While the exact numbers are unavailable, we know that about 70% of bovines’ food is from fodder. The rest 30% is grain and pulses. Assuming that a cow eats an average 12 kilograms of food a day, about 3.5 kilograms of it are grains. Multiply that by the bovine population, we get 52,500 tonnes of grain every day. All our cows and buffaloes combined produce about 187.7 million litres of milk a day, which adds another 93,850 tonnes of grain a day as feed. All these animals in our country, combined, eat 146,350 tonnes of grain (or 1.463 lac tonnes of grain) a day.
 
-But then, a report based on {{< abbr FAS >}} New Delhi estimates, based on information from trade sources, shows that India uses a total of 38 ­– 42 million tonnes of feed.{{< sidenote fas-report >}}_India: Grain and Feed Annual_ ([USDA FAS](https://apps.fas.usda.gov/newgainapi/api/report/downloadreportbyfilename?filename=Grain%20and%20Feed%20Annual_New%20Delhi_India_3-29-2019.pdf)){{< /sidenote >}} Corn, wheat and other coarse grains constitute 21.3 – 23 million tonnes. Another point the report brings to attention is the potential need to import feed ingredients from the international market. The feed industry is growing at a rate of 5 – 7 percent per year, almost in line with the meat consumption.
+But then, a report based on FAS New Delhi estimates, based on information from trade sources, shows that India uses a total of 38 ­– 42 million tonnes of feed.{{< sidenote fas-report >}}_India: Grain and Feed Annual_ ([USDA FAS](https://apps.fas.usda.gov/newgainapi/api/report/downloadreportbyfilename?filename=Grain%20and%20Feed%20Annual_New%20Delhi_India_3-29-2019.pdf)){{< /sidenote >}} Corn, wheat and other coarse grains constitute 21.3 – 23 million tonnes. Another point the report brings to attention is the potential need to import feed ingredients from the international market. The feed industry is growing at a rate of 5 – 7 percent per year, almost in line with the meat consumption.
 
 Add to this bird feed, which is a 70% concentrate of grains and pulses, across the total poultry population, and again, you have a large amount of food that goes into feeding the birds.
 
@@ -156,4 +156,4 @@ As for those who go for meat for the taste and texture, the likes of _Impossible
 
 Sustainability is important. No other species can understand this. And protecting ourselves along with our surroundings is _our_ responsibility.
 
-And no, I do not subscribe to {{< abbr PETA >}} or any activist organisation.
+And no, I do not subscribe to PETA or any activist organisation.

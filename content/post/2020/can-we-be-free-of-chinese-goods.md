@@ -13,7 +13,7 @@ tags:
 title: Can we be free of Chinese goods
 ---
 
-Ever since [Prime Minister Modi made his speech](https://www.youtube.com/watch?v=g2I20uFMy3E) on the 12th of May 2020, _Aatmanirbhar_ started trending. My Facebook newsfeed showed countless memes and what not, about boycotting Chinese products. Some even questioned my bravery to be able to say no to {{< abbr "Made in China" >}}.
+Ever since [Prime Minister Modi made his speech](https://www.youtube.com/watch?v=g2I20uFMy3E) on the 12th of May 2020, _Aatmanirbhar_ started trending. My Facebook newsfeed showed countless memes and what not, about boycotting Chinese products. Some even questioned my bravery to be able to say no to Made in China.
 
 {{< figure src="https://blogfiles.ramiyer.me/2020/images/say-no-to-made-in-china.jpg" alt="A Say No to Made In China poster from social media" caption="A Say No to Made In China poster [from social media](https://www.facebook.com/PostcardEnglishNews/photos/a.818260655050767/1356674747876019/)" >}}
 
@@ -25,7 +25,7 @@ Bravery to post aside, I started to think, 'How practical would it be to boycott
 
 ## The current situation
 
-As of March 2020, our total import from China was at $70 billion[^aa6ccf72] in twelve months. That amounts to about 13% of the total imports[^8e184c5a] into India. The pre-{{< abbr "COVID" >}}-19 period says no different story either: India imported goods worth $514.08 bn in all, of which, goods imported from China were worth $70.32 bn[^290ca9bc].
+As of March 2020, our total import from China was at $70 billion[^aa6ccf72] in twelve months. That amounts to about 13% of the total imports[^8e184c5a] into India. The pre-COVID-19 period says no different story either: India imported goods worth $514.08 bn in all, of which, goods imported from China were worth $70.32 bn[^290ca9bc].
 
 The issue is not merely importing goods and services from China, but _how much_ we export and import. We call this _Trade Balance_; the difference between the worth of goods and services exported, and the worth of goods and services imported. A positive number indicates a trade surplus, while a negative number indicates deficit. Data source: Export Import Data Bank, Govt. of India.
 
@@ -35,7 +35,7 @@ The issue is not merely importing goods and services from China, but _how much_ 
 
 [^290ca9bc]: [Export Import Data Bank (Ministry of Commerce and Industry)](https://commerce-app.gov.in/eidb/)
 
-[^8e184c5a]: [India's Foreign Trade: March 2020 ({{< abbr "PIB" >}} India)](https://pib.gov.in/newsite/PrintRelease.aspx?relid=202278)
+[^8e184c5a]: [India's Foreign Trade: March 2020 (PIB India)](https://pib.gov.in/newsite/PrintRelease.aspx?relid=202278)
 
 [^aa6ccf72]: [Coronavirus: India may impose duties on 100 top Chinese imports (Business Standard)](https://www.business-standard.com/article/economy-policy/coronavirus-india-may-impose-duties-on-100-top-chinese-imports-120022901126_1.html)
 
@@ -99,15 +99,15 @@ This direction is undesirable for the government.
 
 Make in India is a fantastic phrase and a good plan, but requires enormous amounts of work. The first step is to make business easier in India, so that more manufacturers come up. The goal should be to reduce import of finished goods. Import of raw material is inevitable at some point.
 
-Coming back to setting up businesses, the 2020 _Doing Business_ report[^a09c7b45] ranks India at 63 in ease of doing business. We have come up from 134 back in 2014, and that is no small feat. But China ranks at 31. We still have a long way to go, if we are competing with China. Even if not, think of how easy starting a business in India is, like registration, getting construction permits, electricity supply, or the kind of aid available to new businesses, the tax norms, and such factors. These factors impact the ease of doing business. The reality is that we are in an age where small businesses are unable to understand {{< abbr "GST" >}}, even three years after its implementation.
+Coming back to setting up businesses, the 2020 _Doing Business_ report[^a09c7b45] ranks India at 63 in ease of doing business. We have come up from 134 back in 2014, and that is no small feat. But China ranks at 31. We still have a long way to go, if we are competing with China. Even if not, think of how easy starting a business in India is, like registration, getting construction permits, electricity supply, or the kind of aid available to new businesses, the tax norms, and such factors. These factors impact the ease of doing business. The reality is that we are in an age where small businesses are unable to understand GST, even three years after its implementation.
 
 Sure, the government has all the documentation, but how accessible is it? And by that I don't mean being able to find links and click on them; how simple is it for the _general population_ to understand this? If not, what percentage of businesses can afford to hire a chartered accountant?
 
 [^a09c7b45]: [Ease of Doing Business rankings (Doing Business)](https://www.doingbusiness.org/content/dam/doingBusiness/pdf/db2020/Doing-Business-2020_rankings.pdf)
 
-Secondly, the basic infrastructure required to enable this is not in place. If it were, we would not be looking at 7.6% unemployment (December 2019---three months before the {{< abbr "COVID-19" >}} lockdown)[^2d029c00].
+Secondly, the basic infrastructure required to enable this is not in place. If it were, we would not be looking at 7.6% unemployment (December 2019---three months before the COVID-19 lockdown)[^2d029c00].
 
-[^2d029c00]: [Unemployment Rate in India ({{< abbr "CMIE" >}})](https://unemploymentinindia.cmie.com/)
+[^2d029c00]: [Unemployment Rate in India (CMIE)](https://unemploymentinindia.cmie.com/)
 
 ## Will the boycott impact China
 
@@ -136,6 +136,6 @@ We have spent decades, mired in Hindu-Muslim skirmishes and scams and "internal 
 
 Third, we also seem to miss out on recycling. Recycling plastics and metals would mean less of them bought from elsewhere. Apart from reducing the size of landfills, recycling could generate more jobs, and at the same time, lend a hand in reducing imports as well as the cost of raw materials. Why we are not encouraging recycling in the right way is beyond me. What happened to the 'No waste is waste' campaign?
 
-The moral of the story is, tweeting 'Boycott Chinese goods' or making postcards of 'We are saying {{< abbr "no" >}} to {{< abbr "Made in China" >}}' at this point is stupid, short-sighted, irresponsible and absurd.
+The moral of the story is, tweeting 'Boycott Chinese goods' or making postcards of 'We are saying no to Made in China' at this point is stupid, short-sighted, irresponsible and absurd.
 
 Sure, you can exercise your right to expression of views; opine that I am anti-national. But, will silencing the pain with a pill fix the broken bone?

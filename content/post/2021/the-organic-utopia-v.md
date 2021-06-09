@@ -47,7 +47,7 @@ To jump to the parts themselves, use the links below:
 
 Carrying on from the last point, we want to be able to grow more food with the existing land infrastructure. We do not want to fell more trees and deforest land so we can grow more grain. Rather than look at "organic" or "non-organic", go for what is good for humanity _and_ our environment. For example, in one case, an analysis in a research found that some organic hay crops surpassed conventional yields in the US.{{< sidenote organic-hay >}}_Commercial Crop Yields Reveal Strengths and Weaknesses for Organic Agriculture in the United States_ ([PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0161673)){{< /sidenote >}} While we may not be able to fully replicate it here in India (because of varying climatic, soil and other conditions), this is a good point: Organic farming, with some of its ecological benefits, has surpassed conventional farming in yield in one documented case. Go for it!
 
-India has the largest number of organic farmers in the world, and is one of the largest global contributors to organic produce. Our standards are high enough that the consumers respect it. We have our organic certification programmes; two of them: One under the National Programme for Organic Production ({{< abbr NPOP >}}) and Participatory Guarantee System ({{< abbr PGS >}}). You can find out more by visiting [Jaivik Bharat](https://jaivikbharat.fssai.gov.in/), {{< abbr FSSAI >}}.
+India has the largest number of organic farmers in the world, and is one of the largest global contributors to organic produce. Our standards are high enough that the consumers respect it. We have our organic certification programmes; two of them: One under the National Programme for Organic Production (NPOP) and Participatory Guarantee System (PGS). You can find out more by visiting [Jaivik Bharat](https://jaivikbharat.fssai.gov.in/), FSSAI.
 
 But let us also look at the other side of the story.
 
@@ -62,7 +62,7 @@ Of course, this is not to blame the organic methods themselves. The transition f
 
 This is the other pole. Again, unhealthy and unsustainable. Also, the organic farmers in Sikkim receive little support from the government when it comes to regulations. For example, the State does not restrict food that comes from outside, because it says it needs more food than is locally produced, to cater to the tourists that come to Sikkim. This kills the market for the local farmers, because even the locals buy the conventionally grown food that comes from West Bengal, which is cheaper than the locally grown organic food.
 
-This begs the question, is it better to buy local, no matter whether organic or not? Because one reality is that some of the standards set by {{< abbr FSSAI >}} even for conventionally grown food is so high, that it does not matter if the food is "organic" or not. My take on this would be go for locally made food, whatever is in season. This achieves three purposes:
+This begs the question, is it better to buy local, no matter whether organic or not? Because one reality is that some of the standards set by FSSAI even for conventionally grown food is so high, that it does not matter if the food is "organic" or not. My take on this would be go for locally made food, whatever is in season. This achieves three purposes:
 
 1. You do not use energy to run a greenhouse
 2. You support local farmers and the produce

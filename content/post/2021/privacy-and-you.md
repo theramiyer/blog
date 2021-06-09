@@ -20,7 +20,7 @@ Online privacy is like civilisation. It takes time, but when it happens, it happ
 
 Bold statement. Great.
 
-Now, let us talk sense, yes? The statement above is a product of confusing privacy with secrecy. You see, little of your life is a secret. But a lot more is private. You do not walk around with a t-shirt proclaiming your {{< abbr PAN >}}. You close the doors of your home and choose whom to let in. Why? Because your home---leased or bought---is your _private_ property.
+Now, let us talk sense, yes? The statement above is a product of confusing privacy with secrecy. You see, little of your life is a secret. But a lot more is private. You do not walk around with a t-shirt proclaiming your PAN. You close the doors of your home and choose whom to let in. Why? Because your home---leased or bought---is your _private_ property.
 
 Private information is something like that. Your tax receipts, your bank account statement, your phone number; these are not secrets, but they are private. Without a certain degree of protection, people can use these pieces of information against you.
 
@@ -44,21 +44,21 @@ This post is about data sharing between Facebook and WhatsApp, which going forwa
 
 Think again. If Facebook saw no big deal in a stupid app that lets you catch up with friends, sends and receives encrypted messages and displays no ads while charging nothing, why did it buy the app for 19 billion{{< sidenote fb-wa-acq >}}_Facebook to Acquire WhatsApp_ ([Facebook](https://about.fb.com/news/2014/02/facebook-to-acquire-whatsapp/)){{< /sidenote >}} dollars? Nineteen _billion_ dollars. Let that sink in.
 
-Simple: WhatsApp aims to replace the good old {{< abbr SMS >}}.
+Simple: WhatsApp aims to replace the good old SMS.
 
-You would have services that send you messages, such as order updates, over WhatsApp. This is one of the reasons Facebook bought WhatsApp. In reality, {{< abbr SMS >}} is government-regulated space, at least in countries like India. Telecom Regulator Authority of India has always had a say in this, including setting limits on the number of {{< abbr SMS >}} messages that one can send in a day. Companies looking to use this have to clear regulatory requirements before getting the access to send bulk messages. Moreover, how do you buy {{< abbr SMS >}}?
+You would have services that send you messages, such as order updates, over WhatsApp. This is one of the reasons Facebook bought WhatsApp. In reality, SMS is government-regulated space, at least in countries like India. Telecom Regulator Authority of India has always had a say in this, including setting limits on the number of SMS messages that one can send in a day. Companies looking to use this have to clear regulatory requirements before getting the access to send bulk messages. Moreover, how do you buy SMS?
 
-At most, you can create an {{< abbr SMS >}} app, like [Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging) by Google or [{{< abbr SMS >}} Organizer](https://play.google.com/store/apps/details?id=com.microsoft.android.smsorganizer) by Microsoft. I think Microsoft aces this space, and to make it sweeter, says that all processing happens on the phone, no link to the cloud.{{< sidenote sms-org-cloud >}}The app has been around for some time now, and Microsoft has not changed the no-cloud strategy. But we do not know how long they will keep it that way.{{< /sidenote >}} Facebook did indeed try to push [Messenger](https://play.google.com/store/apps/details?id=com.facebook.orca) as the {{< abbr SMS >}} app, but nobody I know uses it for {{< abbr SMS >}}. Also, all this is on Android, because, Apple does not let any third party touch {{< abbr SMS >}}, citing privacy and security.
+At most, you can create an SMS app, like [Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging) by Google or [SMS Organizer](https://play.google.com/store/apps/details?id=com.microsoft.android.smsorganizer) by Microsoft. I think Microsoft aces this space, and to make it sweeter, says that all processing happens on the phone, no link to the cloud.{{< sidenote sms-org-cloud >}}The app has been around for some time now, and Microsoft has not changed the no-cloud strategy. But we do not know how long they will keep it that way.{{< /sidenote >}} Facebook did indeed try to push [Messenger](https://play.google.com/store/apps/details?id=com.facebook.orca) as the SMS app, but nobody I know uses it for SMS. Also, all this is on Android, because, Apple does not let any third party touch SMS, citing privacy and security.
 
 Facebook wants to be in this space, because transactional messages are critical in determining the user's financial profile and behaviour. This is why Google tracks your purchases via Gmail, even though (it claims that) it does not show you ads based on them.
 
-A step in this direction is WhatsApp Business. Businesses can sign up for the platform and, if more than one individual are interacting with customers or businesses want automated messaging, they could go for the paid package where the businesses get access to the [WhatsApp Business {{< abbr API >}}](https://www.whatsapp.com/business/api), using which they can automate messaging.
+A step in this direction is WhatsApp Business. Businesses can sign up for the platform and, if more than one individual are interacting with customers or businesses want automated messaging, they could go for the paid package where the businesses get access to the [WhatsApp Business API](https://www.whatsapp.com/business/api), using which they can automate messaging.
 
 This is crucial information for Facebook, because it can tell who is buying what from whom, how frequently they have interactions, etc.
 
 Also, WhatsApp Business is not restricted to businesses. Political organisations, activists, anyone with need to interact with hundreds, thousands or millions of users can use the platform. The _Cambridge Analytica_ scandal is a classic example of manipulation of users on the fence. All this power vested in a single large entity is dangerous. And Facebook is an empire.
 
-And, do not forget the payment integration. Using {{< abbr UPI >}} apps such as PhonePe and Google Pay we (users and businesses) give loads of financial data to the makers of these apps. If you combined messaging with payments (which Google and PhonePe have not excelled at yet because nobody sees the two as communication apps), user-base and data collection could skyrocket. It would be a business _ecosystem_ that nobody would want to leave.
+And, do not forget the payment integration. Using UPI apps such as PhonePe and Google Pay we (users and businesses) give loads of financial data to the makers of these apps. If you combined messaging with payments (which Google and PhonePe have not excelled at yet because nobody sees the two as communication apps), user-base and data collection could skyrocket. It would be a business _ecosystem_ that nobody would want to leave.
 
 ## Facebook already knows me
 
@@ -130,7 +130,7 @@ Secondly, users’ data is no company's commodity. The user must have a right to
 
 This is not about showing a company its place. This is about taking control of your data and data about you. Weigh the value you receive in return for your data. If the deal is not good enough, walk out. Do not hold on to toxic relationships.
 
-We have a handful of alternatives for such services out there. Privacy does sometimes come at a cost. Living in the open, exposed to the elements does not need any money; you need the ability to survive. If you need clothes and a shelter to protect your privacy and what you value most, you must pay for it. Experience tells us that we can trust no single business with what we value, because businesses are here for business, and their priorities may be different from yours. This is why I support Free/Libre and Open Source Software ({{< abbr FLOSS >}}). The community drives them. Most of these run on donations and grants. Here are some privacy-friendly alternatives I use on a regular basis:
+We have a handful of alternatives for such services out there. Privacy does sometimes come at a cost. Living in the open, exposed to the elements does not need any money; you need the ability to survive. If you need clothes and a shelter to protect your privacy and what you value most, you must pay for it. Experience tells us that we can trust no single business with what we value, because businesses are here for business, and their priorities may be different from yours. This is why I support Free/Libre and Open Source Software (FLOSS). The community drives them. Most of these run on donations and grants. Here are some privacy-friendly alternatives I use on a regular basis:
 
 1. [Pop!_OS](https://pop.system76.com/) as my notebook OS (open source)
 2. [ProtonMail](https://protonmail.com/) for email (open source)
@@ -147,4 +147,4 @@ We have a handful of alternatives for such services out there. Privacy does some
 
 If you do try any of these out, and like them, please also consider supporting the open source ones either financially or through contribution to code or documentation.
 
-Like [I have been saying]({{< ref "better-online-privacy-part-ii.md" >}}), it does not make sense to get rid of the Big Five ({{< abbr GAFAM >}}), but we sure can reduce their control over the data about us. Also, none of the above asked me or paid me anything to list them out.
+Like [I have been saying]({{< ref "better-online-privacy-part-ii.md" >}}), it does not make sense to get rid of the Big Five (GAFAM), but we sure can reduce their control over the data about us. Also, none of the above asked me or paid me anything to list them out.

@@ -56,7 +56,7 @@ Here are the major actors in the environmental impact in this context:
 
 We have already covered pesticides in detail. Let us jump to fertilisers.
 
-Fertilisers mainly supplement nitrogen, phosphorous and potassium in the soil. Of course, we have other variants of fertilisers that have specific use, but the most commonly used ones are {{< abbr NPK >}} fertilisers. Plants need these for amino acids, creating the cell membrane and even the {{< abbr DNA >}}. Among these elements, nitrogen plays the most important role.
+Fertilisers mainly supplement nitrogen, phosphorous and potassium in the soil. Of course, we have other variants of fertilisers that have specific use, but the most commonly used ones are NPK fertilisers. Plants need these for amino acids, creating the cell membrane and even the DNA. Among these elements, nitrogen plays the most important role.
 
 Why do we need fertilisers?
 

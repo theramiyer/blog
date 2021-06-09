@@ -26,7 +26,7 @@ Why are people talking so much about social distancing when we have 400 cases in
 
 Because this is a classic case of an exponential spread of infection.
 
-In the initial days of this outbreak, the {{< abbr "WHO" >}} came out and said that every infected person infects about 2.6 people on average. On day one, we have one person infected. The {{< abbr "WHO" >}} said that one generation of transmission was 5--6 days. At the end of the sixth day, this person would have spread it to 2.6 people. Let us go with 2 to make the calculation simpler. At the end of, say, the stage one, two new people have the infection. At the end of the second stage, the number of new patients is 4, third, 8; fourth; 16, 32, 64... At the end of the tenth stage, the number is 1024. At stage 10, in six days, we would have 1024 _new_ cases of the infection.
+In the initial days of this outbreak, the WHO came out and said that every infected person infects about 2.6 people on average. On day one, we have one person infected. The WHO said that one generation of transmission was 5--6 days. At the end of the sixth day, this person would have spread it to 2.6 people. Let us go with 2 to make the calculation simpler. At the end of, say, the stage one, two new people have the infection. At the end of the second stage, the number of new patients is 4, third, 8; fourth; 16, 32, 64... At the end of the tenth stage, the number is 1024. At stage 10, in six days, we would have 1024 _new_ cases of the infection.
 
 From then on, we are looking at somewhat uncontrollable transmission. At stage 13, we are looking at 8192 cases; over 1300 cases in a day.
 
@@ -52,11 +52,11 @@ Incubation period is the time between someone getting infected, and the time the
 
 During this time, while you may be carrying the virus, you will not know that you have the virus. You might go on with your lives, but you _could_ be spreading the virus around even when you are not showing symptoms[^addbbed9].
 
-[^addbbed9]: [{{< abbr "COVID-19" >}}: How it spreads (Centers for Disease Control and Prevention)](https://www.cdc.gov/coronavirus/2019-ncov/prepare/transmission.html)
+[^addbbed9]: [COVID-19: How it spreads (Centers for Disease Control and Prevention)](https://www.cdc.gov/coronavirus/2019-ncov/prepare/transmission.html)
 
 ## Community transmission
 
-Let us assume that you are at a bus stop along with twenty others. One of those standing about six feet from you, has the infection. He coughs, and splashes droplets on four others standing right next to him. One of them is a teller at a bank, another is a cook at a cafeteria of an IT firm, whose building houses about seven thousand people; another is a {{< abbr "TTE" >}} and the fourth, a priest at a temple. All these four interact with hundreds of people in a day. Imagine how the virus could now spread.
+Let us assume that you are at a bus stop along with twenty others. One of those standing about six feet from you, has the infection. He coughs, and splashes droplets on four others standing right next to him. One of them is a teller at a bank, another is a cook at a cafeteria of an IT firm, whose building houses about seven thousand people; another is a TTE and the fourth, a priest at a temple. All these four interact with hundreds of people in a day. Imagine how the virus could now spread.
 
 This is a dangerous phase. We want to cut down on the transmission before we reach a point where the situation becomes uncontrollable. The governments have suspended public transport services, imposed Section 144 in over 70 districts, the companies are allowing their employees to work from home, because we want to:
 

@@ -9,7 +9,7 @@ title: My First 100 km Bicycle Ride
 
 Before I start, let me mention, very clearly, that I'm just a beginner cyclist. Sometimes I like to push myself to my limits to see where I stand. As I go through these experiences, I learn more about myself, and this post is just an observation, thinking it might help someone looking to go on a long bicycle ride; some things to consider, some facts, and probable best practices.
 
-It had been long since I'd been on a long ride. The first long ride I'd been on was of 60&nbsp;km, on the Outer Ring Road, Bangalore. On that ride, I'd taken with me a bottle full of {{< abbr "ORS" >}}, and some packs of Appy. A few hours before the ride, I'd eaten a solid lunch. I left at about quarter past six in the evening and returned at half past nine. Overall, I'd enjoyed the ride. The gear I used for this ride was the 21-speed {{< abbr "MTB" >}}, Hercules Ryders Contour.
+It had been long since I'd been on a long ride. The first long ride I'd been on was of 60&nbsp;km, on the Outer Ring Road, Bangalore. On that ride, I'd taken with me a bottle full of ORS, and some packs of Appy. A few hours before the ride, I'd eaten a solid lunch. I left at about quarter past six in the evening and returned at half past nine. Overall, I'd enjoyed the ride. The gear I used for this ride was the 21-speed MTB, Hercules Ryders Contour.
 
 I think it was in July 2017 that I went on another ride, to Chikkabanavara. We started in the morning. By the time we returned in the afternoon, I was half-dead. Apart from the company, there was nothing I enjoyed on that ride---a stark contrast. I noted down some of the points about the ride:
 
@@ -48,7 +48,7 @@ Now, it was time to pay back for the gravity assistance down the Pipeline Road. 
 
 ![The long Pipeline Road](https://blogfiles.ramiyer.me/2018/images/2018-09-23-5339.JPG)
 
-When I entered urban Bangalore from around Turahalli, a part of me wanted to stop once I was near home. The other part wanted me to go all the way to the {{< abbr "BOTS" >}} store. I bought a bar of Snickers at a local store and ate it while riding. Bad idea. The bar was too sweet for me to finish in one go. It made me feel like wanting to throw up. I kept my cool and waded through the Bangalore traffic---that cannot see you if you're riding a bicycle---and reached the store. Lunch was served. I could not pedal back home; I was too tired for it. I took a cab home.
+When I entered urban Bangalore from around Turahalli, a part of me wanted to stop once I was near home. The other part wanted me to go all the way to the BOTS store. I bought a bar of Snickers at a local store and ate it while riding. Bad idea. The bar was too sweet for me to finish in one go. It made me feel like wanting to throw up. I kept my cool and waded through the Bangalore traffic---that cannot see you if you're riding a bicycle---and reached the store. Lunch was served. I could not pedal back home; I was too tired for it. I took a cab home.
 
 ![Talk about encouragement](https://blogfiles.ramiyer.me/2018/images/2018-09-23-5340.JPG)
 

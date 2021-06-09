@@ -51,7 +51,7 @@ Why does Google filter search results despite being one of the two largest adver
 
 But the problem that this filtering creates is bigger. By attempting to exclude content you may not like, Google does not give you the entire picture.
 
-For example, when you google "Kashmir" on Google Maps from India, Google may show you the border a certain way, compared to googling the same phrase from, say, England. Look at the example below: the image on the left is from India, and the one on the right is from the US (thanks, {{< abbr VPN >}}). Move the slider and watch the International Border.
+For example, when you google "Kashmir" on Google Maps from India, Google may show you the border a certain way, compared to googling the same phrase from, say, England. Look at the example below: the image on the left is from India, and the one on the right is from the US (thanks, VPN). Move the slider and watch the International Border.
 
 {{< before-after "https://blogfiles.ramiyer.me/2021/images/kashmir-google-maps-india.webp" "https://blogfiles.ramiyer.me/2021/images/kashmir-google-maps-us.webp" "Kashmir as seen on Google Maps from India" "Kashmir as seen on Google Maps from the US" "Kashmir as seen from India and the US" >}}
 
@@ -71,7 +71,7 @@ This is why platforms collect all possible data about you. Whom you talk to the 
 
 Why do you think Google gives you a timeline of where you have been? Why do you think Google asks you about your experience at a certain store the moment you step out of it? Why do you think it asks you to rate the prediction of "You may like this video" in your YouTube feed? Why do you think Google let you upload high quality photos for free until May 2021?
 
-In fact, Google entering into the {{< abbr CCTV >}} business would not surprise me at all, given all the facial data it has.
+In fact, Google entering into the CCTV business would not surprise me at all, given all the facial data it has.
 
 You would have noticed that the biggest names in Web Analytics are the biggest players in the online ad world. When companies give away free analytics, website owners add them to see how their website performs, and the analytics providers collect data in the background to profile you. Google and Facebook are the leaders in this area. (I use analytics, but through [a privacy-respecting platform](https://plausible.io/), whom I pay. No other trackers are present on this site except in case of posts with [social embeds](/privacy/)).)
 

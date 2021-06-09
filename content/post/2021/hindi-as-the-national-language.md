@@ -94,7 +94,7 @@ I saw another tweet as a response to it:
 
 I scoffed at the illogical argument, and moved on. Later, I read the whole story. Here is a gist:
 
-Some nurses from Kerala at {{< abbr GIPMER >}} were speaking in Malayalam amongst themselves. Someone felt this was an issue, and the management released a statement prohibiting the nurses from speaking any language other than Hindi and English, and warning them of strict action against them if they failed to comply.
+Some nurses from Kerala at GIPMER were speaking in Malayalam amongst themselves. Someone felt this was an issue, and the management released a statement prohibiting the nurses from speaking any language other than Hindi and English, and warning them of strict action against them if they failed to comply.
 
 This became a controversy because, first of all, the nurses were speaking in Malayalam among themselves, not to the patients or visitors. The second point made is the first tweet. On the whole, the argument is legitimate: if Karnataka said it would tolerate no language other than English and Kannada, a large number of people in Bengaluru will be in trouble.
 

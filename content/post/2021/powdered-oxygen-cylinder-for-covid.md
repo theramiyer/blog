@@ -60,7 +60,7 @@ Here is the English translation:
 >
 > They say that the level of oxygen in our body must be 98 – 100, and that you need oxygen support if it drops below 43.
 >
-> There is a measurement called {{< abbr ORAC >}}, or, Oxygen Radical Absorption Capacity. We should consume foods high in oxygen level according to this scale:
+> There is a measurement called ORAC, or, Oxygen Radical Absorption Capacity. We should consume foods high in oxygen level according to this scale:
 >
 > | Substance  | ORAC Score   |
 > | :--------- | -----------: |
@@ -82,7 +82,7 @@ Here is the English translation:
 >
 > Dry roast these ingredients, powder them and store them in a glass container. Adding one teaspoon per two cups of your morning and evening tea would make your regular tea, masala tea.
 >
-> The rate of spread of {{< abbr COVID-19 >}} is increasing. The virus spreads to the lungs, reduces its oxygen absorption capacity and kills.
+> The rate of spread of COVID-19 is increasing. The virus spreads to the lungs, reduces its oxygen absorption capacity and kills.
 >
 > Please share this with your friends and family.
 >
@@ -94,17 +94,17 @@ Here is the English translation:
 
 {{< podcast >}}
 
-Let me start by saying that like most "health tips" on WhatsApp, this is perhaps well-intended. But {{< abbr ORAC >}} stands for Oxygen Radical Absorbance (not Absorption) Capacity, and this has _nothing_ to do with how much oxygen our bodies can absorb.
+Let me start by saying that like most "health tips" on WhatsApp, this is perhaps well-intended. But ORAC stands for Oxygen Radical Absorbance (not Absorption) Capacity, and this has _nothing_ to do with how much oxygen our bodies can absorb.
 
 The premise of this forward is like linking 'irony' to 'ironing' because both the words begin with "iron".
 
 {{< figure src="https://blogfiles.ramiyer.me/2021/images/tea-and-masala.jpg" alt="Teapot and spices" caption="Courtesy: [Aditya Joshi](https://unsplash.com/@adijoshi11)" >}}
 
-Okay, if {{< abbr ORAC >}} is not about the oxygen absorption capacity of our body, then what is it? Before we begin to understand this, we must know what metabolism, oxidation and free radicals are.
+Okay, if ORAC is not about the oxygen absorption capacity of our body, then what is it? Before we begin to understand this, we must know what metabolism, oxidation and free radicals are.
 
 Metabolism is a process by which our body sustains life: in simple terms, our body converts sugar and fat molecules into energy, it converts food to fundamental blocks like nucleic acid, and throws away wastes generated from such processes.
 
-Chemical processes combine reactants to make products. Some reactions produce by-products as well. Free radicals are, in simple terms, short-lived by-products. (Short-lived, because they are unstable.) In oversimplified terms, these free radicals could be "incomplete" atoms or molecules---these are looking for electrons to become stable. Free radicals could be of different types. The most common ones in human beings are _oxygen_ free radicals. These free radicals remain "free" for a fraction of a second, but their sheer number makes them dangerous. When looking for other atoms or molecules to bind with, they may end up altering our {{< abbr DNA >}}, which leads to cell damage or mutation.
+Chemical processes combine reactants to make products. Some reactions produce by-products as well. Free radicals are, in simple terms, short-lived by-products. (Short-lived, because they are unstable.) In oversimplified terms, these free radicals could be "incomplete" atoms or molecules---these are looking for electrons to become stable. Free radicals could be of different types. The most common ones in human beings are _oxygen_ free radicals. These free radicals remain "free" for a fraction of a second, but their sheer number makes them dangerous. When looking for other atoms or molecules to bind with, they may end up altering our DNA, which leads to cell damage or mutation.
 
 Our body, by design, can handle free radicals using its own enzyme systems. These are our own antioxidants. These natural antioxidants that our body creates balances the oxidant free radicals.
 
@@ -126,9 +126,9 @@ Right, so, we need antioxidants in our body to balance out the free radicals. Th
 
 To measure the antioxidant capacity of foods, scientists developed a system of finding out the in-vitro (or, "in the glass"---in other words, "in the lab") antioxidant activity of a given food item. The measure of this activity is Oxygen Radical Absorbance Capacity. In the lab, they "challenge" a material vulnerable to oxidation (in the presence of a food item), with an oxidising agent, and see how well the food item resists oxidation of the vulnerable substance. As a simple example, let us say that you kept a thin, little sheet of iron in a test tube, placed some cloves and blew in steam mixed with atmospheric air. You then measured how well the cloves resisted the oxidation of the iron sheet. Of course, this is an oversimplified experiment---the actual experiments could be much more elaborate and use a more sophisticated method.
 
-One important point to remember, though, is that this is a lab test. It does not necessarily translate directly to the antioxidant activity in the body (or, "in-vivo"). Measuring their in-vivo activity is not possible with the current technology (which was the reason the scientists developed the in-vitro system of measurement). Superfoodly keeps an updated list of these food items with their {{< abbr ORAC >}} values.{{< sidenote superfoodly >}}ORAC Values: Antioxidant Values of Foods & Beverages ([Superfoodly](https://www.superfoodly.com/orac-values/)){{< /sidenote >}} Also, last I checked, this score is for 100 g of these substances. Which means, you would need to convert these values to your typical serving.
+One important point to remember, though, is that this is a lab test. It does not necessarily translate directly to the antioxidant activity in the body (or, "in-vivo"). Measuring their in-vivo activity is not possible with the current technology (which was the reason the scientists developed the in-vitro system of measurement). Superfoodly keeps an updated list of these food items with their ORAC values.{{< sidenote superfoodly >}}ORAC Values: Antioxidant Values of Foods & Beverages ([Superfoodly](https://www.superfoodly.com/orac-values/)){{< /sidenote >}} Also, last I checked, this score is for 100 g of these substances. Which means, you would need to convert these values to your typical serving.
 
-Upon converting the {{< abbr ORAC >}} values for the quantity of these items as mentioned in the recipe (as per the data on Superfoodly, as on the date of writing this post), this is what you would get:
+Upon converting the ORAC values for the quantity of these items as mentioned in the recipe (as per the data on Superfoodly, as on the date of writing this post), this is what you would get:
 
 | Substance    | Quantity |         ORAC score | Resultant ORAC value |
 | ------------ | -------- | -----------------: | -------------------: |
@@ -139,7 +139,7 @@ Upon converting the {{< abbr ORAC >}} values for the quantity of these items as 
 | Dry ginger   | 10 g      |              39041 |               3904.1 |
 | Cardamom     | 10 g      |               2764 |                276.4 |
 
-This gives us 25265.65 per 180 g of this powder. Assuming that the roasting of these do not vaporise the antioxidants present in the aromatic compounds of these spices, and going by that we would use 5 g of these per day, the {{< abbr ORAC >}} score of the amount of this powder, per day, would be 701.824. That is the same as 100 g of raw carrots.
+This gives us 25265.65 per 180 g of this powder. Assuming that the roasting of these do not vaporise the antioxidants present in the aromatic compounds of these spices, and going by that we would use 5 g of these per day, the ORAC score of the amount of this powder, per day, would be 701.824. That is the same as 100 g of raw carrots.
 
 Or 50 g of whole grain bread.
 
@@ -155,11 +155,11 @@ or
 
 No, we do not get our oxygen supply from tea. We get our oxygen supply by breathing air. A healthy level of haemoglobin in the blood will ensure availability of oxygen for cell activity. Cleaner lungs will ensure availability of larger surface areas to aid the transfer of oxygen to your red blood cells. Of course, another WhatsApp forward to vacuum clean lungs will not surprise me, but your falling for it will. Because the fact that you are reading this post means you are smarter than that.
 
-The lungs of a person hit by {{< abbr COVID >}} may get inflamed because of the infection and the body's reaction to it. This could impair the air sacs’ ability to transfer the oxygen to the blood. Or, some parts of the lungs may get filled with fluid, which will block the air from entering the air sacs, which, again, will impair the ability of the body to absorb oxygen. These, and other such factors lead to a drop in the oxygen saturation in the blood. Eating antioxidant-rich foods do not help by absorbing oxygen as a proxy. That is not how the human body works.
+The lungs of a person hit by COVID may get inflamed because of the infection and the body's reaction to it. This could impair the air sacs’ ability to transfer the oxygen to the blood. Or, some parts of the lungs may get filled with fluid, which will block the air from entering the air sacs, which, again, will impair the ability of the body to absorb oxygen. These, and other such factors lead to a drop in the oxygen saturation in the blood. Eating antioxidant-rich foods do not help by absorbing oxygen as a proxy. That is not how the human body works.
 
-Also notice how the forward conveniently forgets to add % to 98 and 100, and builds the narrative that taking in spices with six-digit {{< abbr ORAC >}} values will fulfil our body's oxygen needs, which is merely 98 to 100. "Oxygen cylinder in powdered form!" Flawed calculation and logic.
+Also notice how the forward conveniently forgets to add % to 98 and 100, and builds the narrative that taking in spices with six-digit ORAC values will fulfil our body's oxygen needs, which is merely 98 to 100. "Oxygen cylinder in powdered form!" Flawed calculation and logic.
 
-Am I saying that these spices will not help? No. Please make this mixture if you like, add it to your tea and enjoy it by all means. But do not let this message lead to complacence. Following {{< abbr COVID >}}-appropriate behaviour, keeping an eye on symptoms, and consulting with a doctor when you feel ill, will increase your chances of survival.
+Am I saying that these spices will not help? No. Please make this mixture if you like, add it to your tea and enjoy it by all means. But do not let this message lead to complacence. Following COVID-appropriate behaviour, keeping an eye on symptoms, and consulting with a doctor when you feel ill, will increase your chances of survival.
 
 Do not rely plainly on such "சுருக்கு வழிகள்" (shortcuts).
 
