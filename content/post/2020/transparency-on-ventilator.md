@@ -22,28 +22,28 @@ Ventilators are life support. Let us remember that, above all else.
 
 I will keep this short, and add footnotes for those who would like details.
 
-At the end of April, India had 19,000 ventilators in Central government hospitals across the country[^b6941580]. In the third week of March, the Union government set up _Empowered Group III_, tasked with procuring ventilators by June. The estimated need was 60,884 more units by June. On March 27, the government floated a tender, saying 20,000 of these ventilators were urgently needed. In April, the government floated tenders for 40,884 ventilators. The government had earmarked ₹2,000 crore towards the procurement of about 60,000 ventilators---from the {{< smallcaps "PM CARES" >}} fund.
+At the end of April, India had 19,000 ventilators in Central government hospitals across the country[^b6941580]. In the third week of March, the Union government set up _Empowered Group III_, tasked with procuring ventilators by June. The estimated need was 60,884 more units by June. On March 27, the government floated a tender, saying 20,000 of these ventilators were urgently needed. In April, the government floated tenders for 40,884 ventilators. The government had earmarked ₹2,000 crore towards the procurement of about 60,000 ventilators---from the {{< abbr "PM CARES" >}} fund.
 
-[^b6941580]: [Indian entrepreneurs rise up to meet {{< smallcaps COVID >}}-19 medical demand](https://www.deccanherald.com/national/indian-entrepreneurs-rise-up-to-meet-covid-19-medical-demand-832409.html)
+[^b6941580]: [Indian entrepreneurs rise up to meet {{< abbr COVID >}}-19 medical demand](https://www.deccanherald.com/national/indian-entrepreneurs-rise-up-to-meet-covid-19-medical-demand-832409.html)
 
 By 1 May, the government had identified Hindustan Lifecare Ltd as the procurer of the ventilators, and had placed an order for 60,884 ventilators. Indian companies would make 59,884 of these ventilators, import will cover the remaining 1,000. Here is a breakdown of the major players:
 
 Company | Units
 :--|--:
-Bharat Electronics Ltd ({{< smallcaps BEL >}}) and Skanray | 30,000
+Bharat Electronics Ltd ({{< abbr BEL >}}) and Skanray | 30,000
 AgVa Healthcare and Maruti Suzuki | 10,000
-Andhra Pradesh MedTech Zone ({{< smallcaps AMTZ >}}) | 13,500
+Andhra Pradesh MedTech Zone ({{< abbr AMTZ >}}) | 13,500
 Jyoti CNC Automation | 5,000
-Allied Medical Ltd ({{< smallcaps AML >}}) | 350
+Allied Medical Ltd ({{< abbr AML >}}) | 350
 
-And then, it goes south, except for {{< smallcaps AML >}} which delivered as promised. They have been one to produce and deliver ventilators to public sector hospitals, over years, and had the necessary certification and accreditation. Yet, they were the one to receive the smallest order. And:
+And then, it goes south, except for {{< abbr AML >}} which delivered as promised. They have been one to produce and deliver ventilators to public sector hospitals, over years, and had the necessary certification and accreditation. Yet, they were the one to receive the smallest order. And:
 
-> According to technology specialists focussing on the clinical equipment industry, AgVa and {{< smallcaps AMTZ >}} have no prior experience in manufacturing high-end ventilators. These experts, who did not wish to be named, pointed out that manufacture of high-end ventilators was time-consuming and that the government had either misjudged the capacity of these companies to deliver or had misrepresented facts about them deliberately.  
+> According to technology specialists focussing on the clinical equipment industry, AgVa and {{< abbr AMTZ >}} have no prior experience in manufacturing high-end ventilators. These experts, who did not wish to be named, pointed out that manufacture of high-end ventilators was time-consuming and that the government had either misjudged the capacity of these companies to deliver or had misrepresented facts about them deliberately.  
 > ---Frontline (The Hindu)
 
 Further disturbing is the sketchy accreditation and certification story[^8474387a].
 
-[^8474387a]: [C{{< smallcaps OVID >}} ventilators: Who cares?](https://frontline.thehindu.com/the-nation/covid-ventilators-who-cares/article32290434.ece)
+[^8474387a]: [C{{< abbr OVID >}} ventilators: Who cares?](https://frontline.thehindu.com/the-nation/covid-ventilators-who-cares/article32290434.ece)
 
 ## The timeline
 
@@ -52,26 +52,26 @@ Rather than read prose, let us create a short timeline of the events until the e
 Date | Event
 :--|:--
 Third week of March | Special Empowered Group established. Estimated 2 lac ventilators needed by mid May, 19,398 available.
-March 27 | {{< smallcaps SEG >}} floats a tender for 20,000 ventilators as urgent need.
+March 27 | {{< abbr SEG >}} floats a tender for 20,000 ventilators as urgent need.
 March 27 | Hindustan Lifecare Ltd places an order for 10,000 ventilators with AgVa Healthcare.
 Last week of April | Total needed ventilators revised to 60,884. Tenders floated for 40,884 ventilators. Delivery deadline set to June 30.
-May 15 | Hospital superintendent of Ahmedabad Civil Hospital, J.V. Modi writes to Gujarat State medical service provider stating Dhaman-1, produced by Jyoti {{< smallcaps CNC >}} Automation is not up to the mark.
-May 18 | Advisor to the Prime Minister writes to Health Secretary requesting that the ventilators bear the {{< smallcaps "PM CARES" >}} logo along with embedded {{< smallcaps GPS >}}.
+May 15 | Hospital superintendent of Ahmedabad Civil Hospital, J.V. Modi writes to Gujarat State medical service provider stating Dhaman-1, produced by Jyoti {{< abbr CNC >}} Automation is not up to the mark.
+May 18 | Advisor to the Prime Minister writes to Health Secretary requesting that the ventilators bear the {{< abbr "PM CARES" >}} logo along with embedded {{< abbr GPS >}}.
 May 19 | Ahmedabad Mirror reveals the discrepancies around Civil Hospital's procurement of Dhaman-1.
-May 20 | Health Secretary responds promising the logo and the {{< smallcaps GPS >}} chip, states 58,850 ventilators ordered at ₹2,332 crore.
-May 20 | Hindustan Lifecare Ltd places an order with {{< smallcaps AML >}}, {{< smallcaps AMTZ >}} and Jyoti {{< smallcaps CNC >}} Automation.
+May 20 | Health Secretary responds promising the logo and the {{< abbr GPS >}} chip, states 58,850 ventilators ordered at ₹2,332 crore.
+May 20 | Hindustan Lifecare Ltd places an order with {{< abbr AML >}}, {{< abbr AMTZ >}} and Jyoti {{< abbr CNC >}} Automation.
 May 24 | Gujarat High Court criticises State authorities over the shabby health infrastructure at Ahmedabad Civil Hospital[^7afaab7a].
-June 15 | {{< smallcaps BEL >}} states that it has produced 4,000 ventilators against 30,000 ordered.
-June 23 | {{< smallcaps PMO >}} states in a press note that {{< smallcaps BEL >}} has manufactured 2,923 ventilators until then.
-Last week of June | {{< smallcaps BEL >}} claims to have delivered 15,000 of 30,000 ventilators.
-First week of July | {{< smallcaps AML >}} delivers its share of ventilators.
+June 15 | {{< abbr BEL >}} states that it has produced 4,000 ventilators against 30,000 ordered.
+June 23 | {{< abbr PMO >}} states in a press note that {{< abbr BEL >}} has manufactured 2,923 ventilators until then.
+Last week of June | {{< abbr BEL >}} claims to have delivered 15,000 of 30,000 ventilators.
+First week of July | {{< abbr AML >}} delivers its share of ventilators.
 First week of July | AgVa and Maruti Suzuki deliver 1,500 ventilators against 10,000 ordered.
-July | Jyoti {{< smallcaps CNC >}} Automation and {{< smallcaps AMTZ >}} get dropped from the Ministry list.
-July 20 | Jyoti {{< smallcaps CNC >}} has not yet received recommendations from the {{< smallcaps DGHS >}}, an {{< smallcaps RTI >}} application reveals.
+July | Jyoti {{< abbr CNC >}} Automation and {{< abbr AMTZ >}} get dropped from the Ministry list.
+July 20 | Jyoti {{< abbr CNC >}} has not yet received recommendations from the {{< abbr DGHS >}}, an {{< abbr RTI >}} application reveals.
 August 3 | Health Secretary Rajesh Bhushan claims that a mere 0.27% patients are on ventilator.
-August 8 | {{< smallcaps CMD >}} of Jyoti {{< smallcaps CNC >}} claims to have received a green signal for Dhaman-3.
+August 8 | {{< abbr CMD >}} of Jyoti {{< abbr CNC >}} claims to have received a green signal for Dhaman-3.
 August 21 | 18,000 ventilators delivered to hospitals.
-August 28 | Jyoti {{< smallcaps CNC >}} Automation claims that their Dhaman-3 has passed all tests parameters of health ministry and has secured an order of 5,000 units from {{< smallcaps DGHS >}}. Wrongly claims that Jyoti {{< smallcaps CNC >}} has gotten the lowest order.
+August 28 | Jyoti {{< abbr CNC >}} Automation claims that their Dhaman-3 has passed all tests parameters of health ministry and has secured an order of 5,000 units from {{< abbr DGHS >}}. Wrongly claims that Jyoti {{< abbr CNC >}} has gotten the lowest order.
 
 With inputs from sources including [The Hindu](https://www.thehindu.com/news/national/coronavirus-ventilators-from-firms-funded-by-pm-cares-fail-trials/article32416810.ece), [The Times of India](https://timesofindia.indiatimes.com/city/ahmedabad/jyoti-cnc-claims-that-dhaman-3-ventilator-passed-all-the-tests/articleshow/77802715.cms) and [Ahmedabad Mirror](https://ahmedabadmirror.indiatimes.com/ahmedabad/cover-story/the-fake-ventilator-scam-no-dgci-licence-for-900-fake-ventilators-performance-trial-held-only-on-one-patient/articleshow/75815096.cms).
 
@@ -81,9 +81,9 @@ With inputs from sources including [The Hindu](https://www.thehindu.com/news/nat
 
 The government must be under watch---always---malice not being the sole reason. Perhaps the authorities were not malicious in what they did, perhaps they were. We do not know. The outcome, regardless, has been that people died because of lack of infrastructure, something that the government could have prevented.
 
-Am I suggesting that the government is solely responsible for the healthcare system? In India, yes---if not fully, at least the government must be responsible for strict regulation. We have a large population of people who do not have the means to spend lacs of rupees towards the treatment[^9c275412] for {{< smallcaps COVID >}}-19 and over-the-limit, exorbitant charges towards {{< smallcaps COVID-19 >}} tests[^262e5138], in private hospitals. My father's uncles and cousins got admitted to hospitals for treatment in Ahmedabad. They had to pay ₹3 lac upfront---each---before the treatment even began. I, for one, cannot afford that.
+Am I suggesting that the government is solely responsible for the healthcare system? In India, yes---if not fully, at least the government must be responsible for strict regulation. We have a large population of people who do not have the means to spend lacs of rupees towards the treatment[^9c275412] for {{< abbr COVID >}}-19 and over-the-limit, exorbitant charges towards {{< abbr COVID-19 >}} tests[^262e5138], in private hospitals. My father's uncles and cousins got admitted to hospitals for treatment in Ahmedabad. They had to pay ₹3 lac upfront---each---before the treatment even began. I, for one, cannot afford that.
 
-[^262e5138]: [Rs 6000 for {{< smallcaps COVID >}} tests: Are Bengaluru's top private hospitals guilty of overcharging?](https://www.newindianexpress.com/cities/bengaluru/2020/jul/06/rs-6000-for-covid-tests-are-bengalurus-top-private-hospitals-guilty-of-overcharging-2166216.html)
+[^262e5138]: [Rs 6000 for {{< abbr COVID >}} tests: Are Bengaluru's top private hospitals guilty of overcharging?](https://www.newindianexpress.com/cities/bengaluru/2020/jul/06/rs-6000-for-covid-tests-are-bengalurus-top-private-hospitals-guilty-of-overcharging-2166216.html)
 
 [^9c275412]: [Private hospitals continue to charge in excess](https://www.thehindu.com/news/national/tamil-nadu/private-hospitals-continue-to-charge-in-excess/article32250456.ece)
 
@@ -93,15 +93,15 @@ Healthcare is a basic human need. In a place where health insurance is not strea
 
 One of the arguments that my friends put up was that India did not have any company manufacturing ventilators, and so, the government had to promote new players given that the countries that exported ventilators, in the pandemic situation, had raised the prices of the ventilators to anywhere between 10 and 20 lac a piece, whereas the budget allocated for each ventilator was 4 lac rupees.
 
-First of all, ignorance is at the root of the argument that we had no company manufacturing high-end ventilators. My friends are not to blame, though. When were companies like Allied Medical Ltd brought into limelight, despite them manufacturing ventilators for even the defence sector? We must question, though, why the government placed the lowest order to a seasoned manufacturer, while the others got orders in thousands? Were they ignorant as well? Or perhaps {{< smallcaps AML >}} said they did not have the capacity to manufacture thousands of ventilators in the given time window. In which case, the question should have been, 'If a seasoned player cannot deliver the ventilators within the specified time, how are new players going to? Is it safe to place thousands of eggs in their baskets? What are the alternatives?' We must get used to looking at the track records.
+First of all, ignorance is at the root of the argument that we had no company manufacturing high-end ventilators. My friends are not to blame, though. When were companies like Allied Medical Ltd brought into limelight, despite them manufacturing ventilators for even the defence sector? We must question, though, why the government placed the lowest order to a seasoned manufacturer, while the others got orders in thousands? Were they ignorant as well? Or perhaps {{< abbr AML >}} said they did not have the capacity to manufacture thousands of ventilators in the given time window. In which case, the question should have been, 'If a seasoned player cannot deliver the ventilators within the specified time, how are new players going to? Is it safe to place thousands of eggs in their baskets? What are the alternatives?' We must get used to looking at the track records.
 
 And due diligence is must. We all do our share of due diligence even for a simple product on Amazon, worth hundreds of rupees---we look at the specifications, the ratings, the reviews, we ask around, etc. Then why was no due diligence done in case of a procurement worth thousands of crores of rupees? Why was there not enough due diligence in case of products that people's lives depend on in the literal sense?
 
 Let me remind you, political parties may have their own crap-load of allegations to make. They will make a lot of noise, because this is an opportunity for them. But like I said, politics is politics, and I don't care what political parties have to say. My question is on the governance. The government has failed in this regard. And I am not alone to say this; the courts, the government bodies and government doctors have said it themselves. And I would argue (although in retrospect, to be fair) that if the need was for 30,000 ventilators, the government could have imported them given the situation. Instead of placing 30,000 people in danger at a time, they could have saved 10,000 people at a time. Moreover, given that we already had 19,000 ventilators, buying 10,000 for 2,000 crore would have still worked better. Also to note, the newly-spawned manufacturers were far from meeting the need themselves. And _anybody_ would have guessed they could not have met the demand on time, forget experts. Have we stopped consulting professionals? Or is that a trust deficit?
 
-The second argument is that if {{< smallcaps "PM CARES" >}} is disputable, so is Prime Minister's National Relief Fund. Finance Minister Nirmala Sitharaman pointed out---in her usual tone---how the {{< smallcaps "PM NRF" >}} was like {{< smallcaps "PM CARES" >}}, and I found it funny, because to counter one opaque fund, the government ended up creating another opaque fund. I mean, where is the sense in that? Would it not be a better pitch to make {{< smallcaps "PM CARES" >}} a transparent fund? Or better yet, find a way to amend the rules for the {{< smallcaps "PM NRF" >}} and prevent fragmentation of funds! The board of {{< smallcaps "PM NRF" >}} has the president of _one party_, and that is wrong. Amend the rules[^a8d474ea].
+The second argument is that if {{< abbr "PM CARES" >}} is disputable, so is Prime Minister's National Relief Fund. Finance Minister Nirmala Sitharaman pointed out---in her usual tone---how the {{< abbr "PM NRF" >}} was like {{< abbr "PM CARES" >}}, and I found it funny, because to counter one opaque fund, the government ended up creating another opaque fund. I mean, where is the sense in that? Would it not be a better pitch to make {{< abbr "PM CARES" >}} a transparent fund? Or better yet, find a way to amend the rules for the {{< abbr "PM NRF" >}} and prevent fragmentation of funds! The board of {{< abbr "PM NRF" >}} has the president of _one party_, and that is wrong. Amend the rules[^a8d474ea].
 
-[^a8d474ea]: This article mentions how the fund has been working under the discretion and the directions of the Prime Minister since 1985: [PM {{< smallcaps CARES >}} Vs PM National Relief Fund: All You Need To Know](https://www.boomlive.in/fact-file/pm-cares-vs-pm-national-relief-fund-all-you-need-to-know-7618)
+[^a8d474ea]: This article mentions how the fund has been working under the discretion and the directions of the Prime Minister since 1985: [PM {{< abbr CARES >}} Vs PM National Relief Fund: All You Need To Know](https://www.boomlive.in/fact-file/pm-cares-vs-pm-national-relief-fund-all-you-need-to-know-7618)
 
 The third argument was about Self-reliant India (a.k.a. _Ātmanirbhar Bhārat_). 'When else were we going to give a chance to local manufacturers?' To that, I would say, when we get a serious illness, we do not go to a medical intern. We go to an expert. The intern learns from the expert while the expert does her job. Later, under the watch of the expert, the intern treats. As the intern picks up, the expert starts to delegate work. An intern is _never_ let to perform an unsupervised major organ transplant as their first surgery. This pandemic is no less.
 

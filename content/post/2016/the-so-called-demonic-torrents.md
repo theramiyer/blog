@@ -11,13 +11,13 @@ Torrents have never been out of the limelight, nor will they be for the foreseea
 
 We need to understand what a 'protocol' is before we begin to understand torrents. A protocol is just a set of rules and methods that are followed to accomplish a certain task. For instance, if you want to buy a pizza, one of the protocols is to call the phone number for the pizza place, ask for the menu, listen while the person recites it, choose your base, the size, the toppings, the add-ons and the sides, and place the order. Then, wait for the delivery person to to bring the pizza, open the door when the doorbell rings, accept the pizza, pay him, tip him, and then thank him.
 
-Similarly, your browser uses a protocol to deliver this page to you—it is called the _Hypertext Transmission Protocol (Secure)_, a.k.a., {{< smallcaps "HTTPS" >}}. {{< smallcaps "HTTP" >}}/{{< smallcaps "HTTPS" >}} typically works as a server-client system, wherein a file is present on a server, which you connect to using your browser, and initiate the transfer. The file, in this case, typically gets transferred from the server to your computer.
+Similarly, your browser uses a protocol to deliver this page to you—it is called the _Hypertext Transmission Protocol (Secure)_, a.k.a., {{< abbr "HTTPS" >}}. {{< abbr "HTTP" >}}/{{< abbr "HTTPS" >}} typically works as a server-client system, wherein a file is present on a server, which you connect to using your browser, and initiate the transfer. The file, in this case, typically gets transferred from the server to your computer.
 
-For instance, if you download a copy of Google Chrome, you connect to https://www.google.com/chrome, which is owned by Google. You click on the blue button which tells Google that you want a copy of the Chrome browser. The page connects you to one of Google's file servers. The server sends the file to your computer (client) via {{< smallcaps "HTTPS" >}}.
+For instance, if you download a copy of Google Chrome, you connect to https://www.google.com/chrome, which is owned by Google. You click on the blue button which tells Google that you want a copy of the Chrome browser. The page connects you to one of Google's file servers. The server sends the file to your computer (client) via {{< abbr "HTTPS" >}}.
 
 BitTorrent is one such protocol, which works a little differently: here, the file gets transferred from one client computer to another. The files are not stored on a server in this case; only the _tracking information_ is. BitTorrent divides the file into _chunks_, and then keeps track of what chunk was transferred to whom. The server does not store the file itself; the file is stored in peers' computers. Literally speaking, if you shot a video with your friends, and would like to share it with them over BitTorrent, your friends would download the file from your PC. Then, once they have copies of the file, subsequent downloads can happen from their PCs as well.
 
-Another example of peer-to-peer file transfer is {{< smallcaps "SHARE" >}}it. {{< smallcaps "SHARE" >}}it is a form of peer-to-peer transfer, which is one-to-one, using the Local Area Network ({{< smallcaps "LAN" >}}).
+Another example of peer-to-peer file transfer is {{< abbr "SHARE" >}}it. {{< abbr "SHARE" >}}it is a form of peer-to-peer transfer, which is one-to-one, using the Local Area Network ({{< abbr "LAN" >}}).
 
 ### Why torrents?
 
@@ -31,7 +31,7 @@ What if each user who downloaded the updates could share the transfer load? What
 
 Well, is the Internet bad?
 
-It depends on what you use torrents for. There are legitimate sites that use the BitTorrent protocol to deliver downloads to users. Ubuntu, {{< smallcaps "GNU" >}} Image Manipulation Program (or {{< smallcaps "GIMP" >}}), etc. use the BitTorrent protocol to deliver download to users, apart from the traditional server-client transfer using {{< smallcaps "HTTP" >}}.
+It depends on what you use torrents for. There are legitimate sites that use the BitTorrent protocol to deliver downloads to users. Ubuntu, {{< abbr "GNU" >}} Image Manipulation Program (or {{< abbr "GIMP" >}}), etc. use the BitTorrent protocol to deliver download to users, apart from the traditional server-client transfer using {{< abbr "HTTP" >}}.
 
 However, nothing is all rainbows. Yes, the BitTorrent protocol, today, is _also_ used for transferring pirated software, pirated movie files, pirated music… you name it.
 
@@ -45,9 +45,9 @@ Torrent distribution sites such as Kickass Torrents, The Pirate Bay, etc. have f
 
 A torrent file, which is typically what these sites give you, are tiny _tracker files_. These files just keep track of what chunk you download from where. Torrent clients (such as BitTorrent, μTorrent, Torrex, Transmission, etc.) understand these torrent files and communicate with the tracker server and the peers who have the actual files. To oversimplify the concept, the tracker server allots a tracking number to your download, and decides what packets you should get, and from whom.
 
-### So then what is blocked by my {{< smallcaps "ISP" >}}?
+### So then what is blocked by my {{< abbr "ISP" >}}?
 
-The torrent search engines and the public torrent tracker file download sites are blocked by Internet Service Providers. In a manner of speaking, your {{< smallcaps "ISP" >}} has a map to different places on the Web—the route to reach these sites. Blocking by {{< smallcaps "ISP" >}} means that they simply erase the routes to these sites from their map. So you cannot directly go to these sites with their names.
+The torrent search engines and the public torrent tracker file download sites are blocked by Internet Service Providers. In a manner of speaking, your {{< abbr "ISP" >}} has a map to different places on the Web—the route to reach these sites. Blocking by {{< abbr "ISP" >}} means that they simply erase the routes to these sites from their map. So you cannot directly go to these sites with their names.
 
 ### Then, can I not use torrents?
 

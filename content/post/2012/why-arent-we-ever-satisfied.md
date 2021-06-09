@@ -14,7 +14,7 @@ I was happy travelling standing in a bus all around the city with a 30 bucks pas
 
 I was happy with a 2600&nbsp;Classic back in 2008, bought a 5233 in 2010 and was amazed about it, now I have the same one, but not satisfied. Why, even Galaxy&nbsp;S2 doesn’t seem to satisfy me anymore!
 
-A movie on a pirated {{< smallcaps "DVD" >}} could do for the afternoon a year back; now even HD sucks!
+A movie on a pirated {{< abbr "DVD" >}} could do for the afternoon a year back; now even HD sucks!
 
 This is not the condition with me – this is with every human being alive. Here we can pull in the different parts of our mind and its thinking engine – its ability to bring a change, its ability to hope for new stuff, its ability to get used to what it does repetitively for a long time (long time meaning three weeks), etc.
 

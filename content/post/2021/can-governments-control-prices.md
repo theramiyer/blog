@@ -21,7 +21,7 @@ Before we proceed, let me make it clear that this post is _not political_. I lim
 
 ## What is price rise
 
-Let us take a simple example. Assume that a country has 100 blocks of silver (the weight is immaterial to this example). Assume that the imaginary country also has a central bank, akin to the Reserve Bank of India ({{< smallcaps RBI >}}). Assume that you are a citizen of this country.
+Let us take a simple example. Assume that a country has 100 blocks of silver (the weight is immaterial to this example). Assume that the imaginary country also has a central bank, akin to the Reserve Bank of India ({{< abbr RBI >}}). Assume that you are a citizen of this country.
 
 The central bank of the country says that the total amount of money in the system is 100 rupees, out of which you have ten rupees (you are a rich person in this country; owning 10% of the total money). The central bank says that the total money in circulation is worth 100 blocks of silver. You are quick to calculate that the money you have is worth ten blocks of silver.
 
@@ -45,13 +45,13 @@ But does this have anything to do with inflation? Not in the short term. Let us 
 
 ## What prices governments can control
 
-The {{< smallcaps RBI >}} can cut its repo rate, which may make loans cheaper.{{< sidenote "repo-rate" >}}Banks primarily lend using the depositors’ money, before deciding to borrow from the RBI, which means that a repo rate cut will not lead to a drastic reduction in the bank interest rates.{{< /sidenote >}} This could drive more loans, which can serve as a small stimulus for businesses. This adds a slight nudge to businesses, which leads to better employment and thus, money in the hands of people who need it the most. This increase in economic activity could have a good effect like increase in the production of goods and services, which increases supply. This effect can drive down the prices.
+The {{< abbr RBI >}} can cut its repo rate, which may make loans cheaper.{{< sidenote "repo-rate" >}}Banks primarily lend using the depositors’ money, before deciding to borrow from the RBI, which means that a repo rate cut will not lead to a drastic reduction in the bank interest rates.{{< /sidenote >}} This could drive more loans, which can serve as a small stimulus for businesses. This adds a slight nudge to businesses, which leads to better employment and thus, money in the hands of people who need it the most. This increase in economic activity could have a good effect like increase in the production of goods and services, which increases supply. This effect can drive down the prices.
 
-Secondly, the government can print more money, and give money in the hands of people, or the {{< smallcaps RBI >}} can lend to banks. This will have a similar effect as above.
+Secondly, the government can print more money, and give money in the hands of people, or the {{< abbr RBI >}} can lend to banks. This will have a similar effect as above.
 
 The government can manipulate taxes. Reducing taxes on goods or services could bring down prices, and have the opposite effect as cost push inflation.
 
-Fourth, the government can increase its expenditure, such as starting new projects under programmes like {{< smallcaps MNREGA >}}, which will increase employment, and sale of products and services to the government. This again, stimulates the economy.
+Fourth, the government can increase its expenditure, such as starting new projects under programmes like {{< abbr MNREGA >}}, which will increase employment, and sale of products and services to the government. This again, stimulates the economy.
 
 Having said all this, none of these is as easy as it sounds, and governments are wary of taking such steps (mainly those that obsess over inflation control).
 
@@ -59,11 +59,11 @@ Having said all this, none of these is as easy as it sounds, and governments are
 
 So far, we spoke about governments in general. India has a federal system: we have State governments and the Central government.
 
-The {{< smallcaps RBI >}} works at the Central level. Repo rate cuts and printing money are not in the control of the State governments.
+The {{< abbr RBI >}} works at the Central level. Repo rate cuts and printing money are not in the control of the State governments.
 
-When it comes to taxes, we have the {{< smallcaps GST >}}, which the Central government controls. State governments can propose tax cuts, but whatever they propose will affect the entire country, and so, the Central government will need to take other states into consideration when tweaking tax rates.
+When it comes to taxes, we have the {{< abbr GST >}}, which the Central government controls. State governments can propose tax cuts, but whatever they propose will affect the entire country, and so, the Central government will need to take other states into consideration when tweaking tax rates.
 
-State governments, though, have a good control over taxes on petroleum and alcoholic drinks, since those do not come under the purview of the {{< smallcaps GST >}}. But given that the Central government does not have a good track record of paying the State governments their due on time, will the State governments play around with what can essentially be their safety net?
+State governments, though, have a good control over taxes on petroleum and alcoholic drinks, since those do not come under the purview of the {{< abbr GST >}}. But given that the Central government does not have a good track record of paying the State governments their due on time, will the State governments play around with what can essentially be their safety net?
 
 Fourth, the State governments do have the ability to start projects which result in some amount of government spending. But again, that will depend on how much the State governments have with them to spend.
 

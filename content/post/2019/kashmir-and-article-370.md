@@ -19,7 +19,7 @@ We heard a lot of noise throughout the last week over the abrogation of Article�
 
 Think again.
 
-The topic is rather broad, and going into it in a single post made the post "too long for human consumption". I have hence split the post into three parts. Reading the entire series will give you knowledge, reading it partially will make you judgemental. Make your choice. This article is available as a [typeset printable {{< smallcaps "PDF" >}}](https://www.scribd.com/document/422074646/Kashmir-and-Article-370) as well.
+The topic is rather broad, and going into it in a single post made the post "too long for human consumption". I have hence split the post into three parts. Reading the entire series will give you knowledge, reading it partially will make you judgemental. Make your choice. This article is available as a [typeset printable {{< abbr "PDF" >}}](https://www.scribd.com/document/422074646/Kashmir-and-Article-370) as well.
 
 Here are the topics I will touch upon in this post:
 
@@ -27,7 +27,7 @@ Here are the topics I will touch upon in this post:
 
 ## The Articles
 
-{{< smallcaps "Article 370" >}} recognises Jammu and Kashmir as a special state, and provides it with autonomy. The reason for this goes back to the time when Maharaja Hari Singh (the ruler of Kashmir when the British left India) signed the _Instrument of Accession_ (more on that in a moment).
+{{< abbr "Article 370" >}} recognises Jammu and Kashmir as a special state, and provides it with autonomy. The reason for this goes back to the time when Maharaja Hari Singh (the ruler of Kashmir when the British left India) signed the _Instrument of Accession_ (more on that in a moment).
 
 Article 370 states that the Government of India has direct control over three areas in Jammu and Kashmir: Defence, External Affairs and Communication. Any amendments to the Constitution of India will not directly apply to Kashmir (barring the said three areas). The State of Jammu and Kashmir will have their own constitution, drafted by the Constituent Assembly of Jammu and Kashmir.
 
@@ -35,7 +35,7 @@ To know more about the "temporary" status of the Article, we would need to know 
 
 For now, also note that Kashmir is not the lone state with special status. Though the provisions under special status may vary, regions within Maharashtra, Nagaland, Karnataka, Gujarat, etc., are also covered under special provisions that concern the domiciles of the regions. Article 371 of the Constitution of India defines these provisions for the other states.
 
-{{< smallcaps "Article 35A" >}} defines "permanent residents of Jammu and Kashmir", and gives them benefits and protections, such as buying and owning property in Jammu and Kashmir, getting state government jobs in Jammu and Kashmir, and getting other benefits from the state government, including scholarships. This article says that everything that is within the state belongs to the domiciles of the state, and nobody else. Explaining the necessity of this article requires bringing history into view.
+{{< abbr "Article 35A" >}} defines "permanent residents of Jammu and Kashmir", and gives them benefits and protections, such as buying and owning property in Jammu and Kashmir, getting state government jobs in Jammu and Kashmir, and getting other benefits from the state government, including scholarships. This article says that everything that is within the state belongs to the domiciles of the state, and nobody else. Explaining the necessity of this article requires bringing history into view.
 
 ## The pieces that made India
 

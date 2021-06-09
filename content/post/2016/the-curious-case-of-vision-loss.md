@@ -53,4 +53,4 @@ forty minutes for the chemical levels to return to normal (and equal) in both th
 one eye was exposed to brightness. But in any case, this situation is temporary. And for Heaven’s sakes, this is no
 threat to your lives! But seriously, a round of applause to Zee News to have hit an all-new level of exaggeration!
 
-Now, the verdict: As you’ve already read, if you don’t wanna feel weird, don’t do weird stuff. {{< smallcaps LOL >}}.
+Now, the verdict: As you’ve already read, if you don’t wanna feel weird, don’t do weird stuff. {{< abbr LOL >}}.

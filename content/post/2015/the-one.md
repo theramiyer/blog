@@ -32,7 +32,7 @@ American attack on Iraq was fully supported by all Muslim countries surrounding 
 One Allah, One Quran, One Nebi....????\\
 Hindus -\\
 They have 1,280 Religious Books, 10,000 Commentaries, more than one lakh sub-commentaries for these foundation books, innumerable presentations of one God, variety of Aacharyas, thousands of Rishies, hundreds of languages.\\
-Still they all go to All {{< smallcaps "TEMPLES" >}} and they are peaceful and tolerant and seek unity with others by inviting them to worship with them whatever God they wish to pray for!\\
+Still they all go to All {{< abbr "TEMPLES" >}} and they are peaceful and tolerant and seek unity with others by inviting them to worship with them whatever God they wish to pray for!\\
 Hindus never quarreled one another for the last ten thousand years in the name of religion.
 
 Hello, there! If you guessed I was going to bash this whole idea about people talking this way about religions, you were right about me.

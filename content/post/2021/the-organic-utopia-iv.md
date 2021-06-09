@@ -63,9 +63,9 @@ We will slightly brush upon this topic, because while this is interesting, its i
 
 Food irradiation is a regular practice today. The scientists use Gamma rays from elements like Cobalt-60 and Caesium-137, or electron beams or X-rays to irradiate food. This process kills pathogens in the food and helps preserve the food better, while avoiding diseases. There have been cases of spices containing high levels of pathogen like Salmonella and E. Coli. Irradiation would kill these pathogen.
 
-These are ionising radiations (well within limits tolerable to humans), applied to food, which destroy the {{< smallcaps DNA >}} of the pathogen and neutralise them.
+These are ionising radiations (well within limits tolerable to humans), applied to food, which destroy the {{< abbr DNA >}} of the pathogen and neutralise them.
 
-Does the radiation stay in the food? No. Does it make the food radioactive? No. The intensity is too low to be able to do anything like that. The {{< smallcaps FDA >}}, the {{< smallcaps WHO >}}, the {{< smallcaps CDC >}} have all evaluated the safety of irradiation and endorse it. In India, our own {{< smallcaps BARC >}} (Bhabha Atomic Research Centre, not the TV rating agency) endorses food irradiation, and the {{< smallcaps FSSAI >}} has guidelines for it.
+Does the radiation stay in the food? No. Does it make the food radioactive? No. The intensity is too low to be able to do anything like that. The {{< abbr FDA >}}, the {{< abbr WHO >}}, the {{< abbr CDC >}} have all evaluated the safety of irradiation and endorse it. In India, our own {{< abbr BARC >}} (Bhabha Atomic Research Centre, not the TV rating agency) endorses food irradiation, and the {{< abbr FSSAI >}} has guidelines for it.
 
 But this has its downsides. Irradiation would certainly remove pathogens from the food, but in the act, increase its shelf life longer than the food takes to lose its nutrient value. It also would mask any unsanitary conditions in which the food processing happened.
 

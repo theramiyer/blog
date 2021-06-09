@@ -15,9 +15,9 @@ tags:
 
 The number of Bollywood stars to die in three months was abnormally high in the second quarter of this year. Death of any human is sad. The circumstances of the death of Sushant Singh Rajput were salt to the wound.
 
-I subscribe to _The Hindu_, and the story did not get much prominence. I wondered why, because the news of the death of Irrfan Khan and Rishi Kapoor had smacked us right in our face. The piece about Sushant's death also carried suicide helpline numbers. My eyes narrowed. Thoughts work fast. My brain instantly took me to the _Werther Effect_; I had read about it. I searched. And I found the {{< smallcaps WHO >}} guidelines on reporting suicide[^1566402e], whose _Quick Reference_ reads:
+I subscribe to _The Hindu_, and the story did not get much prominence. I wondered why, because the news of the death of Irrfan Khan and Rishi Kapoor had smacked us right in our face. The piece about Sushant's death also carried suicide helpline numbers. My eyes narrowed. Thoughts work fast. My brain instantly took me to the _Werther Effect_; I had read about it. I searched. And I found the {{< abbr WHO >}} guidelines on reporting suicide[^1566402e], whose _Quick Reference_ reads:
 
-[^1566402e]: [Preventing Suicide: A Resource for Media Professionals](https://www.who.int/mental_health/prevention/suicide/resource_media.pdf) ({{< smallcaps WHO >}})
+[^1566402e]: [Preventing Suicide: A Resource for Media Professionals](https://www.who.int/mental_health/prevention/suicide/resource_media.pdf) ({{< abbr WHO >}})
 
 > - Take the opportunity to educate the public about suicide
 > - Avoid language which sensationalizes or normalizes suicide, or presents it as a solution to problems
@@ -45,7 +45,7 @@ What about the 'super lobby'? What about all the allegations that Kangana put fo
 
 Ah, Rhea! Did Rhea involve in black magic? Did she take 15 crore from his account? What about all the cover-ups that news channels exposed? The resort clincher and all? The lapses in probe? Sandip Ssingh? What about the ED angle? Are Rhea and Maharashtra government involved? Oh, what happened to Disha Salian? Was Sushant murdered by the 'Rhea Machinery'? Didn't the suicide theory crumble? It became a global movement. Someone who was passionate about his future could not commit suicide, right? Where did Dipesh Sawant go? How could a depressed man look so happy in those videos? What about the "explosive" Cooper Hospital footages? Did Rhea go into the Cooper mortuary? Sandip? Why did he call the ambulance driver? Almost nobody does that, come on! What about the eight hard disks and all other electronics?
 
-Oh, what about the drug syndicate? Was Rhea not giving him Canabidiol? Was his flatmate not involved in all those shady activities? The boys had come the day Disha had died and left the day Rhea had left, correct? Oh wait, _netas_ were also involved along with Bollywood celebrities in the "murder". The {{< smallcaps CBI >}} interrogated Rhea for ten hours; what came of it? Now that Miranda is in custody, will Rhea be next? Is the Maharashtra government targetting Kangana Ranaut for exposing the drug mafia and seeking justice for Sushant? The {{< smallcaps NCB >}} has arrested Rhea; she must be part of the drug racket. What now, homicide angle again? Sushant's soul had a lot to say, didn't it?
+Oh, what about the drug syndicate? Was Rhea not giving him Canabidiol? Was his flatmate not involved in all those shady activities? The boys had come the day Disha had died and left the day Rhea had left, correct? Oh wait, _netas_ were also involved along with Bollywood celebrities in the "murder". The {{< abbr CBI >}} interrogated Rhea for ten hours; what came of it? Now that Miranda is in custody, will Rhea be next? Is the Maharashtra government targetting Kangana Ranaut for exposing the drug mafia and seeking justice for Sushant? The {{< abbr NCB >}} has arrested Rhea; she must be part of the drug racket. What now, homicide angle again? Sushant's soul had a lot to say, didn't it?
 
 It beats me: why did we not ask the soul who separated it from the body?
 
@@ -53,7 +53,7 @@ In all, this has been a case of cheap gossip. Someone pointed out:
 
 {{< tweet 1303186514159960065 >}}
 
-Law enforcement has its process. The agencies must follow rules when investigating a case. While we may all have grown up with {{< smallcaps CID >}} and the likes, with daily soaps showing every household having a personal police officer to dance to the tunes of the household, the reality is different. You cannot go around arresting people according to the whims of the public. Is the offence established? What is the nature of the offence? Is it cognizable?
+Law enforcement has its process. The agencies must follow rules when investigating a case. While we may all have grown up with {{< abbr CID >}} and the likes, with daily soaps showing every household having a personal police officer to dance to the tunes of the household, the reality is different. You cannot go around arresting people according to the whims of the public. Is the offence established? What is the nature of the offence? Is it cognizable?
 
 Did we educate ourselves before we went about running hashtags?
 
@@ -67,7 +67,7 @@ Accompanied by psychedelic animations playing on loop, the high-pitched voices o
 
 But, so that I do not become part of the click-bait gang, here is what the situation as of today is:
 
-- The {{< smallcaps CBI >}} is investigating the case. The {{< smallcaps ED >}}, and the {{< smallcaps NCB >}} are also part of the probe.
+- The {{< abbr CBI >}} is investigating the case. The {{< abbr ED >}}, and the {{< abbr NCB >}} are also part of the probe.
 - Investigation is ongoing.
 
 ## Some reality
@@ -78,7 +78,7 @@ Let us get something straight:
 2. In what is the 'lingo' of our generation, 'bounce' means 'to leave'. It has nothing to do with banking instruments.
 3. _Hook-up, Marry, Kill_ is a stupid game. The jobless play it, the more jobless watch others play, and nobody connects it to real life.
 4. Commercially available cannabidiol, although controlled, is legal in India. A no-brainer. And weed is not the sole source of it.
-5. The police were wrong in not registering an {{< smallcaps FIR >}}. This is not debatable.
+5. The police were wrong in not registering an {{< abbr FIR >}}. This is not debatable.
 6. You cannot talk to dead people's souls. Nobody can.
 7. The press must also respect people's privacy. The press are not above the law. As per law, you cannot trespass on someone's private property. Irrespective of whom it belongs to---accused, convicted or whoever.
 8. Of all the people making noise, a countable, miniscule minority perhaps do want justice for Sushant. To the rest, though, the issue is a milking cow. In its literal sense.

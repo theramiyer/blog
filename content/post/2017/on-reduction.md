@@ -20,7 +20,7 @@ Historian and columnist Ramchandra Guha did an hour-long talk on how nationalism
 
 He went on to say how we seem to be gradually moving towards the said model of European nationalism, by looking for _one_ language, _one_ religion, and _one_ common enemy. Keeping aside the common enemy part for a whole book, I thought I'd focus on the more relatable "one language" and "one _culture_" parts.
 
-Digressing a little, I also read [a piece from The Hindu](http://www.thehindu.com/sci-tech/science/how-genetics-is-settling-the-aryan-migration-debate/article19090301.ece), which suggests with evidence about how diversity is literally in our {{< smallcaps "DNA" >}}.
+Digressing a little, I also read [a piece from The Hindu](http://www.thehindu.com/sci-tech/science/how-genetics-is-settling-the-aryan-migration-debate/article19090301.ece), which suggests with evidence about how diversity is literally in our {{< abbr "DNA" >}}.
 
 **Note**: If you're too emotional, don't read that piece. What follows is a watered-down version of it. Also remember, scientific studies are based on evidences. Unearthing of new evidences can possibly change the exact details of what was hitherto considered fact. So, relax.
 

@@ -70,7 +70,7 @@ San: Yeah, dude, even me. I go talk to people a lot. That’s us, you see… \*l
 
 Turn courts! How did that happen? Another stranger’s endorsement? San doesn’t even know if Preeti existed! (Oh no, no, she is a real person - a friend, and that did happen. She was one of those who appreciated me being light headed, or whatever it is said when someone’s fun loving and friendly in a crazy good way).
 
-Summing up: Human mind continues to baffle me. Is it that simple to get your portrait painted in people’s minds the way you want it to be? {{< smallcaps "THAT" >}} easy? Wow! Not that I’d manipulate people, but it’s good to know.
+Summing up: Human mind continues to baffle me. Is it that simple to get your portrait painted in people’s minds the way you want it to be? {{< abbr "THAT" >}} easy? Wow! Not that I’d manipulate people, but it’s good to know.
 
 ### Update 1 (4 May 2015, 10:00 hrs)
 

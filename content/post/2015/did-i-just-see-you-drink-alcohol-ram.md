@@ -6,7 +6,7 @@ tags:
 title: Did I just see you drink alcohol, Ram?
 ---
 
-![Ram, stop acting as if it's Heineken. It's not even beer! {{< smallcaps "LOL" >}}!][assets/images/postimages/rambeer.jpg 'Ram, stop acting as if it's Heineken. It's not even beer! {{< smallcaps "LOL" >}}!']
+![Ram, stop acting as if it's Heineken. It's not even beer! {{< abbr "LOL" >}}!][assets/images/postimages/rambeer.jpg 'Ram, stop acting as if it's Heineken. It's not even beer! {{< abbr "LOL" >}}!']
 
 Well, no. After a few questions from people who don’t yet know me well, and/or were too lazy to read the caption, or were paranoid enough to think the caption on the picture was a cover-up, I wanted to put it out here that I’m a teetotaller and I wish to be one.
 
@@ -30,11 +30,11 @@ They say alcohol makes them happy: I say there are so many things much better th
 
 They say alcohol rids them of inhibitions: You’re the one who created those inhibitions in the first place! Your lack of confidence should be countered by mental training, not grabbing onto the crutches that alcohol is. You cannot dance when sober, learn to! I know squat about dancing. All I can do is throw my legs and arms around. But I’m not ashamed of that, nor am I reluctant to learn. So I watch others and learn a few moves every now and then. I’ve gotten pretty good at it now. Not a drop of alcohol was required for that.
 
-They say alcohol is necessary to bind. Or what was it…yeah…social lubricant—absurd! You can totally talk in front of seven thousand people when you’re sober. Do you see great {{< smallcaps "TED" >}} speakers or leaders come drunk to the stage? Heck, the world’s watching them; how did they get rid of their inhibition? It’s all in _your_ head.
+They say alcohol is necessary to bind. Or what was it…yeah…social lubricant—absurd! You can totally talk in front of seven thousand people when you’re sober. Do you see great {{< abbr "TED" >}} speakers or leaders come drunk to the stage? Heck, the world’s watching them; how did they get rid of their inhibition? It’s all in _your_ head.
 
 They say alcohol purifies your blood. So does eating right. The bonus? It doesn’t stop your heart out of the blue. They say it helps creativity. So does imagination—everyone is born with it, you just have to use it.
 
-And I particularly don’t like social drinking. Like I heard somewhere, social drinking makes drinking alcohol look more socially acceptable. It gives room for more drunkards to be born. It gives room for more socially awkward situations on so many levels. Alcohol ruins families; children die of hunger because their father wasn’t ready to give his wages to his family and instead chose to go to {{< smallcaps "TASMAC" >}}. It ruins children because their mothers, when carrying them, couldn’t stay away from a glass of wine every weekend; or the mother couldn’t breastfeed them because the she didn’t want the child to have processed alcohol; one couldn’t help but see the irony in this particular situation.
+And I particularly don’t like social drinking. Like I heard somewhere, social drinking makes drinking alcohol look more socially acceptable. It gives room for more drunkards to be born. It gives room for more socially awkward situations on so many levels. Alcohol ruins families; children die of hunger because their father wasn’t ready to give his wages to his family and instead chose to go to {{< abbr "TASMAC" >}}. It ruins children because their mothers, when carrying them, couldn’t stay away from a glass of wine every weekend; or the mother couldn’t breastfeed them because the she didn’t want the child to have processed alcohol; one couldn’t help but see the irony in this particular situation.
 
 It has deprived people of real love, has subjected people to physical and emotional abuse, it has caused loss of health and property, has promoted the destruction of families, has ruined students’ lives—not one thing good enough has alcohol done. And yet, someone who doesn’t drink gets to hear, “What life have you lived!”
 

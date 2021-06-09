@@ -65,12 +65,12 @@ I would say, rather confused. Before someone jumps off the chair, draws their we
 
 Let us start with what India should be. To quote the [Preamble to the Constitution of India](https://en.wikipedia.org/wiki/Preamble_to_the_Constitution_of_India):
 
-> {{< smallcaps "WE, THE PEOPLE OF INDIA" >}}, having solemnly resolved to constitute India into a {{< smallcaps "SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC" >}} and to secure to all its citizens  
-> {{< smallcaps "JUSTICE" >}}, social, economic and political;  
-> {{< smallcaps "LIBERTY" >}} of thought, expression, belief, faith and worship;  
-> {{< smallcaps "EQUALITY" >}} of status and of opportunity; and to promote among them all  
-> {{< smallcaps "FRATERNITY" >}} assuring the dignity of the individual and the unity and integrity of the Nation;  
-> {{< smallcaps "IN OUR CONSTITUENT ASSEMBLY" >}} this  26th day of November, 1949, do {{< smallcaps "HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION" >}}.
+> {{< abbr "WE, THE PEOPLE OF INDIA" >}}, having solemnly resolved to constitute India into a {{< abbr "SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC" >}} and to secure to all its citizens  
+> {{< abbr "JUSTICE" >}}, social, economic and political;  
+> {{< abbr "LIBERTY" >}} of thought, expression, belief, faith and worship;  
+> {{< abbr "EQUALITY" >}} of status and of opportunity; and to promote among them all  
+> {{< abbr "FRATERNITY" >}} assuring the dignity of the individual and the unity and integrity of the Nation;  
+> {{< abbr "IN OUR CONSTITUENT ASSEMBLY" >}} this  26th day of November, 1949, do {{< abbr "HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION" >}}.
 
 Now, to quote Dr B.&thinsp;R.&thinsp;Ambedkar in the context:
 
@@ -130,4 +130,4 @@ Why is this important? This indicates that socialism is a state achieved while a
 
 I'm not a political analyst; I'm as far from it as you can get. I have natural dislike towards politics. However, I remember my lessons in civics. What I've said is more from a citizen's standpoint in terms of civics, rather than politics. That is to not only say that I'm non-aligned to any of the parties, but also that I know what I should, when voting for the person to represent my constituency, and therefore, my country.
 
-Also, being someone who understands that Left -- right is a spectrum, and not being bipolar (and that I can overcome compulsion) I agree _and disagree_ with the stands that political parties take. I am someone who can (and does) differentiate between political parties and the government. For instance, if I were in favour of {{< smallcaps "ABC" >}}, but {{< smallcaps "XYZ" >}} led the government, I would be in favour of the policies and schemes that {{< smallcaps "XYZ" >}} brought in if they were favourable to the country, and be happy to oppose unfavourable policies that {{< smallcaps "ABC" >}} advocates.
+Also, being someone who understands that Left -- right is a spectrum, and not being bipolar (and that I can overcome compulsion) I agree _and disagree_ with the stands that political parties take. I am someone who can (and does) differentiate between political parties and the government. For instance, if I were in favour of {{< abbr "ABC" >}}, but {{< abbr "XYZ" >}} led the government, I would be in favour of the policies and schemes that {{< abbr "XYZ" >}} brought in if they were favourable to the country, and be happy to oppose unfavourable policies that {{< abbr "ABC" >}} advocates.

@@ -17,7 +17,7 @@ The larger question was, how do you pick privacy-friendly services?
 
 {{< toc >}}
 
-Let us start simple: Google owns Google Drive, Microsoft owns Microsoft OneDrive. They are both into advertising, though Microsoft is not as aggressive as Google is. Dropbox is solely a cloud storage company, with no known ties with the advertising world. Dropbox scores better here. Despite Dropbox's security issues,{{< sidenote dropbox-pw >}}Dropbox Security Bug Made Passwords Optional For Four Hours ([TechCrunch](https://techcrunch.com/2011/06/20/dropbox-security-bug-made-passwords-optional-for-four-hours/)){{< /sidenote >}} I have found it reliable. The drawback is that you start with a meagre {{< smallcaps "2 GB" >}} of storage. Sure, if you plan to store text documents and not much more, {{< smallcaps "2 GB" >}} is not bad; if you plan to store scanned documents, pictures, etc., you must look elsewhere.
+Let us start simple: Google owns Google Drive, Microsoft owns Microsoft OneDrive. They are both into advertising, though Microsoft is not as aggressive as Google is. Dropbox is solely a cloud storage company, with no known ties with the advertising world. Dropbox scores better here. Despite Dropbox's security issues,{{< sidenote dropbox-pw >}}Dropbox Security Bug Made Passwords Optional For Four Hours ([TechCrunch](https://techcrunch.com/2011/06/20/dropbox-security-bug-made-passwords-optional-for-four-hours/)){{< /sidenote >}} I have found it reliable. The drawback is that you start with a meagre {{< abbr "2 GB" >}} of storage. Sure, if you plan to store text documents and not much more, {{< abbr "2 GB" >}} is not bad; if you plan to store scanned documents, pictures, etc., you must look elsewhere.
 
 But we are not answering specific alternatives; we are looking at the principles that help you choose an online service.
 
@@ -73,7 +73,7 @@ Be wary of free services. No business makes money by giving away their products 
 
 Again, it comes down to the core business. As an example, the core business for Microsoft is software and enterprise solutions. Hosting a couple of billion home users is not a concern for them, because the majority of their money comes from enterprises. What they offer you as free storage is merely unused storage in their massive pools of storage which they primarily use for enterprises---more like spare capacity.
 
-Apple is different; their core business is hardware. They offer {{< smallcaps "5 GB" >}} of storage to back up your device content and settings. They charge you for storage of photos and documents beyond the {{< smallcaps "5 GB" >}} limit. Apple has little incentive in mining your data (as of now). Of course, we cannot say for sure that Microsoft and Apple will not mine data.
+Apple is different; their core business is hardware. They offer {{< abbr "5 GB" >}} of storage to back up your device content and settings. They charge you for storage of photos and documents beyond the {{< abbr "5 GB" >}} limit. Apple has little incentive in mining your data (as of now). Of course, we cannot say for sure that Microsoft and Apple will not mine data.
 
 Working around these is easy for the tech-savvy, because the tech-savvy can encrypt their data even before the upload begins. After that, it would not matter if the service encrypted the encrypted data or not. But that is not everyone's cup of tea. For the non-tech-savvy, the simplest way is to follow the principles above within practical limits. You cannot possibly control every app that you have on your phone, every service you use, or make your own apps for these purposes.
 
@@ -99,7 +99,7 @@ Linux has hundreds of "distros". Some of them are beginner-friendly to such an e
 
 [ProtonMail](https://protonmail.com/) has had its share of criticism, but at the end of the day, you can rest assured that Proton is not going to mine your data to sell advertisements or share your data with other corporations. Their product gives a tough competition to the best players in the email arena. ProtonMail is free to use, with some limitations on the free account. With the paid account, you get access to a lot more features and storage. Again, pay if you want to, or continue using the free version.
 
-With the free account, as of writing this post, you get {{< smallcaps "500 MB" >}} of mailbox space limited to 150 messages per day. This should work for most people. I used a free ProtonMail mailbox for three or four years, until I decided that I liked it and would like some more features like alias email addresses, more folders and labels, etc., and felt I should pay for the service. I started with the Plus plan for email that costs $79/2 years.
+With the free account, as of writing this post, you get {{< abbr "500 MB" >}} of mailbox space limited to 150 messages per day. This should work for most people. I used a free ProtonMail mailbox for three or four years, until I decided that I liked it and would like some more features like alias email addresses, more folders and labels, etc., and felt I should pay for the service. I started with the Plus plan for email that costs $79/2 years.
 
 ### Signal
 
@@ -121,7 +121,7 @@ Update (04/01/2021): Firefox gets a design overhaul. Looks good!
 
 Journalling is a private activity. Your journal could reveal a lot about you. And online journalling services could potentially leverage all that data for targeting and advertisement.
 
-I am not much of a note-taker. And I seldom write using pen and paper. I am more of a keyboard person. And for that, [Cryptee](https://crypt.ee/) works well. Cryptee gives you {{< smallcaps "100 MB" >}} of space to store your notes and pictures. (It creates elegant picture albums, by the way.) You can buy more storage if you choose to.
+I am not much of a note-taker. And I seldom write using pen and paper. I am more of a keyboard person. And for that, [Cryptee](https://crypt.ee/) works well. Cryptee gives you {{< abbr "100 MB" >}} of space to store your notes and pictures. (It creates elegant picture albums, by the way.) You can buy more storage if you choose to.
 
 I have a different photo storage strategy (which is too "techy" for most people; I want to keep this simple), but I use Cryptee for notes. You could use it for journalling as well, if you are a keyboard person. It uses zero-knowledge encryption, which makes your data private and safe.
 

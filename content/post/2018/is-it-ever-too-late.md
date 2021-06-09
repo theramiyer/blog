@@ -12,7 +12,7 @@ Yesterday, I wrote a [review of The Big Switch: It is never too late on Meraki P
 
 Sure, the book seems as though it's written by an IT engineer. I said on Meraki Post that I had two takes on the book. As a book critic, I said I'd rate it three out of five. As an IT engineer myself, I'd rate it four on five. That's what I did on Goodreads. And the reason is simple.
 
-We IT folks don't read. We run away from reading. The reason, I think, is that most of us refer to documentation online, and none of the documentation actually follows any rule of typography. And we folks get tired of reading on the computer screen. And then, most of us techies feel it's somewhat inferior to hold a physical book. So most of us own a tablet (from Micromax to Apple). They're all {{< smallcaps "LCD" >}} screens. They tire us out. Some of us own Kindles, and while the experience is mostly great, it's not very close to reading a real book. And I say that not as a layman, but as someone who gets typography.
+We IT folks don't read. We run away from reading. The reason, I think, is that most of us refer to documentation online, and none of the documentation actually follows any rule of typography. And we folks get tired of reading on the computer screen. And then, most of us techies feel it's somewhat inferior to hold a physical book. So most of us own a tablet (from Micromax to Apple). They're all {{< abbr "LCD" >}} screens. They tire us out. Some of us own Kindles, and while the experience is mostly great, it's not very close to reading a real book. And I say that not as a layman, but as someone who gets typography.
 
 Great. So all this brings us to that we run away from reading. 'Bro... Four hundred pages, Bro... Too much, Bro... I'll faint, Bro...' But then, most of us techies are children trapped in adult bodies. We love it if someone narrates a story to us. But I still wasn't convinced that we people don't like to read. So I asked a few, 'Why don't you read books?'
 
@@ -38,8 +38,8 @@ The result is that we see work and life as two different things; literally:
 
 So work has to be "extracted" out of us, we seek "work--life balance" (yes, I put an en-dash, not a hyphen), we "struggle" through the week and wait for the weekend to "unwind". Such is the state.
 
-But, it's still not too late. There's still a lot of time to explore what you like to do. Unless of course you have a home loan {{< smallcaps "EMI" >}} to be paid.
+But, it's still not too late. There's still a lot of time to explore what you like to do. Unless of course you have a home loan {{< abbr "EMI" >}} to be paid.
 
-In that aspect, I'd say go ahead and [read the book](http://amzn.to/2{{< smallcaps "FSG" >}}7FE). Especially if you're in IT. Of course, it may not be as simple as what's mentioned in the book, but it would for sure answer some of your questions. And probably ease your transition into the world of books.
+In that aspect, I'd say go ahead and [read the book](http://amzn.to/2{{< abbr "FSG" >}}7FE). Especially if you're in IT. Of course, it may not be as simple as what's mentioned in the book, but it would for sure answer some of your questions. And probably ease your transition into the world of books.
 
 Happy reading!

@@ -26,7 +26,7 @@ Like I said in the previous post, punishments to such crimes should act as a det
 
 ## Indoctrinated
 
-Given that, the next statement that I got was, 'Well, Ram, this is the problem with you all. That boy in Haryana that said that women should not come out of their houses and should handle household chores and know their place, that man in {{< smallcaps "ISIS" >}} in Afghanistan, and you---are no different. You are all indoctrinated. You all pick your book of ideas and say it's unquestionable. (To one, it's an unwritten societal book; to another, it's a religious book; to you, it's the Constitution.)
+Given that, the next statement that I got was, 'Well, Ram, this is the problem with you all. That boy in Haryana that said that women should not come out of their houses and should handle household chores and know their place, that man in {{< abbr "ISIS" >}} in Afghanistan, and you---are no different. You are all indoctrinated. You all pick your book of ideas and say it's unquestionable. (To one, it's an unwritten societal book; to another, it's a religious book; to you, it's the Constitution.)
 
 She was partially right.
 

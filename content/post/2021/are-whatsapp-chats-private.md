@@ -37,19 +37,19 @@ WhatsApp issued [full front-page advertisements](https://www.ndtv.com/india-news
 
 The big one.
 
-What {{< smallcaps NDTV >}} India showed is perhaps what most people think this is about. But no, WhatsApp is right in saying that it cannot read your private messages---it cannot read your _private_ messages. Under the hood, WhatsApp uses Signal's protocol to transfer messages, which ensures end-to-end encryption. But, of course, since WhatsApp has not made its code open source, independent security specialists cannot verify if this is the case.
+What {{< abbr NDTV >}} India showed is perhaps what most people think this is about. But no, WhatsApp is right in saying that it cannot read your private messages---it cannot read your _private_ messages. Under the hood, WhatsApp uses Signal's protocol to transfer messages, which ensures end-to-end encryption. But, of course, since WhatsApp has not made its code open source, independent security specialists cannot verify if this is the case.
 
 Assuming that WhatsApp is being honest about the protocol it uses---which I think is the case---messages that you send to your friends and family are safe, including those that you send in groups.
 
 Then where is the problem?
 
-This is _not about your private messages_. This is about business messages. [In my previous post]({{< ref privacy-and-you.md >}}), I wrote about WhatsApp for Business, which also has an {{< smallcaps API >}} that businesses can use to send you messages. This is in cases where a business has a large number of customers, and a team manages customer communication, or in cases where the business needs to automate messaging, such as delivering account updates to you.
+This is _not about your private messages_. This is about business messages. [In my previous post]({{< ref privacy-and-you.md >}}), I wrote about WhatsApp for Business, which also has an {{< abbr API >}} that businesses can use to send you messages. This is in cases where a business has a large number of customers, and a team manages customer communication, or in cases where the business needs to automate messaging, such as delivering account updates to you.
 
 WhatsApp's privacy policy says that businesses can choose to share even the messages (as in the message text) with WhatsApp (which WhatsApp can now in turn share with Facebook).
 
 WhatsApp and Facebook can read these messages and make sense of them. These messages could include anything, including what you bought, how much you bought it for, and so on. If your bank chooses to send you account updates over WhatsApp, good luck---now one of the two largest advertising companies---and data machines---in the world knows how much you earn every month, how much you spend where, what your investments are, etc.
 
-Why would businesses use WhatsApp? Because sending messages over WhatsApp is much more reliable, and cheaper than regular {{< smallcaps SMS >}}.
+Why would businesses use WhatsApp? Because sending messages over WhatsApp is much more reliable, and cheaper than regular {{< abbr SMS >}}.
 
 This is a problem because an advertising company knowing you like cars is one thing; knowing what car you may buy based on your financial situation is entirely another. Why would Facebook want this information? Because using this, it would place you in a specific target group, and try to sell products of that category to you. Advertisers can utilise this data to their benefit---this is not information you want advertisers to know (this is information you keep them guessing about). Sharing such information will open new possibilities for them, and create new privacy problems.
 
@@ -90,7 +90,7 @@ I saw that on the Internet, people were offering solutions, helping you continue
 
 This is the most frequent suggestion given to limit information that WhatsApp gathers about you: Go into your phone settings and control the amount of information WhatsApp gets from your phone.
 
-- Use a {{< smallcaps VPN >}} to hide your IP address.
+- Use a {{< abbr VPN >}} to hide your IP address.
 - Turn off location sharing with WhatsApp so it cannot grab your location.
 - Turn off automated backup of chats.
 - Turn on disappearing messages.
@@ -98,7 +98,7 @@ This is the most frequent suggestion given to limit information that WhatsApp ga
 
 Yes, some of this _may_ help you gain back some privacy, but the big hole here is _messages sent to you by businesses_.
 
-Secondly, we must all understand that smartphones started sharing data about WiFi access points long, long ago. Google, Facebook, Microsoft, Apple, etc. have this information already. When you allowed your phone to keep looking for WiFi hotspots (so that they can notify you of free hotspots), your phones collected names of access points along with their locations (because nobody turns off location services) and shared these details with these companies. WhatsApp can see your network details (meaning, the {{< smallcaps SSID >}} of your WiFi). Now think about if a {{< smallcaps VPN >}} can help you. Tracking the IP address is a method to know your approximate location. When you have the {{< smallcaps SSID >}} information which you can correlate with the accurate location, why would you bother with the IP address?
+Secondly, we must all understand that smartphones started sharing data about WiFi access points long, long ago. Google, Facebook, Microsoft, Apple, etc. have this information already. When you allowed your phone to keep looking for WiFi hotspots (so that they can notify you of free hotspots), your phones collected names of access points along with their locations (because nobody turns off location services) and shared these details with these companies. WhatsApp can see your network details (meaning, the {{< abbr SSID >}} of your WiFi). Now think about if a {{< abbr VPN >}} can help you. Tracking the IP address is a method to know your approximate location. When you have the {{< abbr SSID >}} information which you can correlate with the accurate location, why would you bother with the IP address?
 
 Turning off chat backups can prevent Apple and Google from reading your data; it makes no difference to WhatsApp or Facebook. As for disappearing messages, like WhatsApp has made it amply clear, it does not care about your private chats; turning on disappearing messages has no effect on WhatsApp learning whom you message, how frequently you message, for how long you message, etc. Also, Facebook already has personally identifiable details about you; all it needs is the phone number to correlate your Facebook information with your WhatsApp chats. Even if you change your phone number, Facebook by now knows who you are, based on the unique identifier that WhatsApp uses to identify your account. This unique identifier will not change when you use the 'Change phone number' feature of WhatsApp. And remember, WhatsApp can store your historical phone number for legal reasons.
 
@@ -113,7 +113,7 @@ We can categorise the next set of suggestions under financial privacy:
 
 The first is fully in your control. And it cannot be any simpler. Do not turn on WhatsApp payments. As a result, you do not give direct access to your bank account, thereby preventing WhatsApp from reading information such as your bank balance. This in my view is a legitimate option.
 
-I do not think the second one is a legitimate way to escape financial surveillance. I know a handful of apps that have a little tickbox wherever you have any account related transaction, saying, 'Get updates on WhatsApp'. If you miss unticking this box even once, you do not see this box anymore, and the business starts routing all communication through WhatsApp. You must contact the customer care to disable WhatsApp communication and enable {{< smallcaps SMS >}} communication. And there is no guarantee that the customer care team will oblige.
+I do not think the second one is a legitimate way to escape financial surveillance. I know a handful of apps that have a little tickbox wherever you have any account related transaction, saying, 'Get updates on WhatsApp'. If you miss unticking this box even once, you do not see this box anymore, and the business starts routing all communication through WhatsApp. You must contact the customer care to disable WhatsApp communication and enable {{< abbr SMS >}} communication. And there is no guarantee that the customer care team will oblige.
 
 Although, of course, you have the option to not use WhatsApp for shopping. But again, there is no telling that your bank will not route account-related communication through WhatsApp in the future. They will look at WhatsApp as a cheap, reliable communication solution.
 

@@ -8,7 +8,7 @@ title: '#MeToo and somewhere, #ItWasMe'
 
 Did you click on the link to the post? Did you read the whole post? How many [#MeToo][20a8b3b9] posts did you (actually) read? How many of you know what the whole [#MeToo][20a8b3b9] campaign is about? Did you not read the post because you already knew what it was? As usual, the situation is multi-faceted.
 
-To start with, the [#MeToo][20a8b3b9] campaign was about women (and in some cases, men) coming out and telling the world that they were sexually abused. And sexual abuse starts from giving the "look that makes [someone] feel (s)he's being virtually undressesed", to self gratification in {{< smallcaps "MTC" >}} buses and auto-rickshaw stands, to grabbing "assets", to calling her a "bitch", to actually raping&nbsp;&hellip; and everything in between and beyond.
+To start with, the [#MeToo][20a8b3b9] campaign was about women (and in some cases, men) coming out and telling the world that they were sexually abused. And sexual abuse starts from giving the "look that makes [someone] feel (s)he's being virtually undressesed", to self gratification in {{< abbr "MTC" >}} buses and auto-rickshaw stands, to grabbing "assets", to calling her a "bitch", to actually raping&nbsp;&hellip; and everything in between and beyond.
 
 A close friend of mine, who doesn't usually share anything on social networks, went ahead and shared a note on Facebook with the hashtag. I felt the seriousness.
 

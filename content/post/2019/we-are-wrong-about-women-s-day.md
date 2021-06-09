@@ -8,13 +8,13 @@ tags:
 title: How to not celebrate Women's Day
 ---
 
-When {{< smallcaps "Ustraa" >}} sent me an "offers" {{< smallcaps "SMS" >}} in November, "Gear up for No-shave November with {{< smallcaps "Ustraa" >}} ... 20% discount on all products", I realised how meanings were being lost rapidly. No-shave November is a relatively new "observance", and most of us Indians don't know the meaning of it. (So, {{< smallcaps "Ustraa" >}} is forgiven for now.) This post is not about No-shave November, but about a relatively old concept of _Women's Day_. Did we lose sight of its meaning because it's a pre-Millennial concept?
+When {{< abbr "Ustraa" >}} sent me an "offers" {{< abbr "SMS" >}} in November, "Gear up for No-shave November with {{< abbr "Ustraa" >}} ... 20% discount on all products", I realised how meanings were being lost rapidly. No-shave November is a relatively new "observance", and most of us Indians don't know the meaning of it. (So, {{< abbr "Ustraa" >}} is forgiven for now.) This post is not about No-shave November, but about a relatively old concept of _Women's Day_. Did we lose sight of its meaning because it's a pre-Millennial concept?
 
 Every Women's Day, our news feeds, newspapers, messages, Instagram posts ... everything around us is filled with "Empowerment" and "Power to you, Woman" and an entire glossary of terms and phrases including "Beautiful ladies". It has become second nature: Come March 8, wish people on their birthdays, and then, go on about how women "make life beautiful" by celebrating those who "achieved" something for us.
 
 I am not a feminist. You are probably not, either. So let's talk: human to human.
 
-Women's Day is a rather old concept. A concept that was started by socialist groups in the US and Russia, primarily. Later on, China and other countries pitched in, and today, it is an official holiday in many countries including Afghanistan. Many movements that involved women (including movements for voting rights and the end of {{< smallcaps "WWI" >}}), in the end, led to Women's Day being observed on the 8th of March every year. No matter what different reasons it was for initially, it later on turned towards equality of women. In 2019, the theme is:
+Women's Day is a rather old concept. A concept that was started by socialist groups in the US and Russia, primarily. Later on, China and other countries pitched in, and today, it is an official holiday in many countries including Afghanistan. Many movements that involved women (including movements for voting rights and the end of {{< abbr "WWI" >}}), in the end, led to Women's Day being observed on the 8th of March every year. No matter what different reasons it was for initially, it later on turned towards equality of women. In 2019, the theme is:
 
 > Think equal, build smart, innovate for change.
 

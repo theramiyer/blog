@@ -29,6 +29,6 @@ All right, I'm gonna assume that you've watched it. If you haven't, you're missi
 12. The dry cow dung on the pyre is plastic.
 13. Paper is plastic.
 14. All forests are plastic; that's why you have forest fires. Like landfilling, this is forest-filling; they replace all the trees with plastic after they've cut the trees for paper and furniture.
-15. The Sun is made of plastic. Yes, we humans managed to replace that as well. {{< smallcaps "NASA" >}} and {{< smallcaps "ISRO" >}} got funded by Vijay Mallya, Reliance, and Adani-Wilmar to take out all the plastic from the world (coz we couldn't destroy it), and make a plastic sun. One of the Indian politicians has the real sun hidden in a bank locker. It came on WhatsApp yesterday. Really. I swear.
+15. The Sun is made of plastic. Yes, we humans managed to replace that as well. {{< abbr "NASA" >}} and {{< abbr "ISRO" >}} got funded by Vijay Mallya, Reliance, and Adani-Wilmar to take out all the plastic from the world (coz we couldn't destroy it), and make a plastic sun. One of the Indian politicians has the real sun hidden in a bank locker. It came on WhatsApp yesterday. Really. I swear.
 
 I know, that's too much information to digest. Take your time. Read in peace. And if you have any queries, please don't call me.

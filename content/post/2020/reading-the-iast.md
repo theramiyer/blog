@@ -22,7 +22,7 @@ Writing the subtitles was a unique experience for me. But we will get to that la
 
 The Latin script (these letters that you are reading) is limiting when we write Sanskrit in it. Whereas the Devanagari script (the most common script used for Sanskrit) has 46 to 50 simple letters (depending on which you count), the Latin alphabet has 26. (I have not counted the composites in either script.)
 
-I found it hard to write the words whose pronunciations are hard to express in the Latin script. I decided to switch to {{< smallcaps "IAST" >}}, or the _International Alphabet for Sanskrit Transliteration_. But I figured, the alphabet is not popular, and rather limited to juvenile text decoration on social network sites (Anybody remember Orkut?), and needs an introduction. I decided to write a quick and simple guide on how to read the {{< smallcaps "IAST" >}} (or "Sanskrit in English", as some say), and a quicker reference to {{< smallcaps "IAST" >}} if you know an Indic language.
+I found it hard to write the words whose pronunciations are hard to express in the Latin script. I decided to switch to {{< abbr "IAST" >}}, or the _International Alphabet for Sanskrit Transliteration_. But I figured, the alphabet is not popular, and rather limited to juvenile text decoration on social network sites (Anybody remember Orkut?), and needs an introduction. I decided to write a quick and simple guide on how to read the {{< abbr "IAST" >}} (or "Sanskrit in English", as some say), and a quicker reference to {{< abbr "IAST" >}} if you know an Indic language.
 
 ## Introduction to the IAST
 
@@ -51,7 +51,7 @@ Now come the consonants. They are intuitive as well.
 First of all, Sanskrit differentiates between sounds such as the sound of 'c' as in 'cup' (aspirated) and the sound of 'k' as in 'sky' (tenius). In general, when 'h' does not follow a letter, read it as a tenius sound. In other words, 'k' sounds like 'sky' and 'kh' sounds like 'kite'.
 
 - The velars are 'k', 'kh', 'g', 'gh' and 'ṅ'. The sound of 'ṅ' is like 'n' in 'king' or 'pink'.
-- Then there are the palatals, 'c', 'ch', 'j', 'jh', 'ñ'. The sound of 'c' in {{< smallcaps "IAST" >}} is like 'ch' in 'etch'. The sound of 'ñ' is like 'n' in 'quench' or 'engine'.
+- Then there are the palatals, 'c', 'ch', 'j', 'jh', 'ñ'. The sound of 'c' in {{< abbr "IAST" >}} is like 'ch' in 'etch'. The sound of 'ñ' is like 'n' in 'quench' or 'engine'.
 - Third are the retroflexes. We denote these with a dot below the letter: 'ṭ', 'ṭh', 'ḍ', 'ḍh' and 'ṇ'. The letter 'ṭ' sounds like 't' in 'curt', 'ṭh' like 't' in 'Thomas', 'ḍ' sounds like 'd' in 'bird', and 'ṇ' sounds like 'n' in 'control' or 'thunder'.
 - Fourth: the dentals, 't', 'th', 'd', 'dh' and 'n'. The sound of 't' is like that of 'th' in 'teeth', 'th' is like 'th' in 'throw', 'd' sounds like 'th' in 'this', 'dh' is a stronger version of 'th' in 'this', and 'n' is the regular 'n' as in 'synthesis'.
 - And, we have the labials, 'p', 'ph', 'b', 'bh' and 'm'. Note that 'ph' does not sound like 'phone', but like 'prove'.
@@ -74,7 +74,7 @@ Now, if you know any of the Indic languages, here are some examples so you get a
 |viśēṣa |விஶேஷ |विशेष |વિશેષ |ವಿಶೇಷ |
 |Nēpāḷ |நேபாள |नेपाळ |નેપાળ |ನೇಪಾಳ |
 
-[^fce4b05a]: Those that disregard letters such as ஶ், ஷ், ஸ, etc. calling them 'வடமொழி எழுத்து', please remember that all good scripts evolve, and they must. Had the Latin alphabet not evolved, we would not have had the {{< smallcaps "IAST" >}}; had Dēvanāgari not evolved, we would not have had the likes of ज़ in it. Openness to evolution is what helps something—anything—thrive. What would have happened had the cart not evolved; had people destroyed all vehicles, saying that the cart is the traditional form of a vehicle, it signifies our history and that we mustn't use any other form of vehicles?
+[^fce4b05a]: Those that disregard letters such as ஶ், ஷ், ஸ, etc. calling them 'வடமொழி எழுத்து', please remember that all good scripts evolve, and they must. Had the Latin alphabet not evolved, we would not have had the {{< abbr "IAST" >}}; had Dēvanāgari not evolved, we would not have had the likes of ज़ in it. Openness to evolution is what helps something—anything—thrive. What would have happened had the cart not evolved; had people destroyed all vehicles, saying that the cart is the traditional form of a vehicle, it signifies our history and that we mustn't use any other form of vehicles?
 
 \* No exact equivalent available
 
