@@ -32,7 +32,7 @@ On that note, this specific allegation of sexual abuse is against Mr Rajagopala
 
 ## Sexual abuse in general
 
-What surprised me was one of the alleged messages by a student/alumnus about another teachers in another school of the same group:
+What surprised me was one of the alleged messages by a student/alumnus about another teacher in another school of the same group:
 
 > And [another teacher] used to deal with kids from age 10-14 than older ones. Imagine … What sucks is we didn't even know it was wrong at that point because abusive/toxic/patriarchal behaviour was something even the female teachers practised. Slapping, body shaming, slut shaming for having male friends was normalised.
 
@@ -79,11 +79,11 @@ To recap, the issue is sexual harassment of students by teachers.
 
 ## Complaint and Cognisance
 
-The first statement that the school management made was that they were unaware. In its second statement, they said that no one had given a written complaint about this. The difference is subtle, but significant. Should a school that has "zero tolerance" towards such issues wait for a written complaint? How could the school take "suo motu" cognisance of this issue now, without getting a written complaint?
+The first statement that the school management made was that they were unaware. In their second statement, they said that no one had given a written complaint about this. The difference is subtle, but significant. Should a school that has "zero tolerance" towards such issues wait for a written complaint? How could the school take "suo motu" cognisance of this issue now, without getting a written complaint?
 
-Or was it indeed suo motu, given that the alumni had indeed written to the management about this after the social media blow-up? Or does it take a social media blow-up for the school to take suo motu cognisance of such issues? Something does not add up.
+Or was it indeed suo motu, given that the alumni had written to the management about this after the social media blow-up? Or does it take a social media blow-up for the school to take suo motu cognisance of such issues? Something does not add up.
 
-_Padma Seshadri_ is not alone. Sexual abuse of children is a global problem. Schools are a place where children spend a quarter of their day, which makes schools a haven for predators. Singling out one school and putting pressure on them alone does not help. In the days that followed, students of other prominent schools, such as Chettinad Vidyashram, Kendriya Vidyalaya (CLRI), Sushil Hari School, Sastra University etc., brought out the issues in their schools and colleges. If this caught on the way #MeToo did, we would see more students coming out and sharing their experiences.
+_Padma Seshadri_ is not alone. Sexual abuse of children is a global problem. Schools are a place where children spend a quarter of their day, which makes schools a haven for predators. Singling out one school and putting pressure on them alone does not help. In the days that followed, students of other prominent schools, such as Chettinad Vidyashram, Kendriya Vidyalaya (CLRI), Sushil Hari School, Sastra University, etc., brought out the issues in their schools and colleges. If this caught on the way #MeToo did, we would see more students coming out and sharing their experiences.
 
 Sure, a handful of these may be "overreactions" or "misunderstandings" or "misplaced retaliation", but what about the rest? Are they all fake?
 
@@ -105,7 +105,7 @@ This discourages victims from coming out about their experience.
 
 Movements such as #MeToo give the victims a voice. The movements help them realise that they are not alone. When they see thousands of victims coming out, they feel they could share their experience as well.
 
-I asked a friend what she thinks about this question, and she said:
+I asked a friend what she thought about this question, and she said:
 
 > I think there's 3 reasons why someone who's been a victim of sexual assault doesn't come forward in most cases.
 >
@@ -115,7 +115,7 @@ I asked a friend what she thinks about this question, and she said:
 >
 > 3. The culture is rigged to favour men. Especially cis-het white men. Even if the victim wins the case, they've already lost time, reputation,  and will have to deal with the trauma for the rest of their lives. Fighting for justice is an exercise in futility unfortunately.
 
-She then goes on to say:
+She then went on to say:
 
 > Bringing it up then would not have changed anything. The ecosystem was crueler, victims were alone. There was a severe lack of social security then. And trauma is complicated, some people don't feel ready to talk about it for years.
 >
