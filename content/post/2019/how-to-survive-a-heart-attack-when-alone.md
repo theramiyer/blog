@@ -26,7 +26,7 @@ The message reads (sic):
 >
 > You have been trained in CPR, but the guy who taught the course did not tell you how to perform it on yourself.
 >
-> HOW TO SURVIVE A HEART ATTACK WHEN ALONE?  
+> {{< smallcaps "HOW TO SURVIVE A HEART ATTACK WHEN ALONE?" >}}  
 > Since many people are alone when they suffer a heart attack without help, the person whose heart is beating improperly and who begins to feel faint, has only
 > about 10 seconds left before losing consciousness.
 >
@@ -57,7 +57,7 @@ But, how much of this is true? How much of what is true is valid in 2019? So, I 
 
 {{< toc >}}
 
-Before we go any further, a legal disclaimer: Understand that I am NOT a medical professional. This post is NOT medical advice, and comes without warranties (in other words, you are on your own). This is merely a post with general knowledge, and I am not responsible for the good or the bad that happens to you after reading this post and/or following what it says. The same applies to this arbitrary Dr. N. Siva as well---you do not know who he is, or whether he even exists. Treat these things with a grain of salt. Sucks, I know, but nothing is a substitute for a medical professional.
+Before we go any further, a legal disclaimer: Understand that I am NOT a medical professional. This post is NOT medical advice, and comes without warranties. This is merely a post with general knowledge, and I am not responsible for the good or the bad that happens to you after reading this post and/or following what it says. The same applies to this arbitrary Dr. N. Siva as well---you do not know who he is, or whether he even exists. Treat these things with a grain of salt. Sucks, I know, but nothing is a substitute for a medical professional.
 
 ## What causes a heart attack
 
@@ -108,7 +108,7 @@ First of all, a CPR is NOT done in case of a heart attack; a CPR is for cardiac 
 
 I repeat: CPR is for cardiac arrests, not heart attacks.
 
-I've received emergency response training in first aid (and evacuation and fire fighting). So, I know what I am talking about. And I know for fact that no cardiologist would ever suggest a self-CPR for a heart attack. If you don't know what ABC means in this context, you're automatically disqualified from handling any CPR, let alone self-CPR. Is ABC some "classified" laypeople first-aider term or something? No. The point is that if you didn't know the first thing about swimming, you wouldn't jump into the ocean to rescue someone drowning in it.
+I've received emergency response training in first aid. So, I know enough to tell you that a CPR is given for cardiac arrests. And I know for fact that no cardiologist would ever suggest a self-CPR for a heart attack. If you don't know what ABC means in this context, you're automatically disqualified from handling any CPR, let alone self-CPR. Is ABC some "classified" laypeople first-aider term or something? No. The point is that if you didn't know the first thing about swimming, you wouldn't jump into the ocean to rescue someone drowning in it.
 
 Now, notice something of importance that the message says: "You have been trained in CPR, but the guy who taught the course did not tell you how to perform it on yourself." Notice, 'You have been trained in CPR'. This must be understood as, 'If you're not trained in CPR, you should not do this.' CPR isn't as easy as they show in films; it must be handled with much more seriousness. And it's taxing at some level. But if you asked me if I'd give myself a CPR of this kind because I'm trained in CPR, no, not based on these instructions. Here is why:
 
@@ -126,7 +126,7 @@ It also says, "A cardiologist says If everyone who gets this mail kindly send it
 
 A valid question.
 
-First of all, maintaining a calm, regular breath may help with the cardiac rhythm and the blood pressure. It also helps you think straight during a moment at which to think as straight as possible. Your instinct would be to panic; conscious, controlled, calm breaths will help counteract the ill effects of adrenaline. If you're losing balance or fainting, well-defined rhythmic breath could help.
+First of all, maintaining a calm, regular breath may help with the cardiac rhythm and the blood pressure. It also helps you think straight. Your instinct would be to panic; conscious, controlled, calm breaths will help counteract the ill effects of adrenaline. If you're losing balance or fainting, well-defined rhythmic breath could help.
 
 Second, you need to limit your movements. Therefore, you pick up the things you need in one go and then get to a state of rest. Your phone is a lifesaver. It helps you communicate. Next, taking an Aspirin reduces the chances of a clot forming in the artery that may have ruptured (and could prevent a cardiac arrest). Aspirin acts on the platelets and prevents them from coming together to coagulate. But remember, an open artery will lead to internal bleeding, and hence the necessity for medical help. This is about weighing the less harmful option; a little internal bleeding against cardiac complications.
 
@@ -136,7 +136,7 @@ Calling for emergency services is a no-brainer. Calling for an ambulance is bett
 
 It's important that you're accurate and crisp on the call with emergency services. All they need is information, and that's all that's worth your effort.
 
-Crushed Aspirin under your tongue absorbs quickly because the area has a rich supply of blood. Absorption of swallowed Aspirin could take about forty minutes. If you are a cardiac patient, your cardiologist must have prescribed Aspirin (e.g. Ecosprin---even Disprin would do) and/or Atrovastatin (e.g. Ecosprin AV). Avoiding water is also advised so that you don't choke and worsen the situation while you are probably finding it hard to breathe. Chewing the tablet increases the surface area making absorption significantly faster. Despite this, if you choose to drink water, that should be about two tablespoons.
+Crushed Aspirin under your tongue absorbs quickly because the area has a rich supply of blood. Absorption of swallowed Aspirin could take about forty minutes. If you are a cardiac patient, your cardiologist must have prescribed Aspirin (e.g. Ecosprin---even Disprin would do) and/or Atorvastatin (e.g. Ecosprin AV). Avoiding water is also advised so that you don't choke and worsen the situation while you are probably finding it hard to breathe. Chewing the tablet increases the surface area making absorption significantly faster. Despite this, if you choose to drink water, that should be about two tablespoons.
 
 Medical professionals working on you must know that you've taken the Aspirin. They'll treat you accordingly. Aspirin could interfere with some medicines, and the medics could base their prescriptions on whether you've taken the Aspirin.
 
