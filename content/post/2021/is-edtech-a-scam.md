@@ -1,6 +1,8 @@
 ---
 title: "Is EdTech a Scam"
 subtitle: "Looking at the “one-sided” narrative."
+aliases:
+- "is-whitehat-jr-a-scam"
 date: 2021-05-17T22:53:22+05:30
 description: |
     A TechEd startup has been in the news for some time now. Are they a scam? Are they ripping off people? Are coding lessons indeed available for free?
