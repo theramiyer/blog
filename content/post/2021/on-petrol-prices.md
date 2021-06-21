@@ -2,9 +2,15 @@
 title: "On Petrol Prices"
 subtitle: "Going beyond WhatsApp University"
 date: 2021-06-20T08:58:44+05:30
-description:
+description: |
+    Fuel prices are at an all-time high. Why? Is the government to blame? Can we not to so much for the country? Or are these fuel prices indeed bad? In this post, we look at some of the contributing factors, the logic behind the hike, and along with that, address some claims by WhatsApp University.
 tags:
-draft: true
+- economy
+- whatsapp university
+- government
+- India
+- resources
+- market
 ---
 
 As soon as someone complains about the fuel prices, we see some coming out in support of the hike, calling it an economy booster. I am no exception; I saw those forwards as well, for as long as I was on WhatsApp over the last year. In this post, we look at the good and the bad of such fuel price hikes, look at whether the government does indeed control the prices, what its implications are, and what we can do about it.
