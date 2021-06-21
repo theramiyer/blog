@@ -11,7 +11,9 @@ As soon as someone complains about the fuel prices, we see some coming out in su
 
 This is not a political post. Please do not waste your time looking for political undertones in it; none exists. What matters is that the government did what it did, not who was leading it. Left, Right or Centre, fuel prices affect us all, and we must care about it.
 
-To begin the discussion, let us look at what the prices have been over the last eighteen years.
+{{< toc >}}
+
+To begin the discussion, let us look at what the prices have been over the last eighteen years. (Eighteen years, because that is how far back the data I could find goes.)
 
 {{< raw >}}
 <div class="flourish-embed flourish-chart" data-src="visualisation/6479858"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
@@ -35,9 +37,9 @@ But that is not the whole picture.
 
 During the pandemic, when the entire world went into a lockdown, the demand for petroleum dropped across the world. This resulted in a steep drop in the price of the crude oil. But this was also the time that our government realised that it would face a hit in the GST collection.
 
-When the prices dropped, the government saw this as a window of opportunity. The government decided to keep the prices at around ₹70. The logic was that the price point is familiar to the public, and they would not mind paying such money. But how could the government do this when it did not control the prices any more? Of course by tweaking the taxes.
+When the prices dropped, the government saw this as a window of opportunity. The government decided to keep the prices at around ₹70. The logic was that the price point is familiar to the public, and they would not mind paying such money. But how could the government do this when it did not control the prices any more? Of course, by tweaking the taxes.
 
-India works on the welfare state model. And the government needs money for welfare schemes. When the economy comes to a grinding stop because of the pandemic, one way to kickstart it, is to give money in the hands of people, so that they begin the spend cycle. This leads to more demand, then more production, and more consumption.
+When the economy comes to a grinding stop because of the pandemic, one way to kickstart it, is to give money in the hands of people, so that they begin the spend cycle. This leads to more demand, then more production, and more consumption.
 
 Exploiting the drop in crude prices was a good way to make some quick money. Nobody had anything to lose.
 
@@ -49,9 +51,15 @@ The government increased the taxes when the prices dropped. But did not reduce t
 <div class="flourish-embed flourish-chart" data-src="visualisation/6479135"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 {{< /raw >}}
 
+This morning, I spoke to Ajit Paul, someone who follows the economy---a member of a book club my friend is also in. He had collected some pictorial representations of global fuel prices, taxes on them, etc. I will share some of the pictures he shared from India Today's DIU.
+
 While the base price of a litre of petrol is ₹37.29, the governments (Central and State) charge ₹55.21 as tax. The tax is more than the price of the commodity itself---about 1½ times the base price.
 
+{{< figure src="https://blogfiles.ramiyer.me/2021/images/price-buildup-petrol.webp" alt="Price buildup of petrol by state" caption="Price buildup of petrol by state (Courtesy: [India Today](https://www.indiatoday.in/) and Ajit Paul, as of Feb 2021)" >}}
+
 Today, the price of [a barrel of crude oil is about USD 73.75](https://in.finance.yahoo.com/quote/BZ%3DF/history/). If the taxes remain where they are, the fuel prices will go further up as the crude prices increase. And the crude prices will increase in the future---the prices had dropped because the demand had gone down. When the demand increases as travel opens up, the prices will catch up.
+
+{{< figure src="https://blogfiles.ramiyer.me/2021/images/oil-prices-rebound.webp" alt="Crude prices (average) over the last four decades" caption="Crude prices over four decades (Courtesy: [India Today](https://www.indiatoday.in/) and Ajit Paul, as of Feb 2021)" >}}
 
 ## I do not use a vehicle
 
@@ -69,7 +77,9 @@ If you care about the country and the economy, then you must not accept this inc
 
 The _crude prices_ are not in the government's control, but the prices of the finished products are---through taxes. Back in 2014, the tax on petrol was ₹9.48, which now [stands at ₹32.98](https://auto.economictimes.indiatimes.com/news/oil-and-lubes/government-hikes-excise-duty-on-petrol-by-record-rs-10-diesel-by-rs-13/75571493). The story is worse with diesel; the tax was ₹3.56 a litre, which has now jumped to ₹31.83. The states also levy a large amount of VAT, as you see above. Talking about exact numbers for the state is difficult because each state has its VAT rates ([anywhere between 6% and 28%](http://ppac.org.in/WriteReadData/userfiles/file/PP_3_SalesTax.xls) as of writing this post).
 
-And remember, VAT is over the sum of the base price, the freight and the Excise Duty, not merely the base price. When the state governments reduced the tax on petrol and diesel, people saw it as an act of generosity, but no; the states could afford to do it because the increase of ₹10–₹13 per litre on the Excise Duty led to a drastic increase in the tax collected by the state governments. They could reduce the tax a little to appease the public, but technically, that came at no added cost to them.
+{{< figure src="https://blogfiles.ramiyer.me/2021/images/fuel-tax-hikes.webp" alt="Fuel tax hike (2014 vs 2021)" caption="Fuel tax hike (2014 vs 2021) (Courtesy: [India Today](https://www.indiatoday.in/) and Ajit Paul, as of Feb 2021)" >}}
+
+And remember, VAT is over the sum of the base price, the freight and the Excise Duty, not merely the base price, as [this document by Bharat Petroleum](https://www.bharatpetroleum.com/pdf/MS_Webupload_16.06.2021.pdf) will show you. When the state governments reduced the tax on petrol and diesel, people saw it as an act of generosity, but no; the states could afford to do it because the increase of ₹10–₹13 per litre on the Excise Duty led to a drastic increase in the tax collected by the state governments. They could reduce the tax a little to appease the public, but technically, that came at no added cost to them.
 
 The price of petrol went up from ₹69.87 to over ₹100 in a span of fifteen months; this is unacceptable. The damage the governments are doing by increasing the taxes to this extent is much more than the benefit that they aim to get. Do the governments not see this? Your guess is as good as mine. The official statement from the union petroleum minister is that the government is not looking at a reduction in taxes on fuel because the government is [saving money for welfare schemes](https://indianexpress.com/article/india/dharmendra-pradhan-petrol-diesel-prices-welfare-schemes-7357174/).
 
@@ -85,7 +95,9 @@ Switching to an alternative at this scale is a long process. Vehicles running on
 
 Regardless, the process of switching will take a long time. Perhaps half a decade. Perhaps more. An acquaintance pointed out how mobile phones became a reality in India. But can we go on with these tax rates, knowing fully well that as the world opens up to more travel and the demand for fuel increases, the prices of crude oil will also increase.
 
-Is such discouragement to using fossil fuels or even reduce dependency on fuel imports healthy, when we have no accessible alternatives?
+Is such discouragement to using fossil fuels or even reduce dependency on fuel imports healthy, when we have no accessible alternatives? We are paying in multiples of the crude price, as this graphic shows:
+
+{{< figure src="https://blogfiles.ramiyer.me/2021/images/no-parity.webp" alt="Average petrol price as multiples of crude prices" caption="Average petrol price as multiples of crude prices (Courtesy: [India Today](https://www.indiatoday.in/) and Ajit Paul, as of Feb 2021)" >}}
 
 ### Domestic oil exploration
 
@@ -105,7 +117,7 @@ Time and again, WhatsApp University goes abuzz with claims that the previous gov
 
 Back when the government decided the price of petroleum products, the oil marketing companies were to get their losses covered by the government. The government, instead of paying the companies in cash, gave them bonds. The government set a maturity date and agreed to pay interest for the duration of the bond.
 
-The WhatsApp University claim goes on to say that because the government has not lowered the taxes to be able to pay the oil marketing companies. As Vivek Kaul explains in his post, this claim is false. Also, while the bonds are worth about ₹1.3 lac crore, the government makes over twice that money in taxes. Also to note, a mere 7.5% of those bonds are nearing maturity.
+The WhatsApp University claim goes on to say that because the government has not lowered the taxes to be able to pay the oil marketing companies. As Vivek Kaul [explains in his post](https://vivekkaul.com/2021/06/17/petrol-and-diesel-prices-are-high-due-to-lower-corporate-taxes-not-because-of-oil-bonds/), this claim is false. Also, while the bonds are worth about ₹1.3 lac crore, the government makes over twice that money in taxes. Also to note, a mere 7.5% of those bonds are nearing maturity.
 
 The truth, Mr Kaul says, is that the government is trying to offset the loss in revenue because of its 2019 decision to reduce corporate taxes, and the further drop in revenue because of other decisions by the government, to which, the pandemic added fuel.
 
