@@ -75,14 +75,50 @@ The price of petrol went up from ₹69.87 to over ₹100 in a span of fifteen mo
 
 ## Why is the government doing this
 
+Let us look at some of the arguments I came across (through WhatsApp University and otherwise).
+
+### Fuel imports
+
 Apart from making some money for welfare schemes, the government is also doing this to reduce dependency on fuel import. The idea is that the higher tax rates would serve as a discouragement to buying vehicles that run on fossil fuel. Our domestic production has not gone up in the last decade, and the demand has outpaced the domestic production.
 
+Switching to an alternative at this scale is a long process. Vehicles running on biofuels, vehicles using hydrogen as fuel, etc. are not yet a technological reality. The alternative that is closest to reality is electric vehicles. The problem, though, is that we do not have the charging infrastructure. But our automakers are working on making electric vehicles more accessible, like introducing swappable batteries, charging lounges, longer run per charge, etc. Remember, though, that electric vehicles are not all that eco-friendly; they become eco-friendly when the source of power is renewable (solar energy, for example) or less polluting (like nuclear power).
 
+Regardless, the process of switching will take a long time. Perhaps half a decade. Perhaps more. An acquaintance pointed out how mobile phones became a reality in India. But can we go on with these tax rates, knowing fully well that as the world opens up to more travel and the demand for fuel increases, the prices of crude oil will also increase.
 
-## Other reasons for fuel price hike
+Is such discouragement to using fossil fuels or even reduce dependency on fuel imports healthy, when we have no accessible alternatives?
 
-I read about another interesting reason for fluctuation in fuel prices, and that is the value of our currency. We buy fuel in dollars. If the value of rupee against the dollar falls, the price of fuel will be high for us.
+### Domestic oil exploration
 
-- Government wants to reduce dependency on fuel import, hence the high taxes
-- Government needs funds to offset the gap in GST collection caused by the pandemic
-- Strength of our currency also plays a role
+To meet the increased demand, we must explore and mine more oil. For this, we must improve our infrastructure. Oil and Natural Gas Corporation (ONGC) is our state-owned oil exploration company. The company, having bought stake in HPCL and GSPC (Gujarat State Petroleum Corporation) is [now short on funds](https://indianexpress.com/article/business/cash-reserves-sliding-ongc-trims-exploration-and-development-works-7188884/), and cannot expand the way it could before these purchases.
+
+That our domestic oil companies are [nowhere near meeting our domestic demand](https://www.business-standard.com/article/economy-policy/the-story-of-india-s-failure-to-drill-its-own-oil-in-9-charts-118052800153_1.html) is a well-known fact. Irrespective of the claims, we are still at the mercy of the Organization of the Petroleum Exporting Countries (OPEC).
+
+### Exchange rates
+
+Another interesting aspect that most of us do not think of is the value of our currency. We buy fuel in dollars. If the value of the rupee against the dollar falls, the price of fuel will be high for us.
+
+And the value of the Indian Rupee has been falling against the US Dollar.
+
+### The Oil Bond situation
+
+Time and again, WhatsApp University goes abuzz with claims that the previous governments gave oil bonds to the oil marketing companies in return for selling oil at government-regulated prices and making a loss in the process.
+
+Back when the government decided the price of petroleum products, the oil marketing companies were to get their losses covered by the government. The government, instead of paying the companies in cash, gave them bonds. The government set a maturity date and agreed to pay interest for the duration of the bond.
+
+The WhatsApp University claim goes on to say that because the government has not lowered the taxes to be able to pay the oil marketing companies. As Vivek Kaul explains in his post, this claim is false. Also, while the bonds are worth about ₹1.3 lac crore, the government makes over twice that money in taxes. Also to note, a mere 7.5% of those bonds are nearing maturity.
+
+The truth, Mr Kaul says, is that the government is trying to offset the loss in revenue because of its 2019 decision to reduce corporate taxes, and the further drop in revenue because of other decisions by the government, to which, the pandemic added fuel.
+
+### The pause during election months
+
+During the election period in April–May 2021, the [petrol prices remained constant](https://www.indiatoday.in/diu/story/india-petrol-diesel-fuel-prices-hike-rise-elections-crude-oil-1777422-2021-03-09). While the oil marketing companies change the base price of petroleum products based on the global market rates, they chose not to, during the election window. Nothing else can explain zero changes to oil prices while the global market rates did indeed change during the time. Also, the number of changes to the fuel price the oil companies made are disproportionate to the increase in the crude prices, which indicates that the oil companies were trying to reclaim their losses.
+
+## Show me the light
+
+The truth is, that the Monetary Policy Committee (MPC) of the RBI urged the central and the state governments to act in co-ordination to control the fuel prices, to prevent inflation, which would hamper the fragile economic growth of our country.
+
+While the RBI has not put its foot down, it does seem that the governments may reduce the taxes, because like Ajit said, major elections are coming up the next year. A fallen economy, no matter what, will hit the people, and no party can afford to take this for granted.
+
+What we need is a rethinking of the taxes. Reduction in corporate taxes, for instance, should not hit the common man. Corporates getting a tax rebate does not benefit the common man as much as a reduction in fuel prices would. And corporates having to pay a higher tax will not hit the common man as increase in fuel prices would.
+
+We must all understand that increase in fuel prices is not merely the rich man’s problem. Taxing right essentials like fuel is in national interest.
