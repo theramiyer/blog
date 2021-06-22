@@ -57,7 +57,7 @@ The government increased the taxes when the prices dropped. But did not reduce t
 <div class="flourish-embed flourish-chart" data-src="visualisation/6479135"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 {{< /raw >}}
 
-This morning, I spoke to Ajit Paul, someone who follows the economy---a member of a book club that my friend is also in. He had collected some pictorial representations of global fuel prices, taxes on them, etc. I will share some of the pictures he shared from India Today's DIU, in this post.
+This morning, I spoke to [Ajit Paul](https://twitter.com/ajitgpaul1), a Business Transformation Advisor, someone who follows the economy, and a member of the book club that my friend is in. He had collected some pictorial representations of global fuel prices, taxes on them, etc. I will share some of the pictures he shared from India Today's DIU, in this post.
 
 While the base price of a litre of petrol is ₹37.29, the governments (central and state) charge ₹55.21 as tax. The tax is more than the price of the commodity itself---about 1½ times the base price.
 
@@ -144,6 +144,6 @@ The truth is that the Monetary Policy Committee (MPC) of the RBI has urged the c
 
 While the RBI has not put its foot down, it does seem that the governments may reduce the taxes, because like Ajit said, major elections are coming up the next year. A fallen economy, no matter what, will hit the people, and no party can afford to take the economy for granted. Of course, this is not straight-forward as it seems, given that the government would need to keep its fiscal deficit in mind as well.
 
-Having said that, there is no denying that the government must rethink fuel taxes. Corporates getting a tax cut does not benefit the common man as much as a reduction in fuel prices would. And corporates having to pay a higher tax will not hit the common man as increase in fuel prices would.
+Having said that, there is no denying that the government must rethink fuel taxes. Corporates getting a tax cut does not benefit the common man as much as a reduction in fuel prices would. And corporates having to pay a higher tax will not hit the common man as increase in fuel prices would. This model of fuel taxes is unsustainable.
 
 We must all understand that increase in fuel prices is not merely the rich man’s problem. Taxing essentials like fuel the right way is in national interest. What the government took was a short-sighted shortcut.
