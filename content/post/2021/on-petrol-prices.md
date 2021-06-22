@@ -45,7 +45,7 @@ During the pandemic, when the entire world went into a lockdown, the demand for 
 
 When the prices dropped, the government saw this as a window of opportunity. The government decided to keep the prices at around ₹70. The logic was that the price point is familiar to the public, and they would not mind paying such money. But how could the government do this when it did not control the prices any more? Of course, by tweaking the taxes.
 
-When the economy comes to a grinding stop because of the pandemic, one way to kickstart it, is to give money in the hands of people, so that they begin the spend cycle. This leads to more demand, then more production, and more consumption.
+When the economy comes to a grinding stop because of the pandemic, one way to kickstart it, is to give money in the hands of people, so that they begin the spend cycle. This leads to more demand, then more production, and more consumption. But where would the government get the money to give to people when its tax revenues get hit?
 
 Exploiting the drop in crude prices was a good way to make some quick money. Nobody had anything to lose.
 
@@ -57,9 +57,9 @@ The government increased the taxes when the prices dropped. But did not reduce t
 <div class="flourish-embed flourish-chart" data-src="visualisation/6479135"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 {{< /raw >}}
 
-This morning, I spoke to Ajit Paul, someone who follows the economy---a member of a book club my friend is also in. He had collected some pictorial representations of global fuel prices, taxes on them, etc. I will share some of the pictures he shared from India Today's DIU.
+This morning, I spoke to Ajit Paul, someone who follows the economy---a member of a book club that my friend is also in. He had collected some pictorial representations of global fuel prices, taxes on them, etc. I will share some of the pictures he shared from India Today's DIU.
 
-While the base price of a litre of petrol is ₹37.29, the governments (Central and State) charge ₹55.21 as tax. The tax is more than the price of the commodity itself---about 1½ times the base price.
+While the base price of a litre of petrol is ₹37.29, the governments (central and state) charge ₹55.21 as tax. The tax is more than the price of the commodity itself---about 1½ times the base price.
 
 {{< figure src="https://blogfiles.ramiyer.me/2021/images/price-buildup-petrol.webp" alt="Price buildup of petrol by state" caption="Price buildup of petrol by state (Courtesy: [India Today](https://www.indiatoday.in/) and Ajit Paul, as of Feb 2021)" >}}
 
@@ -71,13 +71,13 @@ Today, the price of [a barrel of crude oil is about USD 73.75](https://in.finan
 
 Not having a vehicle does not make you immune to this effect. Everything needs fuel, starting from the transportation of the grain you eat, irrigation and what not, to perhaps even the water you use. Every commodity needs fuel at every stage.
 
-A hike in fuel prices leads to _cost push inflation_ As a result of this, in fact, we are already seeing a [retail inflation of 6.3%](https://www.thehindu.com/business/Economy/consumer-inflation-quickens-to-63/article34816205.ece). The inflation in the _fuel and light_ category was 11.58% across India, while that of urban India was 14.24%. Food related inflation shot up to 5.1%. Fuel prices are one of the reasons for these.
+A hike in fuel prices leads to _cost push inflation_. As a result of this, in fact, we are already seeing a [retail inflation of 6.3%](https://www.thehindu.com/business/Economy/consumer-inflation-quickens-to-63/article34816205.ece). The inflation in the _fuel and light_ category was 11.58% across India, while that of urban India was 14.24%. Food related inflation shot up to 5.1%. Fuel prices are one of the reasons for these.
 
-An important point to keep in mind is that inflation is also an indicator of growth in GDP. But, like someone I spoke to this morning said, inflation is a complex issue. In general, governments understand that inflation is a part of growth, and that about 3–4% inflation is, in fact, healthy. But anything beyond that should raise a red flag.
+An important point to keep in mind is that inflation is also an indicator of growth in GDP. But, like Ajit said, inflation is a complex issue. In general, governments understand that inflation is a part of growth, and that about 3–4% inflation is, in fact, healthy. But anything beyond that should raise a red flag.
 
 ## Can we not even do this for the country
 
-If you care about the country and the economy, then you must not accept this increase in tax on fuel. The reason is simple: if the fuel prices go up, it will push inflation. A higher inflation means lower value of money in people's hands. Lower value of money in people's hands would lead to less spending. Reduced spending will lead to reduced demand, which will in turn lead to less money earned by those producing goods. This will further reduce the money in people's hands, starting a vicious cycle.
+If you care about the country and the economy, then you must not accept this increase in tax on fuel. The reason is simple: if the fuel prices go up, it will push inflation. A higher inflation means lower value of money in people's hands. Lower value of money in people's hands would lead to less spending. Reduced spending will lead to reduced demand, which will in turn lead to less money earned by those producing the goods. This will further reduce the money in people's hands, starting a vicious cycle.
 
 ## Petrol prices are not in the government’s control
 
@@ -99,9 +99,9 @@ Apart from making some money for welfare schemes, the government is also doing t
 
 Switching to an alternative at this scale is a long process. Vehicles running on biofuels, vehicles using hydrogen as fuel, etc. are not yet a technological reality. The alternative that is closest to reality is electric vehicles. The problem, though, is that we do not have the charging infrastructure. But our automakers are working on making electric vehicles more accessible, like introducing swappable batteries, charging lounges, longer run per charge, etc. Remember, though, that electric vehicles are not all that eco-friendly; they become eco-friendly when the source of power is renewable (solar energy, for example) or less polluting (like nuclear power).
 
-Regardless, the process of switching will take a long time. Perhaps half a decade. Perhaps more. An acquaintance pointed out how mobile phones became a reality in India. But can we go on with these tax rates, knowing fully well that as the world opens up to more travel and the demand for fuel increases, the prices of crude oil will also increase.
+Regardless, the process of switching will take a long time. Perhaps half a decade. Perhaps more. In today’s call, Ajit pointed out how mobile phones became a reality in India. But can we go on with these tax rates, knowing fully well that as the world opens up to more travel and the demand for fuel increases, the prices of crude oil will also increase?
 
-Is such discouragement to using fossil fuels or even reduce dependency on fuel imports healthy, when we have no accessible alternatives? We are paying in multiples of the crude price, as this graphic shows:
+Is such discouragement to using fossil fuels or even reduce dependency on fuel imports healthy, when we have no accessible alternatives? We are paying in multiples of the crude price, as this table shows:
 
 {{< figure src="https://blogfiles.ramiyer.me/2021/images/no-parity.webp" alt="Average petrol price as multiples of crude prices" caption="Average petrol price as multiples of crude prices (Courtesy: [India Today](https://www.indiatoday.in/) and Ajit Paul, as of Feb 2021)" >}}
 
@@ -123,13 +123,13 @@ Time and again, WhatsApp University goes abuzz with claims that the previous gov
 
 Back when the government decided the price of petroleum products, the oil marketing companies were to get their losses covered by the government. The government, instead of paying the companies in cash, gave them bonds. The government set a maturity date and agreed to pay interest for the duration of the bond.
 
-The WhatsApp University claim goes on to say that because the government has not lowered the taxes to be able to pay the oil marketing companies. As Vivek Kaul [explains in his post](https://vivekkaul.com/2021/06/17/petrol-and-diesel-prices-are-high-due-to-lower-corporate-taxes-not-because-of-oil-bonds/), this claim is false. Also, while the bonds are worth about ₹1.3 lac crore, the government makes over twice that money in taxes. Also to note, a mere 7.5% of those bonds are nearing maturity.
+The WhatsApp University claim goes on to say that the government has not lowered the taxes to be able to pay the oil marketing companies. As Vivek Kaul [explains in his post](https://vivekkaul.com/2021/06/17/petrol-and-diesel-prices-are-high-due-to-lower-corporate-taxes-not-because-of-oil-bonds/), this claim is false. Also, while the bonds are worth about ₹1.3 lac crore, the government makes over twice that money in taxes. Also to note, a mere 7.5% of those bonds are nearing maturity.
 
 The truth, Mr Kaul says, is that the government is trying to offset the loss in revenue because of its 2019 decision to reduce corporate taxes, and the further drop in revenue because of other decisions by the government, to which, the pandemic added fuel.
 
 ### The pause during election months
 
-During the election period in April–May 2021, the [petrol prices remained constant](https://www.indiatoday.in/diu/story/india-petrol-diesel-fuel-prices-hike-rise-elections-crude-oil-1777422-2021-03-09). While the oil marketing companies change the base price of petroleum products based on the global market rates, they chose not to, during the election window. Nothing else can explain zero changes to oil prices while the global market rates did indeed change during the time. Also, the number of changes to the fuel price the oil companies made are disproportionate to the increase in the crude prices, which indicates that the oil companies were trying to reclaim their losses.
+During the election period in April–May 2021, the [petrol prices remained constant](https://www.indiatoday.in/diu/story/india-petrol-diesel-fuel-prices-hike-rise-elections-crude-oil-1777422-2021-03-09). While the oil marketing companies change the base price of petroleum products based on the global market rates, they chose not to, during the election window. Nothing else can explain zero changes to oil prices while the global market rates did indeed change during the time. Also, the number of changes to the fuel price the oil companies made afterwards are disproportionate to the increase in the crude prices, which indicates that the oil companies were trying to reclaim their losses.
 
 ## Show me the light
 
@@ -137,6 +137,6 @@ The truth is, that the Monetary Policy Committee (MPC) of the RBI urged the cent
 
 While the RBI has not put its foot down, it does seem that the governments may reduce the taxes, because like Ajit said, major elections are coming up the next year. A fallen economy, no matter what, will hit the people, and no party can afford to take this for granted.
 
-What we need is a rethinking of the taxes. Reduction in corporate taxes, for instance, should not hit the common man. Corporates getting a tax rebate does not benefit the common man as much as a reduction in fuel prices would. And corporates having to pay a higher tax will not hit the common man as increase in fuel prices would.
+The government must rethink fuel taxes. Corporates getting a tax cut does not benefit the common man as much as a reduction in fuel prices would. And corporates having to pay a higher tax will not hit the common man as increase in fuel prices would.
 
-We must all understand that increase in fuel prices is not merely the rich man’s problem. Taxing right essentials like fuel is in national interest.
+We must all understand that increase in fuel prices is not merely the rich man’s problem. Taxing essentials like fuel the right way is in national interest. What the government took was a short-sighted shortcut.
