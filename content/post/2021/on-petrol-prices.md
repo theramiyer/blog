@@ -3,7 +3,7 @@ title: "On Petrol Prices"
 subtitle: "Going beyond WhatsApp University"
 date: 2021-06-20T08:58:44+05:30
 description: |
-    Fuel prices are at an all-time high. Why? Is the government to blame? Can we not to so much for the country? Or are these fuel prices indeed bad? In this post, we look at some of the contributing factors, the logic behind the hike, and along with that, address some claims by WhatsApp University.
+    Fuel prices are at an all-time high. Why? Is the government to blame? Can we not do so much for the country? Or are these fuel prices indeed bad? In this post, we look at some of the contributing factors, the logic behind the hike, and along with that, address some claims by WhatsApp University.
 tags:
 - economy
 - whatsapp university
