@@ -73,7 +73,7 @@ Not having a vehicle does not make you immune to this effect. Everything needs f
 
 A hike in fuel prices leads to _cost push inflation_. As a result of this, in fact, we are already seeing a [retail inflation of 6.3%](https://www.thehindu.com/business/Economy/consumer-inflation-quickens-to-63/article34816205.ece). The inflation in the _fuel and light_ category was 11.58% across India, while that of urban India was 14.24%. Food related inflation shot up to 5.1%. Fuel prices are one of the reasons for these.
 
-An important point to keep in mind is that inflation is also an indicator of growth in GDP. But, like Ajit said, inflation is a complex issue. In general, governments understand that inflation is a part of growth, and that about 3–4% inflation is, in fact, healthy. But anything beyond that should raise a red flag.
+An important point to keep in mind is that inflation is also an indicator of growth in GDP. But, like Ajit said, inflation is a complex issue. In general, inflation is a part of growth, and about 3–4% inflation is, in fact, healthy. But anything beyond that should raise a red flag.
 
 ## Can we not even do this for the country
 
