@@ -57,7 +57,7 @@ The government increased the taxes when the prices dropped. But did not reduce t
 <div class="flourish-embed flourish-chart" data-src="visualisation/6479135"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 {{< /raw >}}
 
-This morning, I spoke to [Ajit Paul](https://twitter.com/ajitgpaul1), a Business Transformation Advisor, someone who follows the economy, and a member of the book club that my friend is in. He had collected some pictorial representations of global fuel prices, taxes on them, etc. I will share some of the pictures he shared from India Today's DIU, in this post.
+This morning, I spoke to [Ajit Paul](https://twitter.com/ajitgpaul1), a Business Transformation Advisor, someone who follows the economy, and a member of the book club that my friend is in. He had collected some pictorial representations of global fuel prices, taxes on them, etc. which he shared during the call, along with his insights.
 
 While the base price of a litre of petrol is ₹37.29, the governments (central and state) charge ₹55.21 as tax. The tax is more than the price of the commodity itself---about 1½ times the base price.
 
