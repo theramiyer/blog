@@ -2,6 +2,7 @@
 title: "My Experience With Vaccination"
 subtitle: "what was true for me, what was not"
 date: 2021-07-04T09:55:26+05:30
+image: "https://blogfiles.ramiyer.me/2021/images/covaxin-vial.jpeg"
 description: |
     This is a personal post, where I share my thought process through these six months, why I was not in favour of one of the vaccines, how my thinking evolved, what my experience was, the after-effects I felt, and whether I think vaccination is a good idea. Read it; it might interest you.
 tags:
