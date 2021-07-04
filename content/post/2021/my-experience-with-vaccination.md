@@ -1,5 +1,5 @@
 ---
-title: "My Experience With Vaccination"
+title: "My Experience with COVID Vaccination"
 subtitle: "what was true for me, what was not"
 date: 2021-07-04T09:55:26+05:30
 image: "https://blogfiles.ramiyer.me/2021/images/covaxin-vial.jpeg"
@@ -12,7 +12,7 @@ tags:
 - coronavirus
 ---
 
-This first of July, I got my second shot of the Covid-19 vaccine. Over the past months, I have seen people opposing vaccination (which surprised me), some being suspicious of one of the vaccines (which included me), people expressing concerns, and people that I care about getting affected with Covid because of not vaccinating, despite getting the chance to get vaccinated---more than once.
+This first of July, I got my second shot of the Covid-19 vaccine. Over the past months, I have seen people opposing vaccination (which surprised me), some being suspicious of one of the vaccines (which included me), people expressing concerns, and people that I care about getting affected with Covid after choosing not to vaccinate, despite getting the chance to get vaccinated---more than once.
 
 This is a personal post. (I get to do that once in a while.) While I cannot add online references for my opinions and feelings, this post is honest about whatever I felt or thought.
 
@@ -20,7 +20,7 @@ This is a personal post. (I get to do that once in a while.) While I cannot add 
 
 Let me start by addressing the elephant in the room: my personal hesitancy to one of the vaccines.
 
-I am, in general, a pro-vaccine person. I am someone who has a rudimentary understanding of the human immune system. I read, I interact with doctors (some of them are friends or friends’ parents). I know that vaccination is the best and the safest way to train our immunity.
+I am, in general, a pro-vaccine person. I have a rudimentary understanding of the human immune system. I read, I interact with doctors (some of them are friends or friends’ parents). I know that vaccination is the best and the safest way to train our immunity.
 
 But when the government approved Covaxin for emergency use, I was sceptical about it.
 
@@ -30,9 +30,9 @@ Because, as a person with a scientific temper, I do not go by belief, faith or t
 
 Before we go any further, let me make it clear that I have no political affiliations, nor do I care about politics. I do not have any regard for any politician (in fact, I despise politics and politicians), and I do not agree with any political ideology. I care about the law. I care about governance, because it affects us all.
 
-I laughed at the joke that said, "I will get vaccinated with Covaxin when our then, they tell youpoliticians do." I stood with the healthcare workers who questioned {{< sidenote covaxin-concern >}}'We are worried': Indians hopeful but anxious as vaccination drive begins ([The Guardian](https://www.theguardian.com/global-development/2021/jan/17/indian-hopeful-anxious-covid-vaccination-drive-begins)){{< /sidenote >}} the vaccine because data about it was unavailable. I work for a vibrant science and technology company, and in our circles, Bharat Biotech is a well-known name, with a positive view. But being part of the science and technology circle also means that I rely on data and change my views based on evidence. This made me sceptical about the vaccine in the absence of data.
+I laughed at the joke that said, "I will get vaccinated with Covaxin when our politicians do." I stood with the healthcare workers who questioned {{< sidenote covaxin-concern >}}'We are worried': Indians hopeful but anxious as vaccination drive begins ([The Guardian](https://www.theguardian.com/global-development/2021/jan/17/indian-hopeful-anxious-covid-vaccination-drive-begins)){{< /sidenote >}} the vaccine because data about it was unavailable. I work for a vibrant science and technology company, and in our circles, Bharat Biotech is a well-known name, in a good way. But being part of the science and technology circle also means that I rely on data and change my views based on evidence. This made me sceptical about the vaccine in the absence of data.
 
-When my uncle told me that he would be taking Covaxin because his favourite politician (also an _Executive_ office-bearer) had said he would take it, I had said that the act alone should mean nothing. When he (my uncle) had gotten Covishield instead of Covaxin, I had felt relieved. Why? Because there was extensive data available about Covishield by then, even though it had not published the data about its phase 3 trials in India. Given that the one way to deal with this pandemic was vaccination, and that good-enough data about Covishield was available in the public domain, I found it more acceptable among the two.
+When my uncle told me that he would be taking Covaxin because his favourite politician (also an _Executive_ office-bearer) had said he would take it, I had said that the act alone should mean nothing. When he (my uncle) had gotten Covishield instead of Covaxin, I had felt relieved. Why? Because there was extensive data available about Covishield by then, even though it had not published the data about its phase 3 trials in India, yet. Given that the one way to deal with this pandemic was vaccination, and that good-enough data about the safety of Covishield was available in the public domain, I found it more acceptable among the two.
 
 My question was simple: If a vaccine is good, why should the authorities shove it down our throats?
 
@@ -40,15 +40,15 @@ My question was simple: If a vaccine is good, why should the authorities shove i
 
 One cannot deny that this pandemic has made us revisit our ways of working. If we look at the brighter side of it, the pandemic brought out the agility in humans. It forced us to revisit our ways of functioning, to improve our efficiency. We were willing to push the boundaries of our comfort zone. We teamed up globally, we pooled resources, accelerated our research, fine-tuned practices, and pushed innovation to bring out a plethora of vaccines that work in different ways. This pandemic even made us develop the first m-RNA vaccines for use on humans.
 
-I am far from romanticising this situation, but I cannot deny the silver line either.
+I am far from romanticising this situation, but I cannot deny the (thin) silver line either.
 
-While on the one side, the world was developing vaccines using new technologies, our own ICMR and Bharat Biotech went back to the generations-old technique of making an inactivated whole virion vaccine. In theory, the vaccine was safe. What we needed was data to back up the theory ("theory" in the colloquial sense, not the scientific sense) and the claim.
+While on the one side the world was developing vaccines using new technologies, our own ICMR and Bharat Biotech went back to the generations-old technique of making an inactivated whole virion vaccine. In theory, the vaccine was safe. What we needed was data to back up the theory ("theory" in the colloquial sense, not the scientific sense) and the claim.
 
 In February, when we had asked our doctor about vaccinating our parents, the doctor had asked us to wait for a while (perhaps given the co-morbidities that our parents have).
 
-By the beginning of April 2021, all this had changed. By then, the general sentiment of the medical community was in favour of both the vaccines, because they now had more data. My parents’ doctors cleared them for vaccination (with "any of the two vaccines"). That was all that we needed. We booked appointments for the next day, and got them both their first shot. Meanwhile, I had spoken about the vaccines to a couple of others in the field, read about them, and watched interviews with renowned professionals. That convinced me that the vaccines were safe and efficacious. And that the m-RNA vaccines were not any better than the two we had.
+By the beginning of April 2021, all this had changed. By then, the general sentiment of the medical community was in favour of both the vaccines, because they now had more data. Our doctor cleared our parents for vaccination (with "any of the two vaccines"). That was all that we needed. We booked appointments for the next day, and got them both their first shot. Meanwhile, I had spoken about the vaccines to a couple of others in the field, read about them, and watched interviews with renowned professionals. That convinced me that the vaccines were safe and efficacious. And that the m-RNA vaccines were not much better than the two we had.
 
-Why was I waiting for m-RNA? One, m-RNA vaccines, they said, would work better on people that have the condition I had. Two, I am an early adopter new technologies. The second reason was not important, but the first was. Later, I got to know that m-RNA vaccines were not conclusively better than Covaxin or Covishield. Also, I knew that those vaccines would take a long time to come into the Indian market, and I had no intention to wait months. In hindsight, I am glad I decided not to wait.
+Why was I waiting for m-RNA? One, m-RNA vaccines, they said, would work better on people that have the condition I had. Two, I am an early adopter of new technologies. The second reason was not important, but the first was. Later, I got to know that m-RNA vaccines were not conclusively better than Covaxin or Covishield. Also, I knew that those vaccines would take a long time to come into the Indian market, and I had no intention to wait months. In hindsight, I am glad I decided not to wait.
 
 ## The first dose
 
@@ -56,10 +56,10 @@ I was the last in my family to get the shot (four of us got vaccinated in two da
 
 I had volunteered to be part of the _Covid Task Force_ at work. I became part of the Communications team for the task force. We worked with the vaccination team within the task force, on priority. We had tied up with a hospital like the other corporates have, and were setting up the system to get our colleagues vaccinated.
 
-One Sunday night, I got a call from another colleague from the task force:
+One Sunday night, I got a call from another colleague from the task force. Some of our factory colleagues had backed off for one reason or another, and that had cleared a handful of slots, which our folks decided to use for the volunteers. This is what I remember from the conversation:
 
 'Ram, would you like to get vaccinated tomorrow?'  
-'Why is that even a question? Of course I would!'  
+'Of course I would! (Why is that even a question!)'  
 'You would get Covaxin. Are you okay with that?'  
 'Heck, yeah!'
 
@@ -83,9 +83,9 @@ On Saturday, I felt weak. Sometimes giddy, sometimes plain lazy. Had I not had t
 
 Yes, I have gotten vaccinated, but I continue with the Covid-appropriate behaviour. N95 mask, personal hygiene and physical distance from people other than those at home.
 
-My body would take a couple of weeks to produce enough anti-Covid antibodies, but even after that, we would need to continue Covid-appropriate behaviour, until the majority of those around us get vaccinated. This is when we would have enough herd immunity to make the transmission insignificant. Until then, we must not let our guard down.
+Our bodies take a couple of weeks to produce enough anti-Covid antibodies, but even after that, we would need to continue Covid-appropriate behaviour, until the majority of those around us get vaccinated. This is when we would have enough herd immunity to make the transmission insignificant. Until then, we must not let our guard down.
 
-Another point I thought I should repeat is that getting vaccinated does not create a shield around you. You still have a chance of infection. Those who say that getting a Covid infection after getting vaccinated makes the vaccines useless do not know the first thing about how vaccines work.
+Another point I thought I should repeat is that getting vaccinated does not create a shield around you (do not let the "shield" in "Covishield" fool you). You still have a chance of infection. Those who say that getting a Covid infection after getting vaccinated makes the vaccines useless do not know the first thing about how vaccines work.
 
 You can get infected with Covid after getting vaccinated. But what makes vaccination important is that your chances of getting a severe disease become drastically low, if you are vaccinated. Covishield as well as Covaxin may make you suffer, but for not more than a day or two. And this suffering is nothing compared to the disease itself. Ask anyone who has suffered from Covid, and they will tell you.
 
@@ -93,14 +93,14 @@ If you are anti-Covid-vaccine based on what you read or heard during the beginni
 
 If you get the common after-effects of the vaccines:
 
-1. They tell you that the vaccine works.
+1. They tell you that the vaccine works on you.
 2. They tell you that you have a functional immunity.
-3. If the second dose showed these effects while the first did not, it means that the first dose worked. It means that your immunity was able to detect the (acting) pathogen, and could start its work sooner.
+3. If the second dose showed these effects while the first did not, it means that the first dose has done its job. It means that your immunity was able to detect the (acting) pathogen, and could start its work at the right time.
 
-That said, do not worry if the vaccine showed no effects. Every human body is different. Each of us has our own strategy to deal with infections. Who knows, your body may be handling it in silence.
+That said, do not worry if you do not feel any of these effects after vaccination. Every human body is different. Each of us has our own strategy to deal with infections. Who knows, your body may be handling it in silence.
 
 Go, get vaccinated.
 
-If the first thirty minutes after the jab were uneventful, you are safe. Be at the vaccination centre those thirty minutes. These centres have doctors who know how to handle each of the adverse effects.
+If the first thirty minutes after the jab were uneventful, you are safe. Chill at the vaccination centre those thirty minutes. These centres have doctors who know how to handle each of the adverse effects.
 
-Look at the millions of people who got vaccinated and are fine, rather than looking at the handful who were not. Nothing in this world is a hundred percent risk-free. The choice should be between the safer of the two---the disease or the vaccine. In my view and that of the scientific community's, the latter is much safer.
+Look at the millions of people who got vaccinated and are fine, rather than looking at the handful who were not. Nothing in this world is a hundred percent risk-free. The choice should be between the safer of the two---the disease or the vaccine. In my view and that of the scientific community's, the latter is much safer---based on the data.
