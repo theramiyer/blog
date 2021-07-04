@@ -48,7 +48,7 @@ Let us now move on to answering some common questions and statements.
 
 Yes. You can also give the disease to the others if you catch the infection after you get the vaccine.
 
-But will the vaccine make you ill? The chances are low enough to be safe.
+But will the vaccines make you ill? They may, but within safe limits. That said, they will not give you COVID-19.
 
 The vaccine does not create a shield around you that prevents the virus from entering. The vaccine (or any vaccine) trains your immunity. How? Read above to know the workings of the vaccines. The Union Ministry of Health and Family Welfare claims the post-vaccination breakthrough infection rate to be around 0.02% – 0.04% (2 to 4 per 10,000).
 
@@ -82,7 +82,7 @@ Before getting my parents vaccinated, I got an opinion from two doctors (the sec
 
 I was of the impression that an m-RNA vaccine is safer than the dead-virus ones.{{< sidenote dead-virus >}}I realise that "dead virus" is perhaps a misnomer, given that viruses are non-living.{{< /sidenote >}} But having read about the vaccines and listened to eminent medical professionals talk about them, to me, it does not look like the m-RNA vaccines are better enough  to be worth waiting for.
 
-What we have today as Covaxin and Covishield are vaccines developed in tried-and-tested ways. The m-RNA vaccine technology is new. We do not know the long-term effects of these. Not that these vaccines are bad in any way, but there is a lot of unknown. Healthy, young individuals, who are ready to cope with potential long-term adverse effects should choose these for humanity, but as of now, nothing can conclusively say that these are better or worse than the dead virus vaccines.
+The m-RNA vaccine technology is new. We do not know the long-term effects of these. Not that these vaccines are bad in any way, but there is a lot of unknown. Healthy, young individuals, who are ready to cope with potential long-term adverse effects should choose these for humanity, but as of now, nothing can conclusively say that these are better or worse than the dead virus vaccines.
 
 ## Go, get your vaccine
 
