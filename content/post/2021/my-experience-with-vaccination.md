@@ -42,7 +42,7 @@ One cannot deny that this pandemic has made us revisit our ways of working. If w
 
 I am far from romanticising this situation, but I cannot deny the (thin) silver line either.
 
-While on the one side the world was developing vaccines using new technologies, our own ICMR and Bharat Biotech went back to the generations-old technique of making an inactivated whole virion vaccine. In theory, the vaccine was safe. What we needed was data to back up the theory ("theory" in the colloquial sense, not the scientific sense) and the claim.
+While on the one side the world was developing vaccines using new technologies, our own ICMR and Bharat Biotech went back to the generations-old technique of making an inactivated whole virion vaccine. The company and the government claimed that the vaccine was safe. What we needed was data to back up the claim.
 
 In February, when we had asked our doctor about vaccinating our parents, the doctor had asked us to wait for a while (perhaps given the co-morbidities that our parents have).
 
