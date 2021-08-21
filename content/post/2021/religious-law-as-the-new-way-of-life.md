@@ -113,3 +113,5 @@ Fair enough. And this probably holds good for all religious laws. But this is pr
 In contrast, our constitutional system has checks and balances in place. And despite that, the powerful are able to misuse the laws. Imagine what happens when religious laws, with no checks and balances whatsoever other than an intangible power, that has---sorry to say---so far failed miserably to "punish the evil", do when the powerful misuse it.
 
 I for one, am against inclusion of religious laws in the modern legal framework. One's religion must not leave the four walls of one's home. And a state religion is a recipe for disaster in the long run.
+
+Also, I am in favour of most aspects of the Uniform Civil Code; are you? That is a topic for a separate post---going beyond the political narrative that is prevalent today.
