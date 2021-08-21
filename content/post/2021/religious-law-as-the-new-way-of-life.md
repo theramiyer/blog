@@ -4,7 +4,7 @@ subtitle: "and the possibility of its inclusion in contemporary law"
 image: "https://blogfiles.ramiyer.me/2021/covers/taliban-explainer-nytimes.webp"
 date: 2021-08-18T08:23:01+05:30
 description: |
-    Ever since the Taliban takeover of Afghanistan, conversations about the implications of incorporating religious laws into the workings of a modern nation has gained momentum. In this post, we look at the validity of these claims by looking into the history, and talking about secularism.
+    Ever since the Taliban takeover of Afghanistan, conversations about the implications of incorporating religious laws into the workings of a modern nation have gained momentum. In this post, we look at the validity of these claims by looking into the history, and talking about secularism.
 tags:
 - religion
 - governance
