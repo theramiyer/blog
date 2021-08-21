@@ -94,7 +94,7 @@ We should not follow Sharia or include it in our constitution because of the sam
 
 ## Personal law
 
-I hear from some of the followers of Islam in India is that all they ask is for the system to let them follow Sharia in their communities. Something like approaching an Islamic scholar for a civil land dispute within the family, so that s/he can settle it for them.
+I hear from some of the followers of Islam in India that all they ask is for the system to let them follow Sharia in their local communities. Something like approaching an Islamic scholar for a civil land dispute within the family, so that s/he can settle it for them.
 
 Perhaps there is nothing wrong with small cases, provided the parties have access to legal recourse when they want or need Judicial intervention. Because we have such a system any way in the form of _Pancāyats_; I do not think all the leaders in a village are experts of the law. When someone brings an issue to them, they do try to settle it without the matter having to go to the courts. But the law limits such powers to specific types of cases, and there is always an option of legal remedy on the table.
 
@@ -102,7 +102,7 @@ But including Sharia into the constitutional framework is something I am persona
 
 And this, dear reader, is the meaning of a secular state. Religion---any religion---is personal; it cannot interfere with the law or how we run our nation. Everything has its place.
 
-And India is a secular state. We are better off that way, as we will soon see, when Afghanistan starts mixing religion with running the state. Pakistan already does this. Bangladesh broke away from that; we can see how it has surpassed Pakistan in most (if not all) of the social indicators today.
+And India is a secular state. We are better off that way, as we will soon see, when Afghanistan starts mixing religion with running the state. Pakistan already does this. Bangladesh broke away from that; we can see how it has surpassed Pakistan in all social indicators today.
 
 I also have some Hindu friends who romanticise enforcement of the Manusmṛti. And I tell them the same: No. It may all sound good, but we have evolved to be much better human beings. Again, of course, I say this based on the current interpretation of the treatise.
 
