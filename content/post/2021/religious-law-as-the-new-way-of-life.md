@@ -1,6 +1,7 @@
 ---
 title: "Religious Law as the New Way of Life"
 subtitle: "and the possibility of its inclusion in contemporary law"
+image: "https://blogfiles.ramiyer.me/2021/covers/taliban-explainer-nytimes.webp"
 date: 2021-08-18T08:23:01+05:30
 description: |
     Ever since the Taliban takeover of Afghanistan, conversations about the implications of incorporating religious laws into the workings of a modern nation has gained momentum. In this post, we look at the validity of these claims by looking into the history, and talking about secularism.
@@ -12,6 +13,8 @@ tags:
 ---
 
 The past weeks have been eventful in the international space. The state of Afghanistan---our neighbour (we share a small bit of our international border with Afghanistan at the north end of Kashmir)---worries us Indians. The Taliban does sound like a formidable force, and we constantly wait for our government to put out statements that say, 'We are doing fine.' And then we hope that the government is being truthful.
+
+{{< figure src="https://blogfiles.ramiyer.me/2021/covers/taliban-explainer-nytimes.webp" alt="Taliban members in an area controlled by the group last year in Laghman, Afghanistan. Credit: Jim Huylebroek for The New York Times" caption="Taliban members in an area controlled by the group last year in Laghman, Afghanistan. Source: [The New York Times](https://www.nytimes.com/article/who-are-the-taliban.html)" >}}
 
 Until a week ago or so, the word, Taliban, sounded evil to me; I associated it with the "evil" work that we have known them to do over the past decades, ever since I was a child. And then, a short documentary gave me the meaning of the word: Students.
 
