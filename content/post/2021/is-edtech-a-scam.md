@@ -21,7 +21,7 @@ The subject came up tonight and I did not know how to conclude one way or anothe
 
 Update: In a curious coincidence perhaps, someone seems to have gotten Department of Telecommunications to block my domain:
 
-{{< tweet 1396654910641360898 >}}
+{{< tweet user="iamramiyer" id="1396654910641360898" >}}
 
 While I stand by calling out those that do not play by the rules, I also believe that people must know what is right for them. I choose the latter this time; people are smart enough to form their opinions and see what leads to what. Unlike the "intelligent" bots that scour the web. Feel free to judge, but I find the timing of this "blocking" strange.
 

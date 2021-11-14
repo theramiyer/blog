@@ -51,7 +51,7 @@ It beats me: why did we not ask the soul who separated it from the body?
 
 In all, this has been a case of cheap gossip. Someone pointed out:
 
-{{< tweet 1303186514159960065 >}}
+{{< tweet user="PritishNandy" id="1303186514159960065" >}}
 
 Law enforcement has its process. The agencies must follow rules when investigating a case. While we may all have grown up with CID and the likes, with daily soaps showing every household having a personal police officer to dance to the tunes of the household, the reality is different. You cannot go around arresting people according to the whims of the public. Is the offence established? What is the nature of the offence? Is it cognizable?
 

@@ -131,7 +131,7 @@ And so comes:
 
 Soon, Kanimozhi Karunanidhi joined the movement. And some parents alleged that the Dravida Munnetra Kazhagam (DMK) government was retaliating against the school's opposition to a change in syllabus almost a decade ago that the then TN government (led by M Karunanidhi) had proposed. The present allegation was that the DMK government (now led by M K Stalin), was harassing the school. The other allegation was that this was part---in my friend's words, "of a larger scheme"---of spreading a narrative against a certain community. Who better to tell us than Dr Subramamanian Swamy:
 
-{{< tweet 1397355696094543873 >}}
+{{< tweet user="Swamy39" id="1397355696094543873" >}}
 
 Is there a political agenda? Perhaps; perhaps not. But does that mean we leave this matter alone? No. Is the school responsible for what happened? One must question their negligence, but the school did not _cause_ this per se. Should the school spring into action (other than merely suspending the teacher) and do the right thing? Yes; why is that even a question?
 
