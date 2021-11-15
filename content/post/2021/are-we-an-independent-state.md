@@ -2,9 +2,24 @@
 title: "Are We an Independent State"
 subtitle: "and if so, when did we attain independence?"
 date: 2021-11-14T08:17:44+05:30
-description:
+description: |
+    The last couple of weeks were busy with two women of our country questioning our independence and the struggle that led to it. One questioned our independence itself, claiming that we were on a 99-year lease from the British Crown, while the other questioned the freedom struggle, calling it "bheekh" (alms), and that we gained freedom in 2014. In this post, we look at the facts that these two fellow citizens seem to have misunderstood or maliciously ignored, depending on how you see this.
 tags:
-draft: true
+    - democracy
+    - law
+    - religion
+    - history
+    - constitution
+    - India
+    - whatsapp university
+    - politics
+    - propaganda
+    - nationalism
+    - fact-check
+    - freedom
+    - accession
+    - diplomacy
+    - geo-politics
 ---
 
 Political fads come and go. More so when the elections are around. National level fads peak at the time of the Lok Sabha elections. Having said that, they are not confined to those times.
@@ -158,7 +173,7 @@ In effect, these two Sections freeze the British Law as on the 15th of August, 1
 
 Simple: In case of England, the people of England get a passport in the name of the Queen of England. What sense does it make for the Queen of England to give herself the passport and travel in her own name? Why go through all the trouble?
 
-This is what the Ministry of External Affairs means when it quotes the official website of the British Monarchy. The Queen of England does not have a passport; she can travel the entire world without a passport.
+This is what the Ministry of External Affairs means when it quotes the official website of the British Monarchy.{{< sidenote queen-passport >}}Passports \| [The Royal Family](https://www.royal.uk/passports){{< /sidenote >}} The Queen of England does not have a passport; she can travel the entire world without a passport.
 
 If Nithyananda manages to create _Kailasa_ as a sovereign state with all powers resting in him, he would not need a Kailasa passport to travel to other countries.
 
@@ -166,11 +181,11 @@ Heads of State of India need a passport to travel because India is a republic; h
 
 ## What about the "British subject" issue
 
-First of all, the Ministry of External Affairs sent this letter in 1953. The Citizenship Act came into effect in 1955 (two years after the quoted letter). Besides, yes, a citizen of India is a British subject "for the purpose of British law", but the British law does not apply to us (read above).
+First of all, the Ministry of External Affairs sent this letter in 1953. The Citizenship Act came into effect in 1955 (two years after the quoted letter). Besides, a citizen of India is a British subject "for the purpose of British law", but the British law does not apply to us (read above).
 
-To understand what this means, you must understand the concept of Continuity of Law. Although that is a subject out of the scope of this article, the gist is that laws must continue to apply through parliaments and through years. We can amend and repeal laws, but it does not make sense to ask another sovereign state to amend all its laws, all the wordings, as a consequence of a change such as independence from colonialism---when unnecessary. That is not how the law works. Regardless, it does not matter what a country's law says about another sovereign state---it does not matter what the British law thinks of Indian citizens. Because India is a sovereign state.
+To understand what this means, you must understand the concept of Continuity of Law. Although that is a subject out of the scope of this article, the gist is that laws must continue to apply through parliaments and through years. We can amend and repeal laws, but it does not make sense to ask another sovereign state to amend all its laws, all the wordings, as a consequence of a change such as independence from Colonialism---when unnecessary. That is not how the law works. Regardless, it does not matter what a country's law says about another sovereign state---it does not matter what the British law thinks of Indian citizens, because India is a sovereign state.
 
-Also, because of that, we still need a passport to travel to England. My friends and relatives, who are Indian citizens, have lived or continue to live there. All with an Indian passport. None of them is a "British citizen".
+Also, because of that, we still need a passport to travel to England. My friends and relatives, who are Indian citizens, have lived (or live) there. All with an Indian passport. None of them is a "British citizen".
 
 And why does the government of India have to issue a notice on their letterhead saying we are not British subjects? The Constitution of India already does that. Read the Constitution of India to reassure yourself. If you are lazy, read its Preamble.
 
@@ -186,7 +201,7 @@ India became free from the British rule on the 15th of August, 1947.
 
 _Who governed the country on the 14 August, 1947?_
 
-The Interim Government, formed in 1946 was in effect the "government in power", although, the head of state was the Monarch of Britain.
+The Interim Government,{{< sidenote interim-govt >}}India's first government was formed today: All you need to know ([India Today](https://www.indiatoday.in/education-today/gk-current-affairs/story/interim-government-260823-2015-09-02)){{< /sidenote >}} formed in 1946 was in effect the "government in power", although, the head of state was the Monarch of Britain.
 
 _Who governed the country on the 15 August, 1947?_
 
@@ -220,21 +235,23 @@ The present-day British or their heirs have no authority to rule or govern India
 
 This is a big one.
 
-But an analogy first. At work, we build a solution that builds servers. This solution is some six or seven repositories of code. That is tens of thousands of lines of code. And when something breaks, we get alerted of failures.
+But an analogy first. At work, we build a solution that builds servers. This solution is some tens of thousands of lines of code. And when something breaks, we get alerted of failures.
 
-When we have to look into a small issue in such a large code base, we start by focusing on one aspect at a time.
+When we have to look into an issue in such a large code base, we start by focusing on one aspect at a time.
 
 The history of modern India is also prohibitively complex (which explains why so little of us know enough about it). To top it off, we have political narratives overshadowing it from all sides. At one point, we get confused: where do we even start when this is so overwhelming?!
 
 ## The East India Company becomes greedy
 
-We all know that the Europeans came to India in search of spices, primarily. This is how the East India Company came in. They came to India in the 1600s. This was the time the Mughals ruled most of the present-day India and Pakistan. Marathas were emerging. By about 1700, the British had established ports along the coast of India. In the first couple decades of the 18th Century, the Mughal Empire had started shrinking. By mid-18th-Century, the Marathas had taken over most of the present-day Maharashtra, Madhya Pradesh, Gujarat, Rajasthan, some of the present-day West Bengal, and the entire Hindi belt.
+We all know that the Europeans came to India in search of spices, primarily. This is how the East India Company came in. They came to India in the 1600s. This was the time the Mughals ruled most of the present-day India and Pakistan. Marathas were emerging. By about 1700, the British had established ports along the coast of India. In the first couple decades of the 18th Century, the Mughal Empire had started shrinking. By mid-18th-Century, the Marathas had taken over most of the present-day Maharashtra, Madhya Pradesh, Gujarat, Rajasthan, some of the present-day West Bengal, and the entire Hindi belt. Here is a nice video about this period:
 
-1757 is when the East India Company acquired territory. The Battle of Plassey was the turning point. The East India Company's army defeated the Nawab of Bengal, and captured the territory. By 1801, the British EIC had established the Madras Presidency. By 1818, the British EIC had captured the entire modern-day India, except the territory controlled by the Sikh Empire, the territory of the Nawab of Sindh and the territory under the Durrani Empire. The Sikh Empire captured Jammu by 1823, which they lost to the British EIC by 1846. By 1849, the EIC controlled the entire Indian subcontinent.
+{{< youtube QN41DJLQmPk 611 643 >}}
+
+1757 is when the East India Company acquired territory.{{< sidenote plassey >}}Memoirs of the Revolution in Bengal, Anno Domini 1757 ([World Digital Library](https://www.wdl.org/en/item/2384/)){{< /sidenote >}} The Battle of Plassey was the turning point. The East India Company's army defeated the Nawab of Bengal, and captured the territory. By 1801, the British EIC had established the Madras Presidency. By 1818, the British EIC had captured the entire modern-day India, except the territory controlled by the Sikh Empire, the territory of the Nawab of Sindh and the territory under the Durrani Empire. The Sikh Empire captured Jammu by 1823, which they lost to the British EIC by 1846. By 1849, the EIC controlled the entire Indian subcontinent.
 
 ## The Sepoy Mutiny
 
-Mr V. D. Savarkar describe the 1857 Sepoy Mutiny as the "First War of Independence". Karl Marx (and this is interesting) called it a national revolt. Ms Ranaut calls the mutiny a nationalist movement, says the right wing arose. But what right wing? Who was the right wing? We had no wings at the time. This was 1857.
+Mr V. D. Savarkar describe the 1857 Sepoy Mutiny as the "First War of Independence". Karl Marx called it a national revolt. Ms Ranaut calls the mutiny a nationalist movement, says the right wing arose. But what right wing? Who was the right wing? We had no wings at the time.
 
 Here is a gist of who participated in the rebellion:
 
@@ -242,65 +259,69 @@ Here is a gist of who participated in the rebellion:
 
 The image shows seven spots where the mutiny gained serious ground. In itself, this is a large topic, and I suggest you check out this book called [_From Plassey to Partition_](https://archive.org/details/FromPlasseyToPartitionBySekharBandopaddhyaxaam.in/mode/2up) by Sekhara Bandyopadhyay. The episode is crucial to the history of India, but not in the way Ms Ranaut may have us think.
 
-One of the reasons I disagree that this was a fight for freedom is because the different actors in the mutiny had different goals. Some fought to ensure their liberties within the army (against the "uniform military culture"). Rani Lakshmibai joined the rebellion because she wanted to fight the East India Company's Doctrine of Lapse to ensure her son could be the king of the kingdom. The soldiers started the rebellion because most of them were either Hindus or Muslims, and a "rumour" about the cartridges containing cow and pig fat had reached their ears, and they felt offended. Also, there was this larger topic of declining state of the peasants in the present-day UP–Bihar region. But nobody---none of these actors---showed any interest in uniting under a single umbrella. They may have had localised nationalism towards their respective kingdoms or minor collaborations, but none of them was even thinking about creating the state of India. In other words, they were each fighting either for what they thought were their rights, or against the annexation.
+One of the reasons I disagree that this was a "decisive" fight for freedom is because the different actors in the mutiny had different goals. Some fought against the "uniform military culture", to ensure their liberties within the army continued. Rani Lakshmibai joined the rebellion because she wanted to fight the East India Company's Doctrine of Lapse to ensure her adopted son could inherit the kingdom. The soldiers started the rebellion because most of them were either Hindus or Muslims, and a "rumour" about the cartridges containing cow and pig fat had reached their ears, and they felt offended. Also, there was this larger topic of declining state of the peasants in the present-day UP–Bihar region. But nobody---none of these actors---showed any interest in uniting under a single umbrella. They may have had localised nationalism towards their respective kingdoms or minor collaborations, but none of them was even thinking about creating the state of India. In other words, they were each fighting either for what they thought were their rights, or against the annexation.
 
-Of course, apparently some of the rebels did end up declaring Bahadur Shah II as the Emperor of Hindustan. But not everybody shared the wish.
+Of course, apparently some of the rebels did end up declaring Bahadur Shah II as the Emperor of Hindustan. But not everybody shared the wish. The British recaptured Delhi in about three months and took Bahadur Shah II prisoner. The mutiny took until almost the beginning of 1859 to fully die down.
 
-I repeat: This was not an all-encompassing nationalist movement in the sense of throwing out the British.
+As Bandyopadhyay puts it:
 
-Moreover, as you can see in the image above, most states supported the British---including the Rajputs and the Sikhs.
+> The extremely localised nature of the uprisings helped the British to tackle them one at a time.
 
-But this was a pivot point in the Indian history. This mutiny ended the rule of the East India Company and placed India directly under Queen Victoria. But this was not all that great either, as the history that follows will tell us.
+I repeat: This was not an all-encompassing nationalist movement in the sense of throwing out the British. The effect of this rebellion got confined to the present-day Punjab, Haryana, Rajasthan, Delhi, Uttar Pradesh, Uttarakhand, some parts of Madhya Pradesh and some parts of western Bihar. (See the brown area above.)
 
-It took almost half a decade for a modern nationalism to arise in the Indian subcontinent.
+Moreover, as you can see in the image above, most states (the blue areas) supported the British---including the Rajputs and the Sikhs.
 
-And what "sudden death" of nationalism is she talking about? Does she realise that the _Kākorī Conspiracy_ happened after 1857? That the bombing in the Central Legislative Assembly happened after 1857? That the Quit India Movement happened after 1857? How many more should we count? Claiming that Indian nationalism died after 1857 is utter nonsense. What is with this reductionist baseless sweeping statements? Perhaps limited her research to the life of Rani Lakshmibai, which is why I think she thinks history ended there and then the clock started in the 1940s.
+But this was a pivot point in the Indian history. This mutiny ended the rule of the East India Company and placed India directly under the British Crown. The Secretary of State of India now was member of the cabinet. This did change the game, even though it may not have been all that evident on the ground yet. Bandyopadhyay says that this mutiny led to Indians becoming a suspect in general in the British eyes, and the British thought "that Indians were beyond reform", thereby denying "the aspirations of the educated Indians for sharing power". This frustrated the educated middle class gave rise to modern nationalism over the next four decades, making the empire more vulnerable (and paving way for independence the way we got it).
 
-Why did Netaji get killed and never get Gandhi's support? Counter question: where was Netaji when Godse killed Gandhi? Do such questions even make sense? And this "Gandhi let Bhagat Singh die" narrative is getting real old.
+Nationalism did not die a "sudden death". Its flavour changed. Ironically, the mutiny that Ms Ranaut celebrates led to this new flavour of nationalism that she does not appear to agree with.
 
-## Wars, battles and no-man's land
+Also, does she realise that the _Kākorī Conspiracy_ happened after 1857? That the bombing in the Central Legislative Assembly happened after 1857? That the Quit India Movement happened after 1857? How many more should we count? What is with this reductionist baseless sweeping statements? Perhaps she limited her research to the life of Rani Lakshmibai, which is why I think she thinks the history of Indian nationalism ended with the mutiny. And that some magic happened, and then someone begged, and the Brits rolled their eyes and said, 'Fine, we will give you India. Enjoy.'
 
-In the interview, Ms Ranaut says that we did not get our independence through a fight, even though we lost to the British in fights.
+## Wars, battles and "no-man's land"
 
-This is a mixed statement. The different kingdoms and empires in India lost their power to the British East India Company. In some cases, the Company had to fight battles, and in others, they got away with gaining control without a fight.
+In the interview, Ms Ranaut says that we did not get our independence through a fight, even though we lost to the British in battles.
 
-But was a war for independence take place?
+The different kingdoms and empires in India lost their power to the British East India Company. In some cases, the Company had to fight battles, and in others, they got away with gaining control without a fight.
 
-To understand this, we must understand that a battle in most cases involves two or more parties fighting over a short span of time. A war is much different. A war could span years (or decades, or centuries). Battles may or may not be part of wars. For example, there was no battle involved in the US trade war with China. The Cold War spanned decades. Similarly, the war of Independence also spanned centuries. The war was slow and expensive. Starting from little mutinies to pivotal mutinies like that of 1857, to political pressure and ultimately, independence.
+But did a war for independence take place?
 
-Ms Ranaut seems to have a narrow view of wars and a state. She goes back to the times when there used to be a king and his state, the state had a state religion which everyone in the state would follow, states would fight (with arms) for territory and annex the territory won in a battle or a war. This model is from the medieval times.
+To understand this, we must understand that a battle in most cases involves two or more parties fighting over a short span of time. A war is much different. A war could span years (or decades, or centuries). Armed battles may or may not be part of wars. For example, there was no armed battle involved in the US trade war with China. The Cold War spanned decades. Similarly, the war of Independence also spanned centuries. The war was slow and expensive. Starting from little mutinies to pivotal mutinies like that of 1857, to political pressure and ultimately, independence.
 
-India is a much more progressive state. We do not link religion with governance. This is what we mean by "secular". Secularism does not make a piece of land no-man's land. Of course, secularism in its purest form in the political sense is a product of the West, but there is a reason countries are adopting secularism. And the reason is that a country's governance and laws need to be fluid. They need to evolve over time. Tying religion to governance makes the laws rigid. What we hate about the Taliban is that they use Islam as the source of law, which curbs on the liberty of people. Islam alone does not have that problem, though; every religion potentially has the problem.
+Ms Ranaut seems to have a narrow view of wars and a state. She goes back to the times when there used to be a king and his state, the state had a state religion which everyone in the state had to follow, states would fight (with arms) for territory and annex the territory won in a battle or a war. This model is from the medieval times.
 
-The reason is that religions are open to interpretation, and one or the other section of the society does not like alternate interpretations. Also, people wrote religious texts based on their understanding of the world around them at the time of writing those texts. Our understanding of the world and our approach to living have changed over time (for example, today, men, women and non-binary humans all have the right to education, which may not have been the case, say, seven hundred years ago).
+India is a much more progressive state. We do not link religion with governance. This is what we mean by "secular". Secularism does not make a piece of land a no-man's land. The reason that countries are adopting secularism is that a country's governance and laws need to be fluid, to adapt to the global climate (not as in weather patterns). They need to evolve over time. Tying religion to governance makes the laws rigid---which is precisely what we hate about the Taliban, who use Islam as the source of law, and curb the liberty of people. Islam is not alone to have this problem, though; every religion potentially has the problem.
 
-Yes, religions may have formed as a way to give people a good life, but we have found better ways. Look at modes of transport for analogy: today, we have invented internal combustion engines and battery-operated motors. We use cars made using these. Some five hundred years ago, this was not the case. Do we prohibit use of cars? No. Today, we have access to digitally signed documents; do we not amend our laws to accommodate for them? For instance, the amendment to the Information Technology Act enabled us all to use documents verified using DigiLocker instead of carrying physical documents around.
+While religions may have formed as a way to give people a good life, human society has evolved since. As the society evolves, we amend our laws to suit the needs of the people at that time.
 
 Traditionally, "amendments" have not been smooth with religions.
 
-Secularism does not prohibit practising a religion, but merely says that our religions have nothing to do with how we run the state. Of course, we have had instances of politicising of this for appeasement of one section of the society or another, but they do not make secularism itself bad. Secularism in India says that you do not have to be a Hindu to be an Indian. Religion is not a criteria for you to be an Indian. What is wrong with this? Why does each religion have to have a state? In other words, why confine the beautiful, elegant, eternal Hinduism to the territory of India?
+Secularism does not prohibit the practice of a religion, but merely separates religion from policymaking. In other words, secularism means that our religions do not dictate how we run the state. An example closest to a secular state in the sense of absolute separation of religion from policy is France. India is different, though. And for the why, we circle back to the Mutiny of 1857. When the British Crown took over direct control of India after the 1857 mutiny, Queen Victoria issued a Proclamation promising religious tolerance (given that hurt of religious sentiments was one of the reactants in the mutiny). This has continued since, because we all learned that we Indians do not like messing with religious sentiments.
 
-But going beyond this would make this a political discussion. I want to stay away from it.
+The Indian flavour of secularism is about giving everyone, irrespective of their religion, equality before the Law (Article 14). We have Personal Laws based on the religion, that apply to the persons following that specific religion. These laws govern issues that the no other statutory law addresses.
 
-Meanwhile, about independence: Not all battles need arms. Some, we fight using diplomacy. India is a fine example of an open, modern, diplomatic state (as Prime Minister Modi's visits to nations around the world in his initial days as prime minister would tell you). The fight for _Swaraj_ was a mixture of radical and diplomatic kind. We won independence using more than one ways. What is wrong with that? Who stops us from finding better ways to do something? Who says wars must involve blood (and that wars that do not involve blood are not wars)?
+Of course, we have had instances of politicising this for appeasement of one section of the society or another, but they do not make secularism itself bad. We must call out the politicians and political parties that indulge in such activities instead. This idea of each religion having to have a state (or vice-versa) harks back to the medieval ages.
+
+But going beyond this would make this a political discussion. I would like to stay away from it.
+
+Meanwhile, about independence: Not all battles need arms. Some, we fight using diplomacy. India is a fine example of an open, modern, diplomatic state (as Prime Minister Modi's visits to nations around the world in his initial days as prime minister would tell you). The fight for _Swarāj_ was a mixture of radical and diplomatic kinds. We won independence using more than one ways. Who says wars must involve blood (and that wars that do not involve blood are not wars)?
 
 The War of Independence was not a Sudoku puzzle for it to have no more than one solution.
 
-The likes of Netaji Bose fought with blood, while those like Gandhi and Nehru fought with non-violence and diplomacy. Swami Vivekanand fought spiritually. Sardar Bhagat Singh inspired the youth. Sardar Patel instilled the idea of "united we stand". Each had their own expertise and tools. Each fought in their own way. Who is to judge which way got us freedom? Never place all eggs in a single basket. To break a boulder, you go at it in different angles using different techniques; we have traditionally even used water and wood to split large rocks. Soft wood and water.
+The likes of Netaji Bose fought with blood, while those like Gandhi and Nehru fought with non-violence and diplomacy. Swami Vivekanand fought spiritually. Sardar Bhagat Singh inspired the youth. Sardar Patel instilled the idea that "united we stand". Each had their own expertise and tools. Each fought in their own way. Who is to judge which way got us freedom? Never place all eggs in a single basket. To break a boulder, you go at it in different angles using different techniques; we have traditionally even used water and wood to split large rocks. Soft wood and water.
 
 ## Why did a "White man" draw the line of partition?
 
-Radcliffe line; that is the name of the line that divides India and Pakistan. The answer to this question is simple. The British were transferring power to the Dominions of India and Pakistan. Demarcating the territories was the responsibility of the British because the two dominions were their colony. When transferring power, they had to define the territories.
+_Radcliffe Line_; that is the name of the line that divides India and Pakistan. The answer to this question is simple. The British were transferring power to the Dominions of India and Pakistan. Demarcating the territories was the responsibility of the British because the two dominions were their colony. When transferring power, they had to define the territories.
 
 To get some context to this, one would need to read the Indian Independence Act of 1947.
 
-Cyril Radcliffe did not do this on his own, though. He set up two councils---one for the partition of Bengal and the other for the partition of Punjab. Each of these councils had two members each from the Indian National Congress and the Muslim League. The eight members---four from INC and four from the Muslime League---were all judges belonging to the erstwhile British India.
+Cyril Radcliffe did not do this on his own, though. He set up two councils---one for the partition of Bengal and the other for the partition of Punjab. Each council had two members each from the Indian National Congress and the Muslim League (double "each" intended). The eight members---four from INC and four from the Muslime League---were all Indian judges of British India.
 
-Of course, the process was hasty. And if we were to believe the sources, Radcliffe was indifferent. But nobody at the time had the power to do this other than a British official for a simple reason that we were then a British colony.
+Of course, the process was hasty. And if we were to believe the sources, Radcliffe was indifferent. But nobody at the time had the power to do this other than a British official for a simple reason that we were then a British Colony.
 
 ## Why did Indians kill each other instead of celebrating freedom
 
-Oh, I don't know, ask the religious extremists, perhaps? Hint: The Two-nation Theory.
+Oh, I don't know, ask the religious extremists, perhaps? Hint: The Two-nation Theory. Funny, the one thing that has not changed over the past centuries is our sense of separation based on religion, and political powers exploiting it to their benefit.
 
 ## Other rants
 
@@ -308,10 +329,18 @@ She then rants about Netaji Bose not getting a chance to fight the British with 
 
 Having said that, Netaji is an important cog in the machinery that got us independence, and we ought to know about him.
 
-At the same time, I also believe that a modern state does not choose war as its first path to attaining what it needs. I believe in diplomacy being a much finer tool. And no matter who says what, no matter who forms the government, India chooses diplomacy first. This has been the way in the 20th and the 21st centuries.
+At the same time, I also believe that a modern state does not choose war as its first path to attaining what it needs. Diplomacy is a much finer tool given the present geopolitical framework. And no matter who says what, no matter who forms the government, India chooses diplomacy first. This has been the way in the 20th and the 21st centuries. And thankfully so.
 
-As for the letter from Nehru to appoint Rajaji as the Governor-General of India, the letter went in 1948, when India was still an independent Dominion with the British monarch as the nominal head of state. The language is diplomatic, as per the protocol. This is how, say, the Prime Minister of India would write to the President of India. India became a sovereign democratic republic in 1950---about a year and nine months after the letter. Regardless, using phrases like His Majesty or His Excellency{{< sidenote excellency >}}Political row over Modi's pitch for Partition Horrors Remembrance Day ([Deccan Herald](https://www.deccanherald.com/national/national-politics/political-row-over-modis-pitch-for-partition-horrors-remembrance-day-1019771.html)){{< /sidenote >}} is common in diplomatic communication; it has no hidden meaning whatsoever. In no way does it translate to "begging". This claim of hers is cherry-picking at best.
+As for the letter from Nehru to appoint Rajaji as the Governor-General of India, he wrote the letter in 1948, when India was still an independent Dominion with the British monarch as the head of state. The language is diplomatic, as per the protocol. This is how, say, the Prime Minister of India would write to the President of India. India became a sovereign democratic republic in 1950---about a year and nine months after the letter. Regardless, using phrases like His Majesty or His Excellency is common in diplomatic communication;{{< sidenote excellency >}}Political row over Modi's pitch for Partition Horrors Remembrance Day ([Deccan Herald](https://www.deccanherald.com/national/national-politics/political-row-over-modis-pitch-for-partition-horrors-remembrance-day-1019771.html)){{< /sidenote >}} it has no hidden meaning whatsoever. In no way does it translate to "begging" or someone being lower than the other. This claim of hers is ignorant at best.
 
-Also, transfer of power is not "begging". The civilised world calls it smooth transition. This way, you ensure order while something as drastic as transfer of power happens. When you think of the enormity of the issue, you would realise that "fighting and taking" something does not always work. In 1947, the world was much more civilised than it was in 1757. You did not show up at someone's door with an army, beat the brains out of them and take over control of their house. You now had something called the law. The Second World War had ended, and countries were realising the enormity of wasted resources. No war is truly worth it; the world was realising it now.
+Also, transfer of power is not "begging". The civilised world calls it transition. This way, you ensure order while something as drastic as transfer of power happens from an empire to two dominions created afresh during the transition. When you think of the enormity of the issue, you would realise that "fighting and taking" something does not always work. In 1947, the world was much more civilised than in 1757. You did not show up at someone's door with an army, beat the brains out of them and take over control of their house. The Second World War had ended, and countries were realising the scale of the wasted resources. No war is truly worth it; the world had realised it by now.
 
-Let me put it this way: how many battles have we had with Pakistan? And in the last seventy-four years, how much territory have we each transferred to the other? Physical battles are an inefficient way to transfer territory or power in this world. We are much more sophisticated than we were in the 1700s. Battles and wars look good on comic books and screens.
+Let me put it this way: how many battles have we had with Pakistan? And in the last seventy-four years, how much territory have we each transferred to the other? Physical battles are an inefficient way to transfer territory or power in this world. We are much more sophisticated than we were in the 1700s. Battles and wars look good on comic books and screens, not in real life in 2021. One may romanticise it in films and theatre, but no civilised society today likes bloodshed.
+
+## In summary
+
+Discrediting the Indian Independence Movement is apparently in vogue today. But such a narrative not only questions our freedom struggle, but also diminishes our stature in the globalised world. Some sections of our society that criticise closed societies that base themselves on religion and brand them "medieval minded" societies, seem to be subconsciously drawn to that very model.
+
+Identity-based religion and politics blind us and harm us. Religious disturbances hinder economic growth by influencing factors including foreign investments. In other words, for example, our religious disturbances impede our vision of "Make in India, Make for the World".
+
+Also, when on a public stage, it becomes one's responsibility to ensure they are speaking facts, and keep in mind the consequence of their words on the general public. A programme being telecast to millions of people is not a opportunity to regurgitate half-baked knowledge gathered from questionable sources. One must under no circumstance reduce the struggles of our freedom fighters merely because they have a stage and are free to express what they feel. If one does not root these statements in facts, their personal quest for fame and fandom may succeed, but to the detriment of the nation. Ms Ranaut's putting out statements such as "some of the answers I am seeking please help me find answers [sic]" or "can someone please help me understand [sic]" imply that she does not know enough, in which case, silence about the subject on a public stage would have been the way to go. Saying 'I said what I said, because I wanted to know' is a lousy excuse. Such "nationalists" are not true nationalists; they are merely self-centred individuals interested in publicity, indifferent towards the nation that they claim to put before all else.
