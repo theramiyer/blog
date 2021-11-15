@@ -58,7 +58,9 @@ But wait, if EdTech has been around for over a decade in the IT industry, then a
 
 Coursera has been running free courses, including in Computer Science subjects, for a long time now. Secondly, the IT community is vibrant. You have freeCodeCamp, code.org, Codecademy, edX, etc., that have programmes in which you can learn to code for free. Apart from that, most techies blog about their learning, and share solutions. [Here is mine.](https://ramiyer.io/)
 
-But my view is that saying, 'Well, here, you have an ocean of resources! Go, enjoy yourself!' is utterly useless. Unless you have a direction, you cannot possibly pick up a line and have any success in learning. Even today, nothing beats someone sitting you down and teaching you something. Yes, you can learn from guided tutorials, but that also tires your brain.
+You can even get them books that teach them basics of coding---like [this one that teaches the basics using Python](https://amzn.to/3ceEpQ4), or this [one published by the Cambridge University Press](https://amzn.to/3HpKvvl), or if you would like to use the same platform that one of the most known EdTech platform uses, [buy this book for ages 5–9](https://amzn.to/3ne33GO), or [this one for ages 7–11](https://amzn.to/3c9D39c).
+
+But my view is that merely saying, 'Well, here, you have an ocean of resources! Go, enjoy yourself!' is utterly useless. Unless you have a direction, you cannot possibly pick up a line and have any success in learning. Even today, nothing beats someone sitting you down and teaching you something. Yes, you can learn from guided tutorials, but that also tires your brain.
 
 Call me old school, but I have had video-based learning, online tutorials, interactive learning, and live session learning. Live session learning has always worked best. I have trained people as well, and got the same from them: live learning works best.
 
@@ -177,3 +179,5 @@ Rest assured, your kid is not falling behind if s/he does not learn to code. Cod
 I will make a post about how one can start learning to code sometime. I also plan to start a free video series about the fundamental concepts of coding. You can try them out and decide for yourself if coding is as great as people make it out to be.
 
 Meanwhile, chill. Let your kid run around, play with others, bruise her knees, build sand castles, get into arguments with his friends, challenge your authority, and paint the walls. Each of these is an important life skill. Coding can wait.
+
+Meanwhile, if you would like your kid to strengthen their logic, get them some of [these logic-building games](https://amzn.to/3caWSge).
