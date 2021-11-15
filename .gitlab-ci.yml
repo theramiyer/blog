@@ -8,7 +8,7 @@ variables:
 build for production:
   only: master
   stage: build
-  image: monachus/hugo
+  image: registry.gitlab.com/pages/hugo_extended:latest
   only:
     - master
   script:
