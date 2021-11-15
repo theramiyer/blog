@@ -91,8 +91,8 @@ Understand that the best chance of your survival is under medical care. A heart 
 But there is something called first aid, and these are the steps:
 
 1. Breathe. Handling the situation calmly will increase your chances of survival manifold.
-2. Pick up your phone and [a tablet of Aspirin](https://amzn.to/3qykDr4), and sit reclining on a wall or the head of a bed (half-sit).
-3. Prop up your legs with [a pillow or something](https://amzn.to/3ClWKoF) (something light enough for you to easily lift/pull).
+2. Pick up your phone and {{< amazon "a tablet of Aspirin" "https://amzn.to/3qykDr4" >}}, and sit reclining on a wall or the head of a bed (half-sit).
+3. Prop up your legs with {{< amazon "a pillow or something" "https://amzn.to/3ClWKoF" >}} (something light enough for you to easily lift/pull).
 4. Call Emergency Services---in India, it's 108 (try 112 in the unlikely event of 108 not working). In 2019, you can press the power button on your phone thrice in quick succession to call emergency services.
 5. Breathe evenly and tell them it's urgent, and that you think you're having a heart attack. Give them your name and location. Finish the call in about 20 seconds.
 6. Take the Aspirin if the medicines you take do not interfere with it, and you're not allergic to Aspirin. (Ask your doctor beforehand.) Make sure it is uncoated Aspirin so that the absorption is faster. If you can, chew the Aspirin and keep the particles under your tongue. You may drink half a gulp of water to help you swallow, but if possible, avoid it.
@@ -100,7 +100,7 @@ But there is something called first aid, and these are the steps:
 8. Call someone for help---a friend, a neighbour, or someone nearby. They could help guide the ambulance or with the hospitalisation.
 9. Stay put. Wait for help to arrive.
 
-These days, medical technology has advanced enough to help you monitor your general cardiovascular parameters. For instance, [a pulse oximeter](https://amzn.to/30rgbPX) tells you the saturation of oxygen in your blood. You can keep an eye on your blood pressure on a regular basis by measuring it every day using a [BP monitor](https://amzn.to/3kFuLua). My mother's physician likes to see a trend of it over a period of a couple of weeks so that he can tune her medicines accordingly---we maintain an [Excel sheet](https://amzn.to/3Dp3zYg) for it. Some monitors [like this one](https://amzn.to/3wKDGzz) even connect to your phone to keep a trend.
+These days, medical technology has advanced enough to help you monitor your general cardiovascular parameters. For instance, {{< amazon "a pulse oximeter" "https://amzn.to/30rgbPX" >}} tells you the saturation of oxygen in your blood. You can keep an eye on your blood pressure on a regular basis by measuring it every day using a {{< amazon "BP monitor" "https://amzn.to/3kFuLua" >}}. My mother's physician likes to see a trend of it over a period of a couple of weeks so that he can tune her medicines accordingly---we maintain an {{< amazon "Excel sheet" "https://amzn.to/3Dp3zYg" >}} for it. Some monitors {{< amazon "like this one" "https://amzn.to/3wKDGzz" >}} even connect to your phone to keep a trend.
 
 ## What about the self-CPR
 
