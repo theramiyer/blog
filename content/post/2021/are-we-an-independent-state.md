@@ -56,10 +56,10 @@ For those who do not speak or know Hindi, she says, 'I said that Nehru did not g
 > 
 > - When did India become free?
 > - From whom did India become free?
-> - Who governed the country on the 14 August, 1947?
-> - Who governed the country on the 15 August, 1947?
-> - Who governed the country on the 25 January, 1950?
-> - Who governed the country on the 27 January, 1950?
+> - Who governed the country on 14 August, 1947?
+> - Who governed the country on 15 August, 1947?
+> - Who governed the country on 25 January, 1950?
+> - Who governed the country on 27 January, 1950?
 > - When did the British rule begin?
 > - Who declared the British the rulers of India?
 > - On what day did the British rule end in India?
