@@ -38,7 +38,7 @@ Let us add some information to work with this narrative, because if I may state 
 
 ### "You took back India on a 99-year lease from the British Crown"
 
-Here is a good picture (beyond the memes) of what the actual issue is. _The Lallantop_ organises a programme called _Aḍḍā_. The video of this programme appears to have appeared on the 26th of October, 2021. In this video, someone called Ruchi Pathak, during a discussion about privatisation, appears to have gotten mixed up in a rebuttal by a Congress activist (?), to which, she responds, 'You (Indian National Congress) did not get complete freedom for India from the British. You merely took it on a 99-year lease. [Translated and paraphrased.]' Here is a short clip of the statement she made:
+Here is a good picture (beyond the memes) of what the actual issue is. _The Lallantop_ organises a programme called _Aḍḍā_. The video of this programme got published on the 26th of October, 2021. In this video, someone called Ruchi Pathak, during a discussion about privatisation, appears to have gotten mixed up in a rebuttal by a Congress activist (?), to which, she responds, 'You (Indian National Congress) did not get complete freedom for India from the British. You merely took it on a 99-year lease. [Translated and paraphrased.]' Here is a short clip of the statement she made:
 
 {{< youtube fhdQBggGKrY 42 72 >}}
 
