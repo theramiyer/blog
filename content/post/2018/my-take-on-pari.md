@@ -16,7 +16,7 @@ Personally, I have a whole different understanding of the concept of God. In mos
 
 I'm someone who looks for deeper meanings to these "supernatural" phenomena from the philosophical side and evidence and explanation from the scientific. Usually, I take the objective stand. That's the same way I try to look at the "Devil" as well---same treatment as the God. Now this is why I particularly liked Pari.
 
-**If you haven't watched the movie, stop here.** Go, watch the movie (it's available on Amazon Prime), and come back. This post isn't going anywhere.
+**If you haven't watched the movie, stop here.** Go, watch the movie (it's available on [Amazon Prime](https://primevideo.com?tag=ramiyer-21)), and come back. This post isn't going anywhere.
 
 You've been warned.
 
