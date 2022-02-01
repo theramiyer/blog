@@ -2,9 +2,13 @@
 title: "The Problem With Government Jobs"
 subtitle: "and in general, the government sector in India"
 date: 2022-01-31T16:52:54+05:30
-description:
+description: "The situation with the RRB–NTPC selection invited massive protests by students and other aspirants. If the odds of selection weren’t bad enough, the way the Railways handled the applications worsened the situation, infuriating the aspirants, bringing them out on the streets. Tutors like “Khan Sir” got pulled into the mess with the police accusing them of instigation. And there was this interesting narrative of why so many people in India want government jobs. In this article, we discuss the issue, along with some facts and figures."
 tags:
-draft: true
+- education
+- employment
+- politics
+- governance
+- democracy
 ---
 
 Happy 2022! May this year keep us all in a much better shape than the last two; in better health---physical, emotional and financial---better relationships, better work–life balance, better everything. (Holding your breath for the Budget, anybody?)
