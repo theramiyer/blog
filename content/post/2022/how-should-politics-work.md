@@ -130,3 +130,5 @@ Assuming that you are capable of going through this shift in thinking:
 8. If elections are the only time the representatives work, then we must know that we have broken our system. This should be a blaring alarm bell that wakes us all up from our deep slumber or complacence.
 
 Anger is almost never the way to solve something of public importance. If someone provokes your anger, your passion, your hatred or any of those strong emotions, stay at a safe distance from them.
+
+Also, the question should not be about an alternative, but about how to make the incumbent useful.
