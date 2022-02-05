@@ -14,7 +14,7 @@ theme = "typographical"
   applePodcastsId = "id1448518505"
   googlePodcastsId = "aHR0cHM6Ly9hbmNob3IuZm0vcy8xNGNjYTI0L3BvZGNhc3QvcnNz"
   privacyPolicyUrl = "/privacy/"
-  postFooter = "As a participant in the Amazon Associates Program---an affiliate advertising programme designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.in---I may earn a small commission from the purchases you make using the link, at zero additional cost to you."
+  postFooter = "As a participant in the Amazon Associates Program---an affiliate advertising programme designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.in---I may earn a small commission from the purchases you make using the affiliate links, at zero additional cost to you."
 
 [params.mastodon]
   server = "mastodon.online"
