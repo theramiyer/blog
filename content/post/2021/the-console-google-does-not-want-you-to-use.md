@@ -45,7 +45,7 @@ What we need to understand is that companies like Facebook want you to spend as 
 
 This altering of the information you receive alters your general personality, which changes your thought process, and ultimately, makes you behave a certain way.
 
-Google is not immune to this either. Google locks you in filter bubbles in Search. You will find uncountable examples for this on the Web. [People have even written books on it.](https://amzn.to/32g1JI6) {{< sidenote "filter-bubble" >}}Buying _The Filter Bubble_ using the affiliate link will get my friends at [Meraki Post](https://instagram.com/merakipostofficial/) a small commission at _zero added cost_ to you. This helps cover costs.{{< /sidenote >}}
+Google is not immune to this either. Google locks you in filter bubbles in Search. You will find uncountable examples for this on the Web. {{< amazon "People have even written books on it." "https://amzn.to/3PS3rGw" >}}
 
 Why does Google filter search results despite being one of the two largest advertising platforms on the Web? Their AdSense is everywhere---conservative sites, liberal sites, economic right-wing sites, economic left-wing sites, entertainment sites, gossip sites, conspiracy theory sites---everywhere. Why does it matter if Google shows "agreeable" results or not? I have yet to find an answer to that. Perhaps conflicting signals (getting an economic right-wing ad on an economic left wing site)? But that does not change the fact that Google filters search results---based on demographics, your personal profile based on your interests, etc.
 

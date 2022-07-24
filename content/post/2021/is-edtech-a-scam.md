@@ -58,7 +58,7 @@ But wait, if EdTech has been around for over a decade in the IT industry, then a
 
 Coursera has been running free courses, including in Computer Science subjects, for a long time now. Secondly, the IT community is vibrant. You have freeCodeCamp, code.org, Codecademy, edX, etc., that have programmes in which you can learn to code for free. Apart from that, most techies blog about their learning, and share solutions. [Here is mine.](https://ramiyer.io/)
 
-You can even get them books that teach them basics of coding---like {{< amazon "this one that teaches the basics using Python" "https://amzn.to/3ceEpQ4" >}}, or this {{< amazon "one published by the Cambridge University Press" "https://amzn.to/3HpKvvl" >}}, or if you would like to use the same platform that one of the most known EdTech platform uses, {{< amazon "buy this book for ages 5–9" "https://amzn.to/3ne33GO" >}}, or {{< amazon "this one for ages 7–11" "https://amzn.to/3c9D39c" >}}.
+You can even get them books that teach them basics of coding---like {{< amazon "this one that teaches the basics using Python" "https://amzn.to/3vbXTPf" >}}, or this {{< amazon "one published by the Cambridge University Press" "https://amzn.to/3b58pAT" >}}, or if you would like to use the same platform that one of the most known EdTech platform uses, {{< amazon "buy this book for ages 5–9" "https://amzn.to/3v7DTNu" >}}, or {{< amazon "this one for ages 7–11" "https://amzn.to/3vcjEy5" >}}.
 
 But my view is that merely saying, 'Well, here, you have an ocean of resources! Go, enjoy yourself!' is utterly useless. Unless you have a direction, you cannot possibly pick up a line and have any success in learning. Even today, nothing beats someone sitting you down and teaching you something. Yes, you can learn from guided tutorials, but that also tires your brain.
 
@@ -180,4 +180,4 @@ I will make a post about how one can start learning to code sometime. I also pla
 
 Meanwhile, chill. Let your kid run around, play with others, bruise her knees, build sand castles, get into arguments with his friends, challenge your authority, and paint the walls. Each of these is an important life skill. Coding can wait.
 
-Meanwhile, if you would like your kid to strengthen their logic, get them some of {{< amazon "these logic-building games" "https://amzn.to/3caWSge" >}}.
+Meanwhile, if you would like your kid to strengthen their logic, get them some of {{< amazon "these logic-building games" "https://amzn.to/3RXX2uX" >}}.
