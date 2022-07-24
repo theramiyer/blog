@@ -16,6 +16,10 @@ theme = "typographical"
   privacyPolicyUrl = "/privacy/"
   postFooter = "As a participant in the Amazon Associates Program---an affiliate advertising programme designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.in---I may earn a small commission from the purchases you make using the affiliate links, at zero additional cost to you."
 
+[params.amazon]
+  domain = "amazon.in"
+  trackingId = "ramiyer08-21"
+
 [params.mastodon]
   server = "mastodon.online"
   username = "ramiyer"
