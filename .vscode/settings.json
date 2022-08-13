@@ -30,6 +30,8 @@
     "editor.renderLineHighlightOnlyWhenFocus": false,
     "workbench.editor.centeredLayoutAutoResize": false,
     "zenMode.centerLayout": true,
-    "zenMode.fullScreen": false,
+    "zenMode.fullScreen": true,
     "zenMode.restore": true,
+    "editor.cursorBlinking": "solid",
+    "editor.scrollbar.vertical": "hidden",
 }
