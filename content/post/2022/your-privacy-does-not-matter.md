@@ -14,6 +14,8 @@ I have been away for a long time now. As with my growth journey, I have been exp
 
 But before we move forward, here is a look at my screen. See how even the cursor does not blink with fancy, _phase_ animation? This is where I have reached.
 
+{{< youtube "3C7TPYQjdmo" >}}
+
 Coming back to privacy: An uncle of mine visited us mid-July. He had come over after over three years. During breakfast, we got into a discussion about privacy. He is not the kind that reads; he had not read [my posts on privacy](/tags/privacy/). And I heard the usual: "What will anyone do with my data?"
 
 This is the usual question you get when you talk to anyone about privacy these days. And a lot of ... privacy enthusiasts (?) ... have created a rather binary approach to privacy, leaning towards locking it all down entirely. This gives an impression of paranoia to the uninitiated.
