@@ -34,4 +34,5 @@
     "zenMode.restore": true,
     "editor.cursorBlinking": "solid",
     "editor.scrollbar.vertical": "hidden",
+    "scm.diffDecorationsGutterVisibility": "hover",
 }
