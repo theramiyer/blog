@@ -27,7 +27,7 @@ The conversation made me think.
 
 {{< toc >}}
 
-Bangalore is a city of the young. Most localities along the Outer Ring Road are full of people under 40. A large chunk of the Bangalorean population have their roots elsewhere in the country. Those of us that have made Bangalore our home, stayed, while the others travelled back to their respective hometowns.
+Bangalore is a city of the young. Most localities along the Outer Ring Road are full of people under 40. A large chunk of the Bangalorean population have their roots elsewhere in the country. Those of us that have made Bangalore our home, stayed, while the others travelled back to their respective hometowns during the lockdown.
 
 ## The honeymoon phase
 
