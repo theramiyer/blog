@@ -41,7 +41,7 @@ Also, hundreds of kilos of food was not being wasted per meal time per building 
 
 Not only this, but during the lockdown, green house emissions in cities saw a drastic drop. Anecdotal, but my weather app consistently reported healthy air quality.
 
-What was more, now spouses did not have to be hundreds of kilometres apart. People could find jobs sans boundaries. We could set our own work timings, and were no longer bounded to leave at our cabbie's (or the Transport department's) whim.
+What was more, now spouses did not have to be hundreds of kilometres apart. People could find jobs sans boundaries. We could set our own work timings, and were no longer required to start our commute at our cabbie's (or the Transport department's) whim.
 
 Bengaluru was no longer Bengaluru; it was Bangalore (of the good ol' 90s).
 
@@ -53,13 +53,13 @@ But wait, something was _sus_. Can everyone be happy?
 
 A few months passed. Just as the IT giants were gearing up to make work permanently remote, people like Satya Nadella started talking about COVID fatigue. And somehow, I related to it.
 
-No "new normal" will ever be easy to transition to. The COVID pandemic brought a paradigm shift on how we balanced work life with off-work life. While we were surprised to see so many benefits that it almost seemed like a win-win-win-win-win everywhere, this was not to be. At least, we should have known that this was a short-term effect. Because without getting the fundamentals right, we cannot make anything sustainable.
+No "new normal" will ever be easy to transition to. The COVID pandemic brought a paradigm shift in how we balanced work life with off-work life. While we were surprised to see so many benefits that it almost seemed like a win-win-win-win-win everywhere, this was not to be. At least, we should have known that this was a short-term effect. Because without getting the fundamentals right, we cannot make anything sustainable.
 
 The can of worms opened.
 
 Studies after studies started bringing out the downsides of remote work. The first and most apparent effect seen across the board was blurring of the lines between work and off-work lives. On average, there was a 28% increase in after-hours work, and a 14% increase in weekend work. This in itself was a big deal, because a 28% increase in a 9-hour work day means a 11½-hour work day. In fact, some companies even lengthened their work day, officially. Apparently, overall, the workday span grew by 13%.{{< sidenote "cabralMicrosoftSatyaNadella2022" >}}Microsoft's Satya Nadella speaks out on employee well-being as workdays lengthen ([The National](https://www.thenationalnews.com/business/2022/04/09/microsofts-satya-nadella-speaks-out-on-employee-well-being-as-workdays-lengthen/)){{< /sidenote >}}
 
-Next came stress. Humans are not machines. Increasing the number of hours we work does not mean increased production (on the contrary, you would find studies that say the productivity deteriorates as work hours increase). People started complaining of _Virtual Fatigue_, two of the reasons being a 252% increase in meeting duration and a 153% increase in the number of meetings.{{< sidenote microsoftGreatExpectationsMaking >}}Great Expectations: Making Hybrid Work Work ([Microsoft](https://www.microsoft.com/en-us/worklab/work-trend-index/great-expectations-making-hybrid-work-work)){{< /sidenote >}}
+Next came stress. Humans are not machines. Increasing the number of hours we work does not mean increased production (on the contrary, you would find studies that show the productivity deteriorates as work hours increase). People started complaining of _Virtual Fatigue_, two of the reasons being a 252% increase in meeting duration and a 153% increase in the number of meetings.{{< sidenote microsoftGreatExpectationsMaking >}}Great Expectations: Making Hybrid Work Work ([Microsoft](https://www.microsoft.com/en-us/worklab/work-trend-index/great-expectations-making-hybrid-work-work)){{< /sidenote >}}
 
 All this also meant that we were taking shorter (or lesser) breaks. The already unhealthily sedentary lifestyle had become more sedentary---people were moving around a lot less. More of my friends started complaining of backache.{{< sidenote "ergo" >}}Apparently, not everybody utilised their COVID bonus for furniture and UPS.{{< /sidenote >}} More of us were getting dehydrated. Coupled with lowered immunity owing to these unhealthy ways of leading life, there were more reports of illness all around.
 
@@ -103,13 +103,13 @@ On the other hand, I also came across people who did not want to go to the offic
 
 Our work lifestyle has evolved over time. If we think about it, the primary reason people used to go to their workplaces was logistics.
 
-Power. Internet connectivity. Collaboration. Equipment (phones, computers, photocopiers, etc.). The most important, in most cases was correspondence and communication.
+Power. Internet connectivity. Collaboration. Equipment (phones, computers, photocopiers, etc.). The most important, in most cases was correspondence.
 
 Think about it. When we started officially communicating centuries ago, people needed a physical address for correspondence.
 
 Today, almost nobody in tech even remembers their office address. We all have an email address to which people send emails. Now, communication is even synchronous with the likes of Slack and Teams.
 
-But we continue to have an office space. Despite the fact that today, power backup, and robust high-speed internet connectivity is accessible to most, in the tech industry. Work culture is evolving. Equipment is mobile; today, we get a laptop, a headset and a WiFi hotspot on the first day of our joining our organisations.
+But we continue to have an office space, despite the fact that today, power backup, and robust high-speed internet connectivity is accessible to most, in the tech industry. Work culture is evolving. Equipment is mobile; today, we get a laptop, a headset and a WiFi hotspot on the first day of our joining our organisations.
 
 With all this, why would people not like to sit at the comfort of their homes and work?
 
@@ -121,7 +121,7 @@ One of the execs, apparently, said something along the lines of:
 
 > When an employee walks in, his computer should be powered up and a cup of steaming green tea should be awaiting him. His workspace should be pleasant and calm, so that he is already in the frame of mind to work when he gets in.
 
-Is _this_ supposed to be the incentive? First of all, that part about powering up a computer on schedule is easily doable within the BIOS or the OS settings. We can make our rooms calm and pleasant. I have a couple of LED battens in my room that have been set up to light up the room with the light of the right temperature and intensity for work, on schedule: weekdays at 0800. This is easy stuff.
+Is _this_ supposed to be the incentive? First of all, that part about powering up a computer on schedule is easily doable within the BIOS or the OS settings. We can make our rooms calm and pleasant with the help of professionals. I have a couple of LED battens in my room that have been set up to light up the room with the light of the right temperature and intensity for work, on schedule: weekdays at 0800. This is easy stuff.
 
 In fact, any techie who knows how to work with IoT-enabled devices will be able to set up a little home automation server that watches for the work laptop to connect to the LAN. That can trigger the bulbs or battens to create a work-friendly light, control the fan/AC accordingly, etc.
 
@@ -133,19 +133,19 @@ Here is the elephant in the room: urban traffic. My brother used to spend _five 
 
 Compare this with the time and effort needed to set up the workspace and getting a cup of tea.
 
-Second, the urban physical infrastructure. Ours in Bangalore is beyond pathetic. Pothole-ridden roads that kill people, lack of parking spaces, unreliable and perpetually slow bus service, absolute chaos during rains ... all this drains us. Not everyone lives near their offices. The pandemic and the unavailability of cabs during the time has led to a lot of us buying personal vehicles, thereby increasing the traffic further, once everything opened up. All this deters us from venturing out.
+Second, the urban physical infrastructure. Ours in Bangalore is beyond pathetic. Pothole-ridden roads that kill people, lack of parking spaces, unreliable and perpetually slow bus service, absolute chaos during rains ... all this drains us. Not everyone lives near their offices. The pandemic and the unavailability of cabs during the time has led to a lot of us buying personal vehicles. This led to an increase in the traffic further, once everything opened up.
 
 The fuel prices do not help either. And if your workplace provides transport, you end up working according to your Transportation team's clock instead of your own.
 
-Safety is a problem as well, especially for women employees. The crime rates seem to have increased. A new wave of the pandemic is almost always around the corner. These are also a factor deterring people from coming to work.
+Safety is a problem as well, especially for women employees. The crime rates seem to have increased. A new wave of the pandemic is almost always around the corner. These are also a factor discouraging people from coming to work.
 
 Also, the price of food has doubled, compared to the pre-pandemic era, while the quality has deteriorated. I, for one, prefer home-cooked food today. A lot of my friends and colleagues echo this sentiment. We can eat it hot and fresh when working from home.
 
-These issues must be addressed before we start talking about "nice and calm" workspaces and "a cup of green tea". When compared with the price you must pay to work from the office, these "incentives" are peanuts.
+These issues must be addressed before we start talking about "nice and calm" workspaces and "a cup of green tea". When compared with the price you must pay to work from the office, these "incentives" are negligible.
 
 ## But that is not all
 
-But that is not the end of it. There are indeed some points in favour of going to the office, apart from the "soft" benefits such as casual conversations and better mental health.
+There are indeed some points in favour of going to the office, apart from the "soft" benefits such as casual conversations and better mental health.
 
 The first among them is ergonomics.
 
@@ -153,13 +153,15 @@ Office furniture, at least in the highly regulated corporates, is a result of a 
 
 Not everybody uses such furniture at home. I see most of my colleagues working from their couches or beds. This is far from ideal. Why are we even surprised about backaches?
 
-The problem is, most of us do not understand the intricacies of ergonomics. Some of us do not even care. We are unlikely to, until we start facing serious consequences for our indifference.
+The problem is, most of us do not understand the intricacies of ergonomics. Some of us do not even care. And we are unlikely to, until we start facing serious consequences for our indifference.
 
-Second, we are comfortable with our interactions being transactional. Again, this is something that will affect us in the long run. This is a boiling frog situation.
+Second, we are comfortable with our interactions being transactional. Again, this is something that will affect us in the long run.
+
+This is a boiling frog situation.
 
 ## What we need
 
-Work will not go back to the pre-pandemic style. The real estate folks or any other folks can lobby all they want, but going back to the old ways of working is not happening.
+Work will not go back to the pre-pandemic style. The real estate folks or any other folks can lobby all they want, but going back to the old ways of working is not going to happen.
 
 That said, remote work is not perfect; only way more convenient in the short term, considering our ignorance about the unapparent issues.
 
@@ -167,7 +169,7 @@ The problems with remote work are primarily around mental health. Our brains ove
 
 We do not realise all the unconscious processing our brains do when in physical meetings; today's technology only focuses on the transactional element of it. Sure, Microsoft, for instance, brought features such as speaker highlight and reactions, but I think this has only moved the unconscious processing into the conscious realm.
 
-Silence in virtual meetings makes us think if our network connectivity has dropped, and we say, 'Hello?', thereby disturbing everyone else's thought train. In a physical meeting, a silence would merely make us look around and unconsciously understand that everyone is merely processing what we just said.
+For instance, silence in virtual meetings makes us think if our network connectivity has dropped, and we say, 'Hello?', thereby disturbing everyone else's thought train. In a physical meeting, a silence would merely make us look around and unconsciously understand that everyone is merely processing what we just said.
 
 Keeping the cameras on is more stressful, because, now, you are letting all your attendees into what is your personal space. This would not be the case in the office. It's these "little things" that make the experience taxing.
 
@@ -185,7 +187,7 @@ How much of this are we doing today? How do we even handle some of these issues 
 
 ## My setup, since I mentioned ergonomics
 
-Keep in mind that I use what I use because they work for me. Your mileage may vary. Ergonomics is never one-size-fits-all.
+Keep in mind that I use what I use, because they work for _me_. Your mileage may vary. Ergonomics is never one-size-fits-all.
 
 ### The table
 
@@ -193,7 +195,7 @@ I bought [this table by Jordyblue](https://amzn.to/3Bw51Jy), because they promis
 
 ### Chair
 
-Because the table is on the taller side, I had to buy a chair that could match the height. This [one is by Wipro](https://amzn.to/3RyxpjL), which is a well-made chair overall. It is adjustable, has mid-back support, and is tall enough.
+Because the table is on the taller side, I had to buy a chair that could match the height. This [one is by Wipro](https://amzn.to/3RyxpjL), which is a well-made chair overall. It is adjustable, has mid-back support, and is tall enough. It has great thigh support as well.
 
 ### Footrest
 
@@ -201,7 +203,7 @@ If you think that you are straining to place your feet on the ground when seated
 
 ### Monitor
 
-I like BenQ. All my monitors, so far, have been theirs. LG is also a great monitor maker, though. My current one is [this 27″ 4K monitor](https://amzn.to/3eDxynB). A true workhorse. Great colour reproduction, plenty of settings related to ergonomics, automatic brightness adjustment, KVM switch, multiple interfaces, daisychaining capability, height, tilt and rotation adjustments, along with panning ... worth what I paid.
+I like BenQ. All my monitors, so far, have been theirs. LG is also a great monitor maker, though. My current one is [this 27″ 4K monitor](https://amzn.to/3eDxynB). A true workhorse. Great colour reproduction, plenty of settings related to ergonomics, automatic brightness adjustment, KVM switch, multiple interfaces, daisychaining capability, height, tilt and rotation adjustments, along with panning and a lot more. Worth what I paid.
 
 My previous monitor was a [21″ FHD monitor](https://amzn.to/3qzmVoo), also with automatic brightness adjustment, tilt adjustment and other picture-related ergonomic features.
 
@@ -221,15 +223,15 @@ My mouse is the [M331 Silent Plus](https://amzn.to/3qvBedW) by Logitech. I have 
 
 ### Mouse pad
 
-Using a hard wood table means that you will inadvertently end up getting micro-scratches on it from the contact points on the mouse. If you live in a locality that attracts some dust, your mouse may capture that over time, and rub the dirt into the exposed fibres of the finished top that you scratched.
+Using a hard wood table means that you will inadvertently end up getting micro-scratches on it from the contact points on the mouse. If you live in a locality that has free dust in the air, your mouse may catch it over time, and rub the dirt into the exposed fibres of the finished top that you scratched.
 
 I personally do not like little mouse pads. I like to use a pad that works as a workspace pad, which also holds the keyboard and my notepad.
 
-I went with [the Amazon Basics one](https://amzn.to/3qw9F3W), but cut a few centimetres length-wise to my liking. I am eyeing [this one by Spigen](https://amzn.to/3B5nECM) next, available on and off on Amazon.
+I went with [the Amazon Basics one](https://amzn.to/3qw9F3W) for its cost-to-quality ratio, and cut a few centimetres length-wise to my liking. I am eyeing [this one by Spigen](https://amzn.to/3B5nECM) next, available on and off, on Amazon.
 
 ### Charger
 
-I use [this one by UGreen](https://amzn.to/3U1lOf2) to charge my laptop when mobile. The rest of the time, the charger that came along with the laptop is connected. What I like about the UGreen charger is that it has USB-C and USB-A ports, and outputs 65 watts, which is about right for my laptop's specs. I use a [2 metre long USB-C to USB-C cable](https://amzn.to/3B67OrK) to charge my laptop.
+I use [this GaN charger by UGreen](https://amzn.to/3U1lOf2) to charge my laptop when mobile. The rest of the time, the charger that came along with the laptop is connected. What I like about the UGreen charger is that it has USB-C and USB-A ports, and outputs 65 watts, which is about right for my laptop's specs. I use a [2 metre long USB-C to USB-C cable](https://amzn.to/3B67OrK) to connect it to my laptop.
 
 ### Headset
 
@@ -237,12 +239,14 @@ I use the [Aeropex headset by Aftershokz](https://amzn.to/3B5j0Vh) as my daily d
 
 Of course, I bought it before its price shot up, but if you would like to give it a shot, please do.
 
+A note, though. This has zero noise cancellation, by design. This is not for audiophiles who would like to listen to music in noisy environments like the Metro.
+
 ## Summary
 
 The pandemic has changed how the world works. We are not going back to the old ways of working, ever again. But that does not mean we have found the perfect way to work. There is a lot of scope for improvement.
 
 While a lot of us have benefited from the new way of working, a lot have faced serious losses. Finding the balance will take a while. But no matter how much who lobbies, the new normal is here to stay; we have to now learn to work with the new variables.
 
-Also, the price we pay for what we thought were benefits of remote work in the beginning, is slowly becoming apparent in certain spots. We can continue to ignore them, but we will not be able to do that for long.
+Also, the price we pay for what we thought were benefits of remote work in the beginning, is slowly becoming apparent in certain spots. We can continue to ignore the symptoms, but we will not be able to do that for long.
 
 Food for thought: Are we now in the introverts’ world?
