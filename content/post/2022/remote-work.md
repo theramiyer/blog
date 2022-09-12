@@ -33,7 +33,7 @@ Bangalore is a city of the young. Most localities along the Outer Ring Road are 
 
 Weeks later came the shocker: The productivity of the employees went to an all-time high. We did not quite understand why, but the numbers were right in front of us. Our employers liked this!
 
-And we employees had our own benefits as well. We Bangaloreans saved hours of travel time, which we could potentially use to learn a new skill, spend some time with the family, or making Dalgona coffee. No more of incessant honking or inching on the road, no ordering a Friday pizza from _Car #37, Edge Lane, Silk Board Junction_.
+And we employees had our own benefits as well. We Bangaloreans saved hours of travel time, which we could potentially use to learn a new skill, spend some time with the family, or to make Dalgona coffee. No more of incessant honking or inching on the road, no ordering a Friday pizza from _Car #37, Edge Lane towards Jayanagar, Silk Board Junction_.
 
 The IT giants also saved a lot on employee transportation and utilities (a former employer used to pay 1,50,000 rupees _per day_ per block on electricity, back in 2011, if I recall correctly).
 
