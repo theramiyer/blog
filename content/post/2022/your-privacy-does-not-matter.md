@@ -50,7 +50,7 @@ Today, there are a handful companies that have ways to track you as you visit th
 
 ## The advertisements are not the problem
 
-To me, the advertisements themselves are not the issue. While they sometimes do kill the look and feel of a site, but advertisements are also a legitimate way for people to earn (a little) money. I use advertisements on my [professional blog](//ramiyer.io/), (but they are privacy-respecting, in that the content on the page decides what advertisement appears, not who visits it).
+To me, the advertisements themselves are not the issue. While advertisements sometimes do kill the look and feel of a site, they are a legitimate way for people to earn (a little) money. I use advertisements on my [professional blog](//ramiyer.io/), (but they are privacy-respecting, in that the content on the page decides what advertisement appears, not who visits it).
 
 The real problem is how the corporations use this data. Or more specifically, how the corporations share this data with other parties. And then, of course, what these other parties do with this data.
 
