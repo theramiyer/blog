@@ -59,7 +59,7 @@ Something interesting happened in September 2022: Women in Iran intensified the
 
 > All the "liberals" who fought in favour of the hijab in India are now supporting the women in Iran who don't want to wear the hijab. What's the deal here?
 
-An uncle who is very dear to me---but has strong politico-religious views that I am uncomfortable with---said that a certain Ayesha, who allegedly shouted "Allah hu Akbar" outside her college earlier this year during the pro-hijab protests, was found fighting against the hijab in Iran. I have no way of establishing the veracity of this claim; I took it with a grain of salt.
+I recently even heard that a certain Ayesha, who allegedly shouted "Allah hu Akbar" outside her college earlier this year during the pro-hijab protests, was found fighting against the hijab in Iran. I have no way of establishing the veracity of this claim; I took it with a grain of salt.
 
 Regardless, I felt it was absolutely plausible that someone who protested in favour of the hijab here was protesting against it in Iran, because even though both the protests may seem to be on the opposite poles, they are not, if you look at it from the angle of _State control_.
 
