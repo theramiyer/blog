@@ -119,16 +119,16 @@ A parent protecting their child from sin is fair. But should it not be the other
 
 No. Instead, we punish the paedophile. We look down upon adults having lustful thoughts towards children.
 
-Personal safety is everyone's responsibility, but is it fair to make someone take additional precautions, depriving them of personal expression, merely because they are born a certain gender? They do not have to be provocative, but at the same time, the males must not feel provoked merely in the presence of a woman because she does not go out of her way to hide her features.
+Personal safety is everyone's responsibility, but is it fair to make someone take additional precautions, depriving them of personal expression, merely because they are born a certain gender? Sure, we may discourage provocation, but at the same time, the males must not feel provoked merely in the presence of a woman because she does not go out of her way to hide her features.
 
-I am not challenging a religious belief here; I am challenging the thought behind _a_ practice, in the context of the twenty-first century.
+I am not challenging a religious belief here; I am challenging the thought behind _a practice_, in the context of the twenty-first century.
 
-Every religion, every culture has some great practices that remain relevant today. Such as the idea of allocating one-fortieth of your income (or a fortieth of your savings; not sure which) to charity. This is a practice in Islam, I have been told by the same woman I mentioned before. I think, irrespective of the book we follow, we can adopt this practice.
+Every religion or culture has some great practices that remain relevant today. Such as the idea of allocating one-fortieth of your income (or a fortieth of your savings; not sure which) to charity. This is a practice in Islam, I have been told by the same woman I mentioned before. I think, irrespective of the book we follow, we can adopt this practice.
 
-But at the same time, I think we must question the validity of what is an irrelevant practice today, just like we did with the _Sati pratha_.
+But at the same time, I think we must question the validity of a practice that has become irrelevant today, just like we did with the _Sati pratha_.
 
 ## In summary
 
-This practice of wearing a hijab is complex. Every action in favour of, or against it, will have reactions that we must tackle as a society. We must also understand that one person's liberty should not come at the cost of another's liberty.
+This practice of wearing a hijab is complex. Every action in favour of, or against it, will have reactions that we must tackle as a society. We must also understand that someone's liberty should not come at the cost of someone else's liberty.
 
 Can we take a balanced approach to this? Can we recognise that changing a practice such as this is not going to happen overnight? Can we recognise that every person should have the right to choose what s/he wears, as long as the choice is reasonable with respect to the others around? Can we recognise that a uniform must be respected, because it stands to fetch everyone wearing it equitable treatment, and that an institution (educational or otherwise) has a decorum to maintain? Can we do all this without having anything against cultural or religious sentiments, or without moral policing?
