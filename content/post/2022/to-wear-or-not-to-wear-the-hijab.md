@@ -47,9 +47,11 @@ As usual, people approached the Judiciary with two issues (I am paraphrasing, of
 
 The petitions filed did not necessarily split these two aspects of the hijab issue, though.
 
-The Karnataka high court delivered a verdict{{< sidenote >}}Restriction on wearing hijab ‘reasonable’: Full text of Karnataka HC judgement upholding ban ([ThePrint](https://theprint.in/judiciary/restriction-on-wearing-hijab-reasonable-full-text-of-karnataka-hc-judgement-upholding-ban/874034/)){{< /sidenote >}} stating that the girl children should comply with school uniforms, and that it was a "reasonable restriction", adding that it was "constitutionally permissible". In the Karnataka High Court's view, the students could not object to this restriction.
+The Karnataka High Court delivered a verdict{{< sidenote >}}Restriction on wearing hijab ‘reasonable’: Full text of Karnataka HC judgement upholding ban ([ThePrint](https://theprint.in/judiciary/restriction-on-wearing-hijab-reasonable-full-text-of-karnataka-hc-judgement-upholding-ban/874034/)){{< /sidenote >}} stating that the girl children should comply with school uniforms, and that it was a "reasonable restriction", adding that it was "constitutionally permissible". In the Karnataka High Court's view, the students could not object to this restriction.
 
 The court dismissed the claim that the hijab was an essential religious practice in Islam.
+
+In October, the two-judge Bench of the Supreme Court had a split verdict{{< sidenote theprintteamDivergenceOpinionFull2022 >}}‘Divergence in opinion’ — Full text of Supreme Court’s split judgement in Hijab ban case ([ThePrint](https://theprint.in/judiciary/divergence-in-opinion-full-text-of-supreme-courts-split-judgement-in-hijab-ban-case/1166211/)){{< /sidenote >}} on whether the girls should be allowed to wear a hijab.
 
 ## Iran's take on the hijab
 
@@ -81,9 +83,7 @@ But it does not end there, and we will soon get to it.
 
 But an educational institution and a country are not the same.
 
-First, I am personally pro-choice in the matter, but I agree that a uniform is a uniform, and one must respect it. At the same time, I find it reasonable to be torn between whether a State-run educational institution, in a secular (in the sense that no religion has any say over the running of the State) State, can prohibit a piece of clothing on religious grounds. Because allowing and disallowing a piece of clothing which is a norm in a religion or culture are two sides of the same coin. On the one hand, the State cannot interfere in religious matters, and on the other, it cannot allow religion to interfere in State matters. In the case of the hijab, which of the two takes precedence? Can a religion interfere with the uniform of a school, or can the school interfere with a religious norm? ("Norm" is more appropriate here, until the question of whether wearing a hijab is an essential religious practice or not remains undecided.)
-
-The two-judge Bench of the Supreme Court had a split verdict{{< sidenote theprintteamDivergenceOpinionFull2022 >}}‘Divergence in opinion’ — Full text of Supreme Court’s split judgement in Hijab ban case ([ThePrint](https://theprint.in/judiciary/divergence-in-opinion-full-text-of-supreme-courts-split-judgement-in-hijab-ban-case/1166211/)){{< /sidenote >}} on whether the girls should be allowed to wear a hijab.
+I am personally pro-choice in the matter, but I agree that a uniform is a uniform, and one must respect it. At the same time, I find it reasonable to be torn between whether a State-run educational institution, in a secular (in the sense that no religion has any say over the running of the State) State, can prohibit a piece of clothing on religious grounds. Because allowing and disallowing a piece of clothing which is a norm in a religion or culture are two sides of the same coin. On the one hand, the State cannot interfere in religious matters, and on the other, it cannot allow religion to interfere in State matters. In the case of the hijab, which of the two takes precedence? Can a religion interfere with the uniform of a school, or can the school interfere with a religious norm? ("Norm" is more appropriate here, until the question of whether wearing a hijab is an essential religious practice or not remains undecided.)
 
 In the case of the Iran protests, the issue is State control as well: the Iranian women are being forced to wear a hijab.
 
@@ -91,31 +91,31 @@ Should it not be the women and girls who decide what they want to wear, and not 
 
 ## But this is not as simple an issue
 
-Coming back to the Hijab issue in Karnataka, some petitioners and one of the judges of the Supreme Court Bench pointed out that prohibiting the Hijab may deprive girls of education. Justice Dhulia said in his judgement:
+Coming back to the hijab issue in Karnataka, some petitioners and one of the judges of the Supreme Court Bench pointed out that prohibiting the hijab may deprive girls of education. Justice Dhulia said in his judgement:
 
 > If she wants to wear hijab, even inside her class room, she cannot be stopped, if it is worn as a matter of her choice, as it may be the only way her conservative family will permit her to go to school, and in those cases, her hijab is her ticket to education.
 
-Of course, one may have the question, 'How can one specific religion get special treatment?' And to counter this question, a fraction of the petitions call the hijab an essential religious practice, much like a _Pagri_ in Sikhism. This verdict by this two-judge Bench of the Supreme Court does not say whether the hijab is an essential religious practice or not.
+Of course, one may have the question, 'How can one specific religion get special treatment?' And to counter this question, a fraction of the petitions call the hijab an essential religious practice, much like a _Pagri_ in Sikhism. The October 2022 verdict by the two-judge Bench of the Supreme Court does not say whether the hijab is an essential religious practice or not.
 
 ## Lose both ways
 
-Some people in the know of this issue have pointed out that this is a lose--lose proposition for the liberals.{{< sidenote "liberals" >}}By "liberals", I mean those people who are pro-choice, not necessarily those who disagree with the Right-wing political ideology.{{< /sidenote >}} This is because a pro-hijab verdict would mean a win against personal freedom, and an anti-hijab verdict would mean deprivation of education for the girl children, by which, in turn, the girls lose again.
+Some people in the know of this issue have pointed out that this is a lose--lose proposition for the liberals.{{< sidenote "liberals" >}}By "liberals", I mean those people who are pro-choice, not necessarily those who disagree with the Right-wing political ideology.{{< /sidenote >}} This is because a pro-hijab verdict would mean a win against personal freedom, and an anti-hijab verdict would mean deprivation of education for the girl children, in which case, in turn, the girls lose again.
 
-## But in all this
+## Hijab and misogyny
 
 But in all this, we are missing something critical. Perhaps I need to understand this from someone.
 
 The point is, the hijab is---sort of---a misogynistic practice.
 
-I am not an expert in Islam; I have not read even a single piece of its literature. I am not interested in it either (nothing against the religion, it's just not my thing), even though I have asked questions and heard the answers on some of the topics, out of curiosity. And these answers came from those who practice the religion.
+I am not an expert in Islam; I have not read even a single piece of its literature. I am not interested in it either (nothing against the religion, it's just not my thing), even though I have asked questions and thought about the answers on some of the topics, out of curiosity. And these answers came from those who practice the religion.
 
 What I heard about the hijab is that it covers the most attractive parts of a woman's body: the hair and the neck. You may agree, you may disagree; that is beside the point.
 
 The premise is that a man is prohibited from looking at a woman who is not his partner, with the "wrong" eye. But a woman who does not satisfy the desire of a man is also a sinner. Therefore, it is imperative on part of the woman, that she does everything she can to prevent a man from having lustful thoughts about her, if she does not want to satisfy his lust.
 
-When I heard this, it troubled me. More so because this came from a woman; a woman I respect. And I hope, to date, that she was wrong about this.
+This view bothered me. More so because this came from a woman; a woman I respect. And I hope, to date, that she was wrong about this.
 
-A parent protecting his or her child from sin is fair. But is this the way protect them from sin? Should it not be the other way around, that you teach your male children to not  take any action against a woman's will? Going by this logic, a child is responsible for a paedophile engaging in paedophilia. Then, do we ask our children to grow up faster, or act like a grown-up from the very first day, of say, their school?
+A parent protecting their child from sin is fair. But is this the way protect them from sin? Should it not be the other way around, that you teach your male children to not  take any action against a woman's will? Going by this logic, a child could be held responsible for a paedophile engaging in paedophilia. Then, do we ask our children to grow up faster, or act like a grown-up from the very first day, of say, their school?
 
 No. What do we do, instead? We punish the paedophile. We look down upon adults having lustful thoughts towards children.
 
@@ -123,7 +123,7 @@ Personal safety is everyone's responsibility, but is it fair to make someone tak
 
 I am not challenging a religious belief here; I am challenging the thought behind _a_ practice, in the context of the twenty-first century.
 
-Every religion, every culture has some great practices that remain relevant today. Such as the idea of saving one-fortieth of your income (or a fortieth of what remains at the time you get your next income; not sure which) for charity. This is a practice in Islam, I have been told by the same woman I mentioned before. I think, irrespective of the book we follow, we can adopt this practice.
+Every religion, every culture has some great practices that remain relevant today. Such as the idea of allocating one-fortieth of your income (or a fortieth of your savings; not sure which) to charity. This is a practice in Islam, I have been told by the same woman I mentioned before. I think, irrespective of the book we follow, we can adopt this practice.
 
 But at the same time, I think we must question the validity of what is an irrelevant practice today, just like we did with the _Sati pratha_.
 
