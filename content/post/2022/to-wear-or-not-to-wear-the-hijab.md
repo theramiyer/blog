@@ -61,7 +61,7 @@ Something interesting happened in September 2022: Women in Iran intensified the
 
 An uncle who is very dear to me---but has strong politico-religious views that I am uncomfortable with---said that a certain Ayesha, who allegedly shouted "Allah hu Akbar" outside her college earlier this year during the pro-hijab protests, was found fighting against the hijab in Iran. I have no way of establishing the veracity of this claim; I took it with a grain of salt.
 
-Regardless, I felt it was absolutely plausible that someone who protested in favour of the hijab here was protesting against it in Iran, because even though both the protests may seem to be on the opposite poles, they are not, because the crux here is _State control_.
+Regardless, I felt it was absolutely plausible that someone who protested in favour of the hijab here was protesting against it in Iran, because even though both the protests may seem to be on the opposite poles, they are not, if you look at it from the angle of _State control_.
 
 Should everyone not have personal freedom of clothing? I do not mean that nobody should take issue with someone walking in his underwear in a railway coach full of people. Of course, there should be reasonable restrictions. But who can decide on behalf of someone on whether they should or should not wear a piece of clothing when wearing and not wearing it are both respectful of the reasonable restrictions?
 
