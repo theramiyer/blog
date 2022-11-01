@@ -24,7 +24,7 @@ Also, I am comfortable with people questioning my beliefs. This challenges me to
 
 Second, I am an apolitical person. Politics is politics, and given the space I am in, politics has little to do with the realities of our lives. Politics today, in general, is a game of rhetoric.
 
-To make things worse, politics and religion have now gotten married, becoming a dangerous duo.
+To make matters worse, politics and religion have now gotten married, becoming a dangerous duo.
 
 {{< toc >}}
 
@@ -42,7 +42,7 @@ I am old enough to expect these actions and reactions now, and none of this surp
 
 As usual, people approached the Judiciary with two issues (I am paraphrasing, of course):
 
-1. Educational institutions (especially the State run ones in a secular State) should not curtail religious freedom.
+1. Educational institutions (especially the State-run ones in a secular State) should not curtail religious freedom.
 2. The hijab is an essential religious practice in Islam.
 
 The petitions filed did not necessarily split these two aspects of the hijab issue, though.
@@ -51,7 +51,7 @@ The Karnataka High Court delivered a verdict{{< sidenote >}}Restriction on weari
 
 The court dismissed the claim that the hijab was an essential religious practice in Islam.
 
-In October, the two-judge Bench of the Supreme Court had a split verdict{{< sidenote theprintteamDivergenceOpinionFull2022 >}}‘Divergence in opinion’ — Full text of Supreme Court’s split judgement in Hijab ban case ([ThePrint](https://theprint.in/judiciary/divergence-in-opinion-full-text-of-supreme-courts-split-judgement-in-hijab-ban-case/1166211/)){{< /sidenote >}} on whether the girls should be allowed to wear a hijab.
+In October, the two-judge Bench of the Supreme Court had a split verdict{{< sidenote theprintteamDivergenceOpinionFull2022 >}}‘Divergence in opinion’ — Full text of Supreme Court’s split judgement in Hijab ban case ([ThePrint](https://theprint.in/judiciary/divergence-in-opinion-full-text-of-supreme-courts-split-judgement-in-hijab-ban-case/1166211/)){{< /sidenote >}} on whether the girls should be allowed to wear a hijab. The issue remains undecided from the legal angle as of writing this article.
 
 ## Iran's take on the hijab
 
@@ -63,15 +63,15 @@ An uncle who is very dear to me---but has strong politico-religious views that I
 
 Regardless, I felt it was absolutely plausible that someone who protested in favour of the hijab here was protesting against it in Iran, because even though both the protests may seem to be on the opposite poles, they are not, because the crux here is _State control_.
 
-Should everyone not have personal freedom of clothing? I do not mean that nobody should take issue with someone walking around a railway coach full of people, in his underwear. Of course, there should be reasonable restrictions. But who can decide on behalf of someone on whether they should or should not wear a piece of clothing when wearing and not wearing it are both respectful of the reasonable restrictions?
+Should everyone not have personal freedom of clothing? I do not mean that nobody should take issue with someone walking in his underwear in a railway coach full of people. Of course, there should be reasonable restrictions. But who can decide on behalf of someone on whether they should or should not wear a piece of clothing when wearing and not wearing it are both respectful of the reasonable restrictions?
 
-If the State banned shorts or wearing a black shirt, I would ask why. If the State asked me to wear a polo hat at all times, I would ask why.
+If the State banned shorts or black shirts, I would ask why. If the State asked me to wear a polo hat at all times, I would ask why.
 
 ## On uniform
 
 At the same time, I do not take issue with my workplace prohibiting frayed jeans.
 
-All this boils down to State control and reason (as in, what is reasonable). Prohibiting frayed jeans in the office is a reasonable ask. Prohibiting dhotis on a college campus is a reasonable ask. In my school (neither a religious institution, nor backed by any religious institution), our female schoolmates were not allowed to wear a _bindi_. Though the majority of the students were Hindu, everybody found it reasonable. The girls who wanted to wear a bindi would wear one in the after-hour classes, because we could go for them in civil clothes. In the same way, prohibiting hijab on campus to comply with dress code, according to me (you may disagree), is a reasonable ask.
+All this boils down to State control and reason (as in, what is reasonable). Prohibiting frayed jeans in the office is a reasonable ask. Prohibiting dhotis on a college campus is a reasonable ask. In my school (neither a religious institution, nor backed by any religious institution), our female schoolmates were not allowed to wear a _bindi_. Though the majority of the students were Hindu, everybody found it reasonable. The girls who wanted to wear a bindi would wear one in the after-hour classes, because we could go for them in "civil" clothes. In the same way, prohibiting hijab on campus to comply with a dress code, according to me (you may disagree), is a reasonable ask.
 
 But not everybody sees it that way. Some see it as an attack on their faith. Justified or not, not my place to say, because everyone has their personal liberty of thought.
 
@@ -83,9 +83,9 @@ But it does not end there, and we will soon get to it.
 
 But an educational institution and a country are not the same.
 
-I am personally pro-choice in the matter, but I agree that a uniform is a uniform, and one must respect it. At the same time, I find it reasonable to be torn between whether a State-run educational institution, in a secular (in the sense that no religion has any say over the running of the State) State, can prohibit a piece of clothing on religious grounds. Because allowing and disallowing a piece of clothing which is a norm in a religion or culture are two sides of the same coin. On the one hand, the State cannot interfere in religious matters, and on the other, it cannot allow religion to interfere in State matters. In the case of the hijab, which of the two takes precedence? Can a religion interfere with the uniform of a school, or can the school interfere with a religious norm? ("Norm" is more appropriate here, until the question of whether wearing a hijab is an essential religious practice or not remains undecided.)
+I am personally pro-choice in the matter, but I agree that a uniform is a uniform, and one must respect it. At the same time, I find it reasonable to be torn between whether a State-run educational institution, in a secular (in the sense that no religion has any say over the running of the State) State, can prohibit a piece of clothing on religious grounds or not. Because allowing and disallowing a piece of clothing which is a norm in a religion or culture, are two sides of the same coin. On the one hand, the State cannot interfere in religious matters, and on the other, it cannot allow religion to interfere in State matters. In the case of the hijab, which of the two takes precedence? Can a religion interfere with the uniform of a school, or can the school interfere with a religious norm? ("Norm" is more appropriate here, until the question of whether wearing a hijab is an essential religious practice or not remains undecided.)
 
-In the case of the Iran protests, the issue is State control as well: the Iranian women are being forced to wear a hijab.
+In the case of the protests in Iran, the issue is State control as well: the Iranian women are being forced to wear a hijab.
 
 Should it not be the women and girls who decide what they want to wear, and not the government? Like, if someone forced me to wear a dhoti at all times of the day, I would not like it. Who is anybody to _ask_ me to wear anything? One may suggest, not compel or order.
 
@@ -107,17 +107,17 @@ But in all this, we are missing something critical. Perhaps I need to understand
 
 The point is, the hijab is---sort of---a misogynistic practice.
 
-I am not an expert in Islam; I have not read even a single piece of its literature. I am not interested in it either (nothing against the religion, it's just not my thing), even though I have asked questions and thought about the answers on some of the topics, out of curiosity. And these answers came from those who practice the religion.
+I am not an expert in Islam; I have not read even a single piece of its literature. I am not interested in it either (nothing against the religion, it's just not my thing), even though I have asked questions and sought answers on some of the topics, out of curiosity. And these answers came from those who practice the religion.
 
 What I heard about the hijab is that it covers the most attractive parts of a woman's body: the hair and the neck. You may agree, you may disagree; that is beside the point.
 
-The premise is that a man is prohibited from looking at a woman who is not his partner, with the "wrong" eye. But a woman who does not satisfy the desire of a man is also a sinner. Therefore, it is imperative on part of the woman, that she does everything she can to prevent a man from having lustful thoughts about her, if she does not want to satisfy his lust.
+The premise is that a man is prohibited from looking at a woman who is not his partner, in the "wrong" way. But a woman who does not satisfy the desire of a man is also a sinner. Therefore, it is imperative on part of the woman, that she does everything she can to prevent a man from having lustful thoughts about her, if she does not want to satisfy his lust.
 
 This view bothered me. More so because this came from a woman; a woman I respect. And I hope, to date, that she was wrong about this.
 
-A parent protecting their child from sin is fair. But is this the way protect them from sin? Should it not be the other way around, that you teach your male children to not  take any action against a woman's will? Going by this logic, a child could be held responsible for a paedophile engaging in paedophilia. Then, do we ask our children to grow up faster, or act like a grown-up from the very first day, of say, their school?
+A parent protecting their child from sin is fair. But should it not be the other way around, that you teach your male children to not  take any action against a woman's will? Going by this logic, a child could be held responsible for a paedophile engaging in paedophilia. Then, do we ask our children to grow up faster, or act like a grown-up from the very first day, of say, their school, or clothe them in an "unattractive" way, based on some arbitrary assumptions?
 
-No. What do we do, instead? We punish the paedophile. We look down upon adults having lustful thoughts towards children.
+No. Instead, we punish the paedophile. We look down upon adults having lustful thoughts towards children.
 
 Personal safety is everyone's responsibility, but is it fair to make someone take additional precautions, depriving them of personal expression, merely because they are born a certain gender? They do not have to be provocative, but at the same time, the males must not feel provoked merely in the presence of a woman because she does not go out of her way to hide her features.
 
