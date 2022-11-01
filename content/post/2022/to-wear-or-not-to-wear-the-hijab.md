@@ -2,7 +2,7 @@
 title: "To wear or not to wear the Hijab"
 subtitle: Are we missing the point of this multi-faceted issue?
 date: 2022-10-30T10:12:29+05:30
-description: The Hijab issue became interesting when Iran, an Islamic country, had its women out in the streets protesting against the piece of cloth, while people in India, a secular country, were protesting against the restriction against it. In this short article, we look at the different aspects of it, and look at whether we are missing the point.
+description: The Hijab issue became interesting when women of Iran, an Islamic country, were out in the streets protesting against the piece of cloth, while people in India, a secular country, were protesting against the prohibition on it. In this short article, we look at the different aspects of it, and look at whether we are missing the point.
 tags:
 - religion
 - culture
