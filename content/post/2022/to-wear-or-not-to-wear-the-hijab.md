@@ -16,7 +16,7 @@ tags:
 - debate
 ---
 
-Let me start this by saying that the school of thought within Hinduism that we follow at home, teaches us to be not disrespectful of any school of thought. This does not mean we agree with everything, though; we instead appreciate the fact that there are more than one ways of seeing anything.
+Let me start this by saying that the school of thought within Hinduism that we follow at home, teaches us to be not disrespectful of any school of thought. This does not mean we agree with everything, though; we instead appreciate the fact that there are more-than-one ways of seeing anything.
 
 Philosophy aside, I am a man of science. Scientific thinking partially goes in line with the school of thought we follow, but digresses a little, in that scientific thinking allows _every_ form of questioning. And questioning, in my view, is not disrespectful; questioning is how you get answers, and that is how you acquire knowledge.
 
@@ -24,50 +24,52 @@ Also, I am comfortable with people questioning my beliefs. This challenges me to
 
 Second, I am an apolitical person. Politics is politics, and given the space I am in, politics has little to do with the realities of our lives. Politics today, in general, is a game of rhetoric.
 
-Today, politics and religion have gotten married, becoming a dangerous duo.
+To make things worse, politics and religion have now gotten married, becoming a dangerous duo.
+
+{{< toc >}}
 
 ## The beginning
 
 When the issue began in early 2022,{{< sidenote UdupiHijabIssue2022 >}}Udupi hijab issue: The Indian girls fighting to wear hijab in college ([BBC News](https://www.bbc.com/news/world-asia-india-60079770)){{< /sidenote >}} I did not pay attention to it. I assumed that elections were coming up somewhere, and this was one of the easiest ways to polarise people for votes. (Polarising does not work on one pole---left or right; it works on both poles---left _and_ right.)
 
-As expected, the public got divided, with one side asking to allow "saffron" scarves,{{< sidenote timesnowdigitalKarnatakaCollegeStudents >}}Karnataka: College students wear saffron scarves to protest against hijab in classrooms ([Times Now News](https://www.timesnownews.com/india/article/karnataka-college-students-wear-saffron-scarves-to-protest-against-hijab-in-classrooms-details/846442)){{< /sidenote >}} while the other trying to protect the rights of girls to wear their headscarves (a.k.a., the _Hijāb_).
+As expected, the public got divided, with one side asking to allow "saffron" scarves,{{< sidenote timesnowdigitalKarnatakaCollegeStudents >}}Karnataka: College students wear saffron scarves to protest against hijab in classrooms ([Times Now News](https://www.timesnownews.com/india/article/karnataka-college-students-wear-saffron-scarves-to-protest-against-hijab-in-classrooms-details/846442)){{< /sidenote >}} while the other tried to protect the rights of girls to wear their headscarves (a.k.a., the _Hijāb_).
 
 In no time, this became an issue about "secularism", as usual, with everybody forgetting that secularism is not about caring for or supporting every religion, but about _no religion_ having any take on the running of the State.
 
 I am old enough to expect these actions and reactions now, and none of this surprised me. Not even the Muslims playing straight into the hands of the Hindu extremists ("fringe groups" is the term in vogue these days).
 
-## People approached the courts
+## People approach the courts
 
 As usual, people approached the Judiciary with two issues (I am paraphrasing, of course):
 
 1. Educational institutions (especially the State run ones in a secular State) should not curtail religious freedom.
-2. The Hijab is an essential religious practice in Islam.
+2. The hijab is an essential religious practice in Islam.
 
 The petitions filed did not necessarily split these two aspects of the hijab issue, though.
 
 The Karnataka high court delivered a verdict{{< sidenote >}}Restriction on wearing hijab ‘reasonable’: Full text of Karnataka HC judgement upholding ban ([ThePrint](https://theprint.in/judiciary/restriction-on-wearing-hijab-reasonable-full-text-of-karnataka-hc-judgement-upholding-ban/874034/)){{< /sidenote >}} stating that the girl children should comply with school uniforms, and that it was a "reasonable restriction", adding that it was "constitutionally permissible". In the Karnataka High Court's view, the students could not object to this restriction.
 
-The court dismissed the claim that the Hijab was an essential religious practice in Islam.
+The court dismissed the claim that the hijab was an essential religious practice in Islam.
 
-## Iran's take on the Hijab
+## Iran's take on the hijab
 
 Something interesting happened in September 2022: Women in Iran intensified their protests _against_ the Hijab.{{< sidenote deatonIranianWomenBurn2022 >}}Iranian women burn their hijabs as hundreds protest death of Mahsa Amini ([CNN](https://www.cnn.com/2022/09/21/middleeast/iran-mahsa-amini-death-widespread-protests-intl-hnk/index.html)){{< /sidenote >}} In no time came the allegation:
 
-> All the "liberals" who fought in favour of the hijab in India are now supporting the women in Iran who don't want to wear the Hijab. What's the deal here?
+> All the "liberals" who fought in favour of the hijab in India are now supporting the women in Iran who don't want to wear the hijab. What's the deal here?
 
 An uncle who is very dear to me---but has strong politico-religious views that I am uncomfortable with---said that a certain Ayesha, who allegedly shouted "Allah hu Akbar" outside her college earlier this year during the pro-hijab protests, was found fighting against the hijab in Iran. I have no way of establishing the veracity of this claim; I took it with a grain of salt.
 
-Regardless, I felt it was absolutely plausible that someone who protested in favour of the hijab here was protesting against it in Iran, because even though both the issues are about the hijab and may seem on the opposite sides, the crux here is _State control_.
+Regardless, I felt it was absolutely plausible that someone who protested in favour of the hijab here was protesting against it in Iran, because even though both the protests may seem to be on the opposite poles, they are not, because the crux here is _State control_.
 
 Should everyone not have personal freedom of clothing? I do not mean that nobody should take issue with someone walking around a railway coach full of people, in his underwear. Of course, there should be reasonable restrictions. But who can decide on behalf of someone on whether they should or should not wear a piece of clothing when wearing and not wearing it are both respectful of the reasonable restrictions?
 
-If the government banned shorts or wearing a black shirt, I would ask why. If the government asked me to wear a polo hat at all times, I would ask why.
+If the State banned shorts or wearing a black shirt, I would ask why. If the State asked me to wear a polo hat at all times, I would ask why.
 
 ## On uniform
 
 At the same time, I do not take issue with my workplace prohibiting frayed jeans.
 
-All this boils down to state control and reason (as in, what is reasonable). Prohibiting frayed jeans in office is a reasonable ask. Prohibiting dhotis on a college campus is a reasonable ask. In my school (not a convent, nor backed by any religious institution), my female schoolmates were not allowed to wear a _bindi_. Though the majority of the students were Hindu, everybody found it reasonable. The girls who wanted to wear a bindi would wear one in the after-hour classes, because we had no dress code then. In the same way, prohibiting hijab on campus to comply with dress code, according to me (you may disagree), is a reasonable ask.
+All this boils down to State control and reason (as in, what is reasonable). Prohibiting frayed jeans in the office is a reasonable ask. Prohibiting dhotis on a college campus is a reasonable ask. In my school (neither a religious institution, nor backed by any religious institution), our female schoolmates were not allowed to wear a _bindi_. Though the majority of the students were Hindu, everybody found it reasonable. The girls who wanted to wear a bindi would wear one in the after-hour classes, because we could go for them in civil clothes. In the same way, prohibiting hijab on campus to comply with dress code, according to me (you may disagree), is a reasonable ask.
 
 But not everybody sees it that way. Some see it as an attack on their faith. Justified or not, not my place to say, because everyone has their personal liberty of thought.
 
@@ -79,7 +81,7 @@ But it does not end there, and we will soon get to it.
 
 But an educational institution and a country are not the same.
 
-First, I am personally pro-choice in the matter, but I agree that a uniform is a uniform, and one must respect it. At the same time, I find it reasonable to be torn between whether a state-run educational institution, in a secular (in the sense that no religion has any say over the running of the State) State, can prohibit a piece of clothing on religious grounds. Because allowing and disallowing a piece of clothing which is a norm in a religion or culture are two sides of the same coin. On the one hand, the State cannot interfere in religious matters, and on the other, it cannot allow religion to interfere in State matters. In the case of the hijab, which of the two takes precedence? Can a religion interfere with the uniform of a school, or can the school interfere with a religious norm? ("Norm" more appropriate here, until the question of whether a hijab is an essential religious practice or not remains undecided.)
+First, I am personally pro-choice in the matter, but I agree that a uniform is a uniform, and one must respect it. At the same time, I find it reasonable to be torn between whether a State-run educational institution, in a secular (in the sense that no religion has any say over the running of the State) State, can prohibit a piece of clothing on religious grounds. Because allowing and disallowing a piece of clothing which is a norm in a religion or culture are two sides of the same coin. On the one hand, the State cannot interfere in religious matters, and on the other, it cannot allow religion to interfere in State matters. In the case of the hijab, which of the two takes precedence? Can a religion interfere with the uniform of a school, or can the school interfere with a religious norm? ("Norm" is more appropriate here, until the question of whether wearing a hijab is an essential religious practice or not remains undecided.)
 
 The two-judge Bench of the Supreme Court had a split verdict{{< sidenote theprintteamDivergenceOpinionFull2022 >}}‘Divergence in opinion’ — Full text of Supreme Court’s split judgement in Hijab ban case ([ThePrint](https://theprint.in/judiciary/divergence-in-opinion-full-text-of-supreme-courts-split-judgement-in-hijab-ban-case/1166211/)){{< /sidenote >}} on whether the girls should be allowed to wear a hijab.
 
