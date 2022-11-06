@@ -127,8 +127,38 @@ Every religion or culture has some great practices that remain relevant today. S
 
 But at the same time, I think we must question the validity of a practice that has become irrelevant today, just like we did with the _Sati pratha_.
 
+## Back to choice
+
+Why did I say "sort of" in the previous section? Am I unsure whether this is a misogynistic practice?
+
+No, but there is another aspect to it, and that is choice. Justice Dhulia mentions this in his judgement. One may ask, what choice? For all we know, a girl's family may be forcing her to wear the hijab.
+
+The reality is, some women wear a hijab because they like wearing one. A friend describes this as "neither forced, nor freed". This aspect is somewhat deep-rooted, and a little hard to unpack. But no harm in trying, I suppose:
+
+A girl born in a family full of women wearing hijabs would see that as a norm. She would start wearing one from a young age---at an age when she cannot differentiate between, say, milk and cream. She does not know the reason women wear a hijab, but she now sees is as part of her dress. Then, one of the women says she need not wear it when among her _mehrem_. Over time, she builds an idea around the use of the hijab, even though she does not know the real reason behind it.
+
+Now, asking her to not wear a hijab at all could make her feel uncomfortable. Once she attains teenage, she may learn the real reason behind wearing a hijab, and may even disagree with the idea behind it. But despite that, continue to wear the hijab, because she considers it part of her attire. She is comfortable in it. And she may think, 'Well, my wearing a hijab harms no one.'
+
+She may even feel attacked if someone asked her to remove the hijab.
+
+In other words, she disagrees with the idea that women should go out of their way to protect their "modesty", but she chooses to wear the hijab. She knows that logically she does not have to, but emotionally, she wants to. She equates removal of hijab to undressing. She is comfortable removing it where she is comfortable removing it---a matter of choice.
+
+To many, this might seem like going down a slippery slope, but that would be because I could not quite explain this aspect properly. This approach is from the emotional angle, and _writing_ about them has been a challenge.
+
+But let me put it this way. I am a south Indian man. In my culture, men going around shirtless is not inappropriate. But I am not comfortable with it. How can someone _liberate_ me from wearing a shirt?
+
 ## In summary
 
-This practice of wearing a hijab is complex. Every action in favour of, or against it, will have reactions that we must tackle as a society. We must also understand that someone's liberty should not come at the cost of someone else's liberty.
+This practice of wearing a hijab is complex. I will give you an example, courtesy the friend I just mentioned; let us call her Varsha.
 
-Can we take a balanced approach to this? Can we recognise that changing a practice such as this is not going to happen overnight? Can we recognise that every person should have the right to choose what s/he wears, as long as the choice is reasonable with respect to the others around? Can we recognise that a uniform must be respected, because it stands to fetch everyone wearing it equitable treatment, and that an institution (educational or otherwise) has a decorum to maintain? Can we do all this without having anything against cultural or religious sentiments, or without moral policing? And can those of us who want reform remember that it’s not the instrument of misogyny that we are after?
+Varsha is an architect. She told me about this girl who would come to the site in a burqa. The girl was comfortable in her burqa at the site; no tripping, nothing. But Varsha asked her not to come to the site in a burqa, for a simple reason that loose clothing is unsafe at places like a construction site, places with heavy machinery, etc.
+
+Varsha asked me, '\[Was\] I controlling her freedom? Or practising a general code of conduct?'
+
+As a society, we need a nuanced and sensitive approach to it. One cannot exercise one's liberty at the cost of someone else's liberty. But, someone wearing a hijab out of choice is exercising one's liberty, without infringing upon anyone else's liberty. And I agree with Justice Dhulia on that. But I also agree with Justice Gupta on the part about respecting the uniform. If anyone wants to know, yes, I went to the Sabarimala shirtless, in a black _Muṇdu_ and _aṅgavastraṃ_. Also, I removed the _aṅgavastraṃ_ when walking in the forest, when wearing it became uncomfortable. That is the uniform for _Ayyappans_ (the pilgrims). But I also wore trousers with tucked-in shirts, and shoes to my college during the six-week _vrataṃ_ before the pilgrimage, because that was the dress code there. I am sure Ayyappan (the deity) understood.
+
+But also, for the record, my college (a Christian minority institution, mind you) exempted _Ayyappans_ on _vrataṃ_ from strictly following the dress code; we could wear black trousers with black untucked shirts, wear a _chandana kuri_ on our forehead, and go barefoot. I chose against the exemption, because, to me, a dress code is a dress code.
+
+This, dear reader, is my India.
+
+With that in mind, can we take a balanced approach to this? Can we recognise that changing a practice such as this is not going to happen overnight? Can we recognise that every person should have the right to choose what s/he wears, as long as the choice is reasonable with respect to the others around? Can we recognise that a uniform must be respected, because it stands to fetch everyone wearing it equitable treatment, and that an institution (educational or otherwise) has a decorum to maintain? Can we do all this without having anything against cultural or religious sentiments, or without moral policing? And can those of us who want reform remember that it’s not _an instrument_ of misogyny that we are after?
