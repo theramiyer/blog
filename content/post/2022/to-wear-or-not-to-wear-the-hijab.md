@@ -157,7 +157,7 @@ Varsha asked me, '\[Was\] I controlling her freedom? Or practising a general cod
 
 As a society, we need a nuanced and sensitive approach to it. One cannot exercise one's liberty at the cost of someone else's liberty. But, someone wearing a hijab out of choice is exercising one's liberty, without infringing upon anyone else's liberty. And I agree with Justice Dhulia on that. But I also agree with Justice Gupta on the part about respecting the uniform. If anyone wants to know, yes, I went to the Sabarimala shirtless, in a black _Muṇdu_ and _aṅgavastraṃ_. Also, I removed the _aṅgavastraṃ_ when walking in the forest, when wearing it became uncomfortable. That is the uniform for _Ayyappans_ (the pilgrims). But I also wore trousers with tucked-in shirts, and shoes to my college during the six-week _vrataṃ_ before the pilgrimage, because that was the dress code there. I am sure Ayyappan (the deity) understood.
 
-But also, for the record, my college (a Christian minority institution, mind you) exempted _Ayyappans_ on _vrataṃ_ from strictly following the dress code; we could wear black trousers with black untucked shirts, wear a _chandana kuri_ on our forehead, and go barefoot. I chose against the exemption, because, to me, a dress code is a dress code.
+But also, for the record, my college (a Christian minority institution, by the way) exempted _Ayyappans_ on _vrataṃ_ from strictly following the dress code; we could wear black trousers with black untucked shirts, wear a _chandana kuri_ on our forehead, and go barefoot. I chose against the exemption, because, to me, a dress code is a dress code.
 
 This, dear reader, is my India.
 
