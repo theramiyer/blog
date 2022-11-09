@@ -159,6 +159,8 @@ As a society, we need a nuanced and sensitive approach to it. One cannot exercis
 
 But also, for the record, my college (a Christian minority institution, by the way) exempted _Ayyappans_ on _vrataṃ_ from strictly following the dress code; we could wear black trousers with black untucked shirts, wear a _chandana kuri_ on our forehead, and go barefoot. I chose against the exemption, because, to me, a dress code is a dress code.
 
-This, dear reader, is my India.
+All of this boils down to choices and mutual respect; very different from State control.
 
-With that in mind, can we take a balanced approach to this? Can we recognise that changing a practice such as this is not going to happen overnight? Can we recognise that every person should have the right to choose what s/he wears, as long as the choice is reasonable with respect to the others around? Can we recognise that a uniform must be respected, because it stands to fetch everyone wearing it equitable treatment, and that an institution (educational or otherwise) has a decorum to maintain? Can we do all this without having anything against cultural or religious sentiments, or without moral policing? And can those of us who want reform remember that it’s not _an instrument_ of misogyny that we are after?
+Can we take a balanced approach to this? Can we recognise that changing a practice such as this is not going to happen overnight? Can we recognise that every person should have the right to choose what s/he wears, as long as the choice is reasonable with respect to the others around? Can we recognise that a uniform must be respected, because it stands to fetch everyone wearing it equitable treatment, and that an institution (educational or otherwise) has a decorum to maintain? Can we do all this without having anything against cultural or religious sentiments, or without moral policing? And can those of us who want reform remember that it’s not _an instrument_ of misogyny that we are after?
+
+And most importantly, do we now want to be a place where people have neither the consideration for norms nor the freedom of choice, by having the State regulate our attire?
