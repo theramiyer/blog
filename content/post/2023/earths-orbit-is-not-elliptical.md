@@ -75,7 +75,7 @@ Again, you see where this is going.
 
 In physics, this frame of reference is an extremely important aspect when you are making calculations. Without a frame of reference, vector calculations would fail. And without vectors, physics as we know it, would not exist.
 
-And we still call the earth's orbit elliptical, because one would introduce unnecessary complications when explaining concepts like, say, eclipses, if we take into account all the movements of all the astronomical objects around us. We remove all the common factors first, before running calculations.
+And we still call the earth's orbit elliptical, because, by not doing so, one would introduce unnecessary complications when explaining concepts like, say, eclipses, if we take into account all the movements of all the astronomical objects around us. We remove all the common factors first, before running calculations.
 
 Because if calling the earth’s orbit elliptical is a lie, then:
 
