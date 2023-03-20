@@ -77,6 +77,17 @@ In physics, this frame of reference is an extremely important aspect when you ar
 
 And we still call the earth's orbit elliptical, because one would introduce unnecessary complications when explaining concepts like, say, eclipses, if we take into account all the movements of all the astronomical objects around us. We remove all the common factors first, before running calculations.
 
-It is both, the fact and a lie if we called the earth's orbit elliptical, depending on how you see it. But for the most part, calling the earth's orbit around the sun elliptical is sufficient.
+Because if calling the earth’s orbit elliptical is a lie, then:
 
+1. We are lying to kids that there is an up and a down.
+2. We are lying to kids that the sun rises in the east and sets in the west.
+3. We are lying to kids that there is a measure of coldness.
+4. We are lying to kids that things are of certain colours. Or that black is a colour.
+5. We are lying to ourselves that the regular tube-lights we have are ‘“cool” daylight’.
+6. We are lying to kids that a year is 365 days and that every year, you get a “leap year”.
+7. We are lying to kids that electric current flows; from the positive to the negative terminal.
+8. We are lying to kids that tides—high and low—come and go.
+9. We are lying to children that there is something called “centrifugal force”.
+10. We are lying to kids that a place could be “too dark”.
 
+We could go on like this. If we start dismissing all the simplifications we do as “lies”, life becomes way too complicated.
