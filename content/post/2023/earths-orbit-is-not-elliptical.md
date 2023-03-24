@@ -65,29 +65,31 @@ The train, with reference to the station, is crawling at a certain speed. If the
 
 You see where this is going.
 
-## The earth's orbit is not known
+## The earth's orbit is ... complicated
 
-Yes. If you look at the earth's orbit from within the frame of reference of the solar system, the earth's orbit is elliptical. This is observable, and known very well.
+Yes. If you look at the earth's orbit from within the frame of reference of the solar system, the earth's orbit is about 3% elliptical. This is observable, and known very well.
 
-But when you look at it with respect to the galaxy, and notice that the solar system itself is being dragged around the centre of it by the sun, the orbit may seem a little different: if the sun moves perpendicular to the plane of most planets' orbits, the path of the earth's orbit is a helix. If the sun moves in a direction parallel to that of the plane of most planets' orbits, the path is not a helix. But again, if you look at our galaxy cluster, then, the path is not helix, but a whole different shape. And then you take our supercluster into account, the path becomes more complex.
+But before even we look at it with respect to the galaxy, and notice that the solar system itself is being dragged around the centre of it by the sun, there is something more.
+
+The moon revolves around the earth. But the mass of the moon is comparable to the earth's. This means, if you take the absolute centre of the earth, and trace its path to form the orbit (which is what we do, otherwise, you will also have to consider precession), you would be surprised to see that the orbit is actually like that of a "loop-de-loop" that you see at amusement parks. As in, the the absolute centre of the earth is actually revolving around the common centre of mass of the Earth--Moon system. This traces a looping path along the orbit of the earth around the sun.
+
+You must ignore this if you wanted the earth's path to look helical. Let us say you do. But again, if you look at our galaxy cluster, then, the path is not helix, but a different shape. And then you take our supercluster into account, the path becomes more complex.
 
 Again, you see where this is going.
 
-In physics, this frame of reference is an extremely important aspect when you are making calculations. Without a frame of reference, vector calculations would fail. And without vectors, physics as we know it, would not exist.
+In physics, a frame of reference is an important aspect when you are making calculations. Without a frame of reference, calculations become extremely complex, and unnecessarily so. Which is why we remove all the _common factors_ before running calculations.
 
-And we still call the earth's orbit elliptical, because, by not doing so, one would introduce unnecessary complications when explaining concepts like, say, eclipses, if we take into account all the movements of all the astronomical objects around us. We remove all the common factors first, before running calculations.
-
-Because if calling the earth’s orbit elliptical is a lie, then:
+And let me add this:  if calling the earth’s orbit elliptical is a lie, then:
 
 1. We are lying to kids that there is an up and a down.
 2. We are lying to kids that the sun rises in the east and sets in the west.
-3. We are lying to kids that there is a measure of coldness.
-4. We are lying to kids that things are of certain colours. Or that black is a colour.
+3. We are lying to kids that we can "make something colder".
+4. We are lying to kids that things are of certain colours. And that black and white are colours.
 5. We are lying to ourselves that the regular tube-lights we have are ‘“cool” daylight’.
-6. We are lying to kids that a year is 365 days and that every year, you get a “leap year”.
+6. We are lying to kids that a year is 365 days and that every year, you get a “leap year”. Or even that a year is "actually" 365 days and 6 hours long.
 7. We are lying to kids that electric current flows; from the positive to the negative terminal.
 8. We are lying to kids that tides—high and low—come and go.
-9. We are lying to children that there is something called “centrifugal force”.
+9. We are lying to kids that there is something called “centrifugal force” or a “coriolis force”.
 10. We are lying to kids that a place could be “too dark”.
 
 We could go on like this. If we start dismissing all the simplifications we do as “lies”, life becomes way too complicated.
