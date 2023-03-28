@@ -36,19 +36,19 @@ Me: Of course not. (I see where you're going.)
 
 Uncle: Then?
 
-Me: If you look at it that way, yes, it's helical.
+Me: If you look at it that way, yes, it's helical. Well, an elliptical helix, if you will.
 
 Uncle: Then you accept that you were wrong about it being elliptical.
 
-Me: [Smiling], If someone asked me the shape of the orbit and I say "helical" straight away, would people not call me an idiot?
+Me: [Smiling], If someone asked me the shape of the orbit and I said "helical" straight away, would people not call me an idiot?
 
-Uncle: No, why would they? Why should this not be taught to kids directly?
+Uncle: No, why would they? … Why should this not be taught to kids directly?
 
-Me: That is because it's hard to see or imagine it like that in three dimensions. Two dimensional shapes are much easier to see and visualise. When we were in school, animation was not this accessible. It's difficult to explain this to kids.
+Me: Because it's hard to see or imagine it like that in three dimensions. Two dimensional shapes are much easier to see and visualise.
 
-And before I could say the path is not necessarily helical, he said that _kids were being lied to_; that if explained to them in the right way, they would understand it; that we had found this out millennia ago, and since the shape of the path is similar to the structure of the DNA, astrology is real---because these things are all related.
+And before I could say the path is not necessarily helical, he said that _kids were being lied to_; that if explained to them in the right way, they would understand it; that we had found this out millennia ago, and that is the basis of astrology: that the shape of the path is similar to the structure of the DNA---because these are all related.
 
-That astrology part was a slippery slope. But let us keep it out of this discussion for now.
+That astrology part was a slippery slope. But let us address the “lies” part first.
 
 There are two ways to explain why we do not go straight to helix. First, I want to reintroduce something that we studied in school:
 
@@ -78,11 +78,11 @@ The train is carrying your friend, you, and the ball. While the ball may be stat
 
 ## The earth's orbit is ... complicated
 
-Therefore, if you look at the earth's orbit from within the frame of reference of the solar system, the earth's orbit is about 3% elliptical. This is observable, proven, and known very well.
+Second, if you look at the earth's orbit from within the frame of reference of the solar system, the earth's orbit is about 3% elliptical. This is observable, proven, and known very well.
 
-But before we look at it with respect to the galaxy, and notice that the solar system itself is being dragged around the centre of it by the sun, there is something more.
+But before we look at it with respect to the galaxy, and notice that the solar system itself is being dragged around the centre of it by the sun, there is something more:
 
-The moon revolves around the earth. But the mass of the moon is comparable to the earth's. This means, if you take the absolute centre of the earth, and trace its path to form the orbit (which is what we do, otherwise, you will also have to consider precession), you would be surprised to see that the orbit is actually like that of a "loop-de-loop" that you see at amusement parks. As in, the absolute centre of the earth is actually revolving around the common centre of mass of the Earth--Moon system. This traces a looping path along the orbit of the earth around the sun.
+The moon revolves around the earth. But the mass of the moon is comparable to the earth's. This means, if you take the absolute centre of the earth, and trace its path to form the orbit (which is what we do, otherwise, you will also have to consider precession), you would be surprised to see that the orbit is actually like that of a "loop-de-loop" that you see at amusement parks. As in, the absolute centre of the earth is actually going around the common centre of mass of the Earth--Moon system. This traces a looping path along the orbit of the earth around the sun.
 
 You must ignore this if you wanted the earth's path to look helical. Let us say you do. But again, if you look at our supercluster, then, the path is not a helix, but a different shape altogether, because the galaxy itself is moving in the universe.
 
@@ -99,7 +99,7 @@ And, if calling the earth’s orbit elliptical is a lie, then, we are lying to k
 3. That we can make something "colder".
 4. That things are of certain colours. And that black and white are colours.
 5. That the regular tube-lights we have are ‘“cool” daylight’. Or that “warm white” is more on the yellow side.
-6. That a year is 365 days and that every fourth year, you get a “leap year”. Or even that a year is "actually 365 days and 6 hours long".
+6. That a year is 365 days and that every fourth year, you get a “leap year”. Or even that a year is "actually 365 days and 6 hours long". (Yep, it’s a tiny bit less than that.)
 7. That electric current flows; from the positive to the negative terminal.
 8. That tides—high and low—come and go.
 9. That there is something called “centrifugal force” or a “coriolis force”.
@@ -109,7 +109,7 @@ We could go on like this. If we start dismissing all the simplifications we do a
 
 ## The helix
 
-The other point I want to address is that the DNA is a physical _thing_. The earth's orbit is an imaginary line we draw; the earth is not leaving behind a physical trail or debris as it moves in space. Also, on the other hand, nothing is moving or orbiting anything in a DNA.
+The other point I want to address is that the DNA is a physical _thing_. The earth's orbit is an imaginary line we draw; the earth does not leave behind a dense physical trail of debris as it moves in space. Also, on the other hand, nothing is moving or orbiting anything in a DNA.
 
 Moreover, an RNA is a single helix; DNA is a double helix. If we are looking for similarities, in my view, we must do at least some justice to it and say that the earth’s path is like the RNA.
 
@@ -117,11 +117,11 @@ By the logic that celestial objects have an effect on beings that have a similar
 
 Just like how we cannot say, 'There is hydrogen in the sun, and there is hydrogen in water, the sun and the water are the same---look, even a drop of water in free fall is an exact sphere, just like the sun.' A drop of water and the sun could not be more dissimilar in many, many aspects---what about them?
 
-Also, by that logic, astrology should be valid for animals as well, not only humans, because animals also have DNA, which are all double-helices.
+Even if we ignore the DNA--RNA issue for the sake of the discussion, astrology should be valid for animals as well, not only humans, because animals also have DNA, which are all double-helices.
 
-Having said that, if someone told me that the same physical laws that affect celestial objects affect us, I would agree with them. Because physics works identically on everything in our universe. The same laws that apply to the moon, for example, affect us mortals. But then, is this news?
+Having said that, if someone told me that the same physical laws that affect celestial objects affect us, I would agree with them. Because physics works identically on everything in our universe. The same laws that apply to the moon, for example, affect us humans. But then, is this news?
 
-Astrology, from what I have read, was perhaps a small exercise started by the ancient Mahaṛṣi, Bhṛgu. But again, this was merely an experimental exercise, aimed at helping people find answers to why something was happening to them, and cope with their difficult times.
+Astrology, from what I have read, was perhaps a small exercise started by the ancient Mahaṛṣi, Bhṛgu. But this was merely an experimental exercise, aimed at helping people find answers to why something was happening to them, and cope with their difficult times.
 
 I am not mindlessly dismissing all the work in astrology so far, but I want to challenge its validity---bring us evidence without relying on the Barnum Effect.
 
@@ -129,7 +129,7 @@ May be the work was merely an attempt to answer some of the philosophical questi
 
 Don't get me wrong; our sages and scholars of old did predict the positions of planets and stars to a high degree of accuracy, and there is no question on their brilliance. (Of course, some of the terms used are questionable in light of new evidence, but to me, that is not such a big issue.) But that is astronomy; astrology claims itself to be science, but has so far not withstood scientific analysis. And now to say that since the earth's path in the space looks like a helix, and that its movement and the movement of everything around it somehow affects human beings who happen to have a double-helical DNA is a long, long shot.
 
-While making observations is great, getting to conclusions should be handled with respect to all the facts on the table. Hypotheses are hypotheses. They must be tested with experimentation in their true sense before concluding that they are theories (“theories” in the scientific sense, not the colloquial sense). Also, it is fair to defend what we hold dear---in Uncle’s case, Indian astrology. Again, this is not to deny that ancient sages had a lot of knowledge. All I am saying is that astrology as we know it today, does not stand up to scientific scrutiny. Sure, one could completely dismiss science and say they believe in astrology and that astrology works for them. That is their view. But then, one cannot dismiss unfavourable scientific observations and selectively lean on those that happen to be in the favour of their argument.
+While making observations is great, getting to conclusions should be handled with respect to all the facts on the table. Hypotheses are hypotheses. They must be tested with experimentation in their true sense, before concluding that they are theories (“theories” in the scientific sense, not the colloquial sense). Also, it is fair to defend what we hold dear---in Uncle’s case, Indian astrology. Again, this is not to deny that ancient sages had a lot of knowledge. All I am saying is that astrology as we know it today, does not stand up to scientific scrutiny. Sure, one could completely dismiss science and say they believe in astrology and that astrology works for them. That is their view. But then, one cannot dismiss unfavourable scientific observations and selectively lean on those that happen to be in the favour of their argument.
 
 I do not support the idea of vilification of modern science, nor do I dismiss ancient wisdom. The sweet spot is somewhere in between, where you neither have to claim that ancient wisdom is the greatest thing to happen to mankind (and disregard everything that challenges it), nor do you have to dismiss all ancient wisdom as nonsense. In my view, there certainly is place where the two work together really well. We should acknowledge that, and keep seeking answers with a scientific temper.
 
