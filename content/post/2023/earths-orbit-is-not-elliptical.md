@@ -8,30 +8,28 @@ tags:
 draft: true
 ---
 
-A couple of days ago, I had a rather interesting discussion with a gentleman. Usually, these days, uncles who talk deeply about subjects other than politics or who parrot noisy journalists are hard to come by. This gentleman was one of these gems---he was interested in the celestial realm.
+A couple of days ago, I had a rather interesting discussion with a gentleman. Usually, these days, uncles who talk deeply about subjects other than politics or do not parrot noisy journalists are hard to come by. This gentleman was one of these gems---he was interested in the celestial realm.
 
-While discussing about the celestial objects (and their effects on us), about ten minutes into the discussion, he asked me what the shape of the earth's orbit was. And, I, without a second thought, said, 'An ellipse, of course.' He smiled and asked, 'Are you sure?' I nodded matter-of-factly, and he said, 'You are wrong.'
+While discussing about the celestial objects (and their effects on us), a few minutes into the discussion, he asked me what the shape of the earth's orbit was. And, I, without a second thought, said, 'An ellipse, of course.' He smiled and asked, 'Are you sure?' I nodded matter-of-factly, and he said, 'You are wrong.'
 
-I was unsure which side of the wall he was going to jump. I kept quiet. Sensing this, he asked, 'Is the earth stationary?' Carefully, I said, 'No', almost waiting for him to react. 'What is it moving around?', he asked 'The sun.', I said, still unsure which way this was going. (I have had a hard time with a flat-earther before.)
+I was unsure which side of the wall he was going to jump. I kept quiet. Sensing this, he asked, 'Is the earth stationary?' Carefully, I said, 'No', almost waiting for him to react. 'What is it moving around?', he asked 'The sun.', I said, still unsure which way this was going. (I have encountered a flat-earther once.)
 
 'Is the sun stationary?'
 
-Now I was sure which side of the wall he was leaning towards, and that made me comfortable. And I saw exactly where he was going. So, I said, 'Right, if you see that way, it's a helix, an elliptical one at that.'
+Now I was sure which side of the wall he was leaning towards. And I saw exactly where he was going. So, I said, 'Right, if you see that way, it's a helix, an elliptical one at that.'
 
-Anyway, the discussion took a different turn afterwards, and getting into that would make this piece a lot more complicated than it needs to be.
+Then, he asked me, 'Now do you accept you were wrong about the orbit being an ellipse?' I had my reservations, and so, I said, 'Well, if I said straight away "A helix." when someone asked me about the shape of the orbit of the earth, people would call me crazy, because not everyone is aware of what we are talking about right now.'
 
-Then, he asked me, 'Now do you accept you were wrong about the orbit being an ellipse?' I had my reservations, and so, I said, 'Well, if I said straight away "A helix." when someone asked me about the shape of the orbit of the earth, people would think I am crazy, because not everyone is aware of what we are talking about right now.'
-
-He held his stand that even kids, if taught from the beginning that the shape of the earth's orbit is a helix, they should have no problem accepting it.
+His take was that kids, if taught from the beginning that the shape of the earth's orbit is a helix, they should have no problem accepting it.
 
 I held my stand that we are not necessarily wrong in saying that the earth's orbit around the sun is an ellipse. And I am here to explain my stand on it.
 
-I must state that this is not a "debunk" piece or anything. Any debate has many sides to it. I am merely taking a side that respectfully disagree with ... let us call him Uncle.
+I must state that this is not a "debunk" piece or anything. Any debate has many sides to it. I am merely taking a side that respectfully disagree with this gentleman.
 
-There are two aspects to my stand:
+There are two aspects to my view:
 
-1. We do not go straight to helix ever for a reason.
-2. The path of the earth's motion is not even a helix.
+1. We do not go straight to helix, for a reason.
+2. The path of the earth's motion is actually not a helix either.
 
 Let us break this down:
 
@@ -51,13 +49,13 @@ All this while, imagine the train was also running, at the speed of 50 m/s (or 
 
 You have never been able to throw a ball faster than 50 m/s. And sure enough, if your friend measured the speed of the ball, s/he would get 180 km/h.
 
-Now, imagine the train is transparent, and is passing through a desert. To an observer outside, the ball will seem to go at 100 m/s (or 360 km/h). This is because while with respect to the train, the ball travelled at 50 m/s, it travelled at 100 m/s with respect to the ground. Or in other words, in those ten seconds, the ball actually travelled 1 km.
+Now, imagine the train is transparent, and is passing through a desert. To an observer outside, the ball will seem to go at 100 m/s (or 360 km/h). This is because while with respect to the train, the ball travelled at 50 m/s, it travelled at 100 m/s with respect to the ground. Or in other words, in those ten seconds, the ball actually travelled 1 km with respect to the ground below.
 
 Now, your friend sits down and starts bouncing the ball. To your friend, the ball looks to go down and come back up, along a straight vertical line. But to the observer outside, the ball would seem to be moving along a parabolic wave.
 
 These two examples talk about _frame of reference_. Your frame of reference, in this case, is the same as your friend's frame of reference. But the other observer's frame of reference is quite different from your friend's and yours.
 
-The train is carrying your friend, you, and the ball. While the ball may be stationary in your hand, to the observer, outside, the ball is moving at 180 km/h. Similarly, while your friend only sees a linear motion of the bouncing ball in his frame of reference, the observer outside is able to see its sideways motion (at the speed of the train's motion).
+The train is carrying your friend, you, and the ball. While the ball may be stationary in your hand, to the observer outside, the ball is moving at 180 km/h. Similarly, while your friend only sees a linear motion of the bouncing ball in his frame of reference, the observer outside is able to see its sideways motion (at the speed of the train's motion).
 
 ## The earth's orbit is ... complicated
 
