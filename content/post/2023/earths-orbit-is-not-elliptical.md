@@ -5,7 +5,7 @@ date: 2023-03-20T12:09:00+05:30
 description: In a discussion with a gentleman, he said that kids are being lied to that the earth's orbit around the sun is elliptical. I agree and disagree with him on this. And in the process, I try to remind you about an important concept in physics.
 tags:
 - science
-draft: true
+- learning
 ---
 
 A couple of days ago, I had a rather interesting discussion with a gentleman. Usually, these days, uncles who talk deeply about subjects other than politics or do not parrot noisy journalists are hard to come by. This gentleman was one of these gems---he was interested in the celestial realm.
@@ -88,7 +88,7 @@ And, if calling the earth’s orbit elliptical is a lie, then, are we not lying 
 9. That there is something called “centrifugal force” or a “coriolis force”?
 10. That their _weight_ is x kilograms?
 
-These statements are not lies, but a mere simplification of what are otherwise more complex concepts. These simplifications help with learning more approachable.
+These statements are not lies, but a mere simplification of what are otherwise more complex concepts. These simplifications help with making learning more approachable.
 
 And this is also a great example for that there is always more to anything than meets the eye.
 
