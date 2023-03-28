@@ -1,6 +1,6 @@
 ---
 title: "The Earth’s Orbit is not Elliptical"
-subtitle: "it's complicated"
+subtitle: "it’s complicated"
 date: 2023-03-20T12:09:00+05:30
 description: In a discussion with a gentleman, he said that kids are being lied to that the earth's orbit around the sun is elliptical. I agree and disagree with him on this. And in the process, I try to remind you about an important concept in physics.
 tags:
