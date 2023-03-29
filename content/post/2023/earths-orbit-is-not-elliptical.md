@@ -8,7 +8,7 @@ tags:
 - learning
 ---
 
-A couple of days ago, I had a rather interesting discussion with a gentleman. Usually, these days, uncles who talk deeply about subjects other than politics or do not parrot noisy journalists are hard to come by. This gentleman was one of these gems---he was interested in the celestial realm.
+A couple of days ago, I had a rather interesting discussion with a gentleman. Usually, these days, uncles who talk deeply about subjects other than politics or do not parrot noisy news anchors are hard to come by. This gentleman was one of these gems---he was interested in the celestial realm.
 
 While discussing about the celestial objects (and their effects on us), a few minutes into the discussion, he asked me what the shape of the earth's orbit was. And, I, without a second thought, said, 'An ellipse, of course.' He smiled and asked, 'Are you sure?' I nodded matter-of-factly, and he said, 'You are wrong.'
 
