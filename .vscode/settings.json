@@ -25,7 +25,7 @@
     },
     "editor.wordWrapColumn": 60,
     "breadcrumbs.enabled": false,
-    "workbench.colorTheme": "Monochrome Light",
+    "workbench.colorTheme": "Monochrome Dark",
     "editor.renderLineHighlightOnlyWhenFocus": false,
     "workbench.editor.centeredLayoutAutoResize": false,
     "zenMode.centerLayout": true,
