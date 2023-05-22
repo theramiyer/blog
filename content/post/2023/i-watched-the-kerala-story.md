@@ -11,17 +11,17 @@ Last night, we finally went to watch the film. I wanted to know what the film wa
 
 Mentioning the plot in short is customary in pieces like these, and so, here goes:
 
-Shalini Unnikrishnan, from a Hindu Malayali family, goes to a nursing college in Kasaragod, against what her _Ammumma_ (maternal grandmother) feels---her mother is in support of her leaving town to study. Shalini is this teen who does playful, innocent things like making faces in front of a buffalo, and poking fun at a Kathakali dancer. Very cute, happy.
+Shalini Unnikrishnan, from a Hindu Malayali family, goes to a nursing college in Kasaragod, against what her grandmother feels---her mother is in support of her leaving town to study. Shalini is this teen who does playful, innocent things like making faces in front of a buffalo, and poking fun at a Kathakali dancer. Very cute, happy.
 
-One morning, she gets dropped off at her college, in an autorickshaw owned by a Muslim man (the windshield gives it away). The place seems like a typical college in any Muslim-dominated place: slogans like "Free Kashmir", something about Osama Bin Laden, etc., on the college walls, students going around in Hijabs, and so on. The college, during its orientation later that day, distances itself from the wall art, though.
+One morning, she gets dropped off at her college, in an autorickshaw owned by a Muslim man (the windshield gives it away). The place seems like a typical college in any Muslim-dominated place: slogans like "Free Kashmir", something about Osama Bin Laden, etc., on the college walls, students going around in Hijabs, and so on. (The college, during its orientation later that day, distances itself from the wall art, though.)
 
-She enters her hostel room, where two girls---Nimah Matthew and Gitanjali Menon---are chatting. They take less than a second to identify Shalini, and Shalini, playfully mentions the jibe that typically people from the Brahmin community hear in places like Kerala. Everyone laughs and shares a light-hearted moment. Then enters Asifa Ba(?).
+She enters her hostel room, where two girls---Nimah Matthew and Gitanjali Menon---are chatting. They take less than a second to identify Shalini, and Shalini, playfully mentions the jibe that typically people from the Brahmin community hear in places like Kerala. Everyone laughs and shares a light-hearted moment. Then enters Asifa Ba.
 
-Asifa is supposed to be from a nearby Muslim-dominated town of Malappuram. She knows a lot of people in the college and tells the trio that she will ensure they enjoy the next few years.
+Asifa is supposed to be from a nearby Muslim-dominated town of Malappuram. She knows a lot of people in the college and tells the trio that she will ensure they enjoy the next few years there.
 
 At the orientation session they all attend later that morning, someone clicks pictures of the trio and sends them to a Muslim religious group. They are happy to see the girls. And so begins the story.
 
-Asifa is a relentless campaigner for Islam, who constantly says things that make the girls doubt the omnipotence of their respective Gods. One day, the girls get molested at the mall, and Asifa tells them that if they wore the Hijab, Allah would protect them from such incidents. Because of the constant peer pressure from Asifa and her cousins, the Hindu girls slowly convert to Islam. The Catholic Nimah refuses to convert and confronts Asifa when she says anything about the God and the Christ.
+Asifa is a relentless campaigner for Islam, who constantly says things that make the girls doubt the omnipotence of their respective Gods. One day, the girls get molested at the mall, and Asifa tells them that if they wore the Hijab, Allah would protect them from such incidents. Because of the constant peer pressure from Asifa and her cousins, the Hindu girls slowly convert to Islam. The Catholic Nimah refuses to convert and confronts Asifa and raises her voice, when Asifa says anything about the God and the Christ.
 
 The film shows how Muslim men pull off _Love Jihad_---lure unsuspecting Hindu women, get them attracted to them, get physical with them and get them pregnant (or threaten revenge porn), agree to marry them provided they converted, get them to convert, marry them (or get them married to other unknown Muslim men), and take them to Syria.
 
@@ -31,25 +31,25 @@ Now, let us get to what I really want to talk about.
 
 ## An argument for The Kerala Story
 
-My cousin, when we were chatting about random things (including this film), told me how, for lack of a better term, a witch-doctor, managed to make her friend's family shell out over three million rupees. I cannot share the story here, but I can mention that it involves playing with people's fears. The man, apparently, even pulled out a dead foetus buried under the ground beside (or behind) the friend's home. (Nobody knows how it got there.) I was more shocked than disturbed by this. Her argument was, if such bizarre things can happen in Kerala without anyone knowing, why is it difficult to believe that 32,000 women went missing?
+My cousin, when we were chatting about random things (including this film), told me how---for lack of a better term---a witch-doctor, managed to make her friend's family shell out over three million rupees. I cannot share the story here, but I can mention that it involves playing with people's fears. The man, apparently, even pulled out a dead foetus buried under the ground beside (or behind) the friend's home. (Nobody knows how it got there.) I was more shocked than disturbed by this. My cousin's argument was, if such bizarre things can happen in Kerala without anyone knowing, why is it difficult to believe that 32,000 women went missing?
 
 ## A case against the official religious conversion numbers
 
-Live-in is legal in our country, as long as those involved are consenting adults. When you go to register your marriage, you have to show any conversions, because that decides under which act your marriage is registered. But if you are not registering your marriage, and yet convert, _I am not aware of_ how one could confidently arrive at the conversion numbers that we have today. Note that I am not denying the conversion numbers we have, I am questioning them. There is a difference: the former comes from knowledge, the latter from ignorance.
+Live-in is legal in our country, as long as those involved are consenting adults. When you go to register your marriage, you have to show any conversions, because that decides under which act your marriage is registered. But if you are not registering your marriage, and yet convert, _I am not aware of_ how one could confidently arrive at the conversion numbers that we have today. Note that I am not denying the conversion numbers we have, I am questioning them. There is a difference: the former is a statement, the latter is a desire to know.
 
-In other words, if a Hindu woman marries a Muslim man after converting to Islam, go through a proper _Nikah_, but does not legally register the marriage, they can continue to live as a married couple---they are married according to Islam, but not according to the Indian law.
+In other words, if a Hindu woman marries a Muslim man after converting to Islam, go through a proper _Nikah_, but does not legally register the marriage, they can continue to live as a couple---they are married according to Islam, but not necessarily according to the Indian law.
 
 ## A case for the number of non-Muslim girls that get sent to Syria
 
-Common sense would make us think that the parents would immediately file a case if their child gets converted to Islam and married to a Muslim man. But this is Kerala; Kerala respects and accepts all religions. Kerala is this state run by Communists, who themselves reject all notions of God and religion, but are liberal enough to let their child follow what the child wants. Since the Communists have an equal stand on any religion, it does not matter to them which religion their child picks. As long as the child is happy.
+Common sense would make us think that the parents would immediately file a case if their child gets converted to Islam and married to a Muslim man. But this is Kerala; Kerala respects and accepts all religions. Kerala is this state run by Communists, who themselves reject all notions of God and religion, but are liberal enough to let their child follow what the child wants. Since the Communists have an equal stand on any religion, it does not matter to them which religion their child picks. As long as the child is happy. And everyone in Kerala is uniform in this thought.
 
 If the child gets converted to Islam and gets sent to Syria, that would be after the child cuts all ties with the parents. The parents helplessly accept it, because at the end of the day, every parent wants their child to be happy---even if it means it brings the parents unhappiness.
 
 Now that the child has cut ties with the parents, the parents have no way to know where the child is. The girl could be taken to Colombo (which the parents may know), but then where she goes from there is unknown to the girl, even. The girl gets brainwashed to not tell her parents that she is going to Syria. Because, obviously, the parents would get anxious about it all, because everyone knows what happens in Syria (and Iraq).
 
-The Muslim men, after a point, take away the girls' cell phones saying Sharia does not allow women to have cell phones. As rightly pointed out by Shalini in the film, "But there was no cell phone when Sharia was written". But then, as the film points out, the husband's word is the wife's command in Islam (and other religions).
+The Muslim men, after a point, take away the girls' cell phones saying Sharia does not allow women to have cell phones. As rightly pointed out by Shalini in the film, "there was no cell phone when Sharia was written". But then, as the film points out, the husband's word is the wife's command in Islam (and other religions).
 
-The girl, during her indoctrination, gets detached from her family. The family hearing from the girl becomes a rare occurrence. And the parents think that the girl has fully cut ties with them. The child's happiness is paramount, so, they leave it at that, because they feel, their child is happy where she is. And this way, the girls disappear.
+The girl, during her indoctrination, gets detached from her family. The family hearing from the girl becomes a rare occurrence. The child's happiness is paramount, so, they leave it at that, because they feel, their child is happy where she is. And this way, the girls disappear.
 
 ## A case against the numbers in the film
 
@@ -69,9 +69,9 @@ Mr Sen extrapolated that to 10 years and arrived at the number of 32,000. Seems
 
 No, here is why: First of all, I could not find a document or a video or a news article that says Oommen Chandy said 2800 -- 3200 girls were converting to Islam in a year. What I did find was him saying that in the period of 2009--2012, 2667 women---of whom 2195 were Hindus---converted to Islam.{{< sidenote radhakrishnan2500WomenConverted2012 >}}Over 2500 women converted to Islam in Kerala since 2006, says Oommen Chandy ([India Today](https://www.indiatoday.in/india/south/story/love-jihad-oommen-chandy-islam-kerala-muslim-marriage-115150-2012-09-03)){{< /sidenote >}} That means about 889 women in Kerala converted to Islam in a year on average.
 
-But again, this says, "converted to Islam". Who said that all these young women joined the ISIS? How are we equating the two? We could extend this to the 32,000 as well---no matter how baseless the number is.
+But again, this says, "converted to Islam". I found no reference to that all these young women joined the ISIS after converting. We could extend this to the 32,000 as well---no matter how baseless the number is.
 
-What the film’s number implies is that every woman who converts to Islam, does so only to join the ISIS.
+In other words, what the film seems to imply is that every woman who converts to Islam, does so only to join the ISIS. I find no reference to this anywhere (other than the film itself).
 
 Most members of the ISIS (if not all) come from one sect of Islam: the Sunni sect. In fact, the Sunni Jihadist sect. Are all Muslims Sunnis? And are all Sunnis Jihadists?
 
@@ -89,13 +89,33 @@ Kasaragod---a district with a population of about about 1.41 million---is shown
 
 Quite a stretch, if you ask me.
 
+Also, when the Union Minister of State for Home, Mr G Kishan Reddy, himself said in 2020 in the Parliament,{{< sidenote johnReportPresenceKarnataka2020 >}}UN report on IS presence in Karnataka, Kerala factually incorrect: MHA ([Deccan Herald](https://www.deccanherald.com/national/un-report-on-is-presence-in-karnataka-kerala-factually-incorrect-mha-890513.html)){{< /sidenote >}}
+
+> claiming presence of 'significant numbers' of ISIS terrorists in Kerala and Karnataka, is factually not correct. The Government continuously takes necessary measures to put forth India's correct position through established mechanism in unequivocal and categorical terms at various international, multilateral and bilateral fora and also through diplomatic channels.
+
+Put in other words, if Kerala and Karnataka do not even have 'significant numbers' of ISIS terrorists, the states that do have,{{< sidenote specialcorrespondentMostCasesRelated2020 >}}Most cases related to Islamic State filed in south India ([The Hindu](https://www.thehindu.com/news/national/nia-registered-17-cases-related-to-is-presence-in-south-122-arrested-rajya-sabha-informed/article32619053.ece)){{< /sidenote >}} are supposed to contribute several tens of thousands more of ISIS terrorists than 32,000, given that 32,000 is not a 'significant number'. By that logic, the majority of the ISIS operatives globally would be Indian. How could the film (or the audience) miss this point?
+
+### The passport problem
+
+The other aspect to be understood is passport ownership. A 2017 report from the Ministry of External Affairs said that the passport ownership in India stood at 5.15%.{{< sidenote businesstodayOnlyCentIndia2017 >}}Only 5.5 per cent of India's population have passports: report ([Business Today](https://www.businesstoday.in/latest/economy-politics/story/passport-seva-project-passport-seva-kendra-mea-data-passports-85474-2017-07-24)){{< /sidenote >}} Even if one argued that the percentage had doubled and stood at 10%, we are still looking at a small number of passport holders.
+
+If one argued that all these people left the country on fake passports and visas, there is absolutely no way in this connected world that the numbers surpassed the legitimate passport holders. That would kick off alarm bells everywhere.
+
+Superimposing this number to the young women population of Kerala---which stands at 4.3 million---the number of young Keralite women holding passports would be around 221,450. Kasaragod would be much lower at 8858. 32,000 out of 8858 women ... oh, wait. For this math to work, the rate of passport ownership among young women in Kerala would have to be at least about 18.6%, and _all_ of these women would have to convert to Islam and join the ISIS---and travel.
+
+Agreed that passport ownership seems to be the highest among students and among people whose income is above the poverty line, but still, what are the odds?
+
+### Traditions and 'family values'
+
+One of the most important aspects to this is that the Indian Muslim population is based on Sufistic traditions.{{< sidenote singhReportAlQaedaIndian2019 >}}Report on al-Qaeda in the Indian Subcontinent’s growing influence alarmist: official ([The Hindu](https://www.thehindu.com/news/national/report-on-al-qaeda-in-the-indian-subcontinents-growing-influence-alarmist-official/article26082410.ece)){{< /sidenote >}} And as pointed out by Mr Rajnath Singh in 2016 as the then Union Home Minister, the Muslim families themselves, who are playing an active role in preventing their children from getting radicalised.{{< sidenote kumarMuslimFamiliesPreventing2016 >}}Muslim families preventing ISIS influence from spreading: Rajnath Singh ([The Hindu](https://timesofindia.indiatimes.com/india/Muslim-families-preventing-ISIS-influence-from-spreading-Rajnath-Singh/articleshow/50408088.cms)){{< /sidenote >}}
+
 ## Let us talk conversions
 
-The conversion numbers are in general low for a good reason. Everyone gets indoctrinated with religious ideas at a very young age. This indoctrination is hard to beat.
+The conversion numbers are, in general, low for a good reason. Everyone gets indoctrinated with religious ideas at a very young age. This indoctrination is hard to beat.
 
-A very influential teacher of mine used to say things like what Asifa said in the film, to an entire class of impressionable 10-year-olds, except, our teacher was Christian. None---none---of us converted to Christianity. During the Facebook era (has it not ended yet?), she sent us messages about the greatness of the Christ and the saints. We shut her off. None of us converted.
+A very influential teacher of mine used to say things like what Asifa said in the film, to an entire class of impressionable 10-year-olds, except, our teacher was Christian. None---none---of us converted to Christianity. During the Facebook era (has it not ended yet?), she sent us messages about the greatness of the Christ and the saints. We either shut her off, or respectfully declined to engage. None of us converted.
 
-No non-Muslim I know (and I know hundreds of them) wears a Hijab. None of those who have gotten groped and sexually harassed, wore a Hijab to protect themselves from it. Instead, they took action. Nobody waited for God to come protect them. Ask any of them and they will tell you, "God doesn't work like that." I mean, it would be silly of any of them to say, "My God is useless because S/He can't protect me from molesters."
+No non-Muslim I know wears a Hijab. None of those who have gotten groped and sexually harassed, wore a Hijab to protect themselves from it. Instead, they took action. Nobody waited for God to come protect them. Ask any of them and they will tell you, "God doesn't work like that." I mean, it would be silly of any of them to say, "My God is useless because S/He can't protect me from molesters."
 
 In other words, most people I have seen all fall in Nimah Matthew's category, when it comes to religion and conversions.
 
@@ -103,11 +123,11 @@ Also, who converts to a religion for the fear of "hellfire"? This is beyond laug
 
 ## Should the film be banned
 
-I do not identify myself as a liberal. I stand for freedom of speech, but I also advocate reasonable restrictions to freedom of expression on a public forum. Anybody who understands human psychology (and the cinema market) will understand this. This is a nuanced take, which will take at least 500 words to explain. Generally speaking, though at the risk of sounding arbitrary, a person who is exercising their freedom of speech must exercise it responsibly. People are impressionable. And there is always a cultural element to this.
+I do not identify myself as a liberal. I stand for freedom of speech, but I also advocate reasonable restrictions to freedom of expression on a public forum. Anybody who understands human psychology (and the cinema market) will understand this. This is a nuanced take, and I would rather control my temptation to explain. Generally speaking, though at the risk of sounding arbitrary, a person who is exercising their freedom of speech must exercise it responsibly. People are impressionable.
 
 What will banning the film achieve, you may ask. 'People will circulate the film on the Web (or platforms like Telegram), and anyone who wants to watch it, will', you may say. And you would be right. Banning the film will have the same effect as banning the BBC documentary on Mr Modi had.
 
-But ask any producer if they would be willing to pump money into a film that gets banned but circulated on the Web.
+But ask any producer if they would be willing to pump money into a film that gets banned but circulated on the Web for free.
 
 We must understand, at least after _The Kashmir Files_ and _The Kerala Story_, that these films get made because of the money they make. These are easy wins. They have nothing to do with the communities they claim to represent. These films get made and earn well on the Box Office, political parties that have to gain from such films will utilise them to their advantage, the producers will be happy, the politicians will be happy, the audience will feel entertained and walk out of the theatres with their blood boiling. But the communities who need a voice will continue to be ignored. Neither the politicians will do anything about it, nor the film-makers will do anything about it (because, ‘What more can film makers do?’), nor will the people hold the government accountable.
 
@@ -143,11 +163,13 @@ Second, when challenged, he said he had done his own research, and this number c
 
 Third, he touched particularly sensitive areas that people otherwise think twice about speaking in public. This led to people discussing this primarily in closed circles, in whispers. This added to the bit about the conspiracy theory, and ensured it spread a lot more, because we are suckers for conspiracy theories.
 
-Fourth, he put the government in a spot. He never mentioned anything about the Government of India, but merely implied that agencies such as the Intelligence Bureau were sleeping while 32,000 girls disappeared to ISIS camps right under their noses. He probably knew that when "Kerala" appears in the title, the politicians and others in Kerala will flare up, and people will only ask questions of it. Only those who did not sleep in their Civics classes would know that National Security comes under the Union List in the Constitution---with the Government of India having exclusive control over it.
+Fourth, he did not put the government in a spot. He never mentioned anything about the Government of India, except implying that _agencies_ such as the Intelligence Bureau were sleeping while 32,000 girls disappeared to ISIS camps right under their noses. He probably knew that when "Kerala" appears in the title, the politicians and others in Kerala will flare up and the politicians of Kerala will react.
+
+Only those who did not miss their Civics classes would know that National Security comes under the Union List in the Constitution---with the Government of India having exclusive control over it.
 
 He perhaps also knew that the incumbent administration at the Centre will keep mum because the narrative favours the most powerful political party there. More so when the narrative attacks a state which the party is trying to create its base in, and directly attacks Communism.
 
-Fifth, blame it on the absence of teachings of Hinduism in families. In broken Malayalam and Hindi, Gitanjali tells her father that because he did not teach her anything about the Hindu values and taught her only Communism, she ended up being manipulated by Asifa. This is a general (although wrong) belief in people's minds; why not play straight into it?
+Fifth, blame it on the absence of teachings of Hinduism in families. In broken Malayalam and Hindi, Gitanjali tells her father that because he did not teach her anything about the Hindu values and taught her only Communism, she ended up being manipulated by Asifa. This is a general belief in the insecure Hindu minds; why not play straight into it?
 
 Sixth, the film stars no major actors (except Devadarshini, perhaps). Even the lead actor is essentially a nobody, who has not appeared in any film of consequence or ever played a consequential role. Her acting skills are to blame for it, but whatever. Overall it means low expenditure on acting.
 
@@ -182,3 +204,5 @@ If you care so much about your religion, do something that gets your children in
 Let your children pick their own paths; tell them enough so that they are empowered to pick one (or many) on their own. Teach them how to tell silly and deep apart. If your child tells you gods are not real, ask her how she came to that conclusion. Get her to think. That’s the important part.
 
 More importantly, remember that fundamentalism is not the answer to fundamentalism. Do not listen to fundamentalists (of any religion). Teach your children these red flags (and that these red flags are for every religion). Also, tell them to stay way from any of these “bring back the glory of the past” campaigns, and that humanity should always look forward. Because that is how time moves.
+
+Note: If you did not sense the sarcasm in some of the parts of this article, you may want to reread it.
