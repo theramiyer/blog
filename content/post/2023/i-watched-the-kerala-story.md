@@ -1,10 +1,14 @@
 ---
-title: "I Watched the Kerala Story"
+title: "I Watched The Kerala Story"
 subtitle: "what Sudipto Sen has pulled off is impressive"
 date: 2023-05-21T08:08:55+05:30
-description:
+description: "_The Kerala Story_, a film that garnered a lot of attention (and is doing fantastically well at the Box Office), shows the conversion racket to be rampant in Kerala. Is that real? How many of the claims are facts? What are the implications of The Kerala Story on our society? Whom can we believe: the government or the film? This article answers these and a lot more questions."
 tags:
-draft: true
+- constitution
+- religion
+- fact-check
+- propaganda
+- India
 ---
 
 Last night, we finally went to watch the film. I wanted to know what the film was going to bring to the table. What I heard and what I read about the film were the exact opposites, and that kindled my curiosity. And then, the last weekend, when I met my cousin, she seemed in favour of the film. And that increased my curiosity. Finally, yesterday, I gave in.
@@ -19,11 +23,11 @@ She enters her hostel room, where two girls---Nimah Matthew and Gitanjali Menon-
 
 Asifa is supposed to be from a nearby Muslim-dominated town of Malappuram. She knows a lot of people in the college and tells the trio that she will ensure they enjoy the next few years there.
 
-At the orientation session they all attend later that morning, someone clicks pictures of the trio and sends them to a Muslim religious group. They are happy to see the girls. And so begins the story.
+At the orientation session they all attend later that morning, someone clicks pictures of the trio and sends them to a Muslim religious group. The men are happy to see the girls' photos. And so begins the story.
 
 Asifa is a relentless campaigner for Islam, who constantly says things that make the girls doubt the omnipotence of their respective Gods. One day, the girls get molested at the mall, and Asifa tells them that if they wore the Hijab, Allah would protect them from such incidents. Because of the constant peer pressure from Asifa and her cousins, the Hindu girls slowly convert to Islam. The Catholic Nimah refuses to convert and confronts Asifa and raises her voice, when Asifa says anything about the God and the Christ.
 
-The film shows how Muslim men pull off _Love Jihad_---lure unsuspecting Hindu women, get them attracted to them, get physical with them and get them pregnant (or threaten revenge porn), agree to marry them provided they converted, get them to convert, marry them (or get them married to other unknown Muslim men), and take them to Syria.
+The film shows how Muslim men pull off _Love Jihad_---lure unsuspecting Hindu girls, get the girls attracted to them, get physical with them and get them pregnant (or engage in revenge porn), agree to marry them provided they converted, get them to convert, marry them (or get them married to other unknown Muslim men), and take them to Syria.
 
 And then come the graphic descriptions and imagery of the travel to Syria, the sex slavery, the ruthless killings, absolute disregard for women, etc. The film is not A-rated for nothing.
 
@@ -31,21 +35,21 @@ Now, let us get to what I really want to talk about.
 
 ## An argument for The Kerala Story
 
-My cousin, when we were chatting about random things (including this film), told me how---for lack of a better term---a witch-doctor, managed to make her friend's family shell out over three million rupees. I cannot share the story here, but I can mention that it involves playing with people's fears. The man, apparently, even pulled out a dead foetus buried under the ground beside (or behind) the friend's home. (Nobody knows how it got there.) I was more shocked than disturbed by this. My cousin's argument was, if such bizarre things can happen in Kerala without anyone knowing, why is it difficult to believe that 32,000 women went missing?
+My cousin, when we were chatting about random things (including this film), told me how---for lack of a better term---a witch-doctor, managed to make her friend's family shell out over three million rupees. I cannot share the story here, but I can mention that it involves playing with people's fears. The man, apparently, even pulled out a dead foetus buried under the ground in their backyard. (Nobody knows how it got there.) I was more shocked than disturbed by this. My cousin's argument was, if such bizarre things can happen in Kerala without anyone knowing, why is it difficult to believe that 32,000 women went missing?
 
 ## A case against the official religious conversion numbers
 
-Live-in is legal in our country, as long as those involved are consenting adults. When you go to register your marriage, you have to show any conversions, because that decides under which act your marriage is registered. But if you are not registering your marriage, and yet convert, _I am not aware of_ how one could confidently arrive at the conversion numbers that we have today. Note that I am not denying the conversion numbers we have, I am questioning them. There is a difference: the former is a statement, the latter is a desire to know.
+Live-in is legal in our country, as long as those involved are consenting adults. When you go to register your marriage, you have to show any conversions, because that decides under which act your marriage is registered. But if you are not registering your marriage, and yet convert, _I am not aware of_ how one could confidently arrive at the conversion numbers that we have today. Note that I am not denying the conversion numbers we have, I am questioning them. There is a difference.
 
-In other words, if a Hindu woman marries a Muslim man after converting to Islam, go through a proper _Nikah_, but does not legally register the marriage, they can continue to live as a couple---they are married according to Islam, but not necessarily according to the Indian law.
+In other words, if a Hindu woman marries a Muslim man after converting to Islam, go through a proper _Nikah_, but does not legally register the marriage, they can continue to live as a couple---they are married according to Islam, but not necessarily according to the Indian law. And that conversion may not be part of the official numbers.
 
 ## A case for the number of non-Muslim girls that get sent to Syria
 
 Common sense would make us think that the parents would immediately file a case if their child gets converted to Islam and married to a Muslim man. But this is Kerala; Kerala respects and accepts all religions. Kerala is this state run by Communists, who themselves reject all notions of God and religion, but are liberal enough to let their child follow what the child wants. Since the Communists have an equal stand on any religion, it does not matter to them which religion their child picks. As long as the child is happy. And everyone in Kerala is uniform in this thought.
 
-If the child gets converted to Islam and gets sent to Syria, that would be after the child cuts all ties with the parents. The parents helplessly accept it, because at the end of the day, every parent wants their child to be happy---even if it means it brings the parents unhappiness.
+If the child gets converted to Islam and gets sent to Syria, that would be after the child cuts all ties with the parents. The parents helplessly accept it, because at the end of the day, every parent wants their child to be happy---even at the cost of the parents' unhappiness.
 
-Now that the child has cut ties with the parents, the parents have no way to know where the child is. The girl could be taken to Colombo (which the parents may know), but then where she goes from there is unknown to the girl, even. The girl gets brainwashed to not tell her parents that she is going to Syria. Because, obviously, the parents would get anxious about it all, because everyone knows what happens in Syria (and Iraq).
+Now that the child has cut ties with the parents, the parents have no way to know where the child is. The girl could be taken to Colombo (which the parents may know), but then where she goes from there is unknown to the girl, even. The girl gets brainwashed to not tell her parents that she is going to Syria. Because, obviously, the parents would get anxious about it all. Everyone knows what happens in Syria (and Iraq).
 
 The Muslim men, after a point, take away the girls' cell phones saying Sharia does not allow women to have cell phones. As rightly pointed out by Shalini in the film, "there was no cell phone when Sharia was written". But then, as the film points out, the husband's word is the wife's command in Islam (and other religions).
 
@@ -53,7 +57,7 @@ The girl, during her indoctrination, gets detached from her family. The family h
 
 ## A case against the numbers in the film
 
-Having the points presented by the film on one side, let us examine how the numbers hold up otherwise, because any good argument must hold some water.
+Having the points presented by the film on one side, let us examine how the numbers hold up otherwise; a good argument must hold water.
 
 ### Conversions and migration
 
@@ -75,11 +79,13 @@ In other words, what the film seems to imply is that every woman who converts to
 
 Most members of the ISIS (if not all) come from one sect of Islam: the Sunni sect. In fact, the Sunni Jihadist sect. Are all Muslims Sunnis? And are all Sunnis Jihadists?
 
-Also, note that all women are travelling to Syria with their husbands, which doubles the number of people travelling to Syria. I am unable to wrap my head around the idea that 64,000 men and women joined the ISIS. All from Kerala. Though over a period of 10 years.
+Also, note that all women travel to Syria with their husbands, which doubles the number of people travelling to Syria. I am unable to wrap my head around the idea that 64,000 men and women joined the ISIS. All from Kerala. Though over a period of 10 years.
+
+Sure, Muslim men can have four wives, which could make the number 40,000, not 64,000. Will these men at least one wife who would not be taken to Syria? Then, the number is about 43,000.
 
 ### The numbers superimposed on the population
 
-Kerala, with a population of about 35 million,{{< sidenote govt.ofkeralaAnnualVitalStatistics2022 >}}Annual Vital Statistics Report - 2020 ([Department of Economics & Statistics, Govt. of Kerala](https://www.ecostat.kerala.gov.in/storage/publications/534.pdf)){{< /sidenote >}} has sent 64,000 people to ISIS in a decade?
+Kerala, with a population of about 35 million,{{< sidenote govt.ofkeralaAnnualVitalStatistics2022 >}}Annual Vital Statistics Report - 2020 ([Department of Economics & Statistics, Govt. of Kerala](https://www.ecostat.kerala.gov.in/storage/publications/534.pdf)){{< /sidenote >}} has sent 40,000 people to ISIS in a decade?
 
 While the film does not explicitly say that all these 32,000 women went from Kasaragod, it does seem to imply that. Because while the claim is that most of these recruitments happen from Kasaragod and Mangalore, the film shows nothing of Mangalore. Also, the title is _The Kerala Story_. That makes me think this entire number belongs to Kerala (more specifically, Kasaragod). I find it natural to compare the population numbers of Kasaragod to the number of people sent to ISIS.
 
@@ -97,9 +103,9 @@ Put in other words, if Kerala and Karnataka do not even have 'significant number
 
 ### The passport problem
 
-The other aspect to be understood is passport ownership. A 2017 report from the Ministry of External Affairs said that the passport ownership in India stood at 5.15%.{{< sidenote businesstodayOnlyCentIndia2017 >}}Only 5.5 per cent of India's population have passports: report ([Business Today](https://www.businesstoday.in/latest/economy-politics/story/passport-seva-project-passport-seva-kendra-mea-data-passports-85474-2017-07-24)){{< /sidenote >}} Even if one argued that the percentage had doubled and stood at 10%, we are still looking at a small number of passport holders.
+The other aspect to be understood is passport ownership. A 2017 report from the Ministry of External Affairs said that the passport ownership in India stood at 5.15%.{{< sidenote businesstodayOnlyCentIndia2017 >}}Only 5.5 per cent of India's population have passports: report ([Business Today](https://www.businesstoday.in/latest/economy-politics/story/passport-seva-project-passport-seva-kendra-mea-data-passports-85474-2017-07-24)){{< /sidenote >}} Even if one argued that the percentage had somehow doubled in the last six years and stood at 10%, we are still looking at a small number of passport holders.
 
-If one argued that all these people left the country on fake passports and visas, there is absolutely no way in this connected world that the numbers surpassed the legitimate passport holders. That would kick off alarm bells everywhere.
+If one argued that all these people left the country on fake passports and visas, there is absolutely no way in this connected world that the numbers surpassed the legitimate passport holders. That would kick off alarm bells everywhere, not just India.
 
 Superimposing this number to the young women population of Kerala---which stands at 4.3 million---the number of young Keralite women holding passports would be around 221,450. Kasaragod would be much lower at 8858. 32,000 out of 8858 women ... oh, wait. For this math to work, the rate of passport ownership among young women in Kerala would have to be at least about 18.6%, and _all_ of these women would have to convert to Islam and join the ISIS---and travel.
 
@@ -107,7 +113,7 @@ Agreed that passport ownership seems to be the highest among students and among 
 
 ### Traditions and 'family values'
 
-One of the most important aspects to this is that the Indian Muslim population is based on Sufistic traditions.{{< sidenote singhReportAlQaedaIndian2019 >}}Report on al-Qaeda in the Indian Subcontinent’s growing influence alarmist: official ([The Hindu](https://www.thehindu.com/news/national/report-on-al-qaeda-in-the-indian-subcontinents-growing-influence-alarmist-official/article26082410.ece)){{< /sidenote >}} And as pointed out by Mr Rajnath Singh in 2016 as the then Union Home Minister, the Muslim families themselves, who are playing an active role in preventing their children from getting radicalised.{{< sidenote kumarMuslimFamiliesPreventing2016 >}}Muslim families preventing ISIS influence from spreading: Rajnath Singh ([The Hindu](https://timesofindia.indiatimes.com/india/Muslim-families-preventing-ISIS-influence-from-spreading-Rajnath-Singh/articleshow/50408088.cms)){{< /sidenote >}}
+One of the most important aspects to this is that the Indian Muslim population is based on Sufistic traditions.{{< sidenote singhReportAlQaedaIndian2019 >}}Report on al-Qaeda in the Indian Subcontinent’s growing influence alarmist: official ([The Hindu](https://www.thehindu.com/news/national/report-on-al-qaeda-in-the-indian-subcontinents-growing-influence-alarmist-official/article26082410.ece)){{< /sidenote >}} And as pointed out by Mr Rajnath Singh in 2016 as the then Union Home Minister, the Muslim families themselves are playing an active role in preventing their children from getting radicalised.{{< sidenote kumarMuslimFamiliesPreventing2016 >}}Muslim families preventing ISIS influence from spreading: Rajnath Singh ([The Hindu](https://timesofindia.indiatimes.com/india/Muslim-families-preventing-ISIS-influence-from-spreading-Rajnath-Singh/articleshow/50408088.cms)){{< /sidenote >}}
 
 ## Let us talk conversions
 
@@ -119,11 +125,11 @@ No non-Muslim I know wears a Hijab. None of those who have gotten groped and sex
 
 In other words, most people I have seen all fall in Nimah Matthew's category, when it comes to religion and conversions.
 
-Also, who converts to a religion for the fear of "hellfire"? This is beyond laughable!
+Also, which teen (or tween) converts to a religion for the fear of "hellfire"? This is beyond laughable!
 
 ## Should the film be banned
 
-I do not identify myself as a liberal. I stand for freedom of speech, but I also advocate reasonable restrictions to freedom of expression on a public forum. Anybody who understands human psychology (and the cinema market) will understand this. This is a nuanced take, and I would rather control my temptation to explain. Generally speaking, though at the risk of sounding arbitrary, a person who is exercising their freedom of speech must exercise it responsibly. People are impressionable.
+I do not identify myself as a liberal. I stand for freedom of speech, but I also advocate reasonable restrictions to freedom of expression on public forums. Anybody who understands human psychology (and the cinema market) will understand this. This is a nuanced take, and controlling my temptation to explain, generally speaking, though at the risk of sounding arbitrary, a person who is exercising their freedom of speech must exercise it responsibly. Because people are impressionable.
 
 What will banning the film achieve, you may ask. 'People will circulate the film on the Web (or platforms like Telegram), and anyone who wants to watch it, will', you may say. And you would be right. Banning the film will have the same effect as banning the BBC documentary on Mr Modi had.
 
@@ -133,11 +139,11 @@ We must understand, at least after _The Kashmir Files_ and _The Kerala Story_, t
 
 It is happening with the Kashmiri Pandits, it will happen to the girls that get converted and sent to Syria for sex slavery. Not just from Kerala, but across India. That part will not change. There will be promises made about these changes, but nothing will happen on the ground.
 
-What will also happen is that one section of the society will alienate the other for no real reason.
+What will also happen is that one section of the society will alienate another for no good reason.
 
 ## The ₹150 lesson
 
-When I said Sudipto Sen pulled off something impressive, I meant it with no sarcasm at all. Vivek Agnihotri showed the way, and Sudipto Sen did one better.
+When I said Sudipto Sen pulled off something impressive, I meant it with no sarcasm. Vivek Agnihotri showed the way, and Sudipto Sen raised (or should it be "lowered") the bar.
 
 If you watch the film (which I suppose you could on OTT, later this year), you will feel that people with iPhones and a rudimentary knowledge of Blender make better films than this, in terms of production quality. And the story, as my brother put it yesterday, was "jarring".
 
@@ -153,31 +159,31 @@ Am I denying that members of the ISIS brainwash women into joining them and make
 
 No.
 
-But that is the thing. Sudipto Sen cooked up something that will get him great returns, for which, he probably invested very little.
+But that is the thing. Sudipto Sen cooked up something with little substance and mostly baseless hateful fluff. The little investment he made will get him disproportionately massive returns.
 
 What do I mean?
 
-First, he weaponised the trailer. He made a tall claim---of 32,000 girls missing from Kerala, rotting or dying in prisons or ISIS camps. He changed it later to "story of three girls", which is a brilliant stroke. The tall claim resonated in the echo chamber that subscribes to that view, and those looking to enter it. The fact-checkers can come later, and to satisfy them, the number can always be "corrected". Sowing the seed of doubt is the important part.
+First, he weaponised the trailer. He made a tall claim---of 32,000 girls missing from Kerala, rotting or dying in prisons or ISIS camps. He changed it later to "story of three girls", which is a brilliant stroke. The tall claim resonated in the echo chamber that subscribes to that view, and those looking to enter it. The fact-checkers can come later, and to satisfy them, the number can always be "corrected". It was a masterstroke because now, everyone will watch the film with the "32,000" lens.
 
-Second, when challenged, he said he had done his own research, and this number could not have been gotten from government numbers. In other words, he made up a conspiracy theory. That automatically took away the credibility of any credible statistics that we could legitimately get. Later, apparently, he asked at the JNU, 'Do numbers matter?'
+Second, when challenged, he said he had done his own research, and this number could not have been gotten from government numbers (because everyone is involved). In other words, he made up a conspiracy theory. That automatically took away the credibility of any official statistics that we could get. Later, apparently, he asked at the JNU, 'Do numbers matter?'
 
 Third, he touched particularly sensitive areas that people otherwise think twice about speaking in public. This led to people discussing this primarily in closed circles, in whispers. This added to the bit about the conspiracy theory, and ensured it spread a lot more, because we are suckers for conspiracy theories.
 
-Fourth, he did not put the government in a spot. He never mentioned anything about the Government of India, except implying that _agencies_ such as the Intelligence Bureau were sleeping while 32,000 girls disappeared to ISIS camps right under their noses. He probably knew that when "Kerala" appears in the title, the politicians and others in Kerala will flare up and the politicians of Kerala will react.
+Fourth, he did not put the government in a spot. He never mentioned anything about the Government of India, except implying that _agencies_ such as the Intelligence Bureau were sleeping while 32,000 girls disappeared to ISIS camps right under their noses. He probably knew that when "Kerala" appears in the title, the politicians and others in Kerala---and nobody else---will react.
+Only those who did not miss their Civics classes would know that National Security comes under the Union List in the Constitution---with the Government of India having _exclusive_ control over it. (Which is also why I quote the _Union_ Ministers of Home here.)
 
-Only those who did not miss their Civics classes would know that National Security comes under the Union List in the Constitution---with the Government of India having exclusive control over it.
 
-He perhaps also knew that the incumbent administration at the Centre will keep mum because the narrative favours the most powerful political party there. More so when the narrative attacks a state which the party is trying to create its base in, and directly attacks Communism.
+He perhaps also knew that the incumbent administration at the Centre will keep mum because the narrative favours the most powerful political party there. More so when the narrative implicitly attacks a state which the party is trying to create its base in, and directly attacks Communism.
 
 Fifth, blame it on the absence of teachings of Hinduism in families. In broken Malayalam and Hindi, Gitanjali tells her father that because he did not teach her anything about the Hindu values and taught her only Communism, she ended up being manipulated by Asifa. This is a general belief in the insecure Hindu minds; why not play straight into it?
 
 Sixth, the film stars no major actors (except Devadarshini, perhaps). Even the lead actor is essentially a nobody, who has not appeared in any film of consequence or ever played a consequential role. Her acting skills are to blame for it, but whatever. Overall it means low expenditure on acting.
 
-Seventh, the crew probably hired an intern for the CGI. The flame scenes were as though done using the generic first-tutorial Blender template.
+Seventh, the crew probably hired an intern for the CGI. The flame scenes, for example, were as though done by a novice, using the generic first-tutorial Blender template.
 
-Eighth, the dialogues were absolutely irritating. Force-fitted broken Malayalam, terrible accents, unbearable grammar, etc. Isn't Adah Sharma supposed to be from Kerala? This riles me up even more. Even I speak better Malayalam than her character in the film. Meaning, low effort and probably no expenditure on professional dialogue writing.  (Compare this with the accent of the ISIS operative in _The Family Man_.)
+Eighth, the dialogues were absolutely irritating. Force-fitted broken Malayalam, terrible accents, unbearable grammar, etc. Isn't Adah Sharma supposed to be from Kerala? Asifa speaks the Mumbai Hindi in her attempt to seem South Indian. All this riled me up even more. Low effort and probably no expenditure on professional dialogue writing.  (Compare this with the accent of the ISIS operative in _The Family Man_.)
 
-But none of the last three matter, because we are a culture who are innately imaginative. We only need to be shown symbols and we are fully capable of imagining the rest. The CGI does not have to be good, the dialogues do not have to mean anything, the actors' acting skills do not matter. And Sen knew it.
+But none of the last three matter, because we are a culture who are innately imaginative. We only need to be shown symbols; we are fully capable of imagining the rest. The CGI does not have to be good, the dialogues do not have to mean anything, the actors' acting skills do not matter. And Sen knew it.
 
 And there, that is your formula to create a multi-billion Box Office hit on a shoestring budget. The lesson I learnt paying ₹150 for the ticket.
 
@@ -189,20 +195,20 @@ I had not, of course, but can we equate this with national security?
 
 Can we say with absolute conviction that tens of thousands of girls go missing in a state, and none of the parents or friends even so much as file a habeas corpus petition? Not even one? Or are tens of thousands of families silenced? Doesn't that just make it much worse for the perpetrators?
 
-Keeping tens of thousands of families silent over such a big national security issue is impossible to pull off for a decade. Even if we go by the logic shown in the film, if Gitanjali can contact Shalini's mother and break the news about everything that happened to them, even if to die later, and if Nimah can approach a police officer to question him about police inaction, then compound the effect by thousands when tens of thousands of girls who either survived or so much as caught a whiff of what was going on speak up; the issue would have blown in the face of the conspirators. Not all 32,000 mothers would stop contacting their children. Not all 32,000 disappearances will miss the radar. Not all conversions can be brushed under the rug. And it would be impossible to ignore the connection when thousands of reports come out.
+Keeping tens of thousands of families silent over such a big national security issue is impossible to pull off for a decade. Even if we go by the logic shown in the film: if Gitanjali can contact Shalini's mother and break the news about everything that happened to them, even if to die later, and if Nimah can approach a police officer to lash out at the police inaction, then compound the effect by thousands when tens of thousands of girls who either survived or so much as caught a whiff of what was going on and spoke up; the issue would have blown in the face of the conspirators. Not all 32,000 mothers would stop contacting their children. Not all 32,000 disappearances will miss the radar. Not all conversions can be brushed under the rug. And it would be impossible to ignore the connection when thousands of reports come out.
 
 ## How to handle the conversion issue
 
 Scientific temper. Not mere education in science, but promoting scientific thought. Converting naïve believers may be possible, but converting someone with a scientific temper is several times more difficult. Of course, someone with a scientific temper will question your religion much like everybody else’s, but that is what we need today.
 
-Teach your children the difference between God, religion and culture. Culture, to me, is a lot more humane, approachable and quicker-evolving than religions, and therefore, more relevant. Religion and God do not have to have anything to do with each other. God, if you believe, existed before religions, and will exist for long after religions die a slow death. Modern laws can replace religion because though often flawed, they are more useful than any religion. Philosophies can remain, to be studied. I am sure the philosophy behind every religion has something to teach us, as long as we approach them in the right sense.
+Teach your children the difference between God, religion and culture. Culture, to me, is a lot more humane, approachable and quicker-evolving than religions, and therefore, more relevant. Religion and God do not have to have anything to do with each other. God, if you believe, existed long before religions, and will exist for long after religions die a slow death. Modern laws can replace religion because though often flawed, they are more useful than any religion. Philosophies can remain, to be studied. I am sure the philosophy behind every religion has something to teach us, as long as we approach them in the right sense.
 
 I do not support conversions. Or rather, the only conversion I am willing to support is rejection of all religions. Discovery of the God should be a personal journey, and nobody should have anything to say about someone’s self-discovery. But again, that is my personal view.
 
-If you care so much about your religion, do something that gets your children interested. The more obsolete religious restrictions you show, the more they will go away. Make them realise that Gods don’t have to be the silly, self-absorbed, insecure jerks that they sometimes are made out to be. Gods need not be heroes either. Teach them about the “incarnations” from the standpoint of a practical life. (Of course, for that, you will have to learn about them yourself, first.) Do not make up magic; kids do not buy that anymore. If you are a Hindu, find out why we have so many gods; what they stand for. Or why they are considered gods in the first place. Tell the children about the different schools of thought we have in Hinduism. Today’s children are inquisitive. They want answers. Find out the answers for them or help them look.
+If you care so much about your religion, do something that gets your children interested. The more obsolete religious restrictions you show, the more they will be disenchanted. Make them realise that Gods don’t have to be the silly, self-absorbed, insecure jerks that they often are made out to be. Gods need not be heroes either. Teach them about the “incarnations” from the standpoint of a practical life and the values. (Of course, for that, you will have to learn about them yourself, first.) Do not make up magic; kids do not buy that anymore. If you are a Hindu, find out why we have so many gods; what they stand for. Or why they are considered gods in the first place. Tell the children about the different schools of thought we have in Hinduism. Today’s children are inquisitive. They want answers. Find out the answers for them or help them look. And "Because (that is how it is)." is not an answer.
 
 Let your children pick their own paths; tell them enough so that they are empowered to pick one (or many) on their own. Teach them how to tell silly and deep apart. If your child tells you gods are not real, ask her how she came to that conclusion. Get her to think. That’s the important part.
 
-More importantly, remember that fundamentalism is not the answer to fundamentalism. Do not listen to fundamentalists (of any religion). Teach your children these red flags (and that these red flags are for every religion). Also, tell them to stay way from any of these “bring back the glory of the past” campaigns, and that humanity should always look forward. Because that is how time moves.
+More importantly, remember that fundamentalism is not the answer to fundamentalism. Do not listen to fundamentalists (of any religion). Train your children to spot these red flags (and that these red flags are for every religion). Also, tell them to stay way from any of these “bring back the glory of the past” campaigns, and that humanity should always look forward. Because that is how time moves.
 
-Note: If you did not sense the sarcasm in some of the parts of this article, you may want to reread it.
+Note: If you did not sense the sarcasm in some of the parts of this article, well, you should.
