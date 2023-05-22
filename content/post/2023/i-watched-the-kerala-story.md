@@ -35,7 +35,7 @@ Now, let us get to what I really want to talk about.
 
 ## An argument for The Kerala Story
 
-My cousin, when we were chatting about random things (including this film), told me how---for lack of a better term---a witch-doctor, managed to make her friend's family shell out over three million rupees. I cannot share the story here, but I can mention that it involves playing with people's fears. The man, apparently, even pulled out a dead foetus buried under the ground in their backyard. (Nobody knows how it got there.) I was more shocked than disturbed by this. My cousin's argument was, if such bizarre things can happen in Kerala without anyone knowing, why is it difficult to believe that 32,000 women went missing?
+My cousin, when we were chatting about random things (including this film), told me how---for lack of a better term---a witch-doctor, managed to make her friend's family shell out over three million rupees. I cannot share the story here, but I can mention that it involves playing with people's fears. The man, apparently, even dug out a dead foetus buried in their backyard. (Nobody knows how it got there.) I was more shocked than disturbed by this. My cousin's argument was, if such bizarre things can happen in Kerala without anyone knowing, why is it difficult to believe that 32,000 women went missing?
 
 ## A case against the official religious conversion numbers
 
