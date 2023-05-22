@@ -81,7 +81,7 @@ Most members of the ISIS (if not all) come from one sect of Islam: the Sunni sec
 
 Also, note that all women travel to Syria with their husbands, which doubles the number of people travelling to Syria. I am unable to wrap my head around the idea that 64,000 men and women joined the ISIS. All from Kerala. Though over a period of 10 years.
 
-Sure, Muslim men can have four wives, which could make the number 40,000, not 64,000. Will these men at least one wife who would not be taken to Syria? Then, the number is about 43,000.
+Sure, Muslim men can have four wives, which could make the number 40,000, not 64,000. Will these men have at least one wife who would not be taken to Syria? Then, the number is about 43,000.
 
 ### The numbers superimposed on the population
 
@@ -107,13 +107,9 @@ The other aspect to be understood is passport ownership. A 2017 report from the
 
 If one argued that all these people left the country on fake passports and visas, there is absolutely no way in this connected world that the numbers surpassed the legitimate passport holders. That would kick off alarm bells everywhere, not just India.
 
-Superimposing this number to the young women population of Kerala---which stands at 4.3 million---the number of young Keralite women holding passports would be around 221,450. Kasaragod would be much lower at 8858. 32,000 out of 8858 women ... oh, wait. For this math to work, the rate of passport ownership among young women in Kerala would have to be at least about 18.6%, and _all_ of these women would have to convert to Islam and join the ISIS---and travel.
+Superimposing this number on the young women population of Kerala---which stands at 4.3 million---the number of young Keralite women holding passports would be around 221,450. Kasaragod would be much lower at 8858. 32,000 out of 8858 women ... oh, wait. For this math to work, the rate of passport ownership among young women in Kerala would have to be at least about 18.6%, and _all_ of these women would have to convert to Islam and join the ISIS---and travel.
 
-Agreed that passport ownership seems to be the highest among students and among people whose income is above the poverty line, but still, what are the odds?
-
-### Traditions and 'family values'
-
-One of the most important aspects to this is that the Indian Muslim population is based on Sufistic traditions.{{< sidenote singhReportAlQaedaIndian2019 >}}Report on al-Qaeda in the Indian Subcontinent’s growing influence alarmist: official ([The Hindu](https://www.thehindu.com/news/national/report-on-al-qaeda-in-the-indian-subcontinents-growing-influence-alarmist-official/article26082410.ece)){{< /sidenote >}} And as pointed out by Mr Rajnath Singh in 2016 as the then Union Home Minister, the Muslim families themselves are playing an active role in preventing their children from getting radicalised.{{< sidenote kumarMuslimFamiliesPreventing2016 >}}Muslim families preventing ISIS influence from spreading: Rajnath Singh ([The Hindu](https://timesofindia.indiatimes.com/india/Muslim-families-preventing-ISIS-influence-from-spreading-Rajnath-Singh/articleshow/50408088.cms)){{< /sidenote >}}
+Granted that passport ownership does seem to be the highest among students and among people whose income is above the poverty line, still, what are the odds?
 
 ## Let us talk conversions
 
@@ -121,9 +117,9 @@ The conversion numbers are, in general, low for a good reason. Everyone gets ind
 
 A very influential teacher of mine used to say things like what Asifa said in the film, to an entire class of impressionable 10-year-olds, except, our teacher was Christian. None---none---of us converted to Christianity. During the Facebook era (has it not ended yet?), she sent us messages about the greatness of the Christ and the saints. We either shut her off, or respectfully declined to engage. None of us converted.
 
-No non-Muslim I know wears a Hijab. None of those who have gotten groped and sexually harassed, wore a Hijab to protect themselves from it. Instead, they took action. Nobody waited for God to come protect them. Ask any of them and they will tell you, "God doesn't work like that." I mean, it would be silly of any of them to say, "My God is useless because S/He can't protect me from molesters."
+No non-Muslim I know wears a Hijab. None of those who have gotten sexually harassed, wore a Hijab to protect themselves from it. Instead, they took action. Nobody waited for God to come protect them. Ask any of them and they will tell you, "God doesn't work like that." I mean, it would be silly of any of them to say, "My God is useless because S/He can't protect me from molesters."
 
-In other words, most people I have seen all fall in Nimah Matthew's category, when it comes to religion and conversions.
+In other words, most people I have seen fall in Nimah Matthew's category, when it comes to religion and conversions.
 
 Also, which teen (or tween) converts to a religion for the fear of "hellfire"? This is beyond laughable!
 
@@ -135,7 +131,7 @@ What will banning the film achieve, you may ask. 'People will circulate the film
 
 But ask any producer if they would be willing to pump money into a film that gets banned but circulated on the Web for free.
 
-We must understand, at least after _The Kashmir Files_ and _The Kerala Story_, that these films get made because of the money they make. These are easy wins. They have nothing to do with the communities they claim to represent. These films get made and earn well on the Box Office, political parties that have to gain from such films will utilise them to their advantage, the producers will be happy, the politicians will be happy, the audience will feel entertained and walk out of the theatres with their blood boiling. But the communities who need a voice will continue to be ignored. Neither the politicians will do anything about it, nor the film-makers will do anything about it (because, ‘What more can film makers do?’), nor will the people hold the government accountable.
+We must understand, at least after _The Kashmir Files_ and _The Kerala Story_, that these films get made because of the money they make. These are easy wins. They have nothing to do with the communities they claim to represent. These films get made and earn well on the Box Office, political parties that can gain from such films will utilise them to their advantage, the producers will be happy, the politicians will be happy, the audience will feel entertained and walk out of the theatres with their blood boiling. But the communities who need a voice will continue to be ignored. Neither the politicians will do anything about it, nor the film-makers will do anything about it (because, ‘What more can film makers do?’), nor will the people hold the government accountable.
 
 It is happening with the Kashmiri Pandits, it will happen to the girls that get converted and sent to Syria for sex slavery. Not just from Kerala, but across India. That part will not change. There will be promises made about these changes, but nothing will happen on the ground.
 
@@ -163,21 +159,21 @@ But that is the thing. Sudipto Sen cooked up something with little substance and
 
 What do I mean?
 
-First, he weaponised the trailer. He made a tall claim---of 32,000 girls missing from Kerala, rotting or dying in prisons or ISIS camps. He changed it later to "story of three girls", which is a brilliant stroke. The tall claim resonated in the echo chamber that subscribes to that view, and those looking to enter it. The fact-checkers can come later, and to satisfy them, the number can always be "corrected". It was a masterstroke because now, everyone will watch the film with the "32,000" lens.
+First, he weaponised the trailer. He made a tall claim---of 32,000 girls missing from Kerala, rotting or dying in prisons or ISIS camps. He changed it later to "story of three girls", which is a brilliant stroke. The tall claim resonated in the echo chamber that subscribes to that view, and those looking to enter it. The fact-checkers can come later, and to satisfy them, the number can always be "corrected". It was a brilliant stroke because now, everyone will watch the film with the "32,000" lens.
 
-Second, when challenged, he said he had done his own research, and this number could not have been gotten from government numbers (because everyone is involved). In other words, he made up a conspiracy theory. That automatically took away the credibility of any official statistics that we could get. Later, apparently, he asked at the JNU, 'Do numbers matter?'
+Second, when challenged, he said he had done his own research, and this number could not have been gotten from government numbers (because “everyone is involved”). In other words, he made up a conspiracy theory. That automatically took away the credibility of any official statistics that we could get. Later, apparently, he asked at the JNU, 'Do numbers matter?'
 
 Third, he touched particularly sensitive areas that people otherwise think twice about speaking in public. This led to people discussing this primarily in closed circles, in whispers. This added to the bit about the conspiracy theory, and ensured it spread a lot more, because we are suckers for conspiracy theories.
 
 Fourth, he did not put the government in a spot. He never mentioned anything about the Government of India, except implying that _agencies_ such as the Intelligence Bureau were sleeping while 32,000 girls disappeared to ISIS camps right under their noses. He probably knew that when "Kerala" appears in the title, the politicians and others in Kerala---and nobody else---will react.
-Only those who did not miss their Civics classes would know that National Security comes under the Union List in the Constitution---with the Government of India having _exclusive_ control over it. (Which is also why I quote the _Union_ Ministers of Home here.)
 
+Only those who did not miss their Civics class would know that National Security comes under the Union List in the Constitution---with the Government of India having _exclusive_ control over it. (Which is also why I quote the _Union_ Minister of Home here.)
 
-He perhaps also knew that the incumbent administration at the Centre will keep mum because the narrative favours the most powerful political party there. More so when the narrative implicitly attacks a state which the party is trying to create its base in, and directly attacks Communism.
+He perhaps also knew that the incumbent administration at the Centre will keep mum because the narrative favours the most powerful political party there. More so when the narrative implicitly attacks a state which the party is trying to create its base in, and explicitly attacks Communism.
 
 Fifth, blame it on the absence of teachings of Hinduism in families. In broken Malayalam and Hindi, Gitanjali tells her father that because he did not teach her anything about the Hindu values and taught her only Communism, she ended up being manipulated by Asifa. This is a general belief in the insecure Hindu minds; why not play straight into it?
 
-Sixth, the film stars no major actors (except Devadarshini, perhaps). Even the lead actor is essentially a nobody, who has not appeared in any film of consequence or ever played a consequential role. Her acting skills are to blame for it, but whatever. Overall it means low expenditure on acting.
+Sixth, the film stars no major actors (except Devadarshini, perhaps). Even the lead actor is essentially a nobody, who has not appeared in any film of consequence or ever played a consequential role. Her acting skills are to blame for it, but whatever. Overall it means low expenditure on the cast.
 
 Seventh, the crew probably hired an intern for the CGI. The flame scenes, for example, were as though done by a novice, using the generic first-tutorial Blender template.
 
@@ -185,11 +181,11 @@ Eighth, the dialogues were absolutely irritating. Force-fitted broken Malayalam,
 
 But none of the last three matter, because we are a culture who are innately imaginative. We only need to be shown symbols; we are fully capable of imagining the rest. The CGI does not have to be good, the dialogues do not have to mean anything, the actors' acting skills do not matter. And Sen knew it.
 
-And there, that is your formula to create a multi-billion Box Office hit on a shoestring budget. The lesson I learnt paying ₹150 for the ticket.
+And there, that is your formula to create a multi-billion-rupee Box Office hit on a shoestring budget. The lesson I learnt paying ₹150 for the ticket.
 
 ## But strange things happen in Kerala
 
-First, let us address a couple of arguments put in favour of the film. Like I said, my sister mentioned the bizarre finding of a dead foetus buried in her friend's backyard, saying, "All sorts of crazy things happen in Kerala; have you ever heard of something like this?"
+First, let us address a couple of arguments in favour of the film. Like I said, my sister mentioned the bizarre finding of a dead foetus buried in her friend's backyard, saying, "All sorts of crazy things happen in Kerala; have you ever heard of something like this?"
 
 I had not, of course, but can we equate this with national security?
 
@@ -201,14 +197,14 @@ Keeping tens of thousands of families silent over such a big national security i
 
 Scientific temper. Not mere education in science, but promoting scientific thought. Converting naïve believers may be possible, but converting someone with a scientific temper is several times more difficult. Of course, someone with a scientific temper will question your religion much like everybody else’s, but that is what we need today.
 
-Teach your children the difference between God, religion and culture. Culture, to me, is a lot more humane, approachable and quicker-evolving than religions, and therefore, more relevant. Religion and God do not have to have anything to do with each other. God, if you believe, existed long before religions, and will exist for long after religions die a slow death. Modern laws can replace religion because though often flawed, they are more useful than any religion. Philosophies can remain, to be studied. I am sure the philosophy behind every religion has something to teach us, as long as we approach them in the right sense.
+Teach your children the difference between God, religion and culture. Culture, to me, is a lot more approachable and quicker-evolving than religions, and therefore, more relevant (though rife with issues like obscurantism). Religion and God do not have to have anything to do with each other. God, if you believe, existed long before religions, and will exist for long after religions die a slow death. Modern laws can replace religion because though often flawed, they are more useful than any religion. Philosophies can remain, to be studied. I am sure the philosophy behind every religion has something to teach us, as long as we approach them in the right sense.
 
 I do not support conversions. Or rather, the only conversion I am willing to support is rejection of all religions. Discovery of the God should be a personal journey, and nobody should have anything to say about someone’s self-discovery. But again, that is my personal view.
 
-If you care so much about your religion, do something that gets your children interested. The more obsolete religious restrictions you show, the more they will be disenchanted. Make them realise that Gods don’t have to be the silly, self-absorbed, insecure jerks that they often are made out to be. Gods need not be heroes either. Teach them about the “incarnations” from the standpoint of a practical life and the values. (Of course, for that, you will have to learn about them yourself, first.) Do not make up magic; kids do not buy that anymore. If you are a Hindu, find out why we have so many gods; what they stand for. Or why they are considered gods in the first place. Tell the children about the different schools of thought we have in Hinduism. Today’s children are inquisitive. They want answers. Find out the answers for them or help them look. And "Because (that is how it is)." is not an answer.
+If you care so much about your religion, do something that gets your children interested. The more obsolete religious restrictions you show, the more they will be disenchanted. Make them realise that Gods don’t have to be the silly, self-absorbed, insecure jerks that they often are made out to be. Gods need not be heroes either. Teach them about the “incarnations” from the standpoint of a practical life and the values. (Of course, for that, you will have to learn about them yourself, first.) Do not make up magic; kids do not buy that anymore. If you are a Hindu, find out why we have so many gods; what they stand for. Or why they are considered gods in the first place. Tell the children about the different schools of thought we have in Hinduism. Today’s children are inquisitive. They want answers. Find out the answers for them or help them look. And remember, "Because (that is how it is)." is not an answer.
 
-Let your children pick their own paths; tell them enough so that they are empowered to pick one (or many) on their own. Teach them how to tell silly and deep apart. If your child tells you gods are not real, ask her how she came to that conclusion. Get her to think. That’s the important part.
+Let your children pick their own paths; tell them enough so that they are empowered to pick one (or many) on their own. Teach them how to tell silly and deep apart. If your child tells you gods are not real, ask her how she came to that conclusion. Get her to think. That is the important part.
 
-More importantly, remember that fundamentalism is not the answer to fundamentalism. Do not listen to fundamentalists (of any religion). Train your children to spot these red flags (and that these red flags are for every religion). Also, tell them to stay way from any of these “bring back the glory of the past” campaigns, and that humanity should always look forward. Because that is how time moves.
+More importantly, remember that fundamentalism is not the answer to fundamentalism. Do not listen to fundamentalists (of any religion). Train your children to spot these red flags (and that these red flags apply to every religion). Also, tell them to stay way from any of these “bring back the glory of the past” campaigns, and that humanity should always look forward. Because that is how time moves.
 
 Note: If you did not sense the sarcasm in some of the parts of this article, well, you should.
