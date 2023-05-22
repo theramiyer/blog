@@ -2,7 +2,7 @@
 title: "I Watched The Kerala Story"
 subtitle: "what Sudipto Sen has pulled off is impressive"
 date: 2023-05-21T08:08:55+05:30
-description: "_The Kerala Story_, a film that garnered a lot of attention (and is doing fantastically well at the Box Office), shows the conversion racket to be rampant in Kerala. Is that real? How many of the claims are facts? What are the implications of The Kerala Story on our society? Whom can we believe: the government or the film? This article answers these and a lot more questions."
+description: "The Kerala Story, a film that garnered a lot of attention (and is doing fantastically well at the Box Office), shows the conversion racket to be rampant in Kerala. Is that real? How many of the claims are facts? What are the implications of The Kerala Story on our society? Whom can we believe: the government or the film? This article answers these and a lot more questions."
 tags:
 - constitution
 - religion
