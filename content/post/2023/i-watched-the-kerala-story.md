@@ -27,7 +27,15 @@ At the orientation session they all attend later that morning, someone clicks pi
 
 Asifa is a relentless campaigner for Islam, who constantly says things that make the girls doubt the omnipotence of their respective Gods. One day, the girls get molested at the mall, and Asifa tells them that if they wore the Hijab, Allah would protect them from such incidents. Because of the constant peer pressure from Asifa and her cousins, the Hindu girls slowly convert to Islam. The Catholic Nimah refuses to convert and confronts Asifa and raises her voice, when Asifa says anything about the God and the Christ.
 
-The film shows how Muslim men pull off _Love Jihad_---lure unsuspecting Hindu girls, get the girls attracted to them, get physical with them and get them pregnant (or engage in revenge porn), agree to marry them provided they converted, get them to convert, marry them (or get them married to other unknown Muslim men), and take them to Syria.
+The film shows how Muslim men pull off _Love Jihad_:
+
+1. Lure unsuspecting, naïve Hindu girls
+2. Get the girls to fall in love with them
+3. Get physical with them and get them pregnant (or engage in revenge porn)
+4. Make conversion a prerequisite to marriage, saying, ‘How can we take home a Hindu girl? Our family will not agree.’
+5. Convert the girls.
+6. Marry them (or get them married to other unknown Muslim men)
+7. Take them to Syria.
 
 And then come the graphic descriptions and imagery of the travel to Syria, the sex slavery, the ruthless killings, absolute disregard for women, etc. The film is not A-rated for nothing.
 
@@ -35,7 +43,7 @@ Now, let us get to what I really want to talk about.
 
 ## An argument for The Kerala Story
 
-My cousin, when we were chatting about random things (including this film), told me how---for lack of a better term---a witch-doctor, managed to make her friend's family shell out over three million rupees. I cannot share the story here, but I can mention that it involves playing with people's fears. The man, apparently, even dug out a dead foetus buried in their backyard. (Nobody knows how it got there.) I was more shocked than disturbed by this. My cousin's argument was, if such bizarre things can happen in Kerala without anyone knowing, why is it difficult to believe that 32,000 women went missing?
+My cousin, when we were chatting about random things (including this film), told me how---for lack of a better term---a witch-doctor, managed to make her friend’s family, shell out over three million rupees. It involves playing with people's fears. The friend tried everything they could to dissuade their family from engaging in this, to no avail. The witch-doctor, apparently, even dug out a dead foetus buried in their backyard. (Nobody knows how it got there.) I was more shocked than disturbed by this. My cousin's argument was, if such bizarre things can happen in Kerala without anyone knowing, why is it difficult to believe that 32,000 women went missing?
 
 ## A case against the official religious conversion numbers
 
@@ -45,7 +53,7 @@ In other words, if a Hindu woman marries a Muslim man after converting to Islam,
 
 ## A case for the number of non-Muslim girls that get sent to Syria
 
-Common sense would make us think that the parents would immediately file a case if their child gets converted to Islam and married to a Muslim man. But this is Kerala; Kerala respects and accepts all religions. Kerala is this state run by Communists, who themselves reject all notions of God and religion, but are liberal enough to let their child follow what the child wants. Since the Communists have an equal stand on any religion, it does not matter to them which religion their child picks. As long as the child is happy. And everyone in Kerala is uniform in this thought.
+Common sense would make us think that the parents would immediately file a case if their child gets converted to Islam and married to a Muslim man. But this is Kerala; Kerala respects and accepts all religions. Kerala is this state run by Communists, who themselves reject all notions of God and religion, but are liberal enough to let their child follow what the child wants. Since the Communists have an equal stand on any religion, it does not matter to them which religion their child picks. As long as the child is happy. And everyone in Kerala is uniform in this thought. Isn’t that why a 100% of those eligible to vote, vote for the CPI there, and everyone wears only red shirts, drinks only tea, and eats only fish and rice?
 
 If the child gets converted to Islam and gets sent to Syria, that would be after the child cuts all ties with the parents. The parents helplessly accept it, because at the end of the day, every parent wants their child to be happy---even at the cost of the parents' unhappiness.
 
@@ -71,7 +79,7 @@ Let me repeat that: Mr Sen claims that Mr Chandy said that up to about 3200 gi
 
 Mr Sen extrapolated that to 10 years and arrived at the number of 32,000. Seems fair?
 
-No, here is why: First of all, I could not find a document or a video or a news article that says Oommen Chandy said 2800 -- 3200 girls were converting to Islam in a year. What I did find was him saying that in the period of 2009--2012, 2667 women---of whom 2195 were Hindus---converted to Islam.{{< sidenote radhakrishnan2500WomenConverted2012 >}}Over 2500 women converted to Islam in Kerala since 2006, says Oommen Chandy ([India Today](https://www.indiatoday.in/india/south/story/love-jihad-oommen-chandy-islam-kerala-muslim-marriage-115150-2012-09-03)){{< /sidenote >}} That means about 889 women in Kerala converted to Islam in a year on average.
+No, here is why: First of all, I could not find a document, a video or a news article that says Oommen Chandy said 2800 -- 3200 girls were converting to Islam in a year. What I did find was him saying that in the period of 2009--2012, 2667 women---of whom 2195 were Hindus---converted to Islam.{{< sidenote radhakrishnan2500WomenConverted2012 >}}Over 2500 women converted to Islam in Kerala since 2006, says Oommen Chandy ([India Today](https://www.indiatoday.in/india/south/story/love-jihad-oommen-chandy-islam-kerala-muslim-marriage-115150-2012-09-03)){{< /sidenote >}} That means about 889 women in Kerala converted to Islam in a year on average, in that period.
 
 But again, this says, "converted to Islam". I found no reference to that all these young women joined the ISIS after converting. We could extend this to the 32,000 as well---no matter how baseless the number is.
 
@@ -81,7 +89,7 @@ Most members of the ISIS (if not all) come from one sect of Islam: the Sunni sec
 
 Also, note that all women travel to Syria with their husbands, which doubles the number of people travelling to Syria. I am unable to wrap my head around the idea that 64,000 men and women joined the ISIS. All from Kerala. Though over a period of 10 years.
 
-Sure, Muslim men can have four wives, which could make the number 40,000, not 64,000. Will these men have at least one wife who would not be taken to Syria? Then, the number is about 43,000.
+Oh, of course, Muslim men can have four wives, which could make the number 40,000, not 64,000. Will these men have at least one wife who would not be taken to Syria? Then, the number is about 43,000.
 
 ### The numbers superimposed on the population
 
@@ -89,13 +97,13 @@ Kerala, with a population of about 35 million,{{< sidenote govt.ofkeralaAnnualV
 
 While the film does not explicitly say that all these 32,000 women went from Kasaragod, it does seem to imply that. Because while the claim is that most of these recruitments happen from Kasaragod and Mangalore, the film shows nothing of Mangalore. Also, the title is _The Kerala Story_. That makes me think this entire number belongs to Kerala (more specifically, Kasaragod). I find it natural to compare the population numbers of Kasaragod to the number of people sent to ISIS.
 
-Kasaragod---a district with a population of about about 1.41 million---is shown to be the hub in Kerala for ISIS recruitment. Let us dice this down to women aged between 20 and 34 (over 19, under 35). The number of women in this age range in Kerala is about 4.3 million. The percentage of Keralite population living in Kasaragod is 4%, according to the same report mentioned above. 4% of 4.3 million is about 172,000.
+Kasaragod---a district with a population of about about 1.41 million---is shown to be the hub in Kerala for ISIS recruitment. Let us dice this down to women aged over 19 and under 35. The number of women in this age range in Kerala is about 4.3 million. The percentage of Keralite population living in Kasaragod is 4%, according to the same report mentioned above. 4% of 4.3 million is about 172,000.
 
 32,000 out of 172,000 women (or even 200,000 women) converted and vanished, and nobody batted an eyelid?
 
 Quite a stretch, if you ask me.
 
-Also, when the Union Minister of State for Home, Mr G Kishan Reddy, himself said in 2020 in the Parliament,{{< sidenote johnReportPresenceKarnataka2020 >}}UN report on IS presence in Karnataka, Kerala factually incorrect: MHA ([Deccan Herald](https://www.deccanherald.com/national/un-report-on-is-presence-in-karnataka-kerala-factually-incorrect-mha-890513.html)){{< /sidenote >}}
+Also, consider what the Union Minister of State for Home, Mr G Kishan Reddy, himself said in 2020 in the Parliament,{{< sidenote johnReportPresenceKarnataka2020 >}}UN report on IS presence in Karnataka, Kerala factually incorrect: MHA ([Deccan Herald](https://www.deccanherald.com/national/un-report-on-is-presence-in-karnataka-kerala-factually-incorrect-mha-890513.html)){{< /sidenote >}}
 
 > claiming presence of 'significant numbers' of ISIS terrorists in Kerala and Karnataka, is factually not correct. The Government continuously takes necessary measures to put forth India's correct position through established mechanism in unequivocal and categorical terms at various international, multilateral and bilateral fora and also through diplomatic channels.
 
@@ -105,11 +113,15 @@ Put in other words, if Kerala and Karnataka do not even have 'significant number
 
 The other aspect to be understood is passport ownership. A 2017 report from the Ministry of External Affairs said that the passport ownership in India stood at 5.15%.{{< sidenote businesstodayOnlyCentIndia2017 >}}Only 5.5 per cent of India's population have passports: report ([Business Today](https://www.businesstoday.in/latest/economy-politics/story/passport-seva-project-passport-seva-kendra-mea-data-passports-85474-2017-07-24)){{< /sidenote >}} Even if one argued that the percentage had somehow doubled in the last six years and stood at 10%, we are still looking at a small number of passport holders.
 
-If one argued that all these people left the country on fake passports and visas, there is absolutely no way in this connected world that the numbers surpassed the legitimate passport holders. That would kick off alarm bells everywhere, not just India.
+If one stretched it that all these people left the country on fake passports and visas, there is absolutely no way in this connected world that the numbers surpassed the legitimate passport holders. That would kick off alarm bells everywhere, not just India.
 
-Superimposing this number on the young women population of Kerala---which stands at 4.3 million---the number of young Keralite women holding passports would be around 221,450. Kasaragod would be much lower at 8858. 32,000 out of 8858 women ... oh, wait. For this math to work, the rate of passport ownership among young women in Kerala would have to be at least about 18.6%, and _all_ of these women would have to convert to Islam and join the ISIS---and travel.
+Superimposing this number on the young women population of Kerala---which stands at 4.3 million---the number of young Keralite women holding passports would be around 221,450. Kasaragod would be much lower at 8858. 32,000 out of 8858 women ... oh, wait.
+
+For this math to work, the rate of passport ownership among young women in Kerala would have to be at least about 18.6%, and _all_ of these women would have to convert to Islam and join the ISIS---and travel.
 
 Granted that passport ownership does seem to be the highest among students and among people whose income is above the poverty line, still, what are the odds?
+
+Also, those above the poverty line are more likely to involve the concerned officials and push for enquiries. This is a wrong group to target, if you ask me.
 
 ## Let us talk conversions
 
@@ -131,11 +143,13 @@ What will banning the film achieve, you may ask. 'People will circulate the film
 
 But ask any producer if they would be willing to pump money into a film that gets banned but circulated on the Web for free.
 
-We must understand, at least after _The Kashmir Files_ and _The Kerala Story_, that these films get made because of the money they make. These are easy wins. They have nothing to do with the communities they claim to represent. These films get made and earn well on the Box Office, political parties that can gain from such films will utilise them to their advantage, the producers will be happy, the politicians will be happy, the audience will feel entertained and walk out of the theatres with their blood boiling. But the communities who need a voice will continue to be ignored. Neither the politicians will do anything about it, nor the film-makers will do anything about it (because, ‘What more can film makers do?’), nor will the people hold the government accountable.
+We must understand, at least after _The Kashmir Files_ and _The Kerala Story_, that these films get made because of the money they make. These are easy wins. They have nothing to do with the communities they claim to represent. These films get made and earn well on the Box Office; political parties that can gain from such films will utilise them to their advantage; the producers will be happy, the politicians will be happy, the audience will feel entertained and walk out of the theatres with their blood boiling. But the communities who need a voice will continue to be ignored. Neither the politicians, nor the film-makers will do anything about it (because, ‘What more can film makers do?’), nor will the people hold the government accountable.
 
 It is happening with the Kashmiri Pandits, it will happen to the girls that get converted and sent to Syria for sex slavery. Not just from Kerala, but across India. That part will not change. There will be promises made about these changes, but nothing will happen on the ground.
 
-What will also happen is that one section of the society will alienate another for no good reason.
+What _will_ happen, though, is that one section of the society will alienate another for no good reason.
+
+Note that in cases like conversions, the administration alone cannot possibly do much more than creating laws and putting in place an efficient law enforcement.
 
 ## The ₹150 lesson
 
