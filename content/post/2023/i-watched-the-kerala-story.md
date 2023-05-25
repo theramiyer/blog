@@ -57,11 +57,11 @@ Common sense would make us think that the parents would immediately file a case 
 
 If the child gets converted to Islam and gets sent to Syria, that would be after the child cuts all ties with the parents. The parents helplessly accept it, because at the end of the day, every parent wants their child to be happy---even at the cost of the parents' unhappiness.
 
-Now that the child has cut ties with the parents, the parents have no way to know where the child is. The girl could be taken to Colombo (which the parents may know), but then where she goes from there is unknown to the girl, even. The girl gets brainwashed to not tell her parents that she is going to Syria. Because, obviously, the parents would get anxious about it all. Everyone knows what happens in Syria (and Iraq).
+Now that the child has cut ties with the parents, the parents have no way to know where the child is. The girl could be taken to Colombo (which the parents may know), but then where she goes from there is unknown to the girl, even. The girl gets brainwashed to not tell her parents that she is going to Syria. Because, obviously, the parents would get anxious about it all. Everyone knows what happens in Syria (and Iraq). Right?
 
 The Muslim men, after a point, take away the girls' cell phones saying Sharia does not allow women to have cell phones. As rightly pointed out by Shalini in the film, "there was no cell phone when Sharia was written". But then, as the film points out, the husband's word is the wife's command in Islam (and other religions).
 
-The girl, during her indoctrination, gets detached from her family. The family hearing from the girl becomes a rare occurrence. The child's happiness is paramount, so, they leave it at that, because they feel, their child is happy where she is. And this way, the girls disappear.
+The girl, during her indoctrination, gets detached from her family. The family hearing from the girl becomes a rare occurrence. The child's happiness is paramount, so, they leave it at that, because they feel, their child is happy where she is. Because that’s what parents are: naïve and superhuman. And this way, the girls disappear.
 
 ## A case against the numbers in the film
 
