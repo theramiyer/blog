@@ -20,3 +20,16 @@ I will be talking about it all from the technical sense first (my having been a 
 ## The Technical Aspect
 
 The accident took place near a station called Bahanaga Bazar, in the Balasore (or Baleshwar) district of Odisha. As you may have already read, the Chennai-bound Coromandel Express (or Hospital Express, as it is popularly called) entered the loop line at the speed of 128 km/h, crashing straight into the parked freight train carrying iron ore. Of course, apart from derailing, it crashed, and the coaches got strewn around because of the impact. The last few coaches of the Howrah-bound Yeshwanthapura--Howrah express got hit in the process, and that derailed as well. A tragic triple-train crash.
+
+“How did something like this happen in 2023?” was the first question in the minds of a lot of us. It kindled a discussion on railway safety. And threw light on the deficiencies in the Indian Railways. I would not be surprised if the CAG report on derailments suddenly became one of the most downloaded audit reports in the country, that day.
+
+I did read some articles on the Web about interlocking systems and loop lines, but did not see enough information out there. I think it would be better if I add some here.
+
+### A loop line
+
+A loop line, as you know by now, is a segment of railway track that branches out of the “main” line and comes back into it. Trains use these when they have to leave way for other trains to pass. Typically these are used by freight trains, but not necessarily them alone.
+
+Technically, these loop lines are 650m long by standard, and can hold exactly one train in them. This is a crucial point, as we discuss the other components.
+
+The two loop lines here were occupied by two freight trains, as far as my understanding goes. Both the passenger trains were superfast expresses, and they obviously had higher “precedence”. (Which is why the freight trains had to go into the loop lines.) “Precedence” is a way of saying which train gets preference on a certain line.
+
