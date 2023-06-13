@@ -1,6 +1,6 @@
 ---
 title: "Do you know Indian Trains"
-subtitle: Part 1 of the Odisha triple train tragedy series
+subtitle: Part 1 of the series on the Odisha triple train tragedy
 date: 2023-06-09T10:03:50+05:30
 description: "Understanding how the Railways work is critical to forming an opinion on the train tragedy, because, misunderstanding information can lead to misinformation."
 tags:

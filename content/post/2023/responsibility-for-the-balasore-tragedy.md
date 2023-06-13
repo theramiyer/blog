@@ -1,6 +1,6 @@
 ---
 title: "Responsibility for the Balasore Tragedy"
-subtitle: Part 4 of the Odisha triple train tragedy series
+subtitle: Part 4 of the series on the Odisha triple train tragedy
 date: 2023-06-12T10:05:38+05:30
 description: Who is responsible for the tragedy? Indian Railways? The government? The people? Or that odd ...
 tags:

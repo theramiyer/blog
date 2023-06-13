@@ -1,6 +1,6 @@
 ---
 title: "The Politics of the Balasore Tragedy"
-subtitle: Part 3 of the Odisha triple train tragedy series
+subtitle: Part 3 of the series on the Odisha triple train tragedy
 date: 2023-06-11T10:04:39+05:30
 description: What are the political issues around the Balasore tragedy? Shouldn't Ashwini Vaishnaw resign on moral grounds?
 tags:
