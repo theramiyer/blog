@@ -12,6 +12,8 @@ tags:
 
 This is a part of the series on the Balasore triple-train tragedy. In the previous parts, we looked at the different technical aspects of the Indian Railways, the audit observations from the CAG report, which pointed out the areas that need significant improvements, and looked at the politics of the matter.
 
+{{< toc >}}
+
 If you did not read the the previous parts, I suggest you do:
 
 - [Do you know Indian trains]({{< ref "do-you-know-indian-trains.md" >}})
@@ -20,9 +22,13 @@ If you did not read the the previous parts, I suggest you do:
 
 Getting to the part where everyone in the know is asking, 'Who is responsible for this tragedy?' I say, I am more concerned about the accountability aspect of this rather than the responsibility.
 
+## Handling of the case
+
 There has not been too much finger-pointing in this matter, which is surprising given how we typically react to these situations. But there still are questions to be answered. The Railway Board and the Ministry of Civil Aviation (yes) usually head these investigations. The Railway Board reports to the Ministry of Railways, while the Commissioner of Railway Safety under the Ministry of Civil Aviation oversees the safety system in Railways.
 
 In this particular case, the CBI has been involved. Which is unusual. Does *criminal negligence* in the Railways come under the purview of the CBI? Or is there more here than meets the eye?
+
+## Inconsistencies
 
 But this case is not open-and-shut either. The Railway Board said in its statement that they spoke to one of the loco pilots, and he said that the signal was green when they entered the loop line. Which meant that the pilots could go forward at their "permissible speed". But if the switch was set to the loop line, the signal should not have been green; it should have been yellow, which indicates "proceed with caution" or "proceed with restricted speed", which is appropriate for a loop line.
 
@@ -35,6 +41,8 @@ Right after the tragedy, a probe panel was set up with five members. They submit
 The dissenting SSE also notes that the point of derailment was the Level Crossing before the point. But experts disagree with this, as a derailment at the level crossing would be evident. The officials, reportedly, said that the train log "clearly shows it *entered the loop at 128 kmph* and went to zero within seconds" (emphasis mine). There have been mentions of criminal involvement, while sabotage is ruled out. A suspicion for criminal involvement does explain the case being handed over to the CBI, but that also seems to have happened in haste, as pointed out by some in the know of the process.
 
 Overall, there is still fog over the situation, and more will become clear as more data comes out.
+
+## A possible precedent
 
 Interestingly, not all is hunky-dory with fail-safe interlocking systems, as pointed out by an official of the South Western Railway:{{< sidenote sOdishaAccidentSenior2023 >}}Senior official flagged serious flaws in Indian Railways’ signalling system in February ([The Hindu](https://www.thehindu.com/news/national/odisha-accident-senior-official-had-alerted-railway-on-serious-flaws-in-signalling-system/article66930016.ece)){{< /sidenote >}} {{< sidenote southwesternrailwaySeriousUnsafeIncident2023 >}}Serious Unsafe incident happened at Hosadurga Road station of Birur-Chikjajur section of Mysore division on 08.02.2023, involving Train, no: 12649 Sampark kranti Express, leading to condition for averted head on collision with down goods train (BTPN Empty Rake). ([SWR / The Hindu](https://www.thehindu.com/incoming/66931088-Railways-February-warning)){{< /sidenote >}}
 

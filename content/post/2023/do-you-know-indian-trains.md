@@ -82,7 +82,7 @@ This is so that even in case of a danger, like a train being stationary on the s
 
 Every section has its signal, whose indication depends on the conditions of the sections ahead.
 
-## The on condition
+## The "on" condition
 
 I said that fail-safe systems go to their most restrictive state when "on". The "on" condition, here, means nothing but the default state---the state in the absence of any input or in the presence of an error. Which means, unless someone (or something) changes the state of the signal, it would be in its "default state". Fail-safe systems have the default state of highest restriction; a section signal will always show "stop". Someone (or something) must change its state to "proceed" for it to show proceed; if you do not ask it to do anything, it would show "stop".
 

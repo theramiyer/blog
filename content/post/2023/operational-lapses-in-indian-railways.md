@@ -18,6 +18,8 @@ If you did not read the the previous part, I suggest you do:
 
 In this part ... well, everyone is talking of the CAG audit report; why not us?
 
+{{< toc >}}
+
 I went through the report except the Appendix, barring the odd page here or there, which I felt did not cover the topic of focus. One point writ large is deficiency.
 
 But let us break it down here.
@@ -40,15 +42,15 @@ Third, the actual bookings. The RRSK had a set prioritisation principles of fund
 
 The Audit observes, "vouchers involving a money value ₹2,995.58 crore, bookings of expenditure to RRSK which do not come under the purview of Priority I, II or III were noticed". The expenditure, reportedly, also rose in the low priority areas, while those in the high priority areas reduced. Because of *paucity of funds*, track renewals have been coming down in the last six years. (289 derailments may have been prevented had these tracks been renewed on time.)
 
-Why is track renewal necessary? Because thousands of wheel sets running over them cause them to wear. As the track wears, the less efficient it becomes in its areas of work: traction (friction that facilitates movement of the wheels on the tracks), stability, level, etc. A worn out track is dangerous.
+Why is track renewal necessary? Thousands of wheel sets running over them cause them to wear. As the track wears, the less efficient it becomes in its areas of work: traction (friction that facilitates movement of the wheels on the tracks), stability, level, etc. Worn out tracks are dangerous.
 
-Lack of timely approvals, misallocation of funds, miscategorisation of bookings, etc., have all led to this decline in safety, partially defeating the purpose of the conception of a fund dedicated to safety.
+Lack of timely approvals, misallocation of funds, miscategorisation of bookings, etc., have all led to this decline in safety, partially defeating the purpose of the conception of a fund dedicated to it.
 
 ## Unfulfilled vacancies
 
 To ensure safety, there should be regular maintenance and inspection at the minimum. Both these need workforce. In absence of the required workforce, these works will suffer. The audit report says that there was a 30% to 100% lapse in track inspection. Lack of inspection directly affects the performance of maintenance.
 
-When you look at it from the standpoint that there was a 9% to 26% deficiency in track maintenance workforce, you get a picture of what is going on. On the one hand, we have railway job aspirants protesting{{< ref "the-problem-with-government-jobs.md" >}} about the lack of recruitment, on the other, you have so many vacancies not being filled.
+Looking at it from the standpoint that there was a 9% to 26% deficiency in track maintenance workforce, you get a picture of what is going on. On the one hand, we have [railway job aspirants protesting]({{< ref "the-problem-with-government-jobs.md" >}}) about the lack of recruitment, on the other, you have so many vacancies not being filled.
 
 ## Training deficiencies
 
@@ -72,7 +74,7 @@ Indian Railways has been failing in recording and sharing information. This is w
 
 The module responsible for reporting of the detailed analysis of accidents to the Chief Safety Officer was *not even implemented* in the software by the time the report came out. Why? Any logical agency would categorise this as a core capability of such software, but implementation of this functionality is pending at least until 2022. (The current status is unknown to the public.)
 
-### Lack standards in some areas
+### Lack of standards in some areas
 
 When you set out for an inspection, you set up a certain criteria for when something is considered adequate. For example, when I was in school, the criteria for passing the internal exams was a minimum 40% score. There is *no set criteria* in Indian Railways, as to how many inspections should be done for a certain part of the line. How can this be the case in one of the largest railway networks in the world, in the twenty-first century? The Indian Railways are over 150 years old. How can we still not know what number of inspections per how much of the railways is considered adequate? This way, a zone can perform three inspections in a year, and nobody can tell them that the number of inspections done was insufficient!
 
@@ -98,9 +100,9 @@ Secondly, there is a Swiss Cheese model of accident barriers in place, though no
 
 When each of these barriers fail to arrest an accident, an accident an occur. While three accidents per hundred million train kilometres is not a bad record, the Indian Railways should focus on its Vision 2020, which wants to make railway operations free of accidents.
 
-Of all the accidents that did lead to fatalities, most of them were because of either people being run over by trains, or involved people falling off of trains. Fatalities due to crashes or derailments were a much smaller number.
+Of all the accidents that did lead to fatalities, most of them were because of either people being run over by trains, or involved people falling off of trains. Fatalities due to crashes or derailments were a smaller number.
 
-Despite the shortcomings, Indian Railways are much safer to travel, as of today. If you look at the table below, you will see a decline in the number of accidents:
+Despite the shortcomings, Indian Railways were safe enough to travel, as of 2022. If you look at the table below, you will see a decline in the number of accidents:
 
 | Year     | Accidents |
 | :------- | --------: |
