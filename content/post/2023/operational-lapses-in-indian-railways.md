@@ -2,7 +2,7 @@
 title: "Operational Lapses in Indian Railways"
 subtitle: Part 2 of the Odisha triple train tragedy series
 date: 2023-06-10T10:05:11+05:30
-description:
+description: The CAG report, yes. What lapses could have led to this serious tragedy? How is this related to the Railway job aspirants' protest?
 tags:
 - travel
 - governance
