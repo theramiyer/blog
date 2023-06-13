@@ -47,43 +47,47 @@ The "turnouts", are speed-graded as well. How? Depending on their deviation from
 
 A switch is the arrangement of the tracks and other machinery at the turnout, which direct the trains (or "switch" them between the main line and the loop line---or other lines).
 
-Given that turnouts change the direction of heavy rolling metal (trains), the trains must pass them carefully, when the switch is set into the turnout. Even a 1 in 24 curved switch turnout allows a maximum speed of 30 km/h.{{< sidenote indianrailwaysIndianRailwaysPermanent2020 >}}Indian Railways Permanent Way Manual ([Indian Railways](https://indianrailways.gov.in/railwayboard/uploads/directorate/prd/PR/IRPWM2020.pdf)){{< /sidenote >}} Although turnouts on some stretches do allow higher speeds because of the way they are built,{{< sidenote IRFCAIndianRailways >}}Permanent Way ([IRFCA](https://www.irfca.org/faq/faq-pway.html)){{< /sidenote >}} no train is safe taking a turnout at 128 km/h. Which means, even if the loop line were clear, the train was likely to have derailed.
+Given that turnouts change the direction of boxes made of tonnes of metal (trains), the trains must pass them carefully, when the switch is set into the turnout. Even a 1 in 24 curved switch turnout allows a maximum speed of 30 km/h.{{< sidenote indianrailwaysIndianRailwaysPermanent2020 >}}Indian Railways Permanent Way Manual ([Indian Railways](https://indianrailways.gov.in/railwayboard/uploads/directorate/prd/PR/IRPWM2020.pdf)){{< /sidenote >}} Although turnouts on some stretches do allow higher speeds because of the way they are built,{{< sidenote IRFCAIndianRailways >}}Permanent Way ([IRFCA](https://www.irfca.org/faq/faq-pway.html)){{< /sidenote >}} no train is safe taking a turnout at 128 km/h. Which means, even if the loop line were clear, the train was likely to have derailed.
 
-What is a "1 in 24 curved switch turnout", you ask? Turnout here means what it sounds like: a turn outwards from the main line. A curved switch is basically how the switch deviates---the turn is a curve rather than a sharp cut away from the main line and into the loop line. A curved turnout results in a much smoother turn, which is safer than a sharp turnout. 1 in 24 here means that the train goes 1 metre away from the main line for every 24 metres it travels on the loop line. Typically, a curved turnout allows for slightly better speeds than their sharp counterparts.
+What is a "1 in 24 curved switch turnout", you ask? Turnout here means what it sounds like: a turn out of the main line. A curved switch is basically how the switch deviates---the turn is a curve rather than a sharp cut away from the main line and into the loop line. A curved turnout results in a much smoother turn, which is safer than a sharp turnout. 1 in 24 here means that the train goes 1 metre away from the main line for every 24 metres it travels on the loop line. Typically, a curved turnout allows for slightly better speeds than their sharp counterparts.
 
-### Precedence
+{{< figure src="https://blogfiles.ramiyer.me/2023/images/curved-turnout.jpg" alt="A curved switch turnout" caption="A curved switch turnout" >}}
 
-The two loop lines here were occupied by two freight trains. Both the passenger trains were superfast expresses, and they obviously had higher “precedence”. (Which is why the freight trains had to go into the loop lines.) “Precedence” is a way of saying which train gets preference on a certain line.
+## Precedence
 
-### A Point Machine
+The two loop lines here were occupied by two freight trains. Both the passenger trains were superfast expresses, and they obviously had higher “precedence”. (Which is why the freight trains had to go into the loop lines.) “Precedence” is a way of saying which train gets preference on a certain line. Relief trains (accident relief trains, for example) have the highest precedence. Their precedence is higher than even the President's and the VVIP Special trains. Third preference goes to the suburban trains in peak hours. Fourth come the superfast trains such as the Rajdhani, the Shatabdi, the Vande Bharat, etc.
 
-As you may know by now, a Point Machine is that arrangement that switches between the main line and the loop line. This could be purely mechanical (which would require someone to go there and make the switch), or electrically controlled (which it usually is these days), or electronically controlled (which this point machine at Bahanaga Bazar was).{{< sidenote sumedaExplainedHowDoes2023 >}}Explained \| How does the rail interlocking rail system ([The Hindu](https://www.thehindu.com/news/national/explained-what-is-the-electronic-interlocking-system-in-railways/article66933809.ece)){{< /sidenote >}}
+Among the general use trains, freight trains have the lowest precedence.
 
-### Interlocking system
+## A Point Machine
 
-When it comes to managing a high-speed multi-thousand-tonne heavy machinery (a train, in this case) on smooth railway tracks, there needs to be a lot of forethought, and many pieces of the system should work in unison. For example, when the point machine points the train to the main line, the signal at the end of the loop line should be red, indicating to the train on the loop line that it does not have the clearance to enter the main line just yet. If there is a level crossing, the boom arm must be lowered to ensure that no road vehicle enters the track. The block (explained below) behind should have a red signal, the one before that must have at least a yellow, the one before must have have at least yellow-yellow and the one before may have a green, and so on. Also, the signal for the main line must be green _only_ if the point machine is pointing to the main line and at least three blocks in front are clear of trains, _and_ if the main line is safe for the train to travel at the maximum track speed in other aspects.
+As you may know by now, a Point Machine is that arrangement that flips the switch between the main line and the loop line. This could be purely mechanical (which would require someone to go there and make the switch), or electrically controlled (which it usually is these days), or electronically controlled (which this point machine at Bahanaga Bazar was).{{< sidenote sumedaExplainedHowDoes2023 >}}Explained \| What is the electronic interlocking system in railways? ([The Hindu](https://www.thehindu.com/news/national/explained-what-is-the-electronic-interlocking-system-in-railways/article66933809.ece)){{< /sidenote >}}
+
+## Interlocking system
+
+When it comes to managing a high-speed multi-thousand-tonne heavy machinery on smooth railway tracks, there needs to be a lot of forethought, and many pieces of the system should work in unison. For example, when the point machine points the train to the main line, the signal at the end of the loop line should be red, indicating to the train on the loop line that it does not have the clearance to enter the main line just yet. If there is a level crossing, the boom arm must be lowered to ensure that no road vehicle enters the track. The block (explained below) behind should have a red signal, the one before that must have at least a yellow, the one before must have have at least yellow-yellow and the one before may have a green, and so on. Also, the signal for the main line must be green _only_ if the point machine is pointing to the main line and at least three blocks in front are clear of trains, _and_ if the main line is safe for the train to travel at the maximum track speed in other aspects.
 
 This is called interlocking.
 
 These systems are made "fail-safe", which means, they go to their most restrictive state when in "on" condition (also explained below).
 
-### A section (or a block)
+## A section (or a block)
 
-A railway line, in general between two stations, is divided into a few segments, called "sections" (terms like Section Engineer, comes from this). Some railways also call these segments as "blocks". A section is typically at least as long as the maximum braking distance for the fastest train on that line. This means, if the line carries a train whose maximum speed is 160 km/h, and the train is made up of only LHB coaches with, say, the Knorr Bremse air brakes, the section length will be at least 1200 m (or 1.2 km) long.
+A railway line between two stations, in general, is divided into a few segments, called "sections" (terms like Section Engineer, comes from this). Some railways also call these segments as "blocks". A section is typically at least as long as the maximum braking distance for the fastest train on that line. This means, if the line carries a train whose maximum speed is 160 km/h, and the train is made up of only LHB coaches with, say, the Knorr Bremse air brakes, the section length will be at least 1200 m (or 1.2 km) long.
 
 This is so that even in case of a danger, like a train being stationary on the same line in the next section, this train can come to a stop without colliding with the stationary train.
 
-Every block has its signal, whose indication depends on the conditions of the sections ahead.
+Every section has its signal, whose indication depends on the conditions of the sections ahead.
 
-### The on condition
+## The on condition
 
-I said that fail-safe systems go to their most restrictive state when "on". The "on" condition, here, means nothing but the default state. Meaning, the state in the absence of any input or in the presence of an error. Which means, unless someone (or something) changes the state of the signal, it would be in its "default state". Fail-safe systems have the default state of highest restriction. This means, a block signal will always show "stop". Someone (or something) must change its state to "proceed" for it to show proceed; if you do not ask it to do anything, it would show "stop".
+I said that fail-safe systems go to their most restrictive state when "on". The "on" condition, here, means nothing but the default state---the state in the absence of any input or in the presence of an error. Which means, unless someone (or something) changes the state of the signal, it would be in its "default state". Fail-safe systems have the default state of highest restriction; a section signal will always show "stop". Someone (or something) must change its state to "proceed" for it to show proceed; if you do not ask it to do anything, it would show "stop".
 
-If the operation of switching it to "proceed", either manually or automatically (say, by the throw of the point machine) fails, the fail-safe system will go to its most restrictive state. In case of a section signal, this is usually "stop". The interlocking system should have examined its state based on inputs from all its components, locked the components in that position, and determined the passage to be safe. Only if _all those conditions_ are met, the signal turns green.
+If the operation of switching it to "proceed", either manually or automatically (say, by the throw of the point machine) fails, the fail-safe system will go to its most restrictive state. In case of a section signal, this is usually "stop". The interlocking system should have examined its state based on inputs from all its components, locked the components in those positions, and determined the passage to be safe. Only if _all those conditions_ are met, the signal turns green.
 
 Electronic interlocking systems are superior technology in this regard, because they have better sensing, logging, and alerting available. The probability of these systems failing is extremely low, much lower than the conventional electrical systems, which in turn is much lower than the manual systems.
 
-### Speed and braking (and Kavach)
+## Speed and braking (and Kavach)
 
 One of the first claims to come out when this collision (and derailment) happened was that had the Kavach system been there, this collision could have been averted.
 
@@ -108,16 +112,27 @@ Even if the freight train was absent on the loop line:
 1. The Coromandel Express would have derailed because of the switch position.
 2. It would have not come to a stop even within the loop line had the loco pilot tried to brake to prevent the derailment. The train would have derailed at the end of the loop line any way.
 
+Also, add the human reaction time to it. By the time the pilots realised that the train had somehow taken the loop line, two seconds would have passed after the collision.
+
 Nothing in this world could have stopped the derailment of this train at that speed with that track configuration. Not even a miracle. Simple mechanics would have _ensured_ the derailment of the train.
 
-### Speed of trains
+Outside of the film industry, the laws of physics exist, and they act consistently across the universe.
+
+## Speed of trains
 
 You may have understood by now that merely the power of the locomotive engine does not determine the speed of the train. This is why the Vande Bharat, even though designed for 160 km/h, cannot take us from Chennai to Bangalore in 2:15 hours---it takes a solid 4:25 hours. I have never noticed its speed go beyond 117 km/h. Also, it rarely hit the speed of 115 km/h.
 
-Everything from the type of rail (52 kg/m or 60 kg/m), the kind of error allowed on the switches, to the sleepers used, to the kind of welding done, to whether any maintenance activity is going on and on what stretch, the presence of bridges (and their construction type), to other trains on the line, there is a lot that goes into determining which speed "group" a line falls under. This grouping tells you what speed the line supports. The line on which the accident took place may be a Group B line, allowing speeds up to 130 km/h---the line was safe for trains to travel at speeds up to 130 km/h.
+Everything from the density of the rail (52 kg/m or 60 kg/m),{{< sidenote weight >}}Yes, density is measured in kg/m<sup>3</sup>; kg/m is a non-standard but easier unit to use for this context. Why? Because the cross-sectional areas of a 52 kg/m track and a 60 kg/m track are exactly the same.{{< /sidenote >}} the kind of error allowed on the switches, to the sleepers used, to the kind of welding done, to whether any maintenance activity is going on and on what stretch, the presence of bridges (and their construction type), to other trains on the line, there is a lot that goes into determining which speed "group" a line falls under. This grouping tells you what speed the line supports. The line on which the accident took place may be a Group B line, allowing speeds up to 130 km/h---the line was *safe* for trains to travel at speeds up to 130 km/h.
 
 Again, railways are designed for speed. A higher speed does not necessarily mean lower safety.
 
-In fact, the technical folk in the railways would argue the opposite: tracks supporting higher speeds are safer, because they have a higher standard of construction, and adhere to more stringent norms with smaller room for error. The bogies and the coaches (bogies are those blocks that have the suspensions, brakes and the wheels; coaches are what people and freight occupy---do not confuse the two) are designed for better stability and comfort on high-speed trains.
+In fact, the technical folk in the railways would argue the opposite: tracks supporting higher speeds are safer, because they have a higher standard of construction, and adhere to more stringent norms with smaller room for error. The bogies and the coaches (bogies are those blocks that have the suspensions, brakes and the wheels; coaches are what people and freight occupy) are designed for better stability and comfort on high-speed trains.
 
 Back when I was in school, I would feel myself swaying for almost half a day at home, after finishing a 36-hour journey by train. It does not happen these days, not because I've grown older, but because the coaches and lines have gotten that much better.
+
+With all this information, let us move on to the Balasore train tragedy:
+
+- [Do you know Indian trains]{{< ref "do-you-know-indian-trains.md" >}}
+- [Operational Lapses in Indian Railways]({{< ref "operational-lapses-in-indian-railways.md" >}})
+- [The politics of the Balasore tragedy]({{< ref "the-politics-of-the-balasore-tragedy.md" >}})
+- [Responsibility for the Balasore tragedy]({{< ref "responsibility-for-the-balasore-tragedy.md" >}})
