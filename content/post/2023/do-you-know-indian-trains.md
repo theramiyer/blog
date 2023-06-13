@@ -1,10 +1,13 @@
 ---
 title: "Do you know Indian Trains"
-subtitle: "are you sure?"
+subtitle: Part 1 of the Odisha triple train tragedy series
 date: 2023-06-09T10:03:50+05:30
-description:
+description: "Understanding how the Railways work is critical to forming an opinion on the train tragedy, because, misunderstanding information can lead to misinformation."
 tags:
-draft: true
+- travel
+- governance
+- employment
+- politics
 ---
 
 I have, like millions of Indians out there, been travelling long distances by the Indian Railways since infancy---since I was about six months old. And over these past three decades, I have read about tens of crashes including derailments. Even seen that odd wreckage during my train journeys.
@@ -51,7 +54,7 @@ Given that turnouts change the direction of boxes made of tonnes of metal (train
 
 What is a "1 in 24 curved switch turnout", you ask? Turnout here means what it sounds like: a turn out of the main line. A curved switch is basically how the switch deviates---the turn is a curve rather than a sharp cut away from the main line and into the loop line. A curved turnout results in a much smoother turn, which is safer than a sharp turnout. 1 in 24 here means that the train goes 1 metre away from the main line for every 24 metres it travels on the loop line. Typically, a curved turnout allows for slightly better speeds than their sharp counterparts.
 
-{{< figure src="https://blogfiles.ramiyer.me/2023/images/curved-turnout.jpg" alt="A curved switch turnout" caption="A curved switch turnout" >}}
+{{< figure src="https://blogfiles.ramiyer.me/2023/images/curved-turnout.jpg" alt="A curved switch turnout" caption="A curved switch turnout. Notice how it nicely curves out of the main line and curves into the loop (platform) line." >}}
 
 ## Precedence
 
@@ -122,7 +125,7 @@ Outside of the film industry, the laws of physics exist, and they act consistent
 
 You may have understood by now that merely the power of the locomotive engine does not determine the speed of the train. This is why the Vande Bharat, even though designed for 160 km/h, cannot take us from Chennai to Bangalore in 2:15 hours---it takes a solid 4:25 hours. I have never noticed its speed go beyond 117 km/h. Also, it rarely hit the speed of 115 km/h.
 
-Everything from the density of the rail (52 kg/m or 60 kg/m),{{< sidenote weight >}}Yes, density is measured in kg/m<sup>3</sup>; kg/m is a non-standard but easier unit to use for this context. Why? Because the cross-sectional areas of a 52 kg/m track and a 60 kg/m track are exactly the same.{{< /sidenote >}} the kind of error allowed on the switches, to the sleepers used, to the kind of welding done, to whether any maintenance activity is going on and on what stretch, the presence of bridges (and their construction type), to other trains on the line, there is a lot that goes into determining which speed "group" a line falls under. This grouping tells you what speed the line supports. The line on which the accident took place may be a Group B line, allowing speeds up to 130 km/h---the line was *safe* for trains to travel at speeds up to 130 km/h.
+Everything from the density of the rail (52 kg/m or 60 kg/m),{{< sidenote weight >}}Yes, density is measured in kg/m³; kg/m is a non-standard but easier unit to use for this context. Why? Because the cross-sectional areas of a 52 kg/m track and a 60 kg/m track are exactly the same.{{< /sidenote >}} the kind of error allowed on the switches, to the sleepers used, to the kind of welding done, to whether any maintenance activity is going on and on what stretch, the presence of bridges (and their construction type), to other trains on the line, there is a lot that goes into determining which speed "group" a line falls under. This grouping tells you what speed the line supports. The line on which the accident took place may be a Group B line, allowing speeds up to 130 km/h---the line was *safe* for trains to travel at speeds up to 130 km/h.
 
 Again, railways are designed for speed. A higher speed does not necessarily mean lower safety.
 

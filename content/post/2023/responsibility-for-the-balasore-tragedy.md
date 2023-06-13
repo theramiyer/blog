@@ -1,17 +1,20 @@
 ---
 title: "Responsibility for the Balasore Tragedy"
-subtitle:
-date: 2023-06-13T10:05:38+05:30
+subtitle: Part 4 of the Odisha triple train tragedy series
+date: 2023-06-12T10:05:38+05:30
 description:
 tags:
-draft: true
+- travel
+- governance
+- employment
+- politics
 ---
 
 This is a part of the series on the Balasore triple-train tragedy. In the previous parts, we looked at the different technical aspects of the Indian Railways, the audit observations from the CAG report, which pointed out the areas that need significant improvements, and looked at the politics of the matter.
 
 If you did not read the the previous parts, I suggest you do:
 
-- [Do you know Indian trains]{{< ref "do-you-know-indian-trains.md" >}}
+- [Do you know Indian trains]({{< ref "do-you-know-indian-trains.md" >}})
 - [Operational Lapses in Indian Railways]({{< ref "operational-lapses-in-indian-railways.md" >}})
 - [The politics of the Balasore tragedy]({{< ref "the-politics-of-the-balasore-tragedy.md" >}})
 

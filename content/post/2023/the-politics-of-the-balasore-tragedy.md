@@ -1,17 +1,20 @@
 ---
 title: "The Politics of the Balasore Tragedy"
-subtitle:
-date: 2023-06-13T10:04:39+05:30
+subtitle: Part 3 of the Odisha triple train tragedy series
+date: 2023-06-11T10:04:39+05:30
 description:
 tags:
-draft: true
+- travel
+- governance
+- employment
+- politics
 ---
 
 This is a part of the series on the Balasore triple-train tragedy. In the previous parts, we looked at the different technical aspects of the Indian Railways, as well as the audit observations from the CAG report, that are relevant to the context.
 
 If you did not read the the previous parts, I suggest you do:
 
-- [Do you know Indian trains]{{< ref "do-you-know-indian-trains.md" >}}
+- [Do you know Indian trains]({{< ref "do-you-know-indian-trains.md" >}})
 - [Operational Lapses in Indian Railways]({{< ref "operational-lapses-in-indian-railways.md" >}})
 
 As usual in our country, our politicians picked up the first opportunity available to politicise the tragedy, and as they say, did their own things. From the "ruling" party to the opposition, nobody left a stone unturned after the customary condolences.

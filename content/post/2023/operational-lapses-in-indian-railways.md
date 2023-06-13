@@ -1,17 +1,20 @@
 ---
 title: "Operational Lapses in Indian Railways"
-subtitle:
-date: 2023-06-13T10:05:11+05:30
+subtitle: Part 2 of the Odisha triple train tragedy series
+date: 2023-06-10T10:05:11+05:30
 description:
 tags:
-draft: true
+- travel
+- governance
+- employment
+- politics
 ---
 
 This is a part of the series on the Balasore triple-train tragedy. In the previous part, we looked at the different technical aspects of the Indian Railways, that are relevant to the context. The part explains each of the terms you may come across when reading any story regarding the Balasore train tragedy.
 
 If you did not read the the previous part, I suggest you do:
 
-- [Do you know Indian trains]{{< ref "do-you-know-indian-trains.md" >}}
+- [Do you know Indian trains]({{< ref "do-you-know-indian-trains.md" >}})
 
 In this part ... well, everyone is talking of the CAG audit report; why not us?
 
