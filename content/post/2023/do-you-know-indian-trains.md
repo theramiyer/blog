@@ -135,7 +135,6 @@ Back when I was in school, I would feel myself swaying for almost half a day at 
 
 With all this information, let us move on to the Balasore train tragedy:
 
-- [Do you know Indian trains]{{< ref "do-you-know-indian-trains.md" >}}
 - [Operational Lapses in Indian Railways]({{< ref "operational-lapses-in-indian-railways.md" >}})
 - [The politics of the Balasore tragedy]({{< ref "the-politics-of-the-balasore-tragedy.md" >}})
 - [Responsibility for the Balasore tragedy]({{< ref "responsibility-for-the-balasore-tragedy.md" >}})
