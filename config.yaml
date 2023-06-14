@@ -4,6 +4,7 @@ title: Ram’s blog
 theme: typographical
 canonifyURLs: true
 enableRobotsTXT: true
+enableGitInfo: true
 
 params:
   description: For what it’s worth
