@@ -23,13 +23,13 @@ Here is what we will talk about in this part:
 
 As usual in our country, our politicians picked up the first opportunity available to politicise the tragedy, and as they say, did their own things. From the "ruling" party to the opposition, nobody left a stone unturned after the customary condolences.
 
-My stand on politics is simple: Disregard all politicians unless they have significant work to show, done in the interest of our country and our people. Humility and honesty is perhaps too much to ask for from a politician, so, work can be the first priority.
+My stand on politics is simple: Disregard all politicians unless they have significant work to show, done in the interest of our country and our people. Humility and honesty are perhaps too much to ask for from a politician, so, work can be the first priority.
 
 ## Inspection and slogans
 
 I don't dislike Ashwini Vaishnaw as much as I dislike most politicians. I like that he seeks newer technologies and tries to implement them. He may have failed at many levels, but that is tolerable to an extent, at such a scale. While I do not mean to ignore his shortcomings as the head of the Ministry of Railways, I do think he is more competent than many Railway Ministers we have had in the past decade or so.
 
-When he visited the scene, I thought that was normal, and for him not to would have certainly surprised me. But after all the inspection, discussions and the statement, he picked up a megaphone and went, "Bharat Mata ki Jai!" Why? What has this to do with anything in that tragedy? Was he trying to get everyone's morale up that way? Well, news flash: it doesn't work like that. Say that to an army company going into a battlefield, it will work. Say it to the sportspeople leaving for the Olympics, it would work. In this horror, this is not about the country, it is about the hundreds who died, the hundres who were injured. This is a solemn moment, one should be sensitive to these things. I would expect that of a learned minister. Everything from his clothing to his demeanour otherwise, were perfect for the situation. He did not have to go around shouting slogans. I am sorry, the patriot in me disagrees with this kind of display.
+When he visited the scene, I thought that was normal, and for him not to would have certainly surprised me. But after all the inspection, discussions and the statement, he picked up a megaphone and went, "Bharat Mata ki Jai!" Why? What has this to do with anything in that tragedy? Was he trying to get everyone's morale up that way? Well, news flash: it doesn't work like that. Say that to an army company going into a battlefield, it will work. Say it to the sportspeople leaving for the Olympics, it would work. In this horror, this is not about the country, it is about the hundreds who died, the hundreds who were injured. This is a solemn moment, one should be sensitive to these things. I would expect that of a learned minister. Everything from his clothing to his demeanour otherwise, were perfect for the situation. He did not have to go around shouting slogans. I am sorry, the patriot in me disagrees with this kind of display.
 
 ## Setting wrong expectations
 
@@ -46,13 +46,13 @@ Resignations may be a moral high ground. Sure. Sure, it may signal to the future
 1. No Railway Minister who resigned lost his career in the history of Independent India.
 2. Is this really, fully, the Railway Ministry's fault?
 3. Is that fault directly linked to Mr Vaishnaw? Did he personally make a mistake in this accident? What and how?
-4. If he accepts moral responsibility, then his entire team---including the entire Ministry of Railway must resign from their jobs.
+4. If he accepts moral responsibility, then his entire team---including the entire Ministry of Railways must resign from their jobs.
 
 I am not saying he is not at fault. But think about it, what exactly went wrong here? If you say a pointperson failed, then him, his boss, his boss, his boss, and so on, up to the entire Railway Board must resign. What does that achieve anyway? 'Suspend the pointperson!' Okay, but then what? Is the suspension going to make him feel ashamed? When was the last time a suspension made anyone feel ashamed? How do you know s/he is not already ashamed? And what after being ashamed? How is someone's suspension or resignation fixing the problem? Or even, how is it, in any way, acting as a deterrent?
 
 And if Ashwini Vaishnaw steps away, who takes over? How sure are you that s/he is better than Mr Vaishnaw?
 
-Again, is Mr Vaishnaw "_nirdosh_" as they say? No. I say, him and his ministry should own this up. Take responsibility for it and act on it by working to fix all the issues that led to this tragedy. Stepping away is like chickening out. I do not support that. Those that are demanding his resignation, of course, are free to choose their stand, but at least, they should have a solid argument behind what they choose.
+Again, is Mr Vaishnaw "_nirdosh_" as they say? No. I say, him and his ministry should take ownership of this rather than washing their hands off. Act on it by working to fix all the issues that led to this tragedy. Stepping away is like chickening out. I do not support that. Those that are demanding his resignation, of course, are free to choose their stand, but at least, they should have a solid argument behind what they choose.
 
 ## Vande Bharat and faster trains
 
@@ -72,7 +72,7 @@ Oh, and by the way, I hear comments about how even a simple cow manages to damag
 
 But right, Vande Bharat caters to a miniscule portion of the total passengers the Indian Railways carry in a day.
 
-The Indian Railways still cater to those who cannot afford the airlines. And the scale of passenger traffic that the Indian Railways carry are perhaps unimaginable for the airline industry in India anyway.
+The Indian Railways still cater to those who cannot afford even a second class ticket, let alone airlines. And the scale of passenger traffic that the Indian Railways carry are perhaps unimaginable for the airline industry in India anyway.
 
 Like we saw in the previous part, the Indian Railways, in general, must focus on safety of the other trains. And as we read in the previous part, the introduction of the Vande Bharat and its demands will ensure better safety for other trains.
 
