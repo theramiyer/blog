@@ -76,7 +76,7 @@ These systems are made "fail-safe", which means, they go to their most restricti
 
 ## A section (or a block)
 
-A railway line between two stations, in general, is divided into a few segments, called "sections" (terms like Section Engineer, comes from this). Some railways also call these segments as "blocks". A section is typically at least as long as the maximum braking distance for the fastest train on that line. This means, if the line carries a train whose maximum speed is 160 km/h, and the train is made up of only LHB coaches with, say, the Knorr Bremse air brakes, the section length will be at least 1200 m (or 1.2 km) long.
+A railway line between two stations, in general, is divided into a few segments, called "sections" (terms like Section Engineer, come from this). Some railways also call these segments as "blocks". A section is typically at least as long as the maximum braking distance for the fastest train on that line. This means, if the line carries a train whose maximum speed is 160 km/h, and the train is made up of only LHB coaches with, say, the Knorr Bremse air brakes, the section length will be at least 1200 m (or 1.2 km) long.
 
 This is so that even in case of a danger, like a train being stationary on the same line in the next section, this train can come to a stop without colliding with the stationary train.
 
