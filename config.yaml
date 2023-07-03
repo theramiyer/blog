@@ -41,8 +41,6 @@ params:
   plausible:
     enable: true
     domain: blog.ramiyer.me
-    custom_js_domain: analytics.ramiyer.me
-    public_dashboard: true
 
 privacy:
   twitter:
