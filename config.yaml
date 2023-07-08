@@ -57,7 +57,9 @@ Author:
   url: https://ramiyer.me
   twitter: iamramiyer
   facebook: iamramiyer
-  patreon: ramiyer
+  liberapay:
+    username: ramiyer
+    currency: INR
 
 menu:
   main:
