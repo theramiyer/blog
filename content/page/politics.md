@@ -1,0 +1,50 @@
+---
+title: "My Stand on Politics"
+url: /politics/
+---
+
+Some of the articles that I write have a crossover with politics in general, and I felt it important to state my stand on politics. This page gives you a general picture of it, and whenever in doubt, this can guide you the reader, and me the writer, with respect to my biases (or lack of it).
+
+I am an apolitical person. Yes, some, like Akash Banerjee, condemn this kind of stand, and I have seen such disagreement on several platforms, including dating profiles. But regardless of it, I identify myself as apolitical, and I will continue to do so until I find fit. This is my personal stand; nobody (other than me) has a say in it.
+
+I detest all politicians, across party lines, ideologies, economic stand, etc. If you are a politician, I will be wary of you. I will keep my distance with you. And I will not trust you. This is not personal, just that I know politics enough to feel this way. And yes, as I have said in my articles/posts that even if my own grandmother were a politician, I would not trust her, and would keep my distance with her.
+
+While I detest all politicians, I do not blame them for what they are. After all, what they do is the nature of their job. Distrust is the price one pays to keep the job.
+
+I am a trustworthy person, and I do everything I can to not break someone's trust in me. Integrity is a top human quality I value. This is one of the strongest reasons for my detesting politics. Politics disagrees with the core idea of me. It goes against my personality.
+
+I work based on evidence. This makes me change my stand on issues based on what I learn about them over time. Sentiments take the back seat. Yes, being human, I am not perfect, and sentiments are something I am constantly working on (and will continue to, until my last breath). Politics, on the other hand, works purely on sentiments. This, again, is in conflict with my outlook towards life, making me shun politics.
+
+I am an Indian, and India is a democracy. As long as I am an Indian, the Constitution of India will be the guiding document for my life in my country. I do not care what my favourite religious scripture says about an issue that the Constitution also talks about; the Constitution is of higher importance to me in such cases, without a question. Sure, as a citizen of a democratic republic, I have my disagreements with my constitution, but that does not mean I disregard what my constitution says. I may challenge a law, but will not break it even if my favourite religious scripture disagrees with it.
+
+That brings me to where the Constitution of India stands with respect to politics. Political parties are made up of party members. These party members, mostly, are fellow Indians. Popular politicians, today, are generally part of one of these political parties. These political parties choose candidates for elections. These candidates follow their party's line. The party picks issues _it thinks_ matter to the people, and create what is called the _Political Manifesto_, and put it up as their party's promise to the people they offer to represent.
+
+The people pick the parties based on the manifesto, and vote for the candidate that the party fields.
+
+This is how it works today. _But I think this system is broken._ How?
+
+"Democracy" literally means, "rule of the people". It should be the people taking the initiative on what they want, and the political parties should ideally be presenting their take on solving the issues voiced out by the people. The political parties (or actually, their candidate in that constituency) should offer to represent the people of the constituency at the respective assembly.
+
+What happens today is upside down. The political parties are setting the narratives and identifying issues that they want to work on, and offering those to the people. The people then represent these ideas on social platforms (physical and virtual) and campaign for the party of their choice. This is a fundamentally wrong approach to governance in a democracy. Such an approach leads to the idea that politicians are people's leaders (and not representatives), and allow them to lead the people to what the political party thinks is right for the people. The line is thin, but it completely shifts the power to the wrong side.
+
+I stand by that political leaders are not people's leaders; they are people's representatives. I do not agree with all the deference that the public shows and flowers it showers on politicians; they are not demigods or gods, nor are they our shepherds. Elections are supposed to be an exercise to choose our representative, not our shepherd. The job of the person so chosen is to take our issues to the respective assembly and speak for us. Instead, what is happening today?
+
+When someone calls Mr Narendra Modi or Mr Rahul Gandhi a leader, they are right that they are leaders---but leaders in their respective political parties. When the Prime Minister is called a leader, the meaning is that s/he is the leader of the Executive wing of our democratically elected government; not that he is the shepherd or the alpha wolf of the nation. The government is a body that _works for the people_; the people do not work for the government. Mr Modi is right in calling himself the _Pradhan Sevak_ of the nation, because as per the democratic system defined in India, that is what he is. I would like him to stand by his word.
+
+I also challenge phrases such as "the Ruling Party". Nobody "rules" a democracy. The term should either be "administration" (as in "the Modi Administration") or "the party in power in the government", which makes a lot more sense. The use of "rule" subconsciously gives the idea to us people that we are the subjects. We are not. Not in a democracy. The government is here to serve us, not the other way around. And I am not saying this on my own; I am merely paraphrasing the hierarchy in a democracy.
+
+Therefore, since I do not belong to a political party, or agree with the idea that political parties can set the narrative while the people follow them, I must make it clear that I don't represent a political party. I represent myself when I present my views on this site. I do not give a rat's rear about what a political party thinks about my views, because I am not swearing to represent anyone as per the _Representation of the People Act_. If a political party or a politician says something that I am saying about an issue (as in their views and my views agree), it merely means that we are on the same page on that issue; it neither means that I represent them, nor that I have chosen (or will choose) them to represent me. After all, it is a matter of probability (in the mathematical sense) that one or the other political party (or politician) and I have the same stand on a given issue. Also, it is a matter of probability that that same political party (or politician) and I are poles apart on any other given issue.
+
+In other words, my stand on a matter has nothing to do with the stand of any political party or politician. If the two stands agree, it is a coincidence, because, probability.
+
+Neither I have a favourite politician nor a favourite political party. For me to respect a politician, s/he must have done something that earns it. Politicians are that part of humanity that I do not respect by default. Sure, on some situations, I might come in defence of a politician's stand or situation. But that does not make that politician my favourite or mean that I respect them. It means that I think they are probably right in what they are saying or doing, in that specific case.
+
+Also, I am more inclined towards a free market economy and capitalism (note: crony capitalism is different, and is not something I support). I like foreign investments. I use foreign goods and I am not ashamed of them. At the same time, I do not think that goods produced in my country are of inferior quality. Sure, we could use some of our own research and development, but that is about it. I pick products based on how useful they are to me, and what features I am looking for. Where they are made is of little consequence to me (China being the exception).
+
+I am not a religious fanatic. I have my beliefs and they are my beliefs; not a subject for anyone's commentary. I do not oppose others’ beliefs, either. I accept what is good in any belief system, and incorporate them where I see fit. And to me, it does not matter what your beliefs are. You do you. As long as you do not step on my shoes, I will not step on yours, and we will have no problem.
+
+I stand for people's liberties, as long as they do not conflict with others' liberties. Again, this is perfectly in line with our rights defined in the Constitution. And as defined in the Fundamental Rights, I believe that right to freedom of expression should come with reasonable restrictions. I do not advocate complete freedom of expression, because I understand rudimentary human psychology.
+
+I stand for equality of all humans. That also means I accept the LGBTQ+ status of people. I have friends from the community, even. Am I an ally? I am not there yet, because I am not sure if ally-ship (?) is something I want to pursue. I must understand the non-cis-het space better before I make that decision, because I see scope for abuse there. That said, I oppose the idea of "straightening out" people. Someone being gay, transgender, queer, bisexual, or anything along that spectrum is not a "disease" to be "cured". I also oppose any discrimination against people because they belong to the LGBTQ+ spectrum. As far as I am concerned, every human is a fellow human, and I treat them as such. You are free to disagree; it changes nothing until there is enough evidence to change my decision.
+
+Most important of all, I love my country and the people that make up the nation. I am proud of what we have achieved in the past, but at the same time, I am ashamed of all the evil that we see in our society. I am ashamed of them so that we can change it. If that makes me "anti-national", you do not understand what patriotism is.
