@@ -6,7 +6,7 @@ description: Oppenheimer, the Nolan film, is best watched in context. This post 
 episode:
     spotify: 59SRI2uBpmM2ScXGUyTnZq
     google: 
-    apple:
+    apple: 1000623578201
 tags:
 - science
 - democracy
@@ -18,6 +18,8 @@ I finally managed to watch _Oppenheimer_ on the IMAX screen. It was a delight, i
 You would be right to think the way I did; this film is about the man.
 
 {{< spotify >}}
+
+{{< podcast >}}
 
 But, having an idea of the physics and the timeline of what happened before Oppenheimer will be beneficial to make the most out of the story the film narrates.
 
