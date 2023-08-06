@@ -35,7 +35,7 @@ Knowing a little bit of physics will help you make your watching experience whol
 
 ### Setting the stage
 
-Imagine yourself in the late 19th Century (late 1800s) and the early 20th Century (late 1900s). Einstein had published the Special and General Theories of Relativity in the first two decades of the 20th Century. The world of Physics and Chemistry were buzzing with discoveries. But in the interest of time, I will limit this to a small subset of people who were crucial to the development of the model of atom and the atomic bomb.
+Imagine yourself in the late 19th Century (late 1800s) and the early 20th Century (early 1900s). Einstein had published the Special and General Theories of Relativity in the first two decades of the 20th Century. The world of Physics and Chemistry were buzzing with discoveries. But in the interest of time, I will limit this to a small subset of people who were crucial to the development of the model of atom and the atomic bomb.
 
 ### The early days of the atom
 
