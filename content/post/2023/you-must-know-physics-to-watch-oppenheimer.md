@@ -3,6 +3,10 @@ title: "You Must Know Physics to Watch Oppenheimer"
 subtitle: "or, must you?"
 date: 2023-08-03T09:06:05+05:30
 description: Oppenheimer, the Nolan film, is best watched in context. This post is to set that stage.
+episode:
+    spotify: 59SRI2uBpmM2ScXGUyTnZq
+    google: 
+    apple:
 tags:
 - science
 - democracy
@@ -12,6 +16,8 @@ tags:
 I finally managed to watch _Oppenheimer_ on the IMAX screen. It was a delight, indeed. Like many of you, I had heard that one must know physics to make sense of _Oppenheimer_. But then, I thought, this film is neither called _The Atomic Bomb_ or _The Manhattan Project_ or even _The Los Alamos Lab_---it's called _Oppenheimer_, which means, this must be about the man, not his creation or the project.
 
 You would be right to think the way I did; this film is about the man.
+
+{{< spotify >}}
 
 But, having an idea of the physics and the timeline of what happened before Oppenheimer will be beneficial to make the most out of the story the film narrates.
 
