@@ -31,11 +31,11 @@ Also, I am not a Nolan fanboy, and this is not a film review.
 
 ## The scientific background
 
-Knowing a little bit of physics will help you make your watching experience wholesome. So, here I am, giving you just enough of the science in the film. And no worries if you are not from the "science background"; this is high school stuff. You have read/studied this. I am merely recapitulating it for easier recollection and context.
+Knowing a little bit of physics will help you make your watching experience better. So, here I am, giving you just enough of the science in the film. And no worries if you are not from the "science background"; this is high school stuff. You have read/studied this. I am merely recapitulating it for easier recollection and context.
 
 ### Setting the stage
 
-Imagine yourself in the late 19th Century (late 1800s) and the early 20th Century (early 1900s). Einstein had published the Special and General Theories of Relativity in the first two decades of the 20th Century. The world of Physics and Chemistry were buzzing with discoveries. But in the interest of time, I will limit this to a small subset of people who were crucial to the development of the model of atom and the atomic bomb.
+Imagine yourself in the late 19th Century (late 1800s) and the early 20th Century (early 1900s). Einstein is working on his Special and General Theories of Relativity, and will publish them in the first two decades of the 20th Century. The world of Physics and Chemistry are buzzing with discoveries. In the interest of time, I will limit this to a small subset of people who were crucial to the development of the model of atom and the atomic bomb.
 
 ### The early days of the atom
 
@@ -43,7 +43,7 @@ Atoms, as we today know, make up all matter. From the air around us that we brea
 
 Atoms, as a concept, are not new to us humans. We have been talking about "atomos" (not Atmos) for a few millennia now. Although, nobody truly knew (or knows) what an atom looked like.
 
-Partly because atoms are too small. What do I mean by that? For us to be able to see something, light must bounce off of something, and hit our retina. This kicks off a chemical reaction in the retina, which creates a signal that the optic nerve carries to the brain.
+Partly because atoms are too small. What do I mean by that? For us to be able to see something, light must bounce off of it, and hit our retina. This kicks off a chemical reaction in the retina, which generates a signal that the optic nerve carries to the brain.
 
 But when we aim to look at a particle that is hundreds of times smaller than the smallest wavelength of the light we can see, well, how can we?
 
@@ -51,15 +51,15 @@ Which is why we must resort to observations in ways other than directly "seeing"
 
 ### J. J. Thomson
 
-Let us begin our journey with the Cathode Ray. This ray was discovered sometime in the mid 19th Century (I am not a historian, I do not remember exact historical dates). J. J. Thomson was the first one, though, to study it further, and conclude that these were "negative corpuscles"---because they got attracted to the positively charged plate placed on the other end of the cathode ray tube. He also noted that it could be deflected by electric field (the negative terminal repelled it, the positive attracted it).
+Let us begin our journey with the Cathode Ray. This ray was discovered sometime in the mid 19th Century (I am not a historian, I do not remember exact historical dates). J. J. Thomson was the first one, though, to study it further, and conclude that these were "negative corpuscles"---because they got attracted to the positively charged plate placed on the other end of the cathode ray tube. He also noted that they could be deflected by electric field (the negative terminal repelled them, the positive attracted them).
 
-He filled cathode ray tubes with one gas after another, and noted that the type of gas did not change the nature of the cathode rays.
+He filled cathode ray tubes with one gas after another, and noticed that the type of gas did not change the nature of the cathode rays.
 
 Given that the cathode rays were lighter than anything known until then, the conclusion was that this constituted something that was a part of matter, and was present in all matter.
 
 These "negative corpuscles" would later come to be known as "electrons".
 
-More experiments were carried out in which electrons were stripped from matter. The remainder was a lot more massive than electrons, and was positively charged. Thomson concluded that atoms must be like pudding that is uniformly positively charged, making up most of its mass, while electrons were like raisins, scattered in this positive electric field.
+More experiments were carried out in which electrons were stripped from matter. What remained was a lot more massive than electrons, and was positively charged. Thomson concluded that atoms must be like pudding that is uniformly positively charged, making up most of its mass, while electrons were like raisins, scattered in this positive electric field.
 
 ### Ernest Rutherford
 
@@ -69,17 +69,17 @@ Rutherford was a contemporary of Marie and Pierre Curie. "Radioactivity" was all
 
 He found two types of rays---alpha and beta---that this radiation split into. The alpha rays deflected towards the negative, while the beta towards the positive, leading Rutherford to conclude that the alpha rays were positively charged, while the beta rays were negatively charged. He also noticed that beta rays were similar in nature to the cathode rays.
 
-Later, it was found that the beta rays were indeed like cathode rays, because they were also high energy electrons. Alpha rays were later found to be positively charged Helium. This meant that the alpha particles were massive compared to the beta particles, and were also much bigger.
+Later, it was found that the beta rays were indeed like cathode rays, because they were also high energy electrons. Alpha rays were later found to be positively charged Helium. This was consistent with that the alpha particles were massive compared to the beta particles, and were also much bigger.
 
-Rutherford set up an apparatus and bombarded a thin gold foil with alpha particles. He expected the alpha particles to pass straight through to hit the photographic plate placed at the other end. This was because, based on Thomson's model, the gold foil should mostly have positively charged massive atoms with electrons scattered in them. Since there was no positive charge concentrated anywhere specifically across the foil, the beam should pass straight through.
+Rutherford set up his apparatus and bombarded a thin gold foil with alpha particles. He expected the alpha particles to pass straight through to hit the photographic plate placed at the other end. This was because, based on Thomson's model, the gold foil should mostly have positively charged massive atoms with electrons scattered in them. Since there was no positive charge concentrated anywhere specifically across the foil, the beam should pass straight through, albeit perhaps a little slower.
 
-But when his ... protégés ... Hans Geiger (the one whom the Geiger Counter is named after) and Ernest Marsden performed the experiment they found that some alpha particles ricocheted, and way too many rays deflected more than 2°, which made Rutherford conclude that the atom was not like a raisin pudding.
+But when his ... protégés ... Hans Geiger (him whom the Geiger Counter is named after) and Ernest Marsden performed the experiment they found that some alpha particles ricocheted, and way too many rays deflected more than 2°, which made Rutherford conclude that the atom was not like a raisin pudding.
 
 He concluded that since most particles passed right through the foil, the atom must be mostly empty. But at the same time, there must be something heavy in the atom which is making the alpha particles ricochet. This meant that there were some very dense places within an atom. Dense enough to deflect massive alpha particles. (An electron will not cut it.)
 
 Rutherford came up with his model of atom, in which he said the nucleus contained all the positive charges (protons---though they were not called that yet), packed in a small space, while the negative charges (electrons) made up the rest of the atom. Kind of still like the Thomson model---scattered across the atom.
 
-### Neils Bohr and Werner Heisenberg
+### Niels Bohr and Werner Heisenberg
 
 Rutherford's model answered some questions that were left unanswered by the Thomson model. But there were still questions around the atom. Like how come the electrons (which are the negatively charged particles) do not get attracted to the proton-filled positive nucleus and, well, the atom did not implode?
 
@@ -89,7 +89,7 @@ Quantum mechanics comes into the picture around here. We need not get into this 
 
 We must note that by this time, we had a solid understanding of how to calculate the mass of atoms. (I know, sounds nuts, but it's true.) And some scientists did not buy into the idea that atoms were only made up of protons and electrons. Chadwick was one of them.
 
-Any stable atom is electrically neutral. Which means there are as many positive charges in an atom as the negative charges. Meaning, Hydrogen had one proton and one electron in it. Helium had two protons and two electrons.
+Any stable atom is electrically neutral. Which means there are as many positive charges in an atom as the negative charges. For instance, Hydrogen had one proton and one electron in it. Helium had two protons and two electrons.
 
 Going by the idea that there are only protons and electrons in an atom, it would mean that one Helium atom weighed twice as much as a Hydrogen atom. But in reality, a Helium atom weighs four times as much as a Hydrogen atom.
 
@@ -107,7 +107,7 @@ This process happened naturally. Given that an alpha particle (a Helium ion) was
 
 Just like alpha particles, atoms could potentially emit beta particles or neutrons (or a combination of these) to get a stable nucleus.
 
-We also found (and this is critical) that this decay also released energy.
+We also found that (and this is critical) this decay also released energy.
 
 ### Radioactive Fission
 
@@ -131,9 +131,9 @@ Here is what an example nuclear fission bomb does:
 
 This will make the reaction go from one nucleus to three to nine to 27 to 81 to 243 to 729 to 2,187 to 6,561 ... creating an exponential runaway chain reaction. This would release an enormous amount of energy, several thousands of times in magnitude as seen in any chemical reaction.
 
-One point critical here (no pun intended) is _critical mass_. Roughly, this talks about how much fuel you need (mass) enclosed in how much space (volume). The denser your fuel is, the more effective it would be.
+One point critical here (no pun intended) is _critical mass_. Roughly, this talks about how much fuel you need (mass) enclosed in how much space (volume). The denser your fuel is, the more effective the fission would be.
 
-This is all the scientific context you will need to watch the film. The rest will be shown on the screens.
+This is all the scientific context you will need to watch the film. The rest will be shown on the screen.
 
 ## The politics
 
@@ -141,9 +141,9 @@ In the 1930s, Hitler's forces had started on their capturing spree. While a full
 
 Several brilliant minds in the scientific community in Germany were of the Jewish origin at this time. Including Albert Einstein, Leo Szilard, Lise Meitner and so on. They were now being targeted by the Nazis.
 
-In fear, these scientists fled Germany for other places such as Britain and the United States. Einstein, for example, went to Princeton in the United States. Some scientists did try to raise their voice against the persecution of the Jews, and one of them even met with Hitler to talk about it. Hitler merely said that he was not against the Jews, but merely against the Communists. But we all know the reality; whether targets were identified by the ideology they followed.
+Out of fear, these scientists fled Germany for other places such as Britain and the United States. Einstein, for example, went to Princeton in the United States. Some scientists did try to raise their voice against the persecution of the Jews, and one of them even met with Hitler to talk about it. Hitler merely said that he was not against the Jews, but against the Communists. But we all know the reality; whether targets were identified by the ideology they followed, or their origin.
 
-To the west of "the pond", the United States were going through a tough time of their own. Their economy had taken a blow (The Great Depression). But in general, the American sentiments were against the Axis powers. (And their politicians of the day were well aware of this.)
+To the west of "the pond", the United States were going through a tough time of their own. Their economy had taken a blow (because of The Great Depression). In general, the American sentiments were against the Axis powers. (And their politicians of the day were well aware of this.)
 
 In the European region, the Soviet Union was initially on the side of Nazi Germany, but when the Nazi forces started advancing into the USSR and taking over their territory, they switched sides and aligned with the Allies.
 
@@ -165,15 +165,15 @@ The United States were also considered a strong power globally. Japan's bombing 
 
 Meanwhile, the American intelligence agencies had also learned that the scientists working under Hitler were working on a nuclear weapon. _How could the US not do anything?!_
 
-Three or so years later, right before the Trinity test could happen, Hitler had killed himself. Within days, the Nazis surrendered. Why did the US not scrap the Manhattan Project then? Well, sunk costs, plus, while the Nazi Germany was a serious threat, Japan was the United States' biggest adversary, showing no signs of slowing down.
+Three or so years later, right before the Trinity test could happen, Hitler killed himself. Within days, the Nazis surrendered. Why did the US not scrap the Manhattan Project then? Well, sunk costs, plus, while the Nazi Germany was a serious threat, Japan was the United States' biggest adversary, showing no signs of slowing down.
 
-Would Japan have surrendered eventually? Well, the emperor did not accept the terms in the Potsdam Declaration. Why? Because it called for a _democratic_ government. The emperor did not like it, because he had no role in the democratic government. So, my guess, knowing dictators: no.
+Would Japan have surrendered eventually? Well, the emperor did not accept the terms in the Potsdam Declaration. Why? Because it called for a _democratic_ government. He did not like it, because he had no role in the democratic government. So, my guess, knowing dictators: no, Japan would not have backed down unless it was defeated.
 
 The US bombed Hiroshima. Yet, Japan showed no signs of surrender, which is what, the US claim, necessitated dropping _Fat Man_ on Nagasaki.
 
-In my view, this information is enough to put Oppenheimer in context. Although, I must mention that the film fully only revolves around Dr J. Robert Oppenheimer. Whatever I have said in this post does not prominently feature in the film, but is just alluded to or brushed through.
+In my view, this information is enough to put Oppenheimer in context. Although, I must mention that the film fully only revolves around Dr J. Robert Oppenheimer. Whatever I have said in this post does not prominently feature in the film, but is alluded to or brushed through.
 
-If you have not watched the film yet, I recommend that you do, because it is a brilliant piece of work. If you watched the film and not all of it made sense to you, you can re-watch it if you would like, in view of this information. Of course, you could also wait for it to come on OTT, come back here, re-read this post and then re/watch the film.
+If you have not watched the film yet, I recommend that you do, because it is a brilliant piece of work. If you watched the film and not all of it made sense to you, you can re-watch it if you would like, in view of this information. Sure, you could also wait for it to come on OTT, come back here, re-read this post and then re/watch the film.
 
 In all, I think the Manhattan Project completely changed how we humans saw wars. Of course, though some may disagree, I think this would have happened regardless of which side ran the programme. Because even though human stupidity is infinite, human intelligence is also a reality.
 

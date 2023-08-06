@@ -41,5 +41,5 @@
     "workbench.preferredLightColorTheme": "Monochrome Light",
     "window.autoDetectColorScheme": true,
     "editor.cursorStyle": "line-thin",
-    "workbench.colorTheme": "Monochrome Dark",
+    "workbench.colorTheme": "Monochrome Light",
 }
