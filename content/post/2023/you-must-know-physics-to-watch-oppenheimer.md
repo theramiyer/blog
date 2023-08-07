@@ -5,7 +5,7 @@ date: 2023-08-03T09:06:05+05:30
 description: Oppenheimer, the Nolan film, is best watched in context. This post is to set that stage. And to give you a crash course on nuclear physics and World War II.
 episode:
     spotify: 59SRI2uBpmM2ScXGUyTnZq
-    google: 
+    google: OWRjOTJiZjctMDU5Ni00YzMyLWEyZjUtYTNjN2I3NDg4Zjkx
     apple: 1000623578201
 tags:
 - science
