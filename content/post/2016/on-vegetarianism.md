@@ -8,34 +8,28 @@ title: On vegetarianism
 ---
 
 This is the edited post. Upon retrospect (and after a few cold stares), I felt that the original post may have come
-across as too strong, seeming a bit too aggressive, bordering on angry. That was not the purpose of the post. Passion,
-perhaps, has its side-effects, but anger is never the way to get across a point. Also, the Facebook post linking this
-post got some people to think that this was some kind of a separatist anti-non-vegetarian movement. No, this post was
-not that (for heaven’s sakes)!
+across as too strong, seeming a bit too aggressive, bordering on angry. That was not the purpose of the post. Passion, perhaps, has its side-effects, but anger is never the way to get across a point.
 
 Anyway, water under the bridge. But before we proceed, let me make a few things clear.
 
 ## What this post is not
 
-* This is not some sort of movement to promote any one kind of lifestyle; I, of all people, don’t do that kind of a
-thing, primarily because I’m a humanist. I think everyone should be free to do what they feel like, provided they don’t
-infringe upon anyone else’s liberty.
+* This is not some sort of movement to promote any one kind of lifestyle; I, of all people, don’t do that kind of a thing. I think everyone should be free to do what they feel like, provided they don’t infringe upon anyone else’s liberty.
 * I’m not connected to PETA in any way, nor do I approve of everything they do.
 * This post is not to show a certain way of lifestyle superior or inferior.
 
 ## What this post is
 
-* This post has been created to address a few arguments/questions/myths people have about vegetarians
-and vegetarianism.
-* Some vegetarians are vegetarians simply because they were told to, or just subconsciously felt they should be
-vegetarian. This post is also to talk about the idea behind vegetarianism for them—to understand why we are
-vegetarians.
+* This post has been created to address a few arguments/questions/myths people have about vegetarians and vegetarianism.
+* Some vegetarians are vegetarians simply because they were told to, or just subconsciously felt they should be vegetarian. This post is also to talk about the idea behind vegetarianism for them—to understand why we are vegetarians.
 
 So here are a few of the questions addressed. Let’s begin!
 
 ## The questions
 
-> Are vegan and vegetarian the same?
+Let us begin with the questions:
+
+### Are vegan and vegetarian the same
 
 Nope. Veganism is a more thoughtful (and more difficult) form of vegetarianism. There are a few slabs of _food
 orientation_, if it may be called so. I’ll list the most common ones here:
@@ -48,13 +42,10 @@ orientation_, if it may be called so. I’ll list the most common ones here:
 * Non-vegetarian
 
 *Fruitarians* are those who eat only fruits and vegetables plucked out of plants or trees, without harming the plant
-or tree in any way. They don’t eat things that are technically branches, roots or stem or any part of the plant life,
-plucking of which harms it in any way. So a fruitarian would not eat potatoes or onions or garlic. And they live on the
-_product_ of the plant or tree, and not on a part of them. Apples, tomatoes, cucumber, etc. are eaten by fruitarians.
-Fruitarians do not consume milk or dairy products either.
+or tree in any way. They don’t eat things that are technically branches, roots or stem or any part of the plant life, plucking of which harms it in any way. So a fruitarian would not eat potatoes or onions or garlic. And they live on the _product_ of the plant or tree, and not on a part of them. Apples, tomatoes, cucumber, etc. are eaten by fruitarians. Fruitarians do not consume milk or dairy products either.
 
 *Vegans* eat all parts of plants including their product, hide, stem, branches, leaves … But they don’t consume milk
-or milk products. Nor do they consume things such as honey. Their ideology is that animals should be left to live
+or milk products. Nor do they consume things such as honey. Their belief is that animals should be left to live
 without any sort of disturbance. So a cow’s milk is for its calf, and humans should not take that away from them.
 
 *Lacto-vegetarians* consume all plants, plant parts and plant products, and consume dairy products. I am a
@@ -67,7 +58,7 @@ human flesh.
 
 Now that the definitions are clear. Let’s move further.
 
-> How do you justify killing plants when they are living beings too?
+### How do you justify killing plants when they are living beings too
 
 By far, this is the question we vegetarians have heard the most, in this context. And this one scores the top rank not
 just for the number of times it’s been asked, but also for its nature. Most people say, ‘Trees feel pain, too.’
@@ -80,57 +71,59 @@ wear wool, or use leather goods. Yes, it’s true that it is not necessary to ki
 coat is still painful for them.
 
 Trees, on the other hand, are not sentient. Yes, there’s response to stimulus, like the branches turning towards
-sunlight, or closing of leaves upon touch. But that’s not “feeling”. If we go by that logic, even a microphone is
-sentient.
+sunlight, or closing of leaves upon touch. But that’s not “feeling”, for if we go by that logic, even a microphone would have to be called sentient (of course, nobody in their right mind would eat one).
 
-> How is egg non-vegetarian (or vegetarian)?
+Second, the concept of vegetarianism came about before modern science could discover the phenomenon of "trees feeling pain", and therefore, judging it based on today's lens would certainly lead to a slippery slope. Although, the answer to that based on today's lens is fruitarianism.
 
-OK, so whoever has the basic idea of reproduction would know that an egg has to be fertilised to produce a living
-organism. So that, apparently, puts egg in the grey area. And yes, that argument is acceptable. Technically speaking, an
+Does that mean we do not get to question these beliefs? Absolutely not. No belief is supreme, and can (and should) be questioned, which should lead to healthy discussions.
+
+### How is egg non-vegetarian (or vegetarian)?
+
+Whoever has the basic idea of reproduction would know that an egg has to be fertilised to produce a living
+organism. That, apparently, puts egg in the grey area. And yes, that argument is acceptable. Technically speaking, an
 egg that has not been fertilised should not be considered non-vegetarian food. Because, again, it is not sentient—yet.
 Granted.
 
 But lacto-vegetarians say, ‘How do we know which egg is fertilised and which isn’t? A fertilised egg is almost an
-embryo. Embryos probably can feel pain. Yes, today’s poultry industry has pretty decent rules and standards, but I’m
+embryo. Embryos probably can feel pain. Yes, today’s poultry industry has rules and standards, but I’m
 sure nobody can guarantee that a certain egg was not fertilised, without examining it in a lab.’ That is because,
 apparently, there’s no difference in the physical form, or the taste, or other physical properties, between an egg that
 is fertilised, and an egg that isn’t.
 
 To avoid stepping on the ethical mat, fruitarians, vegans and lacto-vegetarians avoid egg.
 
-> Vegetarians eat bread. Bread has yeast. Yeast is bacteria. Bacteria are living beings. So bread contains living
-beings.
+### Vegetarians eat bread; bread has yeast; yeast is bacteria; bacteria are living beings---so, bread contains living beings
 
-Excellent. Except one change: yeast is fungus. Anyway, buttermilk also contains living beings (bacteria). And every organic eatable in this world. But then if you think about it, they’re not
-complex organisms, they do not have a nervous system, they cannot process feelings, they cannot feel pain.
+Excellent. Except one change: yeast is fungus. Anyway, buttermilk also contains living beings (bacteria). And so does every organic eatable in this world. But then if you think about it, they’re not complex organisms, they do not have a nervous system, they cannot process feelings.
 
-> How is mushroom vegetarian?
+### How is mushroom vegetarian
 
-OK, this one is probably the most debated question in this context, and it is obvious that this is the case. There are
+This one is probably the most debated question in this context, and it is obvious that this is the case. There are
 some trolls on the Internet that claim eating mushrooms equal to killing. Well, this is mainly because of the
 classification of mushrooms—they’re fungi. But again, they’re not complex organisms, they don’t have a central nervous
 system, they’re not sentient … well, you know the drill now, don’t you?
 
 ## The myth
 
-> Humans were made to be vegetarians
+Now to the one myth, which, unfortunately, is being peddled primarily by vegetarians or those advocating vegetarianism:
+
+### Humans were made to be vegetarians
 
 This was an interesting one, actually. The WhatsApp message that I read, said that humans were supposed to be
 herbivores, and that it is wrong that we eat meat. The argument given was that herbivores, such as cows, can move their
 jaws sideways, while carnivores can only move their jaws vertically. The message went ahead to say that humans, since we
 can move our jaw sideways, should be herbivores, and that our bodies are not designed to process meat at all.
 
-The jaw part may very well be true. But let’s take a step back and think about it in real evolutionary terms. Herbivores
+But let’s take a step back and think about it in real evolutionary terms. Herbivores
 need to cut and chew their food, just like how a cow does. So they have strong incisors and molars—incisors help them
-cut things (such as fruit and grass) and molars help them chew the food before ingestion. Yes, herbivorous food is
-softer to cut and chew. So the design of incisors and molars works perfectly.
+cut fruit and grass and molars help them chew the food before ingestion. Yes, herbivorous food is
+softer to cut and chew. So the design of incisors and molars works perfectly. The sideways movement aids in the chewing motion.
 
 Carnivores mainly have strong canines, and have a great jaw strength. To give their jaws the strength, their mouths are
 designed to move only vertically. And we see this as the case with cats and dogs, as the best example. Perfect.
 
-But there’s a point of failure in the half-baked theory that the message proposes. Human beings have incisors, canines,
-premolars and molars. I’m going to state it right away—humans are omnivores, and nature has created us that way. We
-humans have nice incisors, strong canines, an adult’s premolars, which are a cross between canines and molars, and of
+But there’s a point of failure in the half-baked theory that the message proposes. Human beings have incisors, _canines_,
+premolars and molars. Humans are omnivores, and nature has created us that way. We humans have nice incisors, strong canines, an adult’s premolars, which are a cross between canines and molars, and of
 course, molars which are nice and wide to help chew food. We’re highly evolved beings, and we have the best of all
 worlds—we can cut, we can tear, and we can chew food. Add to it our ability to cook the raw food, thereby making it
 easier to process. So yes, human beings are, without a doubt, omnivores.
@@ -140,17 +133,20 @@ easier to process. So yes, human beings are, without a doubt, omnivores.
 No one way of lifestyle is better than the other. It’s a matter of personal preference. But does that mean
 it should not be taken seriously? No.
 
-Most people feel very strongly about these things—I do. Let’s understand that there’s quite some thought behind someone
+Most people feel very strongly about these things. Let’s understand that there’s quite some thought behind someone
 choosing to be a vegetarian or a non-vegetarian. Granted, most non-vegetarians are non-vegetarians because of the claim
 that non-vegetarian food tastes better than vegetarian food, but that’s again their liberty. Nobody has any right to
-comment on it or preach otherwise. They would be vegetarians if they wanted to be. Simple.
+comment on it or preach otherwise.
+
+They would be vegetarians if they wanted to be.
 
 At the same time, vegetarians choose the path because they too feel strongly about their stand. And that should also be
 respected. Most of us consider forceful feeding of meat as a kind of harassment. It is because the person who fed them
-that, went straight against their principles, against human rights, and made them do what they wouldn’t, given a choice.
+that, went straight against their principles, against their personal rights, and made them do what they wouldn’t, given a choice.
 It is the same as taking advantage of an inebriated person. And besides, harassment in any form is wrong. The person
-will never again see you the same way they used to, before the incident. So what’s the point anyway? Also, vegetarians
-would be non-vegetarians if they wanted to be. _Simple._
+will never again see you the same way they used to, before the incident. So what’s the point anyway?
+
+Also, they would be non-vegetarians if they wanted to be.
 
 Religion? Well, I don’t usually touch that point. But some of them have the idea, ‘OK, his religion, or his customs do
 not stop him from eating meat. So I fed him some.’ That does not make it right. It’s not just religion or medical
@@ -159,16 +155,15 @@ of leading a life. It’s only him who has the right to decide what to eat and w
 of one’s trust. One can never earn it back once it’s lost.
 
 Similarly, comments like, ‘You’re a Brahmin! You’re not supposed to eat meat’, is wrong, too. There’s no _supposed to_
-in this case. It’s the individual’s choice to eat what he wants to. If a person doesn’t even have that right, how do you
+here. It’s the individual’s choice to eat what he wants to. If a person doesn’t even have that right, how do you
 call yourself a free society? I personally discourage such attitude.
 
 One of my friends posted, ‘The only rule is to eat healthy.’ Of course! There’s no rule about what to eat and what not
 to. But just like how there’s a line between eating animals’ meat and human meat, there’s a line between eating sentient
 and non-sentient beings. If you want to eat meat, fair enough. No comments. But at the same time, if vegetarians choose
 not to eat meat, please extend the same courtesy to them. They’d really appreciate it. I do. I consider it very
-thoughtful when someone buys an eggless cake for a birthday celebration—it’s an amazing feeling when someone does that.
-Even though I’m not usually a fan of cakes and pastries, I end up eating a good slice, just for the kind gesture. What
-better way than that to share happiness?
+thoughtful when someone buys an eggless cake for a birthday celebration.
+Even though I’m not usually a fan of cakes and pastries, I end up eating a slice, just to appreciate the kind gesture. What better way than that to share happiness?
 
-All right, that’s some good 1900 words. With apologies to those whom the original post may have, inadvertently,
+All right, that should do for now. With apologies to those whom the original post may have, inadvertently,
 offended, I wish you a great weekend!
