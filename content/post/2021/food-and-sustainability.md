@@ -76,13 +76,13 @@ Assuming that we used 1 litre of water per bird per day, and that each bird liv
 
 Processing of the carcass alone takes 35 litres of water. The estimate is a direct or indirect use of 4,325 litres of water _per kilogram_ of chicken.
 
-We produced 4.061 million tonnes of poultry meat in the year 2018-19, which, by the calculation above, consumed 17.564 trillion litres (or 17.564 km³) of water. To give you a perspective, that is twice the amount of water the largest man-made lake in the world, Nagarjuna Sagar dam can store, and almost 1.4 times the capacity of the largest dam in the country.
+We produced 4.061 million tonnes of poultry meat in the year 2018-19, which, by the calculation above, consumed 17.564 trillion litres (or 17.564 km³) of water. To give you a perspective, that is twice the amount of water the largest man-made _lake_ in the world---Nagarjuna Sagar dam---can store, and almost 1.4 times the capacity of the largest dam in the country.
 
-When we get to the bovines, the number is 20,045 litres of water per kilogram of meat. Which means, in total, to produce 1.872 million tonnes of meat, we used 37.530 trillion litres (or km³) of water, which is thrice the capacity of the largest dam in our country.
+When we get to bovine meat, the number is 20,045 litres of water per kilogram of meat. Which means, in total, to produce 1.872 million tonnes of meat, we used 37.530 trillion litres (or km³) of water, which is thrice the capacity of the largest dam in our country.
 
 'But wait, we do not eat beef!'
 
-Well, the story is worse in our case. How? For starters, we derived that amount of water by calculating the meat from ~15 million bovines. But the actual population of bovines in India is 302.3 million. Bovines do not get killed within a year like birds do. They live much longer. Each bovine uses up about 11 times as much water as a human in any given time span. Which means that if we give all the water that bovines consume to humans, we could support 3.325 billion humans.
+Well, the story is worse in our case. How? For starters, we derived that amount of water by calculating the meat from ~15 million bovine animals. But the actual bovine population in India is 302.3 million. These animals do not get killed within a year like birds do. They live much longer. Each animal uses up about 11 times as much water as a human in any given time span. Which means that if we give all the water that the bovine population consumes to humans, we could support 3.325 billion humans.
 
 And I said our story is worse, because we are the world's largest exporter of beef. By exporting beef, we are exporting all that water.
 
@@ -94,7 +94,7 @@ And when coupled with the decline in per-capita water availability from 5,000 m
 
 The next is the food these animals eat. A non-lactating cow generally eats 2% of its weight---which is about 12 kilograms of forage per day. A lactating cow eats an added 50% of its milk production as grain (for example, if a cow gives 5 litres of milk, it eats an added 2.5 kg of grain). Cows eat hay and vegetable wastes, which is not an infringement on human food. Also, we cannot fully consider the 20,045 litres of water, because we would have used a good chunk of that water any way, to grow our food.
 
-While the exact numbers are unavailable, we know that about 70% of bovines’ food is from fodder. The rest 30% is grain and pulses. Assuming that a cow eats an average 12 kilograms of food a day, about 3.5 kilograms of it are grains. Multiply that by the bovine population, we get 52,500 tonnes of grain every day. All our cows and buffaloes combined produce about 187.7 million litres of milk a day, which adds another 93,850 tonnes of grain a day as feed. All these animals in our country, combined, eat 146,350 tonnes of grain (or 1.463 lac tonnes of grain) a day.
+While the exact numbers are unavailable, we know that about 70% of bovine food is from fodder, while the rest 30% is grain and pulses. Assuming that a cow eats an average 12 kilograms of food a day, about 3.5 kilograms of it are grains. Multiply that by the bovine population, we get 52,500 tonnes of grain every day. All our cows and buffaloes combined produce about 187.7 million litres of milk a day, which adds another 93,850 tonnes of grain a day as feed. All these animals in our country, combined, eat 146,350 tonnes of grain (or 1.463 lac tonnes of grain) a day.
 
 But then, a report based on FAS New Delhi estimates, based on information from trade sources, shows that India uses a total of 38 ­– 42 million tonnes of feed.{{< sidenote fas-report >}}_India: Grain and Feed Annual_ ([USDA FAS](https://apps.fas.usda.gov/newgainapi/api/report/downloadreportbyfilename?filename=Grain%20and%20Feed%20Annual_New%20Delhi_India_3-29-2019.pdf)){{< /sidenote >}} Corn, wheat and other coarse grains constitute 21.3 – 23 million tonnes. Another point the report brings to attention is the potential need to import feed ingredients from the international market. The feed industry is growing at a rate of 5 – 7 percent per year, almost in line with the meat consumption.
 
@@ -106,7 +106,7 @@ Let us begin with the amount of manure a cow can produce. A cow can drink up to 
 
 We have, but the scale is the key here. What was the population of our country when we started using these methods? What was the bovine population of our country when we started these systems? What is it today? In simple terms, back in 1820, we had a population of 1 billion people across the globe. In the next 100 years, it went to 1.5 billion. And in the next hundred years, it multiplied almost 5 times and reached 7 billion. This is the human population alone.
 
-To feed milk to this large population, we bred milch animals. Their population also grew at that scale. And the amount of green house gases (methane, nitrous oxide, ammonia, hydrogen sulphide, etc.) emitted into the atmosphere grew at the same rate, and today, continues to grow—in India—at the rate of 5 – 7% per annum. These gases are much more potent than carbon monoxide and dioxide (methane retains about a hundred times the heat as carbon dioxide over a five-year period). Farm animals throw out methane when they eat food they cannot digest. This causes the bacteria living in their digestive tract to digest them, producing methane as a by-product. A mere 3 million cows may not have mattered, but what is their population today?
+To feed this large population with milk, we bred milch animals. Their population also grew at that scale as well, if not faster. And the amount of green house gases (methane, nitrous oxide, ammonia, hydrogen sulphide, etc.) emitted into the atmosphere grew at the same rate, and today, continues to grow—in India—at the rate of 5 – 7% per annum. These gases are much more potent than carbon monoxide and dioxide (methane retains about a hundred times the heat as carbon dioxide over a five-year period). Farm animals throw out methane when they eat food they cannot digest. This causes the bacteria living in their digestive tract to break it down, producing methane as a by-product. A mere 3 million cows may not have mattered, but what is their population today?
 
 Some environmental organisations estimate that _half_ of all green house gas emissions come from farm animals alone.
 
@@ -156,4 +156,4 @@ As for those who go for meat for the taste and texture, the likes of _Impossible
 
 Sustainability is important. No other species can understand this. And protecting ourselves along with our surroundings is _our_ responsibility.
 
-And no, I do not subscribe to PETA or any activist organisation.
+And no, I still do not subscribe to PETA or any activist organisation.
