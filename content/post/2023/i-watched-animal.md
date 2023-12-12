@@ -4,9 +4,9 @@ subtitle: "and ... it's complicated"
 date: 2023-12-09T12:44:09+05:30
 description: Toxic masculinity or a powerful visual delight? Read on for my top ten lessons from the film.
 episode:
-    spotify: 6QS2TC8OM1mDbPVpJtV56o
+    spotify:
     google: ZDRlYTliYTAtNmY4Mi00ZThhLWFhOTctYzFhYzE2MDYzZDEz
-    apple:
+    apple: 1000638337728
     amazon: 2f315f4b-8bd3-4647-8403-865ba7035ace
 tags:
 - bollywood
@@ -24,7 +24,7 @@ When I say, 'it's complicated', I do not mean the film has a complicated or nuan
 
 This post contains spoilers. If you have not watched the film and you plan to, be warned.
 
-{{< apple "1000638337728" >}}
+{{< spotify "6QS2TC8OM1mDbPVpJtV56o" >}}
 
 {{< podcast >}}
 
