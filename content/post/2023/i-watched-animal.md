@@ -33,7 +33,7 @@ This film is violent. No denying that. Is violence a masculine characteristic? I
 
 Does the film celebrate violence? Yes? No? You know if you have watched it. One argument is, 'Don't watch it if you don't like it.' That is a reasonable ask, of course. Keeping in mind the cinema's refund policy, the money you paid for the ticket is the only thing that can potentially stop you from exiting the hall, if you usually fall for the sunk costs fallacy.
 
-If you think killing and hitting people cannot be shown in films, a large chunk of films will not get cleared to be shown in cinemas. The action genre might completely vanish. If the CBFC has cleared the film to be played, then it abides by the criteria that the film regulator has specified. The film is A-rated, which should give you an indication of what to expect. You certainly have the choice in all aspects.
+If you think killing and hitting people cannot be shown in films, a large chunk of films will not get cleared to be shown in cinemas. The action genre might completely vanish. If the CBFC has cleared the film to be played, then the film abides by the criteria that the film regulator has specified. The film is A-rated, which should give you an indication of what to expect. You certainly have the choice in all aspects.
 
 You cannot curtail someone's artistic freedom.
 
@@ -49,11 +49,11 @@ In our world, films like this, which naturally have an element of attraction, co
 
 Overall, the film revolves around a boy (and later a man---well), being an "alpha male". It is portrayed very well by Ranbir Kapoor, of course. I heard that most of the film reviews lauded the actors for their performances, and I agree with them on that front. Ranbir Kapoor, especially.
 
-This "alpha" tries to protect all his family members. He's aggressive. He carries a gun to his sister's college and fires at least a hundred shots into the floor in a class. Because some boys ragged her. Of course, the father gets livid when he learns about the incident. Slapping the boy is the obvious consequence (one loses track of the number of slaps people serve each other in this film, by the way). Sandeep Vanga Reddy has learnt his lesson from the Arjun Reddy aftermath, though: Ranbir Kapoor does not slap Rashmika Mandanna, she slaps him. Several times.
+This "alpha" tries to protect all his family members. He's aggressive. He carries a gun to his sister's college and fires at least a hundred shots into the floor in a class. Because some boys ragged the sister. Of course, the father gets livid when he learns about the incident. Slapping the boy is the obvious consequence (one loses track of the number of slaps people serve each other in this film, by the way). Sandeep Vanga Reddy has learnt his lesson from the Arjun Reddy aftermath, though: Ranbir Kapoor does not slap Rashmika Mandanna, she slaps him. Several times.
 
 After all, what love is love if it cannot be expressed in slaps?
 
-Everywhere the Singhs go in this film is owned by them. 'My sister is unsafe in our own college.' 'Intruders come in and kill around in our own hotel.' 'This private airfield is ours.' So on. This is an _atmanirbhar_ family. I did not understand if the logic behind this was about 'Whatever I do is in my personal property (and therefore, I set the law here).' Only problem is, the law does not work like that.
+Everywhere the Singhs go in this film is owned by them. 'My sister is unsafe in our own college.' 'Intruders come in and kill around in our own hotel.' 'This private airfield is ours.' So on. This is an _atmanirbhar_ family. I am not sure if the logic behind this was about 'Whatever I do is in my personal property (and therefore, I set the law here).' Only problem is, the law does not work like that.
 
 In any case, sinfully sweet privilege drips from everything that Ranbir Kapoor's character did in the film. Will the audience take that message back home? Because this was one of the most underplayed elements in the film. And let us face it, privilege does give you the license to do all this; at least in our country. Well, sure, some things can (and will) bite you in the rear some day, despite your privilege, but that is often a matter of chance.
 
