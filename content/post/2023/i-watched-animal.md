@@ -3,6 +3,10 @@ title: "I Watched Animal"
 subtitle: "and ... it's complicated"
 date: 2023-12-09T12:44:09+05:30
 description: Toxic masculinity or a powerful visual delight? Read on for my top ten lessons from the film.
+episode:
+    spotify: 6QS2TC8OM1mDbPVpJtV56o
+    google:
+    apple:
 tags:
 - bollywood
 - psychology
@@ -18,6 +22,8 @@ When I say, 'it's complicated', I do not mean the film has a complicated or nuan
 {{< toc >}}
 
 This post contains spoilers. If you have not watched the film and you plan to, be warned.
+
+{{< spotify >}}
 
 ## Toxic masculinity
 
