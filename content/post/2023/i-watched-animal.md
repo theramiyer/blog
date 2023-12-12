@@ -24,7 +24,7 @@ When I say, 'it's complicated', I do not mean the film has a complicated or nuan
 
 This post contains spoilers. If you have not watched the film and you plan to, be warned.
 
-{{< spotify >}}
+{{< apple "1000638337728" >}}
 
 {{< podcast >}}
 
