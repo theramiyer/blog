@@ -7,6 +7,7 @@ episode:
     spotify: 6QS2TC8OM1mDbPVpJtV56o
     google: ZDRlYTliYTAtNmY4Mi00ZThhLWFhOTctYzFhYzE2MDYzZDEz
     apple:
+    amazon: 2f315f4b-8bd3-4647-8403-865ba7035ace
 tags:
 - bollywood
 - psychology
