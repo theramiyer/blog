@@ -43,7 +43,7 @@ Having said that, people are impressionable, no matter their age. From serial of
 
 So, in what sense are we saying that those who have crossed the age of 18 are not impressionable? In fact, one could argue that making age the criteria here is in itself flawed. Many of the traits I have today have been acquired after I turned 18. People switch their religious beliefs, their political alignment and what not, even after they turn 50.
 
-In our world, films like this, which naturally have an element of attraction, coupled with the conformity bias, can lead to undesirable consequences. In other words, if something gets celebrated socially, those who did not yet align in the direction of it will tend to align, irrespective of their age. Social influence is powerful.
+In our world, films like this, which naturally have an element of attraction, coupled with social influence, can lead to undesirable consequences. In other words, if something gets celebrated socially, those who did not yet align in the direction of it will tend to align, irrespective of their age.
 
 ## The problematic element
 
