@@ -58,7 +58,7 @@ In our world, films like this, which naturally have an element of attraction, co
 
 Overall, the film revolves around a boy (and later a man---well), being an "alpha male". It is portrayed very well by Ranbir Kapoor, of course. I heard that most of the film reviews lauded the actors for their performances, and I agree with them on that front. Ranbir Kapoor, especially.
 
-This "alpha" tries to protect all his family members. He's aggressive. He carries a gun to his sister's college and fires at least a hundred shots into the floor in a class. Because some boys ragged the sister. Of course, the father gets livid when he learns about the incident. Slapping the boy is the obvious consequence (one loses track of the number of slaps people serve each other in this film, by the way). Sandeep Vanga Reddy has learnt his lesson from the Arjun Reddy aftermath, though: Ranbir Kapoor does not slap Rashmika Mandanna, she slaps him. Several times.
+This "alpha" tries to protect all his family members. He's aggressive. He carries a gun to his sister's college and fires at least a hundred shots into the floor in a class. Because some boys ragged the sister. Of course, the father gets livid when he learns about the incident. Slapping the boy is the obvious consequence (one loses track of the number of slaps people serve each other in this film, by the way). Sandeep Reddy Vanga has learnt his lesson from the Arjun Reddy aftermath, though: Ranbir Kapoor does not slap Rashmika Mandanna, she slaps him. Several times.
 
 After all, what love is love if it cannot be expressed in slaps?
 
