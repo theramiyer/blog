@@ -40,7 +40,8 @@
     "workbench.preferredLightColorTheme": "Monochrome Light",
     "window.autoDetectColorScheme": true,
     "editor.cursorStyle": "line-thin",
-    "workbench.colorTheme": "Monochrome Dark",
+    "workbench.colorTheme": "Monochrome Light Subtle",
     "workbench.activityBar.location": "hidden",
     "workbench.editor.tabActionCloseVisibility": false,
-}
+    "gitlens.currentLine.enabled": false,
+s}

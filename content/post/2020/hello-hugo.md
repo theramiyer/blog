@@ -43,7 +43,7 @@ Another such feature is Google Analytics. The Tale theme did not already have th
 
 {{< highlight go >}}
 {{ if not (in (.Site.BaseURL | string) "localhost") }}
-    {{ template "_internal/google_analytics_async.html" . }}
+    {{ template "_internal/google_analytics.html" . }}
 {{ end }}
 {{< /highlight >}}
 
