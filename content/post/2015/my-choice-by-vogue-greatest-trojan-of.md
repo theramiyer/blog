@@ -15,7 +15,7 @@ A while later, when the whole fire had died off a bit, and because I hadn’t re
 
 The video is available here:
 
-<iframe src="https://www.youtube.com/embed/KtPv7IEhWRA" frameborder="0"> </iframe>
+{{< youtube KtPv7IEhWRA >}}
 
 I must say, the idea is disguised very well, it is. The visuals and the music would make you believe it is all about empowerment. No matter how trivial some of the statements in it are, you would find them empowering. Being someone who is interested in the psychology of words, I would say this is not at all about empowerment, because the words used in it, the ultimatums given in it are all ways to provoke controversy. Well, I am not saying this is exactly what Vogue had in mind, but this is a possibility. For instance, look at the following statement and tell me it’s not an ultimatum:
 

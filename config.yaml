@@ -7,6 +7,12 @@ enableRobotsTXT: true
 enableGitInfo: true
 
 params:
+  author:
+    name: Ram Iyer
+    url: https://ramiyer.me
+    x: iamramiyer
+    facebook: iamramiyer
+    razorpay: pl_G7QWxZCN9t3mZ1
   description: For what it’s worth
   enableAutoAttribution: true
   enableDevanagari: true
@@ -43,21 +49,17 @@ params:
     domain: blog.ramiyer.me
 
 privacy:
-  twitter:
+  x:
     enableDNT: true
   youTube:
     privacyEnhanced: true
+  googleAnalytics:
+    disable: true
+    respectDoNotTrack: true
 
 permalinks:
   post: /:title/
   page: /:title/
-
-Author:
-  name: Ram Iyer
-  url: https://ramiyer.me
-  twitter: iamramiyer
-  facebook: iamramiyer
-  razorpay: pl_G7QWxZCN9t3mZ1
 
 menu:
   main:

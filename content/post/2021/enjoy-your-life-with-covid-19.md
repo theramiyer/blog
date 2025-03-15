@@ -102,7 +102,7 @@ True. Those who claim that steam and hot water can _kill the virus_ are wrong. S
 
 True in that washing hands is a best practice. Until we are all vaccinated, personal protection is the way to go. In fact, Dr Younus says:
 
-{{< tweet user="FaheemYounus" id="1324362475245109253" >}}
+{{< x user="FaheemYounus" id="1324362475245109253" >}}
 
 ## On disinfecting our homes
 
@@ -110,7 +110,7 @@ True in that washing hands is a best practice. Until we are all vaccinated, pers
 
 Here is what he had tweeted:
 
-{{< tweet user="FaheemYounus" id="1239710943568973827" >}}
+{{< x user="FaheemYounus" id="1239710943568973827" >}}
 
 ## On shopping bags
 
@@ -118,7 +118,7 @@ Here is what he had tweeted:
 
 This is something that the doctor has been saying for a long time. I also found this tweet (rather, thread):
 
-{{< tweet user="FaheemYounus" id="1241812326019485698" >}}
+{{< x user="FaheemYounus" id="1241812326019485698" >}}
 
 ## On take-out food
 
@@ -126,7 +126,7 @@ This is something that the doctor has been saying for a long time. I also found 
 
 And I found this tweet.
 
-{{< tweet user="FaheemYounus" id="1241812327151910914" >}}
+{{< x user="FaheemYounus" id="1241812327151910914" >}}
 
 My folks were paranoid about ordering food from outside. But being a Bangalorean, avoiding street food is impossible for me. Once, we ordered some _chāt_ while working on our volunteering report at my friend's place:
 
@@ -140,11 +140,11 @@ I was in self-quarantine at the time to prevent transmitting a potential infecti
 
 Well, the last part is true; I found an almost-verbatim tweet:
 
-{{< tweet user="FaheemYounus" id="1241812329404211202" >}}
+{{< x user="FaheemYounus" id="1241812329404211202" >}}
 
 I do not know what "anti-allergies" are. But non-specific here means that losing smell does not _necessarily_ mean that you have COVID-19. Meaning, anosmia also has other causes. You may want to get tested, though:
 
-{{< tweet user="FaheemYounus" id="1268189928942440450" >}}
+{{< x user="FaheemYounus" id="1268189928942440450" >}}
 
 The idea here is to not panic. (Also, in case of India, the percentages are different. For example, majority of the cases in Bangalore have been asymptomatic.)
 
@@ -154,7 +154,7 @@ The idea here is to not panic. (Also, in case of India, the percentages are diff
 
 Again, I do not shower every time I get back home---from, say, the store---these days. I used to do that back in April and May 2020, but our understanding of the virus has evolved since.
 
-{{< tweet user="FaheemYounus" id="1241812333359398915" >}}
+{{< x user="FaheemYounus" id="1241812333359398915" >}}
 
 ## Airborne or not
 
@@ -174,7 +174,7 @@ Remember, this is science. Science works on evidence. And observations and proto
 
 Take the doctor’s more recent advice instead:
 
-{{< tweet user="FaheemYounus" id="1383718885040410628" >}}
+{{< x user="FaheemYounus" id="1383718885040410628" >}}
 
 
 ## On taking a walk in the park
@@ -183,7 +183,7 @@ Take the doctor’s more recent advice instead:
 
 I did find a tweet related to this from the doctor:
 
-{{< tweet user="FaheemYounus" id="1244145852773515264" >}}
+{{< x user="FaheemYounus" id="1244145852773515264" >}}
 
 But the tweet is from March 2020. According to newer findings, _the virus is airborne_ (read above). Although, based on what I understand, taking a walk in the park is still safe, given conditions like a small number of people, great air circulation, people wearing masks, etc.
 
@@ -197,11 +197,11 @@ Again, watch the video clip above, you will understand.
 
 No matter what, this is not going to change.
 
-{{< tweet user="FaheemYounus" id="1244147624913010689" >}}
+{{< x user="FaheemYounus" id="1244147624913010689" >}}
 
 And soaps are better than sanitizers.
 
-{{< tweet user="FaheemYounus" id="1239710939630448647" >}}
+{{< x user="FaheemYounus" id="1239710939630448647" >}}
 
 ## Microwave food
 
@@ -209,7 +209,7 @@ And soaps are better than sanitizers.
 
 Well, not those words (not "everything" anyway), but:
 
-{{< tweet user="FaheemYounus" id="1244149254442098688" >}}
+{{< x user="FaheemYounus" id="1244149254442098688" >}}
 
 ## Virus in shoes
 
@@ -217,7 +217,7 @@ Well, not those words (not "everything" anyway), but:
 
 Here is an almost-verbatim tweet by him:
 
-{{< tweet user="FaheemYounus" id="1244150646846173184" >}}
+{{< x user="FaheemYounus" id="1244150646846173184" >}}
 
 ## Protection using sugarcane
 
@@ -225,9 +225,9 @@ Here is an almost-verbatim tweet by him:
 
 Nope. I do not think he said this; I do not think he ever suggested ginger for immunity, because:
 
-{{< tweet user="FaheemYounus" id="1291307520603172864" >}}
+{{< x user="FaheemYounus" id="1291307520603172864" >}}
 
-{{< tweet user="FaheemYounus" id="1268174722883366912" >}}
+{{< x user="FaheemYounus" id="1268174722883366912" >}}
 
 ## Mask interferes with breathing
 
@@ -239,7 +239,7 @@ Impossible that a doctor of his calibre would say this. Also, no, wearing a mask
 
 Do not believe me? Here, this is what Dr Younus has to say:
 
-{{< tweet user="FaheemYounus" id="1276225846609666049" >}}
+{{< x user="FaheemYounus" id="1276225846609666049" >}}
 
 And no, I did not find a tweet of his that says that wearing a mask interferes with oxygen levels. One never will.
 
@@ -251,7 +251,7 @@ Also, I have never had to remove my mask while climbing stairs. (I tried five fl
 
 Yes, I could find this tweet. As expected.
 
-{{< tweet user="FaheemYounus" id="1244157447725559808" >}}
+{{< x user="FaheemYounus" id="1244157447725559808" >}}
 
 ## Exposure to pathogen for immunity
 
@@ -260,7 +260,7 @@ Yes, I could find this tweet. As expected.
 
 This statement is reckless. And of course, I could not find this tweet. But I found something interesting:
 
-{{< tweet user="FaheemYounus" id="1269332316540801024" >}}
+{{< x user="FaheemYounus" id="1269332316540801024" >}}
 
 He talks about _this WhatsApp forward_ in this tweet. Also, I found [the same message, attributed to a different doctor.](https://www.richmond-news.com/local-news/fake-list-of-covid-19-wisdom-attributed-to-dr-bonnie-henry-making-rounds-online-3125096) The piece also links to the right AZB article (yes, the one which you did not bother to click).
 

@@ -26,4 +26,4 @@ What I wanna say is that change is good, change is necessary, change is Nature; 
 
 Whoa...why does it sound ironic to me? LOL
 
-\*Agreed that I hate the whole concept of how we screwed ourselves with rules and other stuff as said in <a href="http://crimsoncanines.blogspot.in/2011/12/complication.html" target="_blank">The Complication</a>, I do feel we shouldn't screw around much with it either, now that it's been created :D
+\*Agreed that I hate the whole concept of how we screwed ourselves with rules and other stuff as said in [The Complication]({{< ref "complication" >}}), I do feel we shouldn't screw around much with it either, now that it's been created :D

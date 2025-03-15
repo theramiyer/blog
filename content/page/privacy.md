@@ -7,11 +7,11 @@ Put bluntly, I couldn't care less about getting data about you. This site uses [
 
 Whatever I do track, I do not share with anybody. Tracking on my site is purely for the purposes of my tuning the content to be better.
 
-## Twitter
+## X (formerly Twitter)
 
-Any Twitter embeds you might see within the posts respect your browser's Do Not Track requests. If you do not have it set, Twitter may track you using its cookies.
+Any X (formerly Twitter) embeds you might see within the posts respect your browser's Do Not Track requests. If you do not have it set, X may track you using its cookies.
 
-Read [Twitter's Privacy Policy](https://twitter.com/en/privacy) for more information.
+Read [X's Privacy Policy](https://x.com/en/privacy) for more information.
 
 ## YouTube
 
@@ -35,7 +35,7 @@ Read [Instagram's Data Policy](https://help.instagram.com/519522125107875) for m
 
 ## Share buttons
 
-The share buttons (Facebook, Twitter, LinkedIn and WhatsApp) _do not_ process your social media data on this site. They use the sharer URL of the respective service with _details about the post_ (post title, post URL, post summary, etc.) as input parameters. All processing happens on the destination site/service. In other words, the share buttons do not track you until you click them. Once you click them, the destination site may track you. As such, this site collects no information from you using the share buttons.
+The share buttons (Facebook, X, LinkedIn and WhatsApp) _do not_ process your social media data on this site. They use the sharer URL of the respective service with _details about the post_ (post title, post URL, post summary, etc.) as input parameters. All processing happens on the destination site/service. In other words, the share buttons do not track you until you click them. Once you click them, the destination site may track you. As such, this site collects no information from you using the share buttons.
 
 ---
 

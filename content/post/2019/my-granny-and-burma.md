@@ -35,9 +35,7 @@ In 1942, Japan was trying to capture Burma. American troops came to the aid of t
 
 The rest is in this video.
 
-<div style='text-align:center;'>
-  <iframe src="https://www.youtube-nocookie.com/embed/D9y2NJ2sNQ8?rel=0&theme=light&color=white" width="560" height="420" frameborder="0"></iframe>
-</div>
+{{< youtube D9y2NJ2sNQ8 >}}
 
 ## Some anecdotes missed in the video
 
