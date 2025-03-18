@@ -47,6 +47,8 @@ params:
   plausible:
     enable: true
     domain: blog.ramiyer.me
+  googleAnalytics:
+    enable: false
 
 privacy:
   x:
