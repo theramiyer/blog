@@ -14,3 +14,5 @@ typographical-hugo
 
 # OS
 .DS_Store
+
+.envrc
