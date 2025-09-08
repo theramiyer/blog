@@ -13,6 +13,8 @@ tags:
 
 I distinctly recall the night four months ago: I woke up for a drink of water in the wee hours of the 7th of May 2025. My aunt, who was awake, said, 'We've hit them.' As the statement landed on my groggy brain, I grunted. A moment later, clearing Aunt's confusion, I made my appreciation more apparent.
 
+{{< toc >}}
+
 April 22 was a dark day for India. The 26 civilian men at the Baisaran Valley were brutally murdered after the attackers identified their religion; the women were spared to narrate their horror to Mr Modi.
 
 A timeline of subsequent events is [available here](https://csdronline.com/operation-sindoor-a-timeline/).
