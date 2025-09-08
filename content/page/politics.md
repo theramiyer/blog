@@ -43,12 +43,13 @@ Problem: The process feels inverted. Parties set the agenda, and citizens react 
 I am unaffiliated with any political party. When my views align with a party’s, it’s coincidental---probability, not endorsement. Likewise, disagreements are equally probable.
 
 - I respect a politician only when they earn it through concrete actions.  
-- I have no favourite party or politician. (Nor am I a member of any political party.)
+- I have no favourite party or politician.
+- During elections, I select a candidate based on their track record and future potential, irrespective of party affiliation. Choosing the head of the legislature or executive isn’t my role as a citizen; instead, I vote for the representative in my own constituency whom I find most approachable and accountable.
 
 ## Economic Outlook  
-- I favour a _free‑market, capitalist_ system (excluding crony capitalism).  
+- I favour a _progressive capitalist_ system---a market‑oriented system that encourages innovation and competition while rejecting crony capitalism and prioritizing social equity, environmental stewardship, and democratic oversight.  
 - I welcome foreign investment and use imported goods without shame.  
-- Domestic products are not inherently inferior; I choose items based on utility, not origin (with the notable exception of China, whenever possible).
+- Domestic products are not inherently inferior; I choose items based on utility, not origin (with the notable exception of hostile neighbours, whenever possible).
 
 ## Beliefs & Social Values  
 
