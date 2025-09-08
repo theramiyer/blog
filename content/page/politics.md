@@ -7,7 +7,7 @@ My articles sometimes intersect with politics, so I think it’s important to be
 
 ## Apolitical Identity  
 
-I consider myself apolitical. While some, such as Akash Banerjee, criticize this position---and I’ve seen similar debates on dating profiles and elsewhere---I remain firm in identifying as apolitical until I have reason to change. This is a personal stance; no one else gets to dictate it.
+I consider myself apolitical. While some, such as Akash Banerjee, criticize this position---and I’ve seen similar debates on social profiles and elsewhere---I remain firm in identifying as apolitical until I have reason to change. This is a personal stance; no one else gets to dictate it.
 
 ## Views on Politicians  
 
