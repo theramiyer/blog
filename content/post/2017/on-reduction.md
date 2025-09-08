@@ -4,6 +4,7 @@ tags:
 - opinion
 - language
 title: On Reduction
+summary: Historian and columnist Ramchandra Guha did an hour-long talk on how nationalism is a nineteenth-century European phenomenon, and how Indian nationalism was founded on the exact opposite principles.
 ---
 
 > One language, one religion, and one common enemy.

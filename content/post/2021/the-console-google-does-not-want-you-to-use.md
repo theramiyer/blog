@@ -4,6 +4,8 @@ subtitle: "because your privacy kills their business"
 date: 2021-04-14T08:41:15+05:30
 description: |
     Google, Facebook and other ad companies need every bit of information about you to show you relevant ads. But what if data gets breached? Or sold? You can have slightly better control of your data. We start with Google.
+summary: |
+    Facebook was a target at the beginning of this year, when they decided to tweak their privacy policy. It turned out to be a disastrous PR move. Although they reversed it, we are already seeing a better-worded version of the update. I wrote a couple of posts: one about how the change affects your privacy, and another, about whether WhatsApp chats are at all private.
 image: "https://blogfiles.ramiyer.me/2021/images/kashmir-google-maps-india.webp"
 tags:
 - privacy

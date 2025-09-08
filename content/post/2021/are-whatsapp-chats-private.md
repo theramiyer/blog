@@ -4,6 +4,8 @@ subtitle: "Understanding WhatsApp’s response"
 date: 2021-01-14
 description: |
     After WhatsApp updated its privacy policy in January 2020, a lot of confusion started going around, to which, WhatsApp responded with what it can and cannot do. Read on to understand if you still need to worry about WhatsApp sharing information with Facebook.
+summary: |
+    On the 13th of January, WhatsApp put out a tweet in which they said they wanted to make something "100% clear". The post said what WhatsApp does not or cannot do:
 tags:
 - privacy
 - tracking

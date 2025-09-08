@@ -13,6 +13,7 @@ tags:
 - civics
 - constitution
 title: 'Kashmir and Article 370: Part Three'
+summary: In the last two posts, we understood the technical aspects of the _Jammu and Kashmir Reorganisation Act, 2019_. To repeat for the benefit of those who landed here directly, this is the third part of the three-part series on the Act. Part One of the series is about the background of the formation of the Union of India and accession of Jammu and Kashmir to it. Part Two of the series is about the current situation, along with the legal and geo-political view of the change.
 ---
 
 In the last two posts, we understood the technical aspects of the _Jammu and Kashmir Reorganisation Act, 2019_. To repeat for the benefit of those who landed here directly, this is the third part of the three-part series on the Act. [Part One of the series]({{< ref "kashmir-and-article-370" >}}) is about the background of the formation of the Union of India and accession of Jammu and Kashmir to it. [Part Two of the series]({{< ref "kashmir-and-article-370-part-two" >}}) is about the current situation, along with the legal and geo-political view of the change.

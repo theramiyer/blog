@@ -5,6 +5,7 @@ tags:
 - opinion
 - society
 title: On Unification
+summary: So far, we saw how we are not the kind to be identified by "one", but are based on some core identities. Let us proceed further to understand a little more on how things changed and why. It would help us go towards better understanding of the situation.
 ---
 
 So far, we saw how we are not the kind to be identified by "one", but are based on [some core identities]({{< ref "on-sub-nationalism" >}}). Let us proceed further to understand a little more on how things changed and why. It would help us go towards better understanding of the situation.

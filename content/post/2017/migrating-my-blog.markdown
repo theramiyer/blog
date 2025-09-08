@@ -1,6 +1,8 @@
 ---
 date: "2017-06-04T22:48:45Z"
 title: Migrating my blog
+summary: |
+    Change is necessary, even though the statement sounds like a helpless cliché. Today, I decided to migrate my personal blog from Blogger to Jekyll (just like how we migrated Meraki Post).
 ---
 
 Change is necessary, even though the statement sounds like a helpless cliché. Today, I decided to migrate my personal blog from Blogger to Jekyll (just like how we migrated [Meraki Post](http://www.merakipost.com)).

@@ -4,24 +4,24 @@ tags: opinion
 title: Chaos within fort walls
 ---
 
-Upraised guards.\\
-Unsheathed swords.\\
-Upright batons.\\
+Upraised guards.  
+Unsheathed swords.  
+Upright batons.  
 Unconquerable corps.
 
-Yet, there's terror; chaos.\\
-Yet, everything is an attack surface, everyone is an attacker.\\
-Yet, somehow, everyone is a victim.\\
+Yet, there's terror; chaos.  
+Yet, everything is an attack surface, everyone is an attacker.  
+Yet, somehow, everyone is a victim.  
 Yet, everyone cries.
 
-Cries.\\
-Cries for peace.\\
-Cries for quiet.\\
+Cries.  
+Cries for peace.  
+Cries for quiet.  
 Cries for order.
 
-Cries.\\
-Cries from everywhere.\\
-Cries and chaos, and,\\
+Cries.  
+Cries from everywhere.  
+Cries and chaos, and,  
 Cries are all that's there.
 
 It's either war, or something worse.
@@ -30,21 +30,21 @@ Insecurity.
 
 Why? Oh, I wish we'd asked that question every time we'd heard something---anything. If only, for this is a symptom of terror not without, but within---within the confines of what differentiates us from other species. Terror to which we react with a rush of adrenaline, falling back to basic instincts, not so different from other species anymore.
 
-Slash the attacker for it's easier, feels right.\\
-Slash to decapitate; pre-empt, rather than fight.\\
-Slash with the sword of steel, craftily wrought,\\
+Slash the attacker for it's easier, feels right.  
+Slash to decapitate; pre-empt, rather than fight.  
+Slash with the sword of steel, craftily wrought,  
 Slash not, alas, with the sword of thought.
 
 Wipe out the questioner before anything is questioned, before anything is thought upon. Because the _enemy_ wielding a weapon we cannot defend ourselves from would spell disaster.
 
 But then, who's the enemy when the war is within?
 
-> Thinking is the hardest work there is, which is probably the reason why so few engage in it.\\
+> Thinking is the hardest work there is, which is probably the reason why so few engage in it.  
 ---Henry Ford
 
 It's not about who is the foe. It's about who is our friend; the friend we ignore.
 
-> The voice of the intelligence is drowned out by the roar of fear. It is ignored by the voice of desire. It is contradicted by the voice of shame. It is biased by hate and extinguished by anger. Most of all it is silenced by ignorance.\\
+> The voice of the intelligence is drowned out by the roar of fear. It is ignored by the voice of desire. It is contradicted by the voice of shame. It is biased by hate and extinguished by anger. Most of all it is silenced by ignorance.  
 ---Karl A. Menninger
 
 In a society where the intellect is feared, there would be chaos. In a society where dissenting voices are silenced, there would be chaos. Raising guards is not just protection from the bad, but also an obstruction to the good. Wisdom is in filtration. But filtration requires analysis. Analysis requires testing. And testing requires breaking things into simpler pieces. Questioning is nothing but a means to that end.
@@ -63,22 +63,22 @@ Ironic, how by protecting what was supposed to be broken down (the misunderstood
 
 Time has come to question.
 
-Question our ways.\\
-Question the fear of questioning.\\
-Question beliefs.\\
+Question our ways.  
+Question the fear of questioning.  
+Question beliefs.  
 Question everything.
 
-Question dogma.\\
-Question mediocrity.\\
-Question instructions.\\
+Question dogma.  
+Question mediocrity.  
+Question instructions.  
 Question authority.
 
-All the while,\\
-Remembering that we're civilised.\\
-Remembering that the law's above us.\\
+All the while,  
+Remembering that we're civilised.  
+Remembering that the law's above us.  
 Remembering that while still questionable, there's a system.
 
-Question with respect.\\
-Question with character.\\
-Question by the law of the land, but,\\
+Question with respect.  
+Question with character.  
+Question by the law of the land, but,  
 Question nevertheless.

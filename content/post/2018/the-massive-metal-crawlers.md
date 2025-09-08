@@ -1,7 +1,9 @@
 ---
 date: "2018-10-16T00:00:00Z"
 title: The Massive Metal Crawlers
+summary: I read in the newspaper yesterday that the Bangalore Metropolitan Transport Corporation had ranted (rightfully so, no doubt) about how the increased traffic on the roads was to blame for the drastic drop in speed and efficiency of our dear buses. I thought I’d extend the discussion a little, today.
 ---
+
 I read in the [newspaper yesterday that the Bangalore Metropolitan Transport Corporation had ranted](https://www.thehindu.com/news/cities/bangalore/traffic-growth-hits-city-bus-services-hard/article25222415.ece) (rightfully so, no doubt) about how the increased traffic on the roads was to blame for the drastic drop in speed and efficiency of our dear buses. I thought I’d extend the discussion a little, today.
 
 During my graduation, in Chennai, I was used to travelling by bus. And even to go from one end of the city to another, I did not feel that I was spending a lot of time on the road. The service was so efficient, it almost made the city look small, compared to Bangalore, where going from Jayanagar to Iblur took longer than travelling from Broadway to Valasaravakkam in Chennai. In August 2010, I took the entire late morning and afternoon to travel from Nagawara to Banashankari via Shivajinagar (because I was told, this was a better route than 500A, plus, I was broke).

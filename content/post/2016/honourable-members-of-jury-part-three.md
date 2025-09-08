@@ -5,6 +5,8 @@ tags:
 - education
 - opinion
 title: ‘Honourable members of the jury…’ (part three)
+summary: |
+    As I already mentioned in the last post, I’d like to end this series of posts on a positive note about my experience at Bhavan’s Rajaji Vidyashram. The first thing I’d like to talk about is the two good sessions I was part of:
 ---
 
 As I already mentioned in the [last post]({{< ref "honourable-members-of-jury-part-two" >}}), I’d like to end this series of posts on a positive note about my experience at Bhavan’s Rajaji Vidyashram. The first thing I’d like to talk about is the two good sessions I was part of:

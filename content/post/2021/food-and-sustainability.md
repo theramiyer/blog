@@ -4,6 +4,8 @@ subtitle:
 date: 2021-02-04T21:19:23+05:30
 description: |
     About five years ago, I had made a post about vegetarianism, from the philosophical standpoint. In this post, we talk about the other---economic, social, environmental, etc.---aspects of food itself that have pracitcal implications, backed by data, almost making it an "all you need to know about food sustainability" post. You will get an understanding of your footprint whether you are a vegetarian or a non-vegetarian.
+summary: |
+    About five years ago, we had a little “discussion” at work, in which I basically got trolled for being a vegetarian. I was so angry that I wrote down a post on why I am a vegetarian and why everyone else was wrong in thinking what they were thinking. A day later, I changed the post to a much milder one, because:
 tags:
 - food
 - environment

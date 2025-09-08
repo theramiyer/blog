@@ -3,6 +3,7 @@ date: "2017-10-12T00:00:00Z"
 tags:
 - automation
 title: The World of Automation Today (Part 2)
+summary: In the previous post in the series, we saw an overview of what we've done over at our blog to handle team communication. I did not give a complete listing or an in-depth idea of how we've enabled team communication using Slack. It was purposeful, considering that the series is just an overview of what automation can help us achieve, or what are the small ways we can start at implementing automation.
 ---
 
 In the [previous post]({{< ref "the-world-of-automation-today-part-1" >}}) in the series, we saw an overview of what we've done over at our blog to handle team communication. I did not give a complete listing or an in-depth idea of how we've enabled team communication using Slack. It was purposeful, considering that the series is just an overview of what automation can help us achieve, or what are the small ways we can start at implementing automation.

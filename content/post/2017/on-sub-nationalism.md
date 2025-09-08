@@ -5,6 +5,7 @@ tags:
 - language
 - society
 title: On Sub-Nationalism
+summary: This post is in continuation to the post, On Reduction, which lays the ground about what's to follow in this post; we spoke about how India was not founded on the principles of "one" anything other than a nation. Sardar Patel, back in his day, set out to unify the country on no principle other than a single point of governance.
 ---
 
 This post is in continuation to the post, [On Reduction]({{< ref "on-reduction" >}}), which lays the ground about what's to follow in this post; we spoke about how India was not founded on the principles of "one" anything other than a nation. Sardar Patel, back in his day, set out to unify the country on no principle other than a single point of governance. The Indian National Congress (of those days, not the present-day---pardon my honesty---Blunder-Engine Dynasty) felt that the different provinces had to unite under one umbrella of governance, to become a strong, united entity.

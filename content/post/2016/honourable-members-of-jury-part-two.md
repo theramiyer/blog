@@ -5,6 +5,8 @@ tags:
 - education
 - opinion
 title: ‘Honourable members of the jury…’ (part two)
+summary: In my previous post, I spoke about three debate sessions that could’ve been better. For reference, let me list down the three
+sessions:
 ---
 
 In my [previous post]({{< ref "honourable-members-of-jury-part-one" >}}), I spoke about three debate sessions that could’ve been better. For reference, let me list down the three
@@ -12,8 +14,8 @@ sessions:
 
 1. This house would revoke all support provided by the government to the religious groups in the spirit of true
 secularism
-2. This house believes that all laws in India should be made gender-neutral
-3. This house believes that the judicial interpretation of laws should be purely literal to prevent subjectivity of the
+1. This house believes that all laws in India should be made gender-neutral
+2. This house believes that the judicial interpretation of laws should be purely literal to prevent subjectivity of the
 interpreter
 
 The reason I said these could’ve been better was that there was no passion seen in these sessions, when the debate

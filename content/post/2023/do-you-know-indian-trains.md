@@ -11,7 +11,7 @@ tags:
 - politics
 ---
 
-I have, like millions of Indians out there, been travelling long distances by the Indian Railways since infancy---since I was about six months old. And over these past three decades, I have read about tens of crashes including derailments. Even seen that odd wreckage during my train journeys.
+I have, like millions of Indians out there, been travelling long distances by the Indian Railways since infancy. And over these past three decades, I have read about tens of crashes including derailments. Even seen that odd wreckage during my train journeys.
 
 What happened on the 2nd of June was terrible, and I cannot possibly express what I feel about it, in words. I turned to TV news for updates, thinking for once they could be useful. Boy, was I wrong. And then there were WhatsApp messages floating around, loaded with misinformation. Mr Modi and Mr Vaishnaw visiting the accident site only added to the noise, unfortunately.
 

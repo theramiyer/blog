@@ -4,6 +4,8 @@ tags:
 - humanism
 - retrospect
 title: '#MeToo and somewhere, #ItWasMe'
+summary: |
+  Did you click on the link to the post? Did you read the whole post? How many #MeToo posts did you (actually) read? How many of you know what the whole #MeToo campaign is about? Did you not read the post because you already knew what it was? As usual, the situation is multi-faceted.
 ---
 
 Did you click on the link to the post? Did you read the whole post? How many [#MeToo][20a8b3b9] posts did you (actually) read? How many of you know what the whole [#MeToo][20a8b3b9] campaign is about? Did you not read the post because you already knew what it was? As usual, the situation is multi-faceted.

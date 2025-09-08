@@ -1,16 +1,18 @@
 ---
+title: Can we be free of Chinese goods
 date: "2020-05-16T00:00:00Z"
 episode:
     spotify: 1aIKOuo9dleSDqR4mnf4uJ
     apple: "1000475605067"
     google: "NzBhYWM2MzMtZGYyNC00YmViLThmZTctMjI3ZDcyOWYzZDc0"
+summary: |
+    Ever since Prime Minister Modi made his speech on the 12th of May 2020, _Aatmanirbhar_ started trending. My Facebook newsfeed showed countless memes and what not, about boycotting Chinese products. Some even questioned my bravery to be able to say no to Made in China.
 tags:
 - nationalism
 - economics
 - fact-check
 - government
 - taxes
-title: Can we be free of Chinese goods
 ---
 
 Ever since [Prime Minister Modi made his speech](https://www.youtube.com/watch?v=g2I20uFMy3E) on the 12th of May 2020, _Aatmanirbhar_ started trending. My Facebook newsfeed showed countless memes and what not, about boycotting Chinese products. Some even questioned my bravery to be able to say no to Made in China.

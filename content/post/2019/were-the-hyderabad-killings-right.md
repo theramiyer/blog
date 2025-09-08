@@ -8,6 +8,7 @@ tags:
 - rape
 - murder
 title: Were the Hyderabad killings right
+summary: The first piece of text I read upon waking up yesterday was that the police had killed the alleged rapists of the veterinarian in Hyderabad. It took me a moment to let it sink in. This was like the films, where film heroes go about threatening criminals, 'I will take you down and term it an encounter.'
 ---
 
 The first piece of text I read upon waking up yesterday was that the police had killed the alleged rapists of the veterinarian in Hyderabad[^abe13496]. It took me a moment to let it sink in. This was like the films, where film heroes go about threatening criminals, 'I will take you down and term it an encounter.'

@@ -5,6 +5,8 @@ image: "https://blogfiles.ramiyer.me/2021/covers/sexual-abuse-in-schools.jpg"
 date: 2021-05-26T20:13:53+05:30
 description: |
     News broke out about sexual harassment of children in PSBB and other schools in Chennai after an alumnus started an Instagram reach-out. Soon, the issue got cluttered. We look at the different aspects of the issue and the way forward.
+summary: |
+    Yesterday, I woke up to the news that students of a top school in Chennai---_Padma Seshadri Bala Bhavan_ (or PSBB)---had alleged that a teacher had sexually abused them. The piece of news shook me because my cousin studied in the school, and I could personally relate to it. The teacher also taught at the same branch that she studied in. But as usual, the issue received a polarised public response.
 tags:
 - social
 - society

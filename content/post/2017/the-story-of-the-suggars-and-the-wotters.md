@@ -1,6 +1,8 @@
 ---
 date: "2017-09-05T00:00:00Z"
 title: The Story of the Suggars and the Wotters
+summary: |
+    This is the prose version of The Suggars and the Wotters. I'm just taking my baby-steps into the world of poetry, so I'm sure I may not have made much sense there (not to mention the desperate attempts at rhyme). I thought I'd do a prose version of the story as well
 ---
 
 This is the prose version of [The Suggars and the Wotters]({{< ref "suggars-and-wotters" >}}). I'm just taking my baby-steps into the world of poetry, so I'm sure I may not have made much sense there (not to mention the desperate attempts at rhyme). I thought I'd do a prose version of the story as well. So here goes:

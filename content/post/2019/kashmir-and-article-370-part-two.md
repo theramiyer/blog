@@ -13,6 +13,7 @@ tags:
 - civics
 - constitution
 title: 'Kashmir and Article 370: Part Two'
+summary: This is the second part of the three-part series on the _Jammu and Kashmir Reorganisation Act, 2019_. If you came here directly, this post alone will not do justice to the situation. Go back and read Part One. Reading the series partially will make you judgemental with limited knowledge. This article is available as a typeset printable PDF as well.
 ---
 
 This is the second part of the three-part series on the _Jammu and Kashmir Reorganisation Act, 2019_. If you came here directly, this post alone will not do justice to the situation. [Go back and read Part One.]({{< ref "kashmir-and-article-370" >}}) Reading the series partially will make you judgemental with limited knowledge. This article is available as a [typeset printable PDF](https://www.scribd.com/document/422074646/Kashmir-and-Article-370) as well.

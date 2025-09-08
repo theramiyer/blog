@@ -5,6 +5,8 @@ tags:
 - opinion
 - retrospection
 title: On being a man in a patriarchal world
+summary: |
+    I recently read a news report on how the fans of one of South India's leading actors stooped down and trolled the editor-in-chief of a very popular news outlet in South India, who made a remark on the actor. Tonight, I read an article by Sowmya Rajendran, about what a woman goes through in our society, since the time she hits puberty.
 ---
 
 I recently read a news report on how the fans of one of South India's leading actors stooped down and [trolled the editor-in-chief](https://www.buzzfeed.com/soniathomas/vijay-fans-abused-threatened-and-sexually-harassed-a?utm_term=.selp92Yr8#.klooe05Aa) of a very popular news outlet in South India, who made a remark on the actor. Tonight, I read an [article by Sowmya Rajendran](http://www.thenewsminute.com/article/contrary-what-some-men-think-being-called-slut-doesnt-destroy-women-66460), about what a woman goes through in our society, since the time she hits puberty. (The quotes in the post are from the said article.)

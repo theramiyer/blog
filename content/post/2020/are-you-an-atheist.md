@@ -9,6 +9,8 @@ tags:
 - atheism
 - philosophy
 title: Are you an atheist
+summary: |
+    Today, I watched a rather curious video on Facebook, called, _The Atheist Delusion_. A decent piece of work. Here is a gist of what happens in the video: A person---let us call him 'Jim'---goes to different people asking them if they were atheists. The people answer in the affirmative.
 youtube: q4mLXqwy3EA
 ---
 

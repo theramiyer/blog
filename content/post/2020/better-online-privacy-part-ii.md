@@ -4,6 +4,9 @@ subtitle: "using a counter-intuitive approach"
 date: 2020-12-01T15:17:59+05:30
 description: |
     Guarding one's privacy online could be as simple as applying some basic principles to browsing. A slight change in behaviour can have a drastic effect on your online privacy. This post has simple steps that you can use to guard your privacy online, including working with browser fingerprinting.
+summary: |
+    In the previous post, we saw what we mean by privacy, why it matters, and why we say privacy is a myth in today's world of connected services. We also looked at what methods companies use to track us online. We saw that the conventional methods of protecting our privacy online does not work in cases such as Google and Facebook. In this post, we look at how to handle tracking by large corporations.
+
 tags:
 - internet
 - privacy
