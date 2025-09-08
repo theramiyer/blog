@@ -109,7 +109,7 @@ Overall:
 
 ## Domestic questions
 
-Before reading any further, please refer to my [political stance](/politics).
+Before reading any further, please refer to my [political stance]({{< ref "page/politics.md" >}}).
 
 While the political parties across the spectrum remained largely united through the operation, the Opposition, during the Parliament session around the end of July, raised questions:
 
