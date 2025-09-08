@@ -3,40 +3,40 @@ title: Privacy
 description: Put plainly, I don't want your data.
 ---
 
-Put bluntly, I couldn't care less about getting data about you. This site uses [Plausible Analytics](https://plausible.io/)---a privacy-friendly and GDPR-compliant analytics service---to track readership; to know some rudimentary metrics about general audience behaviour, like, to see when there is the most amount of activity, and what posts people like to read. While I do not base my content on it, it tells me which posts are easy to read and understand, or what posts people refer. That helps me tweak my writing style and the design of the blog.
+Put plainly, I don't want to know who you are.
 
-Whatever I do track, I do not share with anybody. Tracking on my site is purely for the purposes of my tuning the content to be better.
+## Analytics
 
-## X (formerly Twitter)
+We use Plausible Analytics to see how many people visit each page. Plausible does not place any cookies on your browser, and it never records personal information about you. It only counts visits in an anonymous, aggregate way.
 
-Any X (formerly Twitter) embeds you might see within the posts respect your browser's Do Not Track requests. If you do not have it set, X may track you using its cookies.
+## Videos (YouTube)
 
-Read [X's Privacy Policy](https://x.com/en/privacy) for more information.
+When you watch a YouTube video on our site, the video is loaded from youtube‑nocookie.com. This means no tracking cookie is set just because the page loads.
 
-## YouTube
+If you press Play, YouTube will record that you watched the video and may store a small piece of data in your browser. We clear that data when you leave the page, but the act of playing the video is still logged by YouTube.
 
-I have enabled "Privacy Enhanced" mode for YouTube video embeds. Your activity is not recorded to personalise your viewing experience. [Read more](https://support.google.com/youtube/answer/171780?hl=en) about it on Google Support.
+## Tweets (X)
 
-Read [Google's Privacy Policy](https://policies.google.com/privacy?hl=en) for more information.
+Any embedded tweets (or X posts) are shown with the Do‑Not‑Track option turned on. X still sees that the tweet was displayed, but it does not create new tracking cookies for you.
 
-## Podcast episodes
+## Instagram posts
 
-I embed my podcast episodes from Spotify. I have not yet figured out a way to disable cookies on them. Spotify does give you options to set up your cookies, though, as per their [Cookie Policy](https://www.spotify.com/legal/cookies-policy/). In other words, Spotify may track your activity.
+We try not to embed Instagram posts.
 
-Read [Spotify's Privacy Policy](https://www.spotify.com/us/legal/privacy-policy/) for more information.
+Instagram embeds may set cookies belonging to Instagram. Those cookies are controlled by Instagram, not by us.
 
-I also use podcast buttons so that you can take listening to the respective platform (Apple Podcasts, Google Podcasts and Spotify) if you so choose.
+## Podcast players (Spotify & Apple Podcasts)
 
-## Instagram
+Podcast episodes are shown with a “Click to listen” text. The actual player (Spotify or Apple Podcasts) only loads after you click that text.
 
-As much as I hate Facebook's attitude towards privacy, a handful of the blog posts on this site do contain embedded Instagram posts. Facebook may collect information about you when you open those blog posts. Ever since Oct 24, 2020 when Facebook blocked use of the "legacy" embedding ability, I have moved what I could, out of Instagram and into my own non-tracking storage for this blog, to minimise use of the platform.
+If you want to avoid any third‑party cookies while on this site, you can use the buttons we provide (“Listen on Spotify”, “Listen on Apple Podcasts”, etc.), which would launch the respective player/Web page on your device and hand off the operation to the respective service.
 
-Read [Instagram's Data Policy](https://help.instagram.com/519522125107875) for more information.
+## Social‑media share buttons
 
-## Share buttons
+Our share buttons are simple links that open the chosen social network (X, Facebook, LinkedIn, WhatsApp, etc.) with a pre‑filled message. We do not load any tracking code when you click them.
 
-The share buttons (Facebook, X, LinkedIn and WhatsApp) _do not_ process your social media data on this site. They use the sharer URL of the respective service with _details about the post_ (post title, post URL, post summary, etc.) as input parameters. All processing happens on the destination site/service. In other words, the share buttons do not track you until you click them. Once you click them, the destination site may track you. As such, this site collects no information from you using the share buttons.
+Any cookies that appear after you click a share button are set by the destination service, not by our site.
 
----
+## Overall statement
 
-All claims about not tracking you hold good as long as the [privacy features of Hugo](https://gohugo.io/about/hugo-and-gdpr/) and those of the services work as expected. These do not come with any warranty; they are beyond my control.
+We aim to keep your browsing experience as private as possible. The only data we collect is anonymous traffic statistics from Plausible. All other tracking (video plays, tweet views, Instagram embeds, podcast players, or share‑button clicks) is done by the third‑party services themselves, according to their own privacy policies.
