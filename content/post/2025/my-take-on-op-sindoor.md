@@ -25,6 +25,8 @@ _The Resistance Front_, announced its existence in October 2019,[^1] shortly af
 
 [^1]: [The Resistance Front (TRF)](https://satp.org/terrorist-profile/india-jammukashmir/the-resistance-front-trf) (South Asia Terrorism Portal)
 
+{{< youtube sgAudv7koSg >}}
+
 > Today's grenade attack is the inception of indigenous resistance of Kashmir to flush out the occupational Indian regime out of IOJK. The attack was carried out by our cadres, and in future such attacks will follow.
 >
 > ---The Resistance Front, 2019
