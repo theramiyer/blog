@@ -53,7 +53,8 @@ I am unaffiliated with any political party. When my views align with a party’s
 
 ## Beliefs & Social Values  
 
-- Religion: I hold personal beliefs but do not impose them on others. I respect all faiths and expect mutual non‑interference.  
+- Religion: I hold personal beliefs but do not impose them on others. I respect all faiths and expect mutual non‑interference.
+- Secularism: My view of secularism is absolute separation of the State and religion. The State should have nothing to do with religion and vice versa.
 - Liberty: I champion individual freedoms so long as they don’t infringe on others’ rights, aligning with constitutional fundamental rights and reasonable limits on free expression.   
 - Patriotism: I love India and its people, celebrate our achievements, and feel responsible for confronting societal ills. Criticizing flaws does not make me “anti‑national”; true patriotism seeks improvement.
 
