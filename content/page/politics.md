@@ -36,7 +36,7 @@ Problem: The process feels inverted. Parties set the agenda, and citizens react 
 - Politicians are *representatives*, not *people’s leaders*.  
 - Calling Mr Narendra Modi or Mr Rahul Gandhi “leaders” is accurate only within the context of their parties.  
 - The Prime Minister is the head of the executive branch, not a sovereign ruler.  
-- Terms like “Ruling Party” imply domination; “Administration” or “Party in Power” are more precise and preserve the democratic notion that the government _serves_ its citizens.
+- Terms like “Ruling Party” (or “Rule”), “Regime”, etc. imply domination; “Administration” or “Government” are more precise and preserve the democratic notion that the government _serves_ its citizens.
 
 ## My Relationship to Parties  
 
