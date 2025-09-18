@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Run with `aws-vault exec <profile> -- ./deploy.sh`
+
 # Exit on error
 set -e
 
