@@ -19,7 +19,7 @@ Before anyone jumps the gun, let me clarify: I have no party affiliations. For t
 
 Prime Minister Modi is absolutely right in saying that we must reduce our use of petrol and diesel. But I find it rather interesting that this message came from him in May, and not in February.
 
-During the election season, the elders in my family—who are ardent supporters of the ruling party—kept telling me how great the government was. They pointed to social media feeds claiming India had achieved 'fuel security', asserting that unlike the rest of the world, we faced no shortages and were selling fuel at stable prices. The narrative was clear: the government had insulated us from the global energy crisis.
+During the election season, the elders in my family—who are ardent supporters of the BJP—kept telling me how great the government was. They pointed to social media feeds claiming India had achieved 'fuel security', asserting that unlike the rest of the world, we faced no shortages and were selling fuel at stable prices. The narrative was clear: the government had insulated us from the global energy crisis.
 
 Then came the elections. The party won in West Bengal, retained their administration in Puducherry and Assam, and retained their vote share in Keralam. And suddenly, in May, the script flipped. We are now told to carpool, to drive less, to conserve.
 
