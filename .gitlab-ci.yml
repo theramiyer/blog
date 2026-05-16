@@ -6,7 +6,6 @@ variables:
     GIT_SUBMODULE_STRATEGY: recursive
 
 build for production:
-  only: master
   stage: build
   image: registry.gitlab.com/pages/hugo/hugo_extended:latest
   only:
@@ -24,7 +23,6 @@ build for production:
     expire_in: 1 day
 
 deploy to production:
-  only: master
   stage: deploy
   image: registry.gitlab.com/gitlab-org/cloud-deploy/aws-base:latest
   only:
