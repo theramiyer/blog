@@ -23,7 +23,7 @@ jobs:
 
       - name: Install Hugo
         run: |
-          go install github.com/gohugoio/hugo@latest
+          go install github.com/gohugoio/hugo-extended@latest
 
       - name: Install dependencies
         run: |
