@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# As of 16 May 2026, Python@3.13 with AWSCLI@2 is what works. Going with Python@3.14 gives a `libexpat` error. So, use the default Python@3.13 that ships with XCode Command Line Tools. Install AWSCLI v2 on top of it from Amazon's official download.
+
 # Run with `aws-vault exec <profile> -- ./deploy.sh`
 # Example: `aws-vault exec hugo -- ./deploy.sh`
 # Local environment variables are loaded from `.envrc` (AWS_VAULT_PROFILE, S3_BUCKET, CLOUDFRONT_ID, AWS_DEFAULT_REGION).
