@@ -1,11 +1,14 @@
 baseURL: https://blog.ramiyer.me
-languageCode: en-IN
 title: Ram’s blog
 theme: typographical
 canonifyURLs: true
 enableRobotsTXT: true
 enableGitInfo: true
 summaryLength: 50
+
+languages:
+  en:
+    locale: en-IN
 
 params:
   author:
