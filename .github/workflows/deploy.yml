@@ -1,0 +1,64 @@
+name: Deploy to AWS
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '30 00 * * 6' # 6 AM IST on Saturdays (IST is UTC+5:30, so 00:30 UTC on Saturdays)
+
+jobs:
+  deploy:
+    name: Build and Deploy
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Setup Go
+        uses: actions/setup-go@v4
+        with:
+          go-version: 1.24.1
+
+      - name: Install Hugo
+        run: |
+          go install github.com/gohugoio/hugo@latest
+
+      - name: Install dependencies
+        run: |
+          hugo mod get
+          hugo mod tidy
+
+      - name: Build site
+        run: hugo --minify
+    
+      - name: Compress WASM file
+        run: |
+          WASM_FILE='public/js/hyphenopoly/patterns/en-gb.wasm'
+          gzip $WASM_FILE
+          GZIP_FILE='public/js/hyphenopoly/patterns/en-gb.wasm.gz'
+          mv $GZIP_FILE $WASM_FILE
+      
+      - name: Better-looking file names
+        run: |
+          find public/ -type f ! -iname 'index.html' ! -iname '404.html' -iname '*.html' -print0 | while read -d $'\0' f; do mv "$f" "${f%.html}"; done
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v3
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ap-south-1
+
+      - name: Sync to S3
+        run: |
+          aws s3 sync public/ s3://${{ secrets.BUCKET_NAME }} --delete --cache-control "max-age=31556952" --exclude "*" --include "js/hyphenopoly/patterns/en-gb.wasm" --content-encoding gzip --content-type application/wasm
+          aws s3 sync public/ s3://${{ secrets.BUCKET_NAME }} --delete --cache-control "max-age=31556952" --exclude "*" --include "css/*" --include "js/*" --exclude js/hyphenopoly/patterns/en-gb.wasm --include "fonts/*"
+          aws s3 sync public/ s3://${{ secrets.BUCKET_NAME }} --delete --exclude "css/*" --exclude "js/*" --exclude "fonts/*"
+
+      - name: Invalidate CloudFront cache
+        run: |
+          aws cloudfront create-invalidation \
+            --distribution-id ${{ secrets.CLOUDFRONT_DISTRIBUTION_ID }} \
+            --paths "/*"
