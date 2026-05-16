@@ -45,9 +45,10 @@ I can speak for my city: Bengaluru. We do not.
 
 The BMTC implemented UPI after quite a struggle, yet, the implementation of the National Common Mobility Card is still 'on the horizon'.[^2] It is a shame for the tech capital of India. Contrast this with Chennai, which implemented NCMC in their Metros much later, yet has already successfully rolled it out for city buses (MTC) and parking.[^3]
 
-Consider the NICE route in Bengaluru. I see hundreds of cars carrying one person each every day. How many buses run from my locality to my workplace? One or two per day. Between 7 and 8 am, and 5 and 6 pm.
+Consider the NICE route in Bengaluru. I see hundreds of cars carrying one person each every day. How many bus _trips_ run from my locality to my workplace? One or two per day. Between 7 and 8 am, and 5 and 6 pm.
 
 But here is the catch: *when do IT folks actually work?*
+
 People in my office log in between 10:30 and 12:30, and log out between 7:30 and 8:30. So whom are those buses for?
 
 Those lamenting that BMTC makes a loss year after year should remember that public transport is never meant for profit. They should, however, understand the real work timings of their target riders. Run air-conditioned buses during the hours IT professionals travel, and you will see thousands opt for them. One AC bus carrying sixty people is infinitely better than sixty AC cars carrying one person each.
@@ -62,17 +63,17 @@ Sure, I can live with 'Don't let the perfect be the enemy of good'. Use Indian t
 
 Mr Piyush Goyal recently smacked our start-ups on their heads at the _Startup Mahakumbh_, asking if we were happy being 'delivery boys and girls' while China surged ahead in deep tech. While his point on deep tech has merit, it would have been reasonable coming from a common citizen, not a government functionary—a minister no less.[^4]
 
-This echoes Ms Mamata Banerjee's protests after the R.G. Kar fiasco.
+This echoes Ms Mamata Banerjee's protests after the R.G. Kar fiasco.
 
 Who is responsible for creating policies for ease of doing business? Who creates the industrial policies? And what happened to *Make in India*?
 
-More importantly, *quality control*. Every other day, there is news about children dying from bad medicines or rampant adulteration in food. And the FSSAI is going around suing people who refer to them in satire.[^5] Talk about priorities!
+More importantly, *quality control*. Every other day, there is news about children dying from bad medicines, or about rampant adulteration in food, or heavy metals in water. And the FSSAI is going around suing people who refer to them in satire.[^5] Talk about priorities!
 
-On what grounds are you asking us to buy all-Indian goods when we cannot even ensure quality control in the most fundamental items like food and water?
+On what grounds are you asking us to buy all-Indian goods when we cannot even ensure quality control in the most fundamental items like food and water, Mr Prime Minister?
 
 *Patanjali* is a national favourite, the nationalist *desi* brand touting itself as the Indian alternative to everything in the FMCG category. How many of their products would *you* use, Mr Prime Minister---bought from common channels like an arbitrary *kirānā* store, not vetted by your functionaries?
 
-We want to be considered the leading tech exporter, but we cannot manufacture a mobile phone that does not have surveillance on it, or a laptop that does not crash within six months. We cannot make a single piece of consumer electronic equipment of value without Chinese involvement. We cannot even trust our BEML to build coaches for our Metro trains, we instead strike a multi-crore deal with the CRRC. Shame.[^6]
+We want to be considered the leading tech exporter, but we cannot manufacture a mobile phone that does not have surveillance on it, or a laptop that does not crash within six months. We cannot make a single piece of consumer electronic equipment of value without Chinese involvement. We cannot even trust our BEML to build coaches for our Metro trains, we instead strike a multi-crore deal with the CRRC. What a shame.[^6]
 
 How many Indian companies can make affordable electric cars? Do you know the cost of the cheapest Indian-made electric car? The Vayve Mobility Eva (a concept so far) sure starts at ₹3.25 lakh, but for a mainstream, reliable option, the price jumps significantly. How many can afford them?[^7]
 
