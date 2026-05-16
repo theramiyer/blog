@@ -1,6 +1,8 @@
 #!/bin/bash
 
 # Run with `aws-vault exec <profile> -- ./deploy.sh`
+# Example: `aws-vault exec hugo -- ./deploy.sh`
+# Local environment variables are loaded from `.envrc` (AWS_VAULT_PROFILE, S3_BUCKET, CLOUDFRONT_ID, AWS_DEFAULT_REGION).
 
 # Exit on error
 set -e
