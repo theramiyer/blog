@@ -1,6 +1,6 @@
 ---
 title: Why I Distrust Politicians
-subtitle: The latest case of misplaced priorities.
+subtitle: The latest case of rhetoric.
 date: 2026-05-13T22:48:21+05:30
 description: I have always held that politicians are untrustworthy. Prime Minister Modi's latest address adds another feather to that.
 tags:
@@ -21,21 +21,21 @@ Prime Minister Modi is absolutely right in saying that we must reduce our use o
 
 During the election season, the elders in my family—who are ardent supporters of the ruling party—kept telling me how great the government was. They pointed to social media feeds claiming India had achieved 'fuel security', asserting that unlike the rest of the world, we faced no shortages and were selling fuel at stable prices. The narrative was clear: the government had insulated us from the global energy crisis.
 
-Then came the elections. The party won in West Bengal, retained their power in Puducherry and Assam, and retained their vote share in Keralam. And suddenly, in May, the script flipped. We are now told to carpool, to drive less, to conserve.
+Then came the elections. The party won in West Bengal, retained their administration in Puducherry and Assam, and retained their vote share in Keralam. And suddenly, in May, the script flipped. We are now told to carpool, to drive less, to conserve.
 
 Here is the uncomfortable truth: the situation isn't much worse now than it was in February. Yet, the urgency only emerged post-victory. It suggests a calculated delay. Had this message been delivered in February, the 'stupid people'—the voters—might have voted against the party. Instead, the government ran a campaign on a false sense of security, using taxpayer money to pay ransoms to international suppliers to ensure fuel delivery, simply to avoid political embarrassment.
 
-Once the votes were secured, the responsibility was transferred back to us. *We* pay the taxes. *We* tolerate the incompetence. And now, *we* are told to take responsibility for national interest and energy security. Is this your idea of democracy? Where the *demo* does everything, and the *krati* (leadership) does nothing but claim credit?
+Once the votes were secured, the responsibility was transferred back to us. *We* pay the taxes. *We* tolerate the incompetence. And now, *we* are told to take responsibility for national interest and energy security. Is this our idea of democracy? Where the *demo* does everything, and the *krati* (leadership) does nothing but claim credit?
 
 ## On Commute: The Carpooling Paradox
 
-Let's look at the specifics of the speech. Mr Modi promoted carpooling. In a culture where a car is a status symbol and urban India has become increasingly car-forward, the idea is theoretically sound. It addresses last-mile connectivity and reduces the dust of single-occupancy vehicles.
+Let's look at the specifics of the speech. Mr Modi promoted carpooling. In a culture where a car is a status symbol and urban India has become increasingly car-forward, the idea is theoretically sound. It addresses last-mile connectivity and reduces exposure to the heat and pollution.
 
 But what is the legal reality on the ground?
 
 Not long ago, taxi and auto unions in Bengaluru sued carpooling services, arguing they threatened livelihoods. Bengaluru South MP, Tejasvi Surya, did chime in against the case, but the result was a stalemate. No policy change took place. The ambiguity remains.[^1]
 
-As a user of these services, I can tell you: people aren't opting for carpooling because the matching algorithms fail due to low adoption (people aren't using them because not enough people are using them). But why is adoption low? Because the legality is murky. The unions benefit from this ambiguity, but the average commuter? They just pick up their own vehicle. Ultimately, the only winners are the fuel stations—often owned by politicians or their aides.
+As a user of these services, I can tell you: people aren't opting for carpooling because the matching algorithms fail due to low adoption (people aren't using them because not enough people are using them). But why is adoption low? Because the legality is murky. The unions benefit a bit from this ambiguity, but the average commuter? They just pick up their own vehicle. Ultimately, the only winners are the fuel stations—often owned by politicians or their aides.
 
 ## Public Transport: A Tale of Two Cities
 
@@ -43,7 +43,7 @@ The speech also championed public transport. A noble sentiment. But how many cit
 
 I can speak for my city: Bengaluru. We do not.
 
-The BMTC implemented UPI after quite a struggle, yet it is still yet to implement the National Common Mobility Card (NCMC).[^2] It is a shame for the tech capital of India. Contrast this with Chennai, which implemented NCMC in their Metros much later, yet successfully rolled it out for city buses (MTC) and parking.[^3]
+The BMTC implemented UPI after quite a struggle, yet, the implementation of the National Common Mobility Card is still 'on the horizon'.[^2] It is a shame for the tech capital of India. Contrast this with Chennai, which implemented NCMC in their Metros much later, yet has already successfully rolled it out for city buses (MTC) and parking.[^3]
 
 Consider the NICE route in Bengaluru. I see hundreds of cars carrying one person each every day. How many buses run from my locality to my workplace? One or two per day. Between 7 and 8 am, and 5 and 6 pm.
 
@@ -62,7 +62,7 @@ Sure, I can live with 'Don't let the perfect be the enemy of good'. Use Indian t
 
 Mr Piyush Goyal recently smacked our start-ups on their heads at the _Startup Mahakumbh_, asking if we were happy being 'delivery boys and girls' while China surged ahead in deep tech. While his point on deep tech has merit, it would have been reasonable coming from a common citizen, not a government functionary—a minister no less.[^4]
 
-This echoes Ms Mamata Banerjee's protests after the R.G. Kar Hospital case.
+This echoes Ms Mamata Banerjee's protests after the R.G. Kar fiasco.
 
 Who is responsible for creating policies for ease of doing business? Who creates the industrial policies? And what happened to *Make in India*?
 
@@ -70,7 +70,7 @@ More importantly, *quality control*. Every other day, there is news about childr
 
 On what grounds are you asking us to buy all-Indian goods when we cannot even ensure quality control in the most fundamental items like food and water?
 
-*Patanjali* is a national favourite, the nationalist *desi* brand touting itself as the Indian alternative for everything in the FMCG category. How many of their products would *you* use, Mr Prime Minister---bought from common channels like that corner *kirānā* store, not vetted by your functionaries?
+*Patanjali* is a national favourite, the nationalist *desi* brand touting itself as the Indian alternative to everything in the FMCG category. How many of their products would *you* use, Mr Prime Minister---bought from common channels like an arbitrary *kirānā* store, not vetted by your functionaries?
 
 We want to be considered the leading tech exporter, but we cannot manufacture a mobile phone that does not have surveillance on it, or a laptop that does not crash within six months. We cannot make a single piece of consumer electronic equipment of value without Chinese involvement. We cannot even trust our BEML to build coaches for our Metro trains, we instead strike a multi-crore deal with the CRRC. Shame.[^6]
 
@@ -78,13 +78,13 @@ How many Indian companies can make affordable electric cars? Do you know the cos
 
 ## Gold: The Ultimate Trust Deficit
 
-It would be interesting to see how many of your ardent followers listen to you and stop buying gold for weddings. I am not a fan of the yellow metal, but one cannot deny that precious metals help offset inflation. They are among the best ways to protect your money from losing its value.
+It would be interesting to see how many of Mr Modi's ardent followers listen to him and stop buying gold for weddings. I am not a fan of the yellow metal, but one cannot deny that precious metals help offset inflation. They are among the best ways to protect your money from losing its value.
 
 And while the Rupee wanders and 'finds its way', people will accumulate more gold. People will offset our foreign reserves. Not because they do not care about the country, but because they do not trust our government to uphold the value of their money.
 
 ## Conclusion
 
-I am not anti-establishment. I believe in a democracy where accountability is non-negotiable. When the government creates a false sense of security to win an election, and then transfers the burden of national survival to the citizenry the moment the votes are counted, that is not leadership. That is mismanagement.
+I am not anti-establishment. I believe in a democracy where accountability is non-negotiable. When the government creates a false sense of security to win an election, and then transfers the burden of national survival to the citizenry the moment the votes are counted, that is not governance. That is mismanagement.
 
 We pay taxes. We expect competence. We demand that the lines of national interest are never crossed for political gain. Until then, the distrust remains justified.
 
