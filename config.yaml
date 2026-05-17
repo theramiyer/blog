@@ -15,7 +15,7 @@ params:
     url: https://ramiyer.me
     x: iamramiyer
     facebook: iamramiyer
-    razorpay: pl_G7QWxZCN9t3mZ1
+  # razorpay: pl_G7QWxZCN9t3mZ1
   description: For what it’s worth
   enableAutoAttribution: true
   enableDevanagari: true
