@@ -25,7 +25,7 @@ Then came the elections. The party won in West Bengal, retained their administra
 
 Here is the uncomfortable truth: the situation isn't much worse now than it was in February. Yet, the urgency only emerged post-victory. It suggests a calculated delay. Had this message been delivered in February, the 'stupid people'—the voters—might have voted against the party. Instead, the government ran a campaign on a false sense of security, using taxpayer money to pay ransoms to international suppliers to ensure fuel delivery, simply to avoid political embarrassment.
 
-Once the votes were secured, the responsibility was transferred back to us. *We* pay the taxes. *We* tolerate the incompetence. And now, *we* are told to take responsibility for national interest and energy security. Is this our idea of democracy? Where the *demo* does everything, and the *krati* (leadership) does nothing but claim credit?
+Once the votes were secured, the responsibility was transferred back to us. *We* pay the taxes. *We* tolerate the incompetence. And now, *we* are told to take responsibility for national interest and energy security. Is this our idea of democracy? Where the king (*demo*, the people) does everything, and the *sevaks* do nothing but claim credit?
 
 ## On Commute: The Carpooling Paradox
 
