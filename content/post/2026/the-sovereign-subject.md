@@ -26,9 +26,16 @@ Ancient Indian legal texts treated opposition to the king not as political disag
 > राज्ञः कोशापहर्तॄंश्च प्रतिकूलेषु च स्थितान् ।  
 > घातयेद् विविधैर् दण्डैर् अरीणाम् चोपजापकान् ॥
 
-Those who rob the royal treasury, those who persist in active opposition, and those who conspire with or instigate the king's enemies, shall be punished by the king using various forms of coercive penalty.
+Here is the simplified version in the Latin script for those who do not read Devanagari:
 
-Note the language: "प्रतिकूलेषु च स्थितान्" — those who stand in opposition, who remain counter to the ruler's position. This wasn't reserved for treasonous plots. It included sustained political dissent. The grammar treats opposition itself as a category alongside theft and espionage—all equally worthy of punishment.
+> rājñaḥ kośa apahartṝn ca pratikūleṣu ca sthitān |  
+> ghātayet vividhaiḥ daṇḍaiḥ arīṇāṃ ca upajāpakān ||
+
+Meaning:
+
+> Those who rob the royal treasury, those who persist in active opposition, and those who conspire with or instigate the king's enemies, shall be punished by the king using various forms of coercive penalty.
+
+Note the language: "प्रतिकूलेषु च स्थितान्"---those who stand in opposition, who remain counter to the ruler's position. This wasn't reserved for treasonous plots. It included sustained political dissent. The grammar treats opposition itself as a category alongside theft and espionage---all equally worthy of punishment.
 
 The _Manusmriti_ provided the legal enforcement apparatus. Chroniclers were court-appointed. History was written by those obligated to sing praises of kings and their rule. Dissent was dangerous. Praise was obligatory. What would you pick?
 
@@ -66,11 +73,11 @@ Once independent, the structure remained. The labels changed, not the incentives
 
 Kilhor also noted the social transformation that occurs upon induction: an IAS officer who travelled the country just a few days ago as an ordinary citizen now moves as a VIP, with red-beacon privileges, protocol vehicles, and armed escorts. A constable, who might have smacked them for not wearing a helmet yesterday, stands in attention and salutes today. The system doesn't just grant powers. It reshapes identities.
 
-This isn't conspiracy. This is an institutional architecture designed for control, not service. The 'collector _sahib_', the SP, the DGP were all colonial command roles built for rulers governing over subjects, not for public servants operating under sovereign citizens. The Constitution changed the theoretical apex of the pyramid. It did not restructure the pyramid itself.
+This isn't conspiracy. This is an institutional architecture designed for control, not service. The 'collector _saheb_', the SP, the DGP were all colonial command roles built for rulers governing over subjects, not for public servants operating under sovereign citizens. The Constitution changed the theoretical apex of the pyramid. It did not restructure the pyramid itself.
 
 The Supreme Court recognized this in _Prakash Singh v. Union of India (2006)_, directing structural reforms to insulate police from political interference. States largely ignored the judgment. The machinery continued running the same way it always had: answerable to the office-bearers, not the citizenry.
 
-Add to this the linguistic inertia. '_Sarkār_'. '_Ātchi_'. '_Prabhutvam_'. 'Ruling Party'. 'Regime'. Every one of these terms encodes a ruler-ruled relationship. When journalists refer to elected representatives as 'leaders' and governments as 'regimes', they are unconsciously reinforcing a hierarchy that the Constitution explicitly rejected. The word 'leader' implies someone who commands from above. A representative serves from among.
+Add to this the linguistic inertia. '_Sarkār_'. '_Ātchi_'. '_Prabhutvam_'. 'Ruling Party'. 'Regime'. Every one of these terms encodes a ruler-ruled relationship. When journalists refer to elected representatives as ‘leaders’ and governments as 'regimes', they are unconsciously reinforcing a hierarchy that the Constitution explicitly rejected. The word ‘leader’ implies someone who commands from above. A representative serves from among.
 
 Why, the title of a film, '_Jana Nāyakan_' a rather vulgar wordplay, demonstrates this issue: Jana Nāyakan means 'people's leader' (wrong); _Jananāyakam_ means leadership by the people (correct)---'democracy'.
 
@@ -84,16 +91,16 @@ Yesterday, _Cockroach Janata Party_ mobilized thousands of students across Delhi
 
 What happened next exposed the gap between constitutional promise and operational reality.
 
-The government did not negotiate with protesters (until much later, when a hurried ten-minute meeting was organized with Mr J.P. Nadda). It did not engage with the demands. Instead, authorities moved the fasting activist to hospital by force after a court order, citing medical concerns. Police used batons to disperse demonstrations attempting to march toward Parliament. Thousands were prevented from reaching the legislature.
+The government did not negotiate with protesters (until much later, when a hurried ten-minute meeting was organized with Mr J.P. Nadda---the Union Minister of Health and Family Welfare, and the Union Minister of Chemicals and Fertilizers; not the Prime Minister, not the Home Minister, not even the party president). It did not engage with the demands. Instead, authorities moved the fasting activist to hospital by force after a court order, citing medical concerns. Police used batons to disperse demonstrations attempting to march toward Parliament. Thousands were prevented from reaching the legislature.
 
 Observations emerged from the scene that raise troubling questions about accountability. Reports suggested that some paramilitary personnel deployed at the protest site wore uniforms without visible name tags. The implications are significant: if officials wear identifications that cannot be traced, accountability becomes impossible. The government gains plausible deniability: 'Those weren't our personnel.' Citizens harmed cannot file complaints against unknown officers. The chain of responsibility dissolves.
 
-Whether these reports are fully verified or remain under investigation is secondary. What matters is the pattern they point toward: When the state faces public dissent, it has grown comfortable ignoring peaceful protests and deploying force to suppress it. The accountability mechanisms---the courts, the press, the opposition---have proven inadequate to check this drift.
+Whether these reports are fully verified or remain under investigation is secondary. What matters is the pattern they point toward: The state has grown comfortable ignoring peaceful protests and deploying force to suppress public dissent. The accountability mechanisms---the courts, the press, the opposition---have proven inadequate to check this drift.
 
-This isn't speculation. This is the latest manifestation of a structural problem. The same colonial-era Police Act that legitimized suppression of subjects in 1861 still governs police organization in 2026. The same cultural conditioning that taught villagers to fold hands before District Magistrates still operates. And now, the same institutional architecture that extracted revenue and controlled information under the British continues to function; only now it shields elected representatives from the people who elected them.
+This isn't speculation. This is the latest manifestation of a structural problem. The same colonial-era Police Act that legitimized suppression of subjects in 1861 still governs police organization in 2026. The same cultural conditioning that taught villagers to fold hands before District Magistrates still operates. And now, the same institutional architecture that extracted revenue and controlled information under the British continues to function; only now it shields elected representatives from the people who elected them, effectively enabling them to behave as colonizers, rather than accountable public servants.
 
 ## Where This Leads
 
-The gap between constitutional design and operational reality is not subtle. It is measurable, structural, and perpetuated by both institutional architecture and cultural conditioning. The verse commanding punishment for _'those who persist in opposition'_ finds its modern echo in sedition laws, police violence, and the social sanctions faced by those who question power.
+The gap between constitutional design and operational reality is not subtle. It is measurable, structural, and perpetuated by both institutional architecture and cultural conditioning. The verse commanding punishment for _‘those who persist in opposition’_ finds its modern echo in sedition laws, police violence, and the social sanctions faced by those who question power.
 
-Next, we examine the accountability mechanisms that were supposed to close this gap. And why they don't work in practice.
+In the next article, we will examine the accountability mechanisms that were supposed to close this gap. And why they don't work in practice.
