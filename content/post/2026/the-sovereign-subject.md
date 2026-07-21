@@ -81,13 +81,13 @@ Add to this the linguistic inertia. '_Sarkār_'. '_Ātchi_'. '_Prabhutvam_'. 'Ru
 
 Why, the title of a film, '_Jana Nāyakan_' a rather vulgar wordplay, demonstrates this issue: Jana Nāyakan means 'people's leader' (wrong); _Jananāyakam_ means leadership by the people (correct)---'democracy'.
 
-Layered beneath this institutional inertia is something deeper: a cultural grammar of deference shaped over millennia. Caste stratification, feudal landlord-tenant dynamics, monarchical traditions, the guru-shishya parampara all encoded hierarchy into the civilizational DNA. The Constitution attempted a radical flattening. But a constitution can rewrite law overnight. It cannot rewrite cultural conditioning that took shape over thousands of years in the same stroke.
+Layered beneath this institutional inertia is something deeper: a cultural grammar of deference shaped over millennia. Caste stratification, feudal landlord-tenant dynamics, monarchical traditions, the [guru-shishya parampara]({{< ref "sexual-abuse-in-schools" >}}) all encoded hierarchy into the civilizational DNA. The Constitution attempted a radical flattening. But a constitution can rewrite law overnight. It cannot rewrite cultural conditioning that took shape over thousands of years in the same stroke.
 
 So when a District Magistrate visits a village, the residents stand up. They fold their hands. They call him '_saheb_' or 'sir'. And the DM, raised in the same cultural soil, accepts the deference instinctively. The Constitution says they are equals. The culture says they are not. On the ground, culture wins more often than the Constitution does.
 
 ## The Contemporary Test: What Happens When Accountability Fails
 
-Yesterday, _Cockroach Janata Party_ mobilized thousands of students across Delhi demanding the resignation of the Education Minister and reforms to the examination system following multiple paper-leak scandals. The movement centred on an indefinite hunger strike by activist Sonam Wangchuk, who fasted for more than 20 days.
+Yesterday, a political satire group mobilized thousands of students across Delhi demanding the resignation of the Education Minister and reforms to the examination system following multiple paper-leak scandals. The movement centred on an indefinite hunger strike by activist Sonam Wangchuk, who fasted for more than 20 days.
 
 What happened next exposed the gap between constitutional promise and operational reality.
 
