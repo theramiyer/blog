@@ -44,7 +44,7 @@ The President / Governor as nominal heads of state, acting on ministerial advic
 
 Accountability mechanisms were baked in: elections every five years, no-confidence motions, Right to Information, Public Interest Litigation, impeachment processes, Comptroller and Auditor General oversight, parliamentary committees.
 
-Fundamental rights are also guaranteed: equality before law (Article 14), free speech and association (Article 19), life and personal liberty (Article 21). The framers knew exactly what they were doing: flattening millennia of hierarchical conditioning in a single document.
+Fundamental rights were also guaranteed: equality before law (Article 14), free speech and association (Article 19), life and personal liberty (Article 21). The framers knew exactly what they were doing: flattening millennia of hierarchical conditioning in a single document.
 
 But design is not delivery. And the machinery inherited from colonial rule was never rebuilt to match this design.
 
