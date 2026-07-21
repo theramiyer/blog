@@ -40,7 +40,7 @@ The Preamble begins with three words: 'We, the People'. Not 'We, the Government'
 
 The framers established a clear hierarchy of authority:
 
-The President / Governor are nominal heads of state, acting on ministerial advice, representing the collective people. The MPs / MLAs are representatives, who are elected for fixed terms, removable by the electorate. The ministers were public _servants_, legally classified as such under statutes. The Judiciary comprises of independent arbiters, who owe duty to the Constitution. The police are law-enforcement officers, whose duty is to uphold law, and protect the public.
+The President / Governor as nominal heads of state, acting on ministerial advice, representing the collective people. The MPs / MLAs as representatives, who are elected for fixed terms, removable by the electorate. The ministers as public _servants_, legally classified as such under statutes. The Judiciary as independent arbiters, who owe duty to the Constitution. The police as law-enforcement officers, whose duty is to uphold law, and protect the public.
 
 Accountability mechanisms were baked in: elections every five years, no-confidence motions, Right to Information, Public Interest Litigation, impeachment processes, Comptroller and Auditor General oversight, parliamentary committees.
 
