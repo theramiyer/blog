@@ -84,7 +84,7 @@ Yesterday, _Cockroach Janata Party_ mobilized thousands of students across Delhi
 
 What happened next exposed the gap between constitutional promise and operational reality.
 
-The government did not negotiate with protesters (until much later, they organized a ten-minute meeting with Mr J.P. Nadda). It did not engage with the demands. Instead, authorities moved the fasting activist to hospital by force after a court order, citing medical concerns. Police used batons to disperse demonstrations attempting to march toward Parliament. Thousands were prevented from reaching the legislature.
+The government did not negotiate with protesters (until much later, when a hurried ten-minute meeting was organized with Mr J.P. Nadda). It did not engage with the demands. Instead, authorities moved the fasting activist to hospital by force after a court order, citing medical concerns. Police used batons to disperse demonstrations attempting to march toward Parliament. Thousands were prevented from reaching the legislature.
 
 Observations emerged from the scene that raise troubling questions about accountability. Reports suggested that some paramilitary personnel deployed at the protest site wore uniforms without visible name tags. The implications are significant: if officials wear identifications that cannot be traced, accountability becomes impossible. The government gains plausible deniability: 'Those weren't our personnel.' Citizens harmed cannot file complaints against unknown officers. The chain of responsibility dissolves.
 
