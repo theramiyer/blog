@@ -23,7 +23,7 @@ Before we examine what the Constitution promises, we must understand what it was
 
 Ancient Indian legal texts treated opposition to the king not as political disagreement, but as a punishable offence. A verse from the Dharmashastric tradition instructs:
 
-> राज्ञः कोशापहर्तॄंश्च प्रतिकूलेषु च स्स्थितान् ।  
+> राज्ञः कोशापहर्तॄंश्च प्रतिकूलेषु च स्थितान् ।  
 > घातयेद् विविधैर् दण्डैर् अरीणाम् चोपजापकान् ॥
 
 Those who rob the royal treasury, those who persist in active opposition, and those who conspire with or instigate the king's enemies, shall be punished by the king using various forms of coercive penalty.
