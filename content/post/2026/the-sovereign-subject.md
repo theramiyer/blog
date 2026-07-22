@@ -35,7 +35,7 @@ Meaning:
 
 > Those who rob the royal treasury, those who persist in active opposition, and those who conspire with or instigate the king's enemies, shall be punished by the king using various forms of coercive penalty.
 
-Note the language: "प्रतिकूलेषु च स्थितान्"---those who stand in opposition, who remain counter to the ruler's position. This wasn't reserved for treasonous plots. It included sustained political dissent. The grammar treats opposition itself as a category alongside theft and espionage---all equally worthy of punishment.
+Note the language: "pratikūleṣu ca sthitān"---those who stand in opposition, or those who remain counter to the ruler's position. This wasn't reserved for treasonous plots. It included sustained political dissent. The grammar treats opposition itself as a category alongside theft and espionage---all equally worthy of punishment.
 
 The _Manusmriti_ provided the legal enforcement apparatus. Chroniclers were court-appointed. History was written by those obligated to sing praises of kings and their rule. Dissent was dangerous. Praise was obligatory. What would you pick?
 
