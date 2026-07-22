@@ -19,6 +19,8 @@ India carries a civilizational inheritance spanning thousands of years---languag
 
 Yet the question persists: is India truly a democracy? Not in the procedural sense (elections happen, votes are counted, governments form). But in the substantive sense: _Do the people function as sovereign?_
 
+{{< apple >}}
+
 {{< podcast >}}
 
 The answer is uncomfortable. No democracy is perfect, but for one to function, the people---the _dēmos_---must hold the concept of their own supremacy at the core of their thinking. And here, we fail. Not because the Constitution is flawed, but because something far older than the Constitution still operates inside our minds.
