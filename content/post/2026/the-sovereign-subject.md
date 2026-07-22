@@ -3,6 +3,10 @@ title: The Sovereign Subject
 subtitle: "How Colonial Machinery and Ancient Conditioning Undermine Constitutional Democracy"
 date: 2026-07-21T22:16:32+05:30
 description: 
+episode:
+    apple:
+    amazon: 489d092c-4f9f-4f28-9707-bdd789c87315
+    spotify: 0seXT7gwLGnX4YEK99TW8W
 tags:
 - democracy
 - accountability
@@ -14,6 +18,8 @@ tags:
 India carries a civilizational inheritance spanning thousands of years---languages, philosophies, sciences, spiritual traditions, and systems of law that governed social conduct long before any modern constitution existed. Today, we are the world's largest democracy. By sheer scale and diversity, that alone is remarkable.
 
 Yet the question persists: is India truly a democracy? Not in the procedural sense (elections happen, votes are counted, governments form). But in the substantive sense: _Do the people function as sovereign?_
+
+{{< podcast >}}
 
 The answer is uncomfortable. No democracy is perfect, but for one to function, the people---the _dēmos_---must hold the concept of their own supremacy at the core of their thinking. And here, we fail. Not because the Constitution is flawed, but because something far older than the Constitution still operates inside our minds.
 
