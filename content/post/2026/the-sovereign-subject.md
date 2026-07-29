@@ -7,6 +7,7 @@ episode:
     apple: 1000777917637
     amazon: 489d092c-4f9f-4f28-9707-bdd789c87315
     spotify: 0seXT7gwLGnX4YEK99TW8W
+    amazon: 489d092c-4f9f-4f28-9707-bdd789c87315
 tags:
 - democracy
 - accountability
